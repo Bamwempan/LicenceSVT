@@ -44,6 +44,14 @@ $$max\ 2n^2 (électrons) \begin{cases}  n=1 \qquad couche\ K\\  n=2 \qquad couch
 
 ![Formes des orbitales](../.gitbook/assets/single_electron_orbitals-1.jpg)
 
+#### Règle de Klechkowski, Pauli, Hund.
+
+* Règle de Klechkowski, ou principe de stabilité : les Orbitales Atomiques sont remplie par ordre d'énergie croissante en commençant par l'OA de plus faible énergie \(1s\).
+* Principe de Pauli : dans une OA, seuls les électrons dont les spins sont antiparallèles peuvent être placés.
+* Principe de Hund : lorsqu'il existe plusieurs OA de même énergie \(p,d,...\), les électrons occupent le maximum d'OA et leurs spins sont parallèles.
+
+![R&#xE8;gle de hund pour l&apos;Azote, Oxyg&#xE8;ne, Fluor, N&#xE9;on.](../.gitbook/assets/guopmieislijgf2lwgge_cnx_chem_06_04_nofne_img.jpg)
+
 ### Ressource pour la chimie organique
 
 Les 4 atomes principaux du vivant sont, l'Oxygène, le Carbone, l'Hydrogène et l'Azote.
