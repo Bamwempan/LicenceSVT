@@ -6,11 +6,43 @@ description: UE Biomolécule
 
 ## Bien commencer
 
-### Atome et structure électronique
+### Atome
+
+Un atome est formé d'un noyau et d'un nuage électronique. Les nucléons protons et les neutrons composent le noyau, et les électrons gravitent autour du noyau.
 
 {% hint style="warning" %}
-Le nombre d’électron correspond au numéro atomique. Trouvable dans le tableau périodique.
+Le nombre d’électron correspond au numéro atomique. Trouvable dans le [tableau périodique.](https://kevinrousseau80.gitbook.io/licence-svt/biomolecule#ressources)
 {% endhint %}
+
+{% hint style="danger" %}
+La formation des **liaisons** et les p**ropriétés chimique** dépendent des **électrons** et plus précisément des électrons situés sur la "couche externe" dite **couche de valence**.
+{% endhint %}
+
+### Structure électronique
+
+La position des électrons est définie par une fonction d'onde Ψ. \(Psi\)  
+Ψ² représente la probabilité maximum de trouver l'electron considéré dans un certains volume de l'espace.  
+Ce volume est l'orbitale qui est caractérisée par une série de 3 nombre quantique : $$n$$ , $$l$$ , $$m_l$$ 
+
+1. Le nombre quantique principale, $$n$$ , caractérise la **taille** et l’**énergie de la couche** considérée et correspond à un **nombre entier**.
+2. Le nombre quantique secondaire ou azimutale, $$l$$ , caractérise la géométrie de l'orbitale et correspond à un entier allant de 0 à $$n^{-1}$$ \(  $$0 \leq l \leq n^{-1}$$ \).
+3. Le nombre quantique magnétique $$m_l$$, caractérise l'orientation prise par l'orbitale et correspond à un entier allant de $$-l \leq m_l \leq +l$$ 
+4. Le dernier nombre quantique est S \(spin\) qui détermine la rotation de l'électron
+
+#### Équation pour le nombre maximum d'électron par couche
+
+$$max\ 2n^2 (électrons) \begin{cases}  n=1 \qquad couche\ K\\  n=2 \qquad couche\ L\\  n=3 \qquad couche\ M\end {cases}$$ 
+
+#### Forme de l'orbitale de l'atome
+
+| Numéro azimutale | Forme de l'orbitale |
+| :--- | :--- |
+| $$l=0$$  | Orbitale s |
+| $$l=1 $$  | Orbitale p |
+| $$l=2$$  | Orbitale d |
+| $$l=3$$  | Orbitale l |
+
+![Formes des orbitales](../.gitbook/assets/single_electron_orbitals-1.jpg)
 
 ### Ressource pour la chimie organique
 
@@ -47,8 +79,10 @@ Une molécule est un ensemble d'atomes \(au moins deux\) identiques ou non, unis
 
 ### Information complémentaire
 
-{% hint style="danger" %}
+{% hint style="success" %}
 * Liaisons fragile double oxygène \( O - O \)
+* L'atome de Fluor est présent dans 30% des médicament
+* De l'atome de Lithium \(Li\) à l'atome de Francium \(Fr\) du groupe 1 du tableau périodiques, sont des métaux alcalins. Il réagissent fortement à l'eau.
 {% endhint %}
 
 ## Chimie Organique
