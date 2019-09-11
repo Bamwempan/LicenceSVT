@@ -4,6 +4,75 @@ description: Semestre Automne année 1
 
 # Biomolécule A
 
+## Hybridation des orbitale atomique
+
+{% hint style="danger" %}
+**Les liaisons** résultent de la mise en commun d'un doublet électronique entre deux atomes
+
+**Les orbitales hybrides** permettent de simuler la **déformation des orbitales atomiques.**
+
+C'est grâce à l'état excité de l'atome qui peut y avoir des orbitale hybride.
+{% endhint %}
+
+4 Orbitales atomiques contenant chacune 1 électron donne 3 possibilité de combinaisons.
+
+### Hybridation Sp3 $$Sp_3$$ \(Tétragonal\)
+
+{% hint style="danger" %}
+L'un des atomes utilisant cette hybridation est le $$Carbone \ Sp_3$$ \(Liaisons simple\)
+{% endhint %}
+
+$$1 \ OA_s+3 \ OA_p$$ --&gt; ![](../.gitbook/assets/hybridationsp3.jpg) 
+
+Les 4 orbitales hybride sont orientés suivant 4 directions d'un **tétraèdre régulier**.   
+Chaque orbitale hybride fait un angle de **109.28°** avec ses voisines et **contient 1 électron**.  
+Les 4 électrons seront engagés dans **4 liaisons** $$\sigma$$\(sigma\)\(Recouvrement axial\)
+
+![Forme de l&apos;hybridation SP3, t&#xE9;tragonal](../.gitbook/assets/tetragonal-sp3.png)
+
+### Hybridation Sp2 $$Sp_2$$ \(Trigonal\)
+
+{% hint style="danger" %}
+L'un des atomes utilisant cette hybridation est le $$Carbone \ Sp_2$$ 
+{% endhint %}
+
+$$3Oh \ sp_2 + 1 \ OA \quad libre \ \pi$$ --&gt; ![](../.gitbook/assets/hybridationsp2.jpg) 
+
+![C2H4](../.gitbook/assets/c2-orbital-hybridh.png)
+
+![Orbitale hybride trigonal](../.gitbook/assets/trigonal.png)
+
+### Hybridation Sp $$Sp$$
+
+$$1 \ OA_s + 1\ OA_p$$ --&gt; ![](../.gitbook/assets/hybridation-sp.jpg) 
+
+2 orbitales p "pures" **orthogonales** aux 2 orbitales Hybrides
+
+![Formule C2H2](../.gitbook/assets/c2h2-formules.png)
+
+![Orbitale hybrid de la mol&#xE9;cule C2H2](../.gitbook/assets/c2h2-hybridation.jpg)
+
+![Hybridation lin&#xE9;aire](../.gitbook/assets/hybridation-lineaire.png)
+
+### Etat fondamentale et excité de l'azote et de l'oxygène
+
+{% hint style="info" %}
+Liaison orbitale atomique "classique" est nommé $$\sigma$$ \(sigma\)
+
+Liaison orbitale hybride est nommé $$\pi$$ \(pi\)
+{% endhint %}
+
+#### Azote
+
+* Hybridation sp3
+* Hybridation sp2 
+* Hybridation sp
+
+#### Oxygène
+
+* Hybridation sp3
+* Hybridation sp2
+
 ## Couche de valence des atomes principaux de la chimie organique
 
 * [ ] Faire un tableau périodique des principaux éléments de la chimie organique avec leurs électrons de valence
