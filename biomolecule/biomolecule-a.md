@@ -19,8 +19,12 @@ C'est grâce à l'état excité de l'atome qui peut y avoir des orbitale hybride
 ### Hybridation Sp3 $$Sp_3$$ \(Tétragonal\)
 
 {% hint style="danger" %}
-L'un des atomes utilisant cette hybridation est le $$Carbone \ Sp_3$$ \(Liaisons simple\)
+Qui est constitué que de liaisons simple.
 {% endhint %}
+
+![Hybridation Sp3 pour l&apos;atome d&apos;Azote, de Carbone et d&apos;Oxyg&#xE8;ne.](../.gitbook/assets/moleculesp3.jpg)
+
+#### Exemple pour le carbone Sp3
 
 $$1 \ OA_s+3 \ OA_p$$ --&gt; ![](../.gitbook/assets/hybridationsp3.jpg) 
 
@@ -33,16 +37,22 @@ Les 4 électrons seront engagés dans **4 liaisons** $$\sigma$$\(sigma\)\(Recouv
 ### Hybridation Sp2 $$Sp_2$$ \(Trigonal\)
 
 {% hint style="danger" %}
-L'un des atomes utilisant cette hybridation est le $$Carbone \ Sp_2$$ 
+Une hybridation Sp2 est constitué d'au moins une liaison double 
 {% endhint %}
+
+![Hybridation Sp2 pour l&apos;atome d&apos;Oxyg&#xE8;ne de Carbone et D&apos;Azote](../.gitbook/assets/hybridationsp2.png)
 
 $$3Oh \ sp_2 + 1 \ OA \quad libre \ \pi$$ --&gt; ![](../.gitbook/assets/hybridationsp2.jpg) 
 
-![C2H4](../.gitbook/assets/c2-orbital-hybridh.png)
+![Forme de l&apos;orbitale pour une hybridation Sp2 / Hybridation Sp2 avec la mol&#xE9;cule C2H4](../.gitbook/assets/sans-titre.jpg)
 
-![Orbitale hybride trigonal](../.gitbook/assets/trigonal.png)
+### Hybridation Sp $$Sp$$ \(Linéaire\)
 
-### Hybridation Sp $$Sp$$
+{% hint style="danger" %}
+Qui est constitué d'une liaison triple
+{% endhint %}
+
+![Hybridation Sp pour la mol&#xE9;cule de Carbone et d&apos;Azote](../.gitbook/assets/moleculesp.jpg)
 
 $$1 \ OA_s + 1\ OA_p$$ --&gt; ![](../.gitbook/assets/hybridation-sp.jpg) 
 
@@ -64,18 +74,16 @@ Liaison orbitale hybride est nommé $$\pi$$ \(pi\)
 
 #### Azote
 
-* Hybridation sp3
-* Hybridation sp2 
-* Hybridation sp
+* Hybridation sp3 \(3 Liaisons simples\)
+* Hybridation sp2 \(1 Liaison double\)
+* Hybridation sp \(1 Liaison triple\)
 
 #### Oxygène
 
-* Hybridation sp3
-* Hybridation sp2
+* Hybridation sp3 \(2 Liaison Simples\)
+* Hybridation sp2 \(1 Liaison double\)
 
 ## Couche de valence des atomes principaux de la chimie organique
-
-* [ ] Faire un tableau périodique des principaux éléments de la chimie organique avec leurs électrons de valence
 
 {% hint style="danger" %}
 Le nombre d'électrons de valence correspond au nombre d'électrons disponible sur la couche externe de l'atome
@@ -128,6 +136,14 @@ _**Règles de l'octet :**_ Tous les autres atomes se lient entre eux de manière
 On priorise le carbone et l'hydrogène, et ensuite par ordre alphabétique
 
 $$C_n H_x$$ 
+
+## Nomenclature
+
+### Hydrocarbure
+
+* Alcane    --&gt; $$C_nH_{2n+2}$$ 
+* Alcènes  --&gt; $$C_nH_{2n}$$ 
+* Alcyne    --&gt; $$C_nH_{2n-2}$$ 
 
 
 
