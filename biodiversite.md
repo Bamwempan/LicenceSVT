@@ -68,9 +68,13 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 4. Gymnosperme \(Pin, Sapin\)
 5. Angiosperme \(Plantes à fleurs\)
 
+![Ordre d&apos;apparitions des v&#xE9;g&#xE9;taux sur terre](.gitbook/assets/vegetaux-simplifie.jpg)
+
 {% hint style="warning" %}
 Le groupe des angiosperme est le dernier à être arriver sur terre est donc **le plus complexe**, de ce fait il s'est mieux **adapté à son environnement**, les angiospermes représentent environ **95%** des végétaux terrestre.
 {% endhint %}
+
+![Grand groupe de v&#xE9;g&#xE9;taux](.gitbook/assets/abre-phyloginetique.jpg)
 
 ## Définitions
 
