@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Accueil](README.md)
 * [Biomolécule](biomolecule/README.md)
   * [Biomolécule A](biomolecule/biomolecule-a.md)
 * [Biodiversité](biodiversite.md)

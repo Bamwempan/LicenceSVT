@@ -19,7 +19,21 @@ Il existe 3 niveaux d’échelle de diversité
 2. Diversité spécifique
 3. Diversité écosystémique
 
+![Biodiversit&#xE9;](.gitbook/assets/biodiversite.png)
+
 ## Biodiversité Animale
+
+### Prairie
+
+![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;prairie&quot;](.gitbook/assets/taxonomie.jpg)
+
+### Aquatique
+
+![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;Etang&quot;](.gitbook/assets/taxonomieaquatiqueetang.jpg)
+
+### Foret
+
+![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;For&#xEA;t&quot;](.gitbook/assets/taxonomieforet.jpg)
 
 ## Biodiversité Végétale
 
@@ -75,6 +89,38 @@ Le groupe des angiosperme est le dernier à être arriver sur terre est donc **l
 {% endhint %}
 
 ![Grand groupe de v&#xE9;g&#xE9;taux](.gitbook/assets/abre-phyloginetique.jpg)
+
+### Focus sur les angiosperme
+
+#### Feuille
+
+{% hint style="info" %}
+#### **Définition**
+
+**Feuille :** Organe aplati, généralement de couleur verte, qui assure l'essentiel de la photosynthèse et les échange d'eau et de gaz avec l'atmosphère.  
+  
+**Limbe :** Partie élargie et aplatie de la feuille qui assure la photosynthèse.
+
+**Marge :** La marge est le contour du limbe.
+
+**Nervure :** Ligne saillante formée par les faisceaux conducteurs de la feuille.
+
+**Pétiole :** Structure de petite dimension, à symétrie bilatérale, **reliant le limbe** de la feuille à la **tige** qui convient les **vaisseaux conducteurs de sève.**
+
+**Bourgeon :** Structure constituée par de très jeunes feuilles \(Bourgeon foliaire\) ou de très jeunes fleurs \(Bourgeon florale\) situé sur un axe relativement court, terminé par un méristème apical caulinaire, et protégé par des feuilles modifiées, les écailles.
+
+**Tige :** Organe généralement aérien, plus ou moins dressé et ramifié, sur lequel se développent des bourgeons qui se différencient soit en feuilles, soit en fleurs, soit en axes secondaires \(rameaux\) qui, à leur tour, portent des feuilles ou des fleurs.
+{% endhint %}
+
+{% hint style="warning" %}
+Une feuille simple est bien différente qu'une feuille composée.  
+Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de cette dernière.
+{% endhint %}
+
+* Marge du limbe : Entière / Dentée / Lobée
+* Nervure : Pénée / Palmée / Parallèle.
+
+![Composition d&apos;une feuille.](.gitbook/assets/tp+salle+etang+fascicule.jpg)
 
 ## Définitions
 
