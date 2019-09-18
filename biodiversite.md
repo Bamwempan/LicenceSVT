@@ -289,7 +289,10 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 {% endtab %}
 
 {% tab title="Bouquin à acheter" %}
-* 
+* [Biologie de Neil Campbell](https://www.decitre.fr/livres/biologie-9782761350655.html)
+* [Classification du viant de Guillaume Lecointre Tome 1](https://www.decitre.fr/livres/classification-phylogenetique-du-vivant-9782701182940.html)
+* [Classification du viant de Guillaume Lecointre Tome 2](https://www.decitre.fr/livres/classification-phylogenetique-du-vivant-9782410003857.html)
+* [L'origine des espèces Charles Darwin](https://www.decitre.fr/livres/l-origine-des-especes-9782081221079.html)
 {% endtab %}
 {% endtabs %}
 
