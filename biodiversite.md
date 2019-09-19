@@ -168,19 +168,25 @@ Les eucaryote au cours de leurs vie sont forcément en mouvement, soit de maniè
 
 ### Résultat du TP "Etang"
 
-### Prairie
+#### Prairie
 
 ![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;prairie&quot;](.gitbook/assets/taxonomie.jpg)
 
-### Aquatique
+#### Aquatique
 
 ![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;Etang&quot;](.gitbook/assets/taxonomieaquatiqueetang.jpg)
 
-### Foret
+#### Foret
 
 ![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;For&#xEA;t&quot;](.gitbook/assets/taxonomieforet.jpg)
 
 ## Biodiversité Végétale
+
+#### Application de la biodiversité végétal 
+
+La biodiversité végétale permet notamment de comprendre le fonctionnement et l'évolution des plantes, les protéger lors de construction, pour les utilisée dans le système économique et social, et de comprendre les différent services systémique.
+
+Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histologie végétale, Morphologie végétale, Taxinomie et Systématique \(Classement des végétaux\)**, ****biogéographie végétale.
 
 ### Définitions
 
@@ -234,6 +240,117 @@ Le groupe des angiosperme est le dernier à être arriver sur terre est donc **l
 {% endhint %}
 
 ![Grand groupe de v&#xE9;g&#xE9;taux](.gitbook/assets/abre-phyloginetique.jpg)
+
+### Qu'est ce qu'un végétal ?
+
+#### Construction des cellules végétales
+
+{% hint style="success" %}
+Les parties importante d'une cellule végétales sont le noyaux et les organites listées ci-dessous
+
+* **Noyaux** \(Entouré d'une enveloppe nucléaire\)
+* **Cytoplasme** \(Contient de l'eau et des ions\)
+* **Membrane plasmique** \(Délimite le cytoplasme\)
+* **Mitochondrie** \(Respiration, produit du $$H_2O_2$$ toxique pour la plante\)
+* **Réticulum endoplasmique** \(Produit des lipide et protéine\)
+* **Appareil de Golgi** \(Réservoir de protéine\)
+* **Péroxysome** \(Dégrade le $$H_2O_2$$ en $$H_2O$$ et $$O_2$$ \)
+* **Ribosome** \(Fabrique des protéine\)
+{% endhint %}
+
+![Composition d&apos;une cellule v&#xE9;g&#xE9;tale](.gitbook/assets/hd_la_cellule_vegetale_07_13.jpg)
+
+#### Caractéristiques principales d'un végétal
+
+{% hint style="warning" %}
+* **Cellule Eucaryote**
+* **Photosynthèse oxygénique**
+* **Autotrophe** pour le **carbone**
+* Métabolisme secondaires
+* **Paroi, Plaste, Vacuole** au niveau de la cellule végétale.
+* La taille des cellules allant de $$30\mu m \ à \ 120\mu m$$ 
+{% endhint %}
+
+#### Comment fonctionne la photosynthèse
+
+Les chlorophylles dans les chloroplastes permettent la photosynthèse grâce à l’énergie solaire.
+
+![&#xC9;quation simple de la photosynth&#xE8;se](.gitbook/assets/photosynthesis_equation_fr.svg.png)
+
+#### Métabolite secondaire
+
+En plus des **métabolites primaires** \(ADN, ARN, lipide, glucides etc etc\) les végétaux peuvent produire des métabolites secondaire pour se **protéger** \(Odeur, Gout\) ou pour la **dissémination des graines** et du pollen \(Couleur\)
+
+#### Les différentes fonctions des plastes
+
+Une cellules végétales peut avoir plusieurs plastes différentes
+
+{% hint style="success" %}
+**Chloroplaste :** Permet la photosynthèse, Synthèse acide gras, fixation carbone, azote et souffre  
+**Chromoplaste :** Permet l'attraction des pollinisateurs et dissémilateurs de graine grâce au changement de couleur  
+**Amyloplastes :** Sert de réserve et de géo-perception \(Permet au racine de pousser vers le bas\)
+{% endhint %}
+
+#### La vacuole
+
+La vacuoles est délimitée par un tonoplaste. La vacuole à plusieurs rôle au sein de la cellule
+
+{% hint style="success" %}
+* Stockage d'eau et de nutriments de manière transitoire
+* Croissance
+* Soutient \(par pression et turgescence\)
+* Élimination des déchets et éléments toxiques de la plante
+* Défense et attraction avec la production de pigments, tanin et autre molécules
+{% endhint %}
+
+#### Parois
+
+Il existe deux types de parois pour les cellules végétales, paroi primaire et secondaire.  
+La communication entre les cellules se fait par les petites perforations au niveaux des parois qu'on appelle **plasmodesme,** qui permet de communiquer de **cytoplasme** d'une cellule à une autre, si il y a un groupe de plasmodesme alors on est en présence d'une **ponctuation.**
+
+{% hint style="info" %}
+**Symplasme :** Ensemble des **cytoplasmes** communiquant par le biais de **plasmodesmes**
+
+**Apoplasme :** Ensemble des parois des cellules et des espaces de vide \(Cellules mortes + parois\)
+{% endhint %}
+
+La paroi primaire contient différents éléments important utiles pour la plantes
+
+* Eau à 60 - 70%
+* Micro-fibrilles de cellulose
+* Hémicellulose
+* Pectines
+* Protéines
+* Enzymes
+* Calcium \(0.5% - 1%\)
+
+La paroi secondaire sert notamment de soutient pour le végétal, majoritairement constitué de cellulose et d'eau, elle se dépose ultérieurement sur la paroi primaire, elle est toujours constitué de 3 couches.
+
+Les parois des cellules végétales ont différentes spécialisation, mais ne sont pas obligatoirement présente sous cette forme.  
+**Lignification :** Incrustation **lignine** \(Hydrophobe, insoluble\), cela entraîne la **mort de la cellule**, **Tissus type Xylène et Sclérenchyme  
+  
+Subérification :** Incrustation subérine \(lipide\), forme le **suber** \(Liège, écorce\)  
+  
+**Cutinisation :** Dépôt de cires \(Epiderme\)
+
+#### Pour conclure
+
+Les végétaux comprend **toutes les algues**, qui produisent de la **chlorophylle a , a/b, a/c** et divers pigments ainsi que que les plantes **embryophytes**, qui produisent de la **chlorophylle a/b**.  
+En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algues** et tous les **embryophytes** 
+
+### La lignée verte, les grands groupes des végétaux
+
+#### Arbre phylogénique des différents groupe de la lignée verte
+
+![Premi&#xE8;re partie de la lign&#xE9;e Verte](.gitbook/assets/capture-du-2019-09-19-18-08-29.png)
+
+![Deuxi&#xE8;me partie](.gitbook/assets/capture-du-2019-09-19-18-13-13.png)
+
+![3e et derni&#xE8;re partie](.gitbook/assets/capture-du-2019-09-19-18-16-27.png)
+
+![Arbre phylog&#xE9;n&#xE9;tique lign&#xE9;e verte complet](.gitbook/assets/arbre-phylogenetique-lignee-verte.jpg)
+
+{% file src=".gitbook/assets/arbre-phylogenetique-lignee-verte \(1\).jpg" %}
 
 ### Focus sur les angiosperme
 
