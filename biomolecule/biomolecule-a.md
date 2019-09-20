@@ -137,6 +137,47 @@ On priorise le carbone et l'hydrogène, et ensuite par ordre alphabétique
 
 $$C_n H_x$$ 
 
+## Théorie de VSEPR
+
+L’écriture de VSEPR consiste à étudier la géométrie d'un atome A en regardant le nombre d'atome X ou de doublet non liant E qui l'entoure.  
+La formule s'écrit donc $$AX_nE_m$$ 
+
+{% hint style="info" %}
+Il existe 3 principales géométries en chimie organique
+
+* $$AX_4$$ \(Tétraédrique / Trigonal\)
+* $$AX_3$$ \(Trigonale / Plane\)
+* $$AX_2$$ \(Diagonale / linéaire\)
+{% endhint %}
+
+![3 G&#xE9;om&#xE9;trie du carbone](../.gitbook/assets/capture-du-2019-09-20-14-57-09.png)
+
+### Tableau récapitulatif des forme géométrique
+
+![Tableau r&#xE9;capitulatif des formes g&#xE9;om&#xE9;trique de la th&#xE9;orie de VESPR](../.gitbook/assets/capture-du-2019-09-20-14-58-09.png)
+
+## Représentation plane et fonction
+
+Les formules moléculaires peuvent s'écrire de différentes manières, développé, semi-développé et topologique. Pour des raison de simplicité et de cohérence géométrique.
+
+**Développé :** ![](../.gitbook/assets/buthane.png) 
+
+**Semi-développé :** $$H_3C-CH_2-CH_2-CH_3$$ 
+
+**Topologique :** ![](../.gitbook/assets/butane_simple.svg.png) 
+
+{% hint style="danger" %}
+Atome autre que le Carbone on précise l'hydrogène
+{% endhint %}
+
+Butane - 1 - ol : ![](../.gitbook/assets/butan-1-ol-2d-skeletal.png) 
+
+{% hint style="danger" %}
+Triple liaison carbone, il n'y à pas d'hydrogène
+{% endhint %}
+
+![C4H6](../.gitbook/assets/2-pentyne.jpg)
+
 ## Nomenclature
 
 ### Hydrocarbure
