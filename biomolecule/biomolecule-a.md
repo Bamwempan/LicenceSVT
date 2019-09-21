@@ -94,7 +94,7 @@ Le nombre d'électrons de valence correspond au nombre d'électrons disponible s
 | Atome | Nb d'électrons  de valences | Valence + Doublet non liant | Forme des liaisons |
 | :--- | :---: | :--- | :---: |
 | H | $$1e^-$$  | Valence 1 |  ![](../.gitbook/assets/hydrogenevalence-l.jpg)  |
-| C | $$4e^-$$  | Valence 4 | ![](../.gitbook/assets/carbonvalence.jpg)  |
+| C | $$4e^-$$  | Valence 4 | ![](../.gitbook/assets/carbonvalence%20%281%29.jpg)  |
 | N | $$5e^-$$  | Valence 3 + 1 Doublet  non liant | ![](../.gitbook/assets/azotevalence.jpg)  |
 | O | $$6e^-$$  | Valence 2 + 2 Doublet  non liant | ![](../.gitbook/assets/oxygenevalence.jpg)  |
 | F \(Cl , Br, I\) | $$7e^-$$  | Valence 1 + 3 Doublet  non liant | ![](../.gitbook/assets/bromevalence.jpg)  |
