@@ -2,7 +2,7 @@
 description: Semestre Automne année 1
 ---
 
-# Evolution et Cartographie
+# Cartographie
 
 ## Localisation sur une carte topographique
 
