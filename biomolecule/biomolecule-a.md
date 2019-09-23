@@ -19,6 +19,8 @@ C'est grâce à l'état excité de l'atome qui peut y avoir des orbitale hybride
 ### Hybridation Sp3 $$Sp_3$$ \(Tétragonal\)
 
 {% hint style="danger" %}
+$$Csp_3$$ = 4 liaisons simples $$\sigma$$ 
+
 Qui est constitué que de liaisons simple.
 {% endhint %}
 
@@ -37,6 +39,8 @@ Les 4 électrons seront engagés dans **4 liaisons** $$\sigma$$\(sigma\)\(Recouv
 ### Hybridation Sp2 $$Sp_2$$ \(Trigonal\)
 
 {% hint style="danger" %}
+$$Csp_2$$ = 3 Liaisons $$\sigma$$ et une liaison $$\pi$$ 
+
 Une hybridation Sp2 est constitué d'au moins une liaison double 
 {% endhint %}
 
@@ -49,6 +53,8 @@ $$3Oh \ sp_2 + 1 \ OA \quad libre \ \pi$$ --&gt; ![](../.gitbook/assets/hybridat
 ### Hybridation Sp $$Sp$$ \(Linéaire\)
 
 {% hint style="danger" %}
+$$Csp_2$$ =  2 Liaisons $$\sigma$$ et 2 liaisons $$\pi$$ 
+
 Qui est constitué d'une liaison triple
 {% endhint %}
 
@@ -156,7 +162,7 @@ Il existe 3 principales géométries en chimie organique
 
 ![Tableau r&#xE9;capitulatif des formes g&#xE9;om&#xE9;trique de la th&#xE9;orie de VESPR](../.gitbook/assets/capture-du-2019-09-20-14-58-09.png)
 
-## Représentation plane et fonction
+## Représentation plane \(Topologique\)
 
 Les formules moléculaires peuvent s'écrire de différentes manières, développé, semi-développé et topologique. Pour des raison de simplicité et de cohérence géométrique.
 
@@ -178,13 +184,53 @@ Triple liaison carbone, il n'y à pas d'hydrogène
 
 ![C4H6](../.gitbook/assets/2-pentyne.jpg)
 
-## Nomenclature
+{% hint style="success" %}
+#### Tips
+
+Si il y a un nombre impaire d'atome d'azote \(N\) alors il y aura un nombre impaire d'atome d'hydrogène \(H\)
+{% endhint %}
+
+## Fonctions moléculaire
+
+![Liste des principales fonctions mol&#xE9;culaire de Chimie organique](../.gitbook/assets/fonction-moleculaire.png)
 
 ### Hydrocarbure
+
+Une molécule de formule brut $$C_nH_m$$ sera appelée hydrocarbure saturé si $$m = 2n+2$$ et insaturé ou cyclique si $$m < 2n+2$$ 
+
+{% hint style="info" %}
+Catégorie de molécules organique formée exclusivement de carbone et d'hydrogène qui constitue l'essentiel des combustibles fossiles.
+{% endhint %}
 
 * Alcane    --&gt; $$C_nH_{2n+2}$$ 
 * Alcènes  --&gt; $$C_nH_{2n}$$ 
 * Alcyne    --&gt; $$C_nH_{2n-2}$$ 
+
+Il est possible de calculer le nombre d'insaturation et/ou Cycle d'une molécule d'hydrocarbure.  
+Avec la formule qui utilise ces atomes $$C_x \ H_y \ N_z \ X_u$$ \(X correspond au Fluor, Chlore, Brome et Iode\)
+
+On recherche donc le nombre n d'insaturation et/ou cycle
+
+$$
+n=x-\frac{y}{2}+\frac{z}{2}-\frac{u}{4}+1
+$$
+
+{% hint style="success" %}
+#### Exemple
+
+Si le nombre n est 2 il y a 4 possibilités de liaison/cycle
+
+* 2 liaisons double
+* 1 liaison triple
+* 1 liaison double et 1 cycle
+* 2 cycles
+
+Une liaison double correspond à $$n=1$$ et une liaison triple à $$n = 2$$ 
+{% endhint %}
+
+## Nomenclature
+
+### Hydrocarbure
 
 
 
