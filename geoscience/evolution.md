@@ -98,3 +98,24 @@ Puis il évoque pour la première le fait que tous **organisme vivant** à un **
 
 ### Sélection naturelle
 
+{% hint style="warning" %}
+* Sans limitation, une population s'accrois de façon exponentielle
+* Les ressources du milieu de vie limitent l’excédant des populations
+* Il y présence de compétition entres les individus d'une espèce et entre les espèces
+* Seul les plus aptes à utiliser les ressources d'un milieu donné pourront survivre et se reproduire
+{% endhint %}
+
+#### Exemple Girafe
+
+Nourriture plus rare donc il faut être plus grand pour avoir accès à plus de ressources. Les plus grands individus survivent donc plus longtemps et peuvent se reproduire et ainsi transmettre leur caractère de taille a la descendance.
+
+{% hint style="success" %}
+Il y a donc **sélection** des plus grand individus  
+**Tendance évolutive, graduelle**
+{% endhint %}
+
+#### Exemple papillon
+
+En 1848 la forme pâle de ces papillons correspond à 98% des individus de l'espèces, cette couleur leur permet de se faire moins attraper par les prédateur, car l'écorce des boulots est blanche.  
+Après 1848 et la révolution industrielle, le charbon est utilisé en grande quantité et laisse une grande quantité de particule noir dans l'environnement, la mélanique des papillons croit de manière exponentielle durant cette période.
+
