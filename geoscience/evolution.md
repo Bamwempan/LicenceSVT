@@ -34,12 +34,12 @@ Denis diderot, Erasmus Darwin, Jean et Pierre lois Morreaux, parlent d'évolutio
 
 #### Moitié 19é siècle marque les esprit
 
-### Jean Baptiste Lamarck \(1744 - 1829\)
+## Jean Baptiste Lamarck \(1744 - 1829\)
 
 Naturaliste Français il exprime la **théorie transformiste,** publié dans philosophie Zoologique en 1809  
 Il est aussi le créateur du mot **Biologie**, expliqué dans son livre "Histoire Naturelle"
 
-#### La théorie transformiste à 4 grand principes
+### La théorie transformiste à 4 grand principes
 
 {% hint style="warning" %}
 * Adaptation des êtres vivants à leur milieu, il n'y à **pas d'extinctions, pas de bifurcation, les espèces se transforment**
@@ -57,4 +57,44 @@ Il émet donc que l’évolution à pour but de se perfectionner, or l'évolutio
 #### Accueil et critique
 
 La théorie n'est pas accepté par les religieux
+
+## Charles Darwin
+
+Charles Darwin est un naturaliste anglais \(1809 - 1882\) qui à proposé la **théorie de l’évolution** au monde scientifique dans son livre **"L'origine des espèces" en 1859**.
+
+C'est en **1831** que l'histoire commence durant un voyage en bateau autour de l’Amérique du sud et des **Îles Galápagos**.  
+**Constituées de 45 îles**, datant de 0.7 à 5 millions d'années et se situant à environ **1000Km de l'Amérique**.  
+L'inspiration de Darwin pour l’évolution des espèces viens du fait que sur ces îles, il existent des créature qui ne vivent nul part ailleurs en voici une liste.
+
+* Tortue géante
+* Iguane marin
+* Pinson des Galápagos
+
+{% hint style="info" %}
+Son interrogation vient principalement des **pinsons**, qui sur ces îles, on une diversité hors du commun, avec une **grande différences des types de becs, de nutrition.**
+
+Il émet une **hypothèse** que **l’ancêtre commun** de ces différent pinsons est un **pinson d’Amérique.**
+
+La multitudes de différences serai du au **manque de concurrence** sur les îles.  
+{% endhint %}
+
+![Diversit&#xE9; des pinsons des &#xEE;les des Gal&#xE1;pagos](../.gitbook/assets/pinsons+des+galapagos+-pinsons+de+darwin.jpg)
+
+{% hint style="info" %}
+Il s’intéresse ensuite à la **sélection artificiel**, avec le tri orienté, notamment dans **l'agriculture et l'élevage canin.**
+
+Puis il évoque pour la première le fait que tous **organisme vivant** à un **ancêtre commun**.
+{% endhint %}
+
+### Principe de base du Darwinisme
+
+{% hint style="warning" %}
+* **Organisme** qui se **ressemblent** ont un **ancêtre commun**
+* Il y a une grande **variabilité au seins des espèces**
+* Les **caractères** acquis sont **héréditairement transmis au descendant**
+* Le **moteur principale** de l'évolution est la _**sélection naturelle**_
+* Un rôle complémentaire du à la **sélection sexuelle**
+{% endhint %}
+
+### Sélection naturelle
 

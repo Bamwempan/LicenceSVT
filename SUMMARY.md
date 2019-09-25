@@ -8,6 +8,6 @@
   * [Biodiversité Animal](biodiversite/biodiversite-animal.md)
 * [Géoscience](geoscience/README.md)
   * [Cartographie](geoscience/evolution-et-cartographie.md)
-* [Evolution](evolution.md)
+  * [Evolution](geoscience/evolution.md)
 * [Transversale](transversale.md)
 
