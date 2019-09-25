@@ -84,12 +84,15 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 * **Péroxysome** \(Dégrade le $$H_2O_2$$ en $$H_2O$$ et $$O_2$$ \)
 * **Ribosome** \(Fabrique des protéine\)
 * **Vacuole** délimité par une membrane, le **Tonoplaste**
-* **Lamelle moyenne** est le **ciment** entre les **cellules végétales**
 {% endhint %}
 
 #### Cellule végétale en cours
 
 ![Sch&#xE9;ma d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/cellule-vegetale.jpg)
+
+{% hint style="info" %}
+**Lamelle moyenne** est le **ciment** entre les cellules végétales
+{% endhint %}
 
 #### Cellule végétale
 
@@ -101,7 +104,7 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 * **Cellule Eucaryote**
 * **Photosynthèse oxygénique**
 * **Autotrophe** pour le **carbone**
-* Métabolisme secondaires
+* Métabolite secondaires
 * **Paroi, Plaste, Vacuole** au niveau de la cellule végétale.
 * La taille des cellules allant de $$30\mu m \ à \ 120\mu m$$ 
 {% endhint %}
