@@ -119,3 +119,27 @@ Il y a donc **sélection** des plus grand individus
 En 1848 la forme pâle de ces papillons correspond à 98% des individus de l'espèces, cette couleur leur permet de se faire moins attraper par les prédateur, car l'écorce des boulots est blanche.  
 Après 1848 et la révolution industrielle, le charbon est utilisé en grande quantité et laisse une grande quantité de particule noir dans l'environnement, la mélanique des papillons croit de manière exponentielle durant cette période.
 
+#### Pour conclure
+
+{% hint style="info" %}
+La sélection sexuelle, avec des attributs plus ou moins spectaculaire, attractif pour le partenaire
+{% endhint %}
+
+Les éléments déterminant de l'évolution est la compétition entre individus d'une espèces doué et variabilité, le milieux ayant rôle de sélection
+
+C'est grâce à une lettre de Russel Wallace 1823 - 1913 envoyé à Charles Darwin en 1858, que Charles Darwin à présenté son travail avec une présentation commune de leur travaux.  
+Russel Wallace a mis en place les fondement de la biogéographie, et les lignes de Wallace
+
+#### Accueil réservé aux idées révolutionnaire de Darwin
+
+* Gros succès librairie
+* Forte opposition religieuse
+* En 10 ans, sa théorie accepté par tous les philosophe et biologiste
+* Le Vatican à accepté en 1996
+
+{% hint style="success" %}
+La théorie de Charles Darwin est une révolution pour le domaine de la sciences. La philosophie, théologie et scientifique
+{% endhint %}
+
+Malgré ça, Darwin ne fournis aucune explication de la variabilité des espèces, pas de satisfaction de l'hérédité des caractères acquis.
+
