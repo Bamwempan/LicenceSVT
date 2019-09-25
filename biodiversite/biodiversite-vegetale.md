@@ -1,188 +1,18 @@
+---
+description: >-
+  Ensemble des informations étudié lors des cours de biodiversité végétale
+  Licence 1
+---
+
 # Biodiversité Végétale
-
-## Introduction à la biodiversité
-
-{% hint style="info" %}
-#### Définitions
-
-**Biodiversité :** La biodiversité est la diversité biologique observable à tous les niveaux.  
-Ensemble des êtres vivants.
-{% endhint %}
-
-Il existe 3 niveaux d’échelle de diversité 
-
-1. Diversité génétique
-2. Diversité spécifique
-3. Diversité écosystémique
-
-![Biodiversit&#xE9;](.gitbook/assets/biodiversite.png)
-
-### Qu'est ce que la biodiversité ?
-
-La biodiversité est la diversité biologique, diversité du vivants et des êtres vivants.
-
-* Forme multiple dans la nature avec leur variété et leur variabilité \(Organisation, fonction, génétique\)
-* Diversité des écosystèmes, des espèces et des gènes, dans l'espace et dans le temps.
-
-#### Qu'est ce que le vivant ? 
-
-Un être vivant est un organisme vivant.  
-Voici différentes manières de les trouvés.
-
-* Système vivant complexe, connexe, organisé. Constitué d'une ou de plusieurs cellules vivantes \(**Unicellulaire** ou **Pluricellulaire**\)
-* Capable de s'auto-construire, élaborer sa propre matière et sa propre structure
-* Capable de se procurer de la matière et l'énergie nécessaire à son fonctionnement et sa reproduction
-* Capable de se reproduire et de donner naissance à d'autre organismes vivants \(Reproductions végétative ou sexuée\)
-* Nécessite un environnement favorable pour survivre
-* Matière vivante fondée sur la chimie organique avec comme base le carbone.
-
-### L'Histoire de la biodiversité.
-
-#### Origine de la vie, première trace de vie ?
-
-Les premières traces de vie ont été découvertes avec des fossiles datant d'environs -**3.5Ga** avec un assemblage microbien, le stromatolite \(**Bactérie et micro-organisme**\) en Australie.  
-Fossile découverts datant de la même période avec cette fois ci des filament microbiens.  
-Ce sont donc des **Bactérie** **unicellulaire** **procaryote**.
-
-#### Premier eucaryote ?
-
-Ensuite viens l'apparition des premières cellules **eucaryotes,** environ de **-2.7Ga à -1.5Ga,** découverte de molécule de **chlolestane** produite exclusivement par des eucaryotes.  
-Découverte ensuite d'un fossile daté de **-1.5Ga** qui prouve de manière indiscutable l'apparition des **eucaryotes** durant cette période. 
-
-La théorie **endosymbiotique** explique l'apparition des premières cellules eucaryote. Avec l'ajout de deux partie importante et différente de la cellule.  
-Mitochondrie : Endosymbiose d'une protéobactérie  
-Chloroplaste : Endosymbiose d'une cyanobactérie
-
-{% hint style="info" %}
-Mitochondrie on leur propre ADN
-{% endhint %}
-
-![Th&#xE9;orie de l&apos;endosymbiotique](.gitbook/assets/415px-serial_endosymbiosis.svg.png)
-
-#### Premier organisme eucaryote coloniaux / pluricellulaire
-
-Cette apparition massive des cellules eucaryote pluricellulaire est en cohérence avec l'augmentation de l'oxygène atmosphérique durant la même période, environ -2.4Ga.
-
-#### Premier organisme photosynthétique
-
-* La photosynthèse est apparue à un moment unique avec l'apparition des Cyanobactérie.
-* Date d'apparition est d'environ **-3.4Ga à -2.7Ga**
-
-#### Diversification du vivant
-
-La faune édiacara à été découverte avec un fossile datant de -600Ma. On entre dans la période du Cambrien, Paléozoïque.
-
-En **1909** **Charles D. Walcott**, découvre les **schistes de Burgess** \(-505Ma\)
-
-#### Paléozoïque
-
-Le vivant se diversifie, dans une première partie dans le milieu marin. Durant le Paléozoïque la diversité s'accélère, avec l'apparition des Arthropodes, Vers, Mollusque, Coraux, Algue, 1er tétrapodes, 1er insectes, 1er organisme terrestres et 1er plantes terrestres \(Mousses, Fougères, Gymnospermes\).  
-Les systèmes terrestres se développent, végétaux vasculaires, insectes \(Hexapodes\), vertébrés aquatiques et vertébrés terrestres.
-
-#### Mésozoïque ~252Ma
-
-Apparition des dinosaures, les 1er oiseaux, 1er mammifères, les continuité de la diversifications des insectes, les Conifères et les 1er Angiospermes.
-
-#### Cénozoïque
-
-Apparition des Grands Mammifères, continuité des oiseaux et angiospermes
-
-### Grand personnages de la biodiversité
-
-#### Des Grecque au Romain de -372 à 79
-
-* Théophraste avec Historia Plantarum avec la référence des végétaux de son environnement ainsi que des descriptions et classification.
-* Aristote avec un ouvrage sur les Animaux, nomination et classification
-* Pline l'Ancien avec Historia Naturalis
-
-#### Au 18é siècle en Suède
-
-Carl von Linée, naturaliste, invente le système de nomenclature, en 1750, et attribut des noms aux espèces végétales et animales.
-
-* Hiérarchie naturelles et fixisme
-* 7 niveaux et nomenclature binomiale
-
-![Nomenclature de Carl Von Linn&#xE9;e en 7 niveaux](.gitbook/assets/vector-illustration-major-taxonomic-ranks-hierarchy-biological-classification-classification-system.jpg)
-
-#### 19e Siècle
-
-Charles Darwin émet la théorie de l'évolution des espèces et de la sélection naturel. La classification traduit l'histoire de l'évolution.
-
-* Variation des individus
-* Les individus les plus adaptés au milieu survivent et se reproduisent
-* Augmentation de la fréquence des caractéristiques avantageuses
-
-#### 20e Siècle
-
-Will Hennig mets en place la phylogénie et les liens de parenté entre différentes espèces.  
-Cladograme
-
-#### 21e Siècle
-
-Guillaume Lecointre
-
-### Définition Cladistique
-
-L'arbre phylogénétique traduit l'histoire de l'évolution
-
-{% hint style="info" %}
-**Clade :** Groupe Monophylétique
-
-**Plésiomorphe :** Ancêtre A possède un caractère X à l’état ancestrale
-
-**Apomorphe :** A' possède un caractère dérivé
-
-**Synapomorphie :** Innovation, caractère nouveau
-{% endhint %}
-
-## L'arbre du vivant
-
-{% hint style="info" %}
-**LUCA** **:** Last Universal Commun Ancestral
-{% endhint %}
-
-{% hint style="warning" %}
-Un virus n'est pas un être vivant
-
-* Pas de noyaux, d'organites, métabolisme
-* Inerte en dehors de la cellule hôte
-
-C'est un parasite.
-{% endhint %}
-
-Les eucaryote au cours de leurs vie sont forcément en mouvement, soit de manière tracté, **Bicomtes**, soit en propulsion **Unicontes.**
-
-![Eucaryote Biconte / Uniconte](.gitbook/assets/uniconte-biconte.jpeg)
-
-### Interaction durable entre les espèces
-
-* Bénitiers
-* Coraux
-* Lichens
-
-## Biodiversité Animale
-
-### Résultat du TP "Etang"
-
-#### Prairie
-
-![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;prairie&quot;](.gitbook/assets/taxonomie.jpg)
-
-#### Aquatique
-
-![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;Etang&quot;](.gitbook/assets/taxonomieaquatiqueetang.jpg)
-
-#### Foret
-
-![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;For&#xEA;t&quot;](.gitbook/assets/taxonomieforet.jpg)
 
 ## Biodiversité Végétale
 
-#### Application de la biodiversité végétal 
+#### Application de la biodiversité végétal
 
 La biodiversité végétale permet notamment de comprendre le fonctionnement et l'évolution des plantes, les protéger lors de construction, pour les utilisée dans le système économique et social, et de comprendre les différent services systémique.
 
-Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histologie végétale, Morphologie végétale, Taxinomie et Systématique \(Classement des végétaux\)**, ****biogéographie végétale.
+Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histologie végétale, Morphologie végétale, Taxinomie et Systématique \(Classement des végétaux\)**, _\*\*_biogéographie végétale.
 
 ### Définitions
 
@@ -202,10 +32,11 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 
 **Chloroplaste :** La chloroplaste est **l'organite** responsable de la **photosynthèse**.
 
-**Photosynthèse** : Fabrication de matière organique à partir de matière minérale \( $$CO_2,H_2O, etc $$ \) et d'énergie lumineuse qui se déroule chez les végétaux chlorophylliens.
+**Photosynthèse** : Fabrication de matière organique à partir de matière minérale \( $$CO_2,H_2O, etc$$ \) et d'énergie lumineuse qui se déroule chez les végétaux chlorophylliens.
 
-**Matière minérale :** Ensemble des molécules qui **ne contiennent pas** de **carbone réduit**.  
-- La matière minérale comprend les différentes formes de carbone oxydés comme le dioxyde de carbone et le monoxyde de carbone, les sulfates, les nitrates, les phosphates, les nitrites, l'ammonium, l'eau ....
+**Matière minérale :** Ensemble des molécules qui **ne contiennent pas** de **carbone réduit**.
+
+* La matière minérale comprend les différentes formes de carbone oxydés comme le dioxyde de carbone et le monoxyde de carbone, les sulfates, les nitrates, les phosphates, les nitrites, l'ammonium, l'eau ....
 
 **Matière organique :** Molécule fabriquée par les **êtres vivants** à **partir** de **carbone réduit**, d'hydrogène, d'oxygène, d'azote, de soufre et de phosphore.
 
@@ -229,13 +60,13 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 4. Gymnosperme \(Pin, Sapin\)
 5. Angiosperme \(Plantes à fleurs\)
 
-![Ordre d&apos;apparitions des v&#xE9;g&#xE9;taux sur terre](.gitbook/assets/vegetaux-simplifie.jpg)
+![Ordre d&apos;apparitions des v&#xE9;g&#xE9;taux sur terre](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/vegetaux-simplifie.jpg)
 
 {% hint style="warning" %}
 Le groupe des angiosperme est le dernier à être arriver sur terre est donc **le plus complexe**, de ce fait il s'est mieux **adapté à son environnement**, les angiospermes représentent environ **95%** des végétaux terrestre.
 {% endhint %}
 
-![Grand groupe de v&#xE9;g&#xE9;taux](.gitbook/assets/abre-phyloginetique.jpg)
+![Grand groupe de v&#xE9;g&#xE9;taux](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/abre-phyloginetique.jpg)
 
 ### Qu'est ce qu'un végétal ?
 
@@ -254,7 +85,7 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 * **Ribosome** \(Fabrique des protéine\)
 {% endhint %}
 
-![Composition d&apos;une cellule v&#xE9;g&#xE9;tale](.gitbook/assets/hd_la_cellule_vegetale_07_13.jpg)
+![Composition d&apos;une cellule v&#xE9;g&#xE9;tale](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/hd_la_cellule_vegetale_07_13.jpg)
 
 #### Caractéristiques principales d'un végétal
 
@@ -271,7 +102,7 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 
 Les chlorophylles dans les chloroplastes permettent la photosynthèse grâce à l’énergie solaire.
 
-![&#xC9;quation simple de la photosynth&#xE8;se](.gitbook/assets/photosynthesis_equation_fr.svg.png)
+![&#xC9;quation simple de la photosynth&#xE8;se](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/photosynthesis_equation_fr.svg.png)
 
 #### Métabolite secondaire
 
@@ -323,30 +154,28 @@ La paroi primaire contient différents éléments important utiles pour la plant
 La paroi secondaire sert notamment de soutient pour le végétal, majoritairement constitué de cellulose et d'eau, elle se dépose ultérieurement sur la paroi primaire, elle est toujours constitué de 3 couches.
 
 Les parois des cellules végétales ont différentes spécialisation, mais ne sont pas obligatoirement présente sous cette forme.  
-**Lignification :** Incrustation **lignine** \(Hydrophobe, insoluble\), cela entraîne la **mort de la cellule**, **Tissus type Xylène et Sclérenchyme  
-  
-Subérification :** Incrustation subérine \(lipide\), forme le **suber** \(Liège, écorce\)  
-  
+**Lignification :** Incrustation **lignine** \(Hydrophobe, insoluble\), cela entraîne la **mort de la cellule**, \*\*Tissus type Xylène et Sclérenchyme
+
+Subérification : **Incrustation subérine \(lipide\), forme le** suber\*\* \(Liège, écorce\)
+
 **Cutinisation :** Dépôt de cires \(Epiderme\)
 
 #### Pour conclure
 
 Les végétaux comprend **toutes les algues**, qui produisent de la **chlorophylle a , a/b, a/c** et divers pigments ainsi que que les plantes **embryophytes**, qui produisent de la **chlorophylle a/b**.  
-En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algues** et tous les **embryophytes** 
+En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algues** et tous les **embryophytes**
 
 ### La lignée verte, les grands groupes des végétaux
 
 #### Arbre phylogénique des différents groupe de la lignée verte
 
-![Premi&#xE8;re partie de la lign&#xE9;e Verte](.gitbook/assets/capture-du-2019-09-19-18-08-29.png)
+![Premi&#xE8;re partie de la lign&#xE9;e Verte](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/capture-du-2019-09-19-18-08-29.png)
 
-![Deuxi&#xE8;me partie](.gitbook/assets/capture-du-2019-09-19-18-13-13.png)
+![Deuxi&#xE8;me partie](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/capture-du-2019-09-19-18-13-13.png)
 
-![3e et derni&#xE8;re partie](.gitbook/assets/capture-du-2019-09-19-18-16-27.png)
+![3e et derni&#xE8;re partie](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/capture-du-2019-09-19-18-16-27.png)
 
-![Arbre phylog&#xE9;n&#xE9;tique lign&#xE9;e verte complet](.gitbook/assets/arbre-phylogenetique-lignee-verte.jpg)
-
-{% file src=".gitbook/assets/arbre-phylogenetique-lignee-verte \(1\).jpg" %}
+![Arbre phylog&#xE9;n&#xE9;tique lign&#xE9;e verte complet](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/arbre-phylogenetique-lignee-verte.jpg)
 
 ### Focus sur les angiosperme
 
@@ -355,8 +184,8 @@ En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algu
 {% hint style="info" %}
 #### **Définition**
 
-**Feuille :** Organe aplati, généralement de couleur verte, qui assure l'essentiel de la photosynthèse et les échange d'eau et de gaz avec l'atmosphère.  
-  
+**Feuille :** Organe aplati, généralement de couleur verte, qui assure l'essentiel de la photosynthèse et les échange d'eau et de gaz avec l'atmosphère.
+
 **Limbe :** Partie élargie et aplatie de la feuille qui assure la photosynthèse.
 
 **Marge :** La marge est le contour du limbe.
@@ -378,7 +207,7 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 * Marge du limbe : Entière / Dentée / Lobée
 * Nervure : Pénée / Palmée / Parallèle.
 
-![Composition d&apos;une feuille.](.gitbook/assets/tp+salle+etang+fascicule.jpg)
+![Composition d&apos;une feuille.](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/tp+salle+etang+fascicule.jpg)
 
 ## Définitions
 
@@ -408,3 +237,4 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 * [L'origine des espèces Charles Darwin](https://www.decitre.fr/livres/l-origine-des-especes-9782081221079.html)
 {% endtab %}
 {% endtabs %}
+
