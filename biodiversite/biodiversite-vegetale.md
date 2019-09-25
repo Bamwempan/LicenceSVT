@@ -196,6 +196,8 @@ En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algu
 
 ![Arbre phylog&#xE9;n&#xE9;tique lign&#xE9;e verte complet](../.gitbook/assets/arbre-phylogenetique-lignee-verte%20%281%29.jpg)
 
+![Groupe phylog&#xE9;n&#xE9;tique de la lign&#xE9;e verte](../.gitbook/assets/groupe-des-plantes.png)
+
 ## Focus sur les angiosperme
 
 ### Feuille

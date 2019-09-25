@@ -164,6 +164,12 @@ Les eucaryote au cours de leurs vie sont forcément en mouvement, soit de maniè
 
 ![Eucaryote Biconte / Uniconte](../.gitbook/assets/uniconte-biconte.jpeg)
 
+{% hint style="info" %}
+Les cellules bicontes sont mobiles avec deux flagelle tracteurs
+
+Les cellules unicontes sont mobiles avec un flagelle propulseur
+{% endhint %}
+
 ### Interaction durable entre les espèces
 
 * Bénitiers
