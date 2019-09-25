@@ -6,15 +6,13 @@ description: >-
 
 # Biodiversité Végétale
 
-## Biodiversité Végétale
-
-#### Application de la biodiversité végétal
+## Application de la biodiversité végétal
 
 La biodiversité végétale permet notamment de comprendre le fonctionnement et l'évolution des plantes, les protéger lors de construction, pour les utilisée dans le système économique et social, et de comprendre les différent services systémique.
 
 Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histologie végétale, Morphologie végétale, Taxinomie et Systématique \(Classement des végétaux\)**, _\*\*_biogéographie végétale.
 
-### Définitions
+## Définitions
 
 Le terme **végétal** est bien **différents** du terme **plante**.
 
@@ -50,9 +48,11 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Thalle :** **Appareil végétatif** des "végétaux primitifs : **thallophytes**" constitué de cellules isolées \(Algue unicellulaire, levures\), de filaments ramifiés \(mycélium des mycètes\) ou d'un tissu parenchymateux lamellaire \(algues\) par opposition à l'appareil végétatif présentant des feuilles, tiges, et des racines.
 
 **Appareil végétatif :** Ensemble des organes d'une plante \(**thalle** chez les thallophytes, **cormus** chez les cormophytes : racine, tige, feuille\) qui assurent sa croissance.
+
+**Lamelle moyenne :** Couche composée principalement de **pectine** située **entre les deux parois** de cellules **végétales** adjacentes
 {% endhint %}
 
-### Grand groupe des végétaux
+## Grand groupe des végétaux
 
 1. Algues
 2. Bryophytes \(Mousses\)
@@ -60,17 +60,17 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 4. Gymnosperme \(Pin, Sapin\)
 5. Angiosperme \(Plantes à fleurs\)
 
-![Ordre d&apos;apparitions des v&#xE9;g&#xE9;taux sur terre](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/vegetaux-simplifie.jpg)
+![Ordres d&apos;apparitions des v&#xE9;g&#xE9;taux](../.gitbook/assets/vegetaux-simplifie.jpg)
 
 {% hint style="warning" %}
 Le groupe des angiosperme est le dernier à être arriver sur terre est donc **le plus complexe**, de ce fait il s'est mieux **adapté à son environnement**, les angiospermes représentent environ **95%** des végétaux terrestre.
 {% endhint %}
 
-![Grand groupe de v&#xE9;g&#xE9;taux](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/abre-phyloginetique.jpg)
+![Grand groupe des v&#xE9;g&#xE9;taux sur terre](../.gitbook/assets/abre-phyloginetique.jpg)
 
-### Qu'est ce qu'un végétal ?
+## Qu'est ce qu'un végétal ?
 
-#### Construction des cellules végétales
+### Construction des cellules végétales
 
 {% hint style="success" %}
 Les parties importante d'une cellule végétales sont le noyaux et les organites listées ci-dessous
@@ -83,11 +83,19 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 * **Appareil de Golgi** \(Réservoir de protéine\)
 * **Péroxysome** \(Dégrade le $$H_2O_2$$ en $$H_2O$$ et $$O_2$$ \)
 * **Ribosome** \(Fabrique des protéine\)
+* **Vacuole** délimité par une membrane, le **Tonoplaste**
+* **Lamelle moyenne** est le **ciment** entre les **cellules végétales**
 {% endhint %}
 
-![Composition d&apos;une cellule v&#xE9;g&#xE9;tale](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/hd_la_cellule_vegetale_07_13.jpg)
+#### Cellule végétale en cours
 
-#### Caractéristiques principales d'un végétal
+![Sch&#xE9;ma d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/cellule-vegetale.jpg)
+
+#### Cellule végétale
+
+![Composition d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/hd_la_cellule_vegetale_07_13.jpg)
+
+### Caractéristiques principales d'un végétal
 
 {% hint style="warning" %}
 * **Cellule Eucaryote**
@@ -98,17 +106,17 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 * La taille des cellules allant de $$30\mu m \ à \ 120\mu m$$ 
 {% endhint %}
 
-#### Comment fonctionne la photosynthèse
+### Comment fonctionne la photosynthèse
 
 Les chlorophylles dans les chloroplastes permettent la photosynthèse grâce à l’énergie solaire.
 
-![&#xC9;quation simple de la photosynth&#xE8;se](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/photosynthesis_equation_fr.svg.png)
+![&#xC9;quation photosynth&#xE8;se](../.gitbook/assets/photosynthesis_equation_fr.svg.png)
 
-#### Métabolite secondaire
+### Métabolite secondaire
 
 En plus des **métabolites primaires** \(ADN, ARN, lipide, glucides etc etc\) les végétaux peuvent produire des métabolites secondaire pour se **protéger** \(Odeur, Gout\) ou pour la **dissémination des graines** et du pollen \(Couleur\)
 
-#### Les différentes fonctions des plastes
+### Les différentes fonctions des plastes
 
 Une cellules végétales peut avoir plusieurs plastes différentes
 
@@ -118,9 +126,9 @@ Une cellules végétales peut avoir plusieurs plastes différentes
 **Amyloplastes :** Sert de réserve et de géo-perception \(Permet au racine de pousser vers le bas\)
 {% endhint %}
 
-#### La vacuole
+### La vacuole
 
-La vacuoles est délimitée par un tonoplaste. La vacuole à plusieurs rôle au sein de la cellule
+La vacuoles est délimitée par un **tonoplaste**. La vacuole à plusieurs rôle au sein de la cellule
 
 {% hint style="success" %}
 * Stockage d'eau et de nutriments de manière transitoire
@@ -130,7 +138,18 @@ La vacuoles est délimitée par un tonoplaste. La vacuole à plusieurs rôle au 
 * Défense et attraction avec la production de pigments, tanin et autre molécules
 {% endhint %}
 
-#### Parois
+### Parois
+
+{% hint style="info" %}
+#### Définition
+
+Matrice extracellulaire entourant la **membrane plasmique** des cellules des **végétaux** **chlorophylliens**.  
+La paroi primaire, caractéristique des cellules jeunes, est constitué par des micro fibrilles de cellulose \(25 à 30%\) disposées dans tous les sens, ce qui lui permet d'être extensible, de pectines \(jusqu’à 35%\), d'hémicellulose \(15 à 25%\) et de glycoprotéines \(5 à 10%\). Son épaisseur est de 1 et 3 µm. La **paroi secondaire** se forme au cours de la différenciation de la cellule, elle est plus épaisse, moins hydratée, contient une proposition plus importante de cellulose mais pas de pectine. Elle se situe **sous la paroi primaire**
+{% endhint %}
+
+{% hint style="success" %}
+La **paroi primaire** assure un rôle de régulation de la **croissance cellulaire**
+{% endhint %}
 
 Il existe deux types de parois pour les cellules végétales, paroi primaire et secondaire.  
 La communication entre les cellules se fait par les petites perforations au niveaux des parois qu'on appelle **plasmodesme,** qui permet de communiquer de **cytoplasme** d'une cellule à une autre, si il y a un groupe de plasmodesme alors on est en présence d'une **ponctuation.**
@@ -160,26 +179,26 @@ Subérification : **Incrustation subérine \(lipide\), forme le** suber\*\* \(Li
 
 **Cutinisation :** Dépôt de cires \(Epiderme\)
 
-#### Pour conclure
+### Pour conclure
 
 Les végétaux comprend **toutes les algues**, qui produisent de la **chlorophylle a , a/b, a/c** et divers pigments ainsi que que les plantes **embryophytes**, qui produisent de la **chlorophylle a/b**.  
 En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algues** et tous les **embryophytes**
 
-### La lignée verte, les grands groupes des végétaux
+## La lignée verte, les grands groupes des végétaux
 
-#### Arbre phylogénique des différents groupe de la lignée verte
+### Arbre phylogénique des différents groupe de la lignée verte
 
-![Premi&#xE8;re partie de la lign&#xE9;e Verte](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/capture-du-2019-09-19-18-08-29.png)
+![Premi&#xE8;re partie de la lign&#xE9;e Verte](../.gitbook/assets/capture-du-2019-09-19-18-08-29.png)
 
-![Deuxi&#xE8;me partie](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/capture-du-2019-09-19-18-13-13.png)
+![Deuxi&#xE8;me partie](../.gitbook/assets/capture-du-2019-09-19-18-13-13.png)
 
-![3e et derni&#xE8;re partie](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/capture-du-2019-09-19-18-16-27.png)
+![3e et derni&#xE8;re partie](../.gitbook/assets/capture-du-2019-09-19-18-16-27.png)
 
-![Arbre phylog&#xE9;n&#xE9;tique lign&#xE9;e verte complet](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/arbre-phylogenetique-lignee-verte.jpg)
+![Arbre phylog&#xE9;n&#xE9;tique lign&#xE9;e verte complet](../.gitbook/assets/arbre-phylogenetique-lignee-verte%20%281%29.jpg)
 
-### Focus sur les angiosperme
+## Focus sur les angiosperme
 
-#### Feuille
+### Feuille
 
 {% hint style="info" %}
 #### **Définition**
@@ -194,7 +213,8 @@ En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algu
 
 **Pétiole :** Structure de petite dimension, à symétrie bilatérale, **reliant le limbe** de la feuille à la **tige** qui convient les **vaisseaux conducteurs de sève.**
 
-**Bourgeon :** Structure constituée par de très jeunes feuilles \(Bourgeon foliaire\) ou de très jeunes fleurs \(Bourgeon florale\) situé sur un axe relativement court, terminé par un méristème apical caulinaire, et protégé par des feuilles modifiées, les écailles.
+**Bourgeon :** Structure constituée par de très jeunes feuilles \(Bourgeon foliaire\) ou de très jeunes fleurs \(Bourgeon florale\) situé sur un axe relativement court, terminé par un méristème apical caulinaire, et protégé par des feuilles modifiées, les écailles.  
+**Le bourgeon ne fais pas partie de la feuille !**
 
 **Tige :** Organe généralement aérien, plus ou moins dressé et ramifié, sur lequel se développent des bourgeons qui se différencient soit en feuilles, soit en fleurs, soit en axes secondaires \(rameaux\) qui, à leur tour, portent des feuilles ou des fleurs.
 {% endhint %}
@@ -207,18 +227,10 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 * Marge du limbe : Entière / Dentée / Lobée
 * Nervure : Pénée / Palmée / Parallèle.
 
-![Composition d&apos;une feuille.](https://github.com/Bamwempan1/LicenceSVT/tree/bba5a062ef00ecf41a04c1e2bfc61690780d0116/biodiversite/.gitbook/assets/tp+salle+etang+fascicule.jpg)
+![Composition d&apos;une feuille](../.gitbook/assets/tp+salle+etang+fascicule.jpg)
 
-## Définitions
-
-{% hint style="info" %}
-**Indigène :** Par convention, on dit qu'une espèce est indigène si elle était déjà présente au sein d'une aire géographique avant l'an 1500. Si elle est apparue après l'an 1500, elle ne sera qualifiée d'indigène que si elle s'est installée sur cette aire géographique indépendamment de toute activité humaine \(ex : qui n'a pas été transportée par bateau …\)
-
-**Exotique :** Une espèce exotique est définie comme une espèce introduite par l'homme après l'an 1500 dans une aire géographique ou elle n'était pas présente.
-
-**Procaryote :**
-
-**Eucaryote :**
+{% hint style="danger" %}
+Le **bourgeon** ne fais pas partie de la **Feuille**
 {% endhint %}
 
 ## Ressources
