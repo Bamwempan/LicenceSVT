@@ -14,7 +14,7 @@ description: Portail licences SVT
 
 {% page-ref page="biomolecule/" %}
 
-{% page-ref page="biodiversite.md" %}
+{% page-ref page="biodiversite/" %}
 
 {% page-ref page="geoscience/" %}
 

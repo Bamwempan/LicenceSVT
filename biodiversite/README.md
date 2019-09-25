@@ -19,7 +19,7 @@ Il existe 3 niveaux d’échelle de diversité
 2. Diversité spécifique
 3. Diversité écosystémique
 
-![Biodiversit&#xE9;](.gitbook/assets/biodiversite.png)
+![Biodiversit&#xE9;](../.gitbook/assets/biodiversite.png)
 
 ### Qu'est ce que la biodiversité ?
 
@@ -61,7 +61,7 @@ Chloroplaste : Endosymbiose d'une cyanobactérie
 Mitochondrie on leur propre ADN
 {% endhint %}
 
-![Th&#xE9;orie de l&apos;endosymbiotique](.gitbook/assets/415px-serial_endosymbiosis.svg.png)
+![Th&#xE9;orie de l&apos;endosymbiotique](../.gitbook/assets/415px-serial_endosymbiosis.svg.png)
 
 #### Premier organisme eucaryote coloniaux / pluricellulaire
 
@@ -106,7 +106,7 @@ Carl von Linée, naturaliste, invente le système de nomenclature, en 1750, et a
 * Hiérarchie naturelles et fixisme
 * 7 niveaux et nomenclature binomiale
 
-![Nomenclature de Carl Von Linn&#xE9;e en 7 niveaux](.gitbook/assets/vector-illustration-major-taxonomic-ranks-hierarchy-biological-classification-classification-system.jpg)
+![Nomenclature de Carl Von Linn&#xE9;e en 7 niveaux](../.gitbook/assets/vector-illustration-major-taxonomic-ranks-hierarchy-biological-classification-classification-system.jpg)
 
 #### 19e Siècle
 
@@ -156,7 +156,7 @@ C'est un parasite.
 
 Les eucaryote au cours de leurs vie sont forcément en mouvement, soit de manière tracté, **Bicomtes**, soit en propulsion **Unicontes.**
 
-![Eucaryote Biconte / Uniconte](.gitbook/assets/uniconte-biconte.jpeg)
+![Eucaryote Biconte / Uniconte](../.gitbook/assets/uniconte-biconte.jpeg)
 
 ### Interaction durable entre les espèces
 
@@ -170,15 +170,15 @@ Les eucaryote au cours de leurs vie sont forcément en mouvement, soit de maniè
 
 #### Prairie
 
-![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;prairie&quot;](.gitbook/assets/taxonomie.jpg)
+![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;prairie&quot;](../.gitbook/assets/taxonomie.jpg)
 
 #### Aquatique
 
-![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;Etang&quot;](.gitbook/assets/taxonomieaquatiqueetang.jpg)
+![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;Etang&quot;](../.gitbook/assets/taxonomieaquatiqueetang.jpg)
 
 #### Foret
 
-![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;For&#xEA;t&quot;](.gitbook/assets/taxonomieforet.jpg)
+![Taxonomie des esp&#xE8;ces pr&#xE9;sentes en milieu &quot;For&#xEA;t&quot;](../.gitbook/assets/taxonomieforet.jpg)
 
 ## Biodiversité Végétale
 
@@ -233,13 +233,13 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 4. Gymnosperme \(Pin, Sapin\)
 5. Angiosperme \(Plantes à fleurs\)
 
-![Ordre d&apos;apparitions des v&#xE9;g&#xE9;taux sur terre](.gitbook/assets/vegetaux-simplifie.jpg)
+![Ordre d&apos;apparitions des v&#xE9;g&#xE9;taux sur terre](../.gitbook/assets/vegetaux-simplifie.jpg)
 
 {% hint style="warning" %}
 Le groupe des angiosperme est le dernier à être arriver sur terre est donc **le plus complexe**, de ce fait il s'est mieux **adapté à son environnement**, les angiospermes représentent environ **95%** des végétaux terrestre.
 {% endhint %}
 
-![Grand groupe de v&#xE9;g&#xE9;taux](.gitbook/assets/abre-phyloginetique.jpg)
+![Grand groupe de v&#xE9;g&#xE9;taux](../.gitbook/assets/abre-phyloginetique.jpg)
 
 ### Qu'est ce qu'un végétal ?
 
@@ -258,7 +258,7 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 * **Ribosome** \(Fabrique des protéine\)
 {% endhint %}
 
-![Composition d&apos;une cellule v&#xE9;g&#xE9;tale](.gitbook/assets/hd_la_cellule_vegetale_07_13.jpg)
+![Composition d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/hd_la_cellule_vegetale_07_13.jpg)
 
 #### Caractéristiques principales d'un végétal
 
@@ -275,7 +275,7 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 
 Les chlorophylles dans les chloroplastes permettent la photosynthèse grâce à l’énergie solaire.
 
-![&#xC9;quation simple de la photosynth&#xE8;se](.gitbook/assets/photosynthesis_equation_fr.svg.png)
+![&#xC9;quation simple de la photosynth&#xE8;se](../.gitbook/assets/photosynthesis_equation_fr.svg.png)
 
 #### Métabolite secondaire
 
@@ -342,15 +342,15 @@ En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algu
 
 #### Arbre phylogénique des différents groupe de la lignée verte
 
-![Premi&#xE8;re partie de la lign&#xE9;e Verte](.gitbook/assets/capture-du-2019-09-19-18-08-29.png)
+![Premi&#xE8;re partie de la lign&#xE9;e Verte](../.gitbook/assets/capture-du-2019-09-19-18-08-29.png)
 
-![Deuxi&#xE8;me partie](.gitbook/assets/capture-du-2019-09-19-18-13-13.png)
+![Deuxi&#xE8;me partie](../.gitbook/assets/capture-du-2019-09-19-18-13-13.png)
 
-![3e et derni&#xE8;re partie](.gitbook/assets/capture-du-2019-09-19-18-16-27.png)
+![3e et derni&#xE8;re partie](../.gitbook/assets/capture-du-2019-09-19-18-16-27.png)
 
-![Arbre phylog&#xE9;n&#xE9;tique lign&#xE9;e verte complet](.gitbook/assets/arbre-phylogenetique-lignee-verte.jpg)
+![Arbre phylog&#xE9;n&#xE9;tique lign&#xE9;e verte complet](../.gitbook/assets/arbre-phylogenetique-lignee-verte.jpg)
 
-{% file src=".gitbook/assets/arbre-phylogenetique-lignee-verte \(1\).jpg" %}
+{% file src="../.gitbook/assets/arbre-phylogenetique-lignee-verte \(1\).jpg" %}
 
 ### Focus sur les angiosperme
 
@@ -382,7 +382,7 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 * Marge du limbe : Entière / Dentée / Lobée
 * Nervure : Pénée / Palmée / Parallèle.
 
-![Composition d&apos;une feuille.](.gitbook/assets/tp+salle+etang+fascicule.jpg)
+![Composition d&apos;une feuille.](../.gitbook/assets/tp+salle+etang+fascicule.jpg)
 
 ## Définitions
 
