@@ -116,7 +116,14 @@ Constitution d'une cellule choanocyte
 
 #### Parois du corps
 
+{% hint style="warning" %}
+Le corps du porifère est entouré de parois.   
+****Paroi externe composé de **picanodermes**, regroupant plusieurs cellules aplaties **pinacocytes**, et composé d'un **endosquelette de spicules** \(Lui confère la protection, composé d'anti-appétant, inhibant de croissance\).   
+Paroi interne composé de **choanoderme**, formé de **choanocytes**.   
+Entre les deux parois il y a le **mésoglé** \(Gel\), composés de **Porocytes tubulaires \(Pores\)**
+{% endhint %}
 
+![](../.gitbook/assets/porifereparois.jpg)
 
 ## Définitions
 
