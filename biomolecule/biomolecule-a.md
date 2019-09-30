@@ -192,8 +192,6 @@ Si il y a un nombre impaire d'atome d'azote \(N\) alors il y aura un nombre impa
 
 ## Fonctions moléculaire
 
-![Liste des principales fonctions mol&#xE9;culaire de Chimie organique](../.gitbook/assets/fonction-moleculaire.png)
-
 ### Hydrocarbure
 
 Une molécule de formule brut $$C_nH_m$$ sera appelée hydrocarbure saturé si $$m = 2n+2$$ et insaturé ou cyclique si $$m < 2n+2$$ 
@@ -228,9 +226,58 @@ Si le nombre n est 2 il y a 4 possibilités de liaison/cycle
 Une liaison double correspond à $$n=1$$ et une liaison triple à $$n = 2$$ 
 {% endhint %}
 
+### Fonction chimie organique
+
+![Liste des principales fonctions mol&#xE9;culaire de Chimie organique](../.gitbook/assets/fonction-moleculaire.png)
+
 ## Nomenclature
 
-### Hydrocarbure
+![Nomenclature chimie organique](../.gitbook/assets/bch1a05lcmchimieorganique-009.jpg)
 
+### Exemple nomenclature
 
+#### Hydrocarbure
+
+{% hint style="info" %}
+* Trouver la chaine **carbonée** la plus **longue** et la nommer
+* Retrouver les **insaturations** présentes sur cette chaines carbonée
+* Retrouver tous les **substituants** sur la chaine carbonée **\(Alcane, Alcène, Alcyne \(Liaison simple, double, triple\)\)**
+* **Numéroter** les **atomes** de **carbones** de la chaine carbonée en commençant par **l'extrémité** le plus **proche** de **l'insaturation** la plus **propriétaire** ou alors d'un **substituant**
+* **Ranger** les **substituants** dans l'ordre **alphabétique**, chacun étant **précédé** du **numéro** de l'atome de carbone de la chaine cartonné auquel il est lié, puis ajouter la racine de **l'alcane** correspondant à la chaine carbonée,  et pour finir **l'insaturation** **précédée** du **numéro** de **l'atome** de **carbone** de la chaine carbonée qui **débute** cette insaturation
+{% endhint %}
+
+![Nomenclature Hydrocarbure](../.gitbook/assets/bch1a05lcmchimieorganique-010.jpg)
+
+#### Molécules fonctionnelles
+
+{% hint style="info" %}
+* Trouver la **chaine** **carbonée** la plus **longue** et la nommer
+* Retrouver les **fonctions** et les **insaturations** présentes sur cette chaine carbonée
+* **Numéroté** les **atomes** de **carbones** de la chaine carbonée en commençant par **l'extrémité** le plus **proche** de la **fonction** **prioritaire**. Les **insaturations** ne sont pas **considérées** comme **fonction**, et seront **mises** en **suffixe** **d'insaturation**
+* Ranger les **fonctions** non **prioritaires** par **ordre** **alphabétique**, chacun étant **précédée** du **numéro** de **l'atome** de **carbone** de la chaine carbonée auquel elle est liée, puis ajouter la **racine** de **l'alcane** correspondant à la chaine carbonée, **ajouter** le **suffixe** **d'insaturation** précédé du numéro de l'atome de carbone de la chaine carbonée, et finir le nom ****par le **suffixe** de la fonction **prioritaire** **précédé** du **numéro** de **l'atome** de **carbone** de la chaine carbonée auquel elle est liée
+{% endhint %}
+
+![](../.gitbook/assets/bch1a05lcmchimieorganique-011.jpg)
+
+{% hint style="success" %}
+* Ether Oxyde n'est jamais prioritaire
+{% endhint %}
+
+### Exercice 5-2
+
+#### Molécule A
+
+![](../.gitbook/assets/molecule-a-5-2.jpeg)
+
+#### Molécule B
+
+![](../.gitbook/assets/molecule-b.jpeg)
+
+#### Molécule C
+
+![](../.gitbook/assets/molecule-c.jpeg)
+
+#### Molécule F
+
+![](../.gitbook/assets/molecule-f.jpeg)
 
