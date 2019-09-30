@@ -50,6 +50,8 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Appareil végétatif :** Ensemble des organes d'une plante \(**thalle** chez les thallophytes, **cormus** chez les cormophytes : racine, tige, feuille\) qui assurent sa croissance.
 
 **Lamelle moyenne :** Couche composée principalement de **pectine** située **entre les deux parois** de cellules **végétales** adjacentes
+
+**Tégument :** **Tissu** ou ensemble de tissus et de leur production qui **recouvre** et **délimite** le **corps** d'un être **vivant**
 {% endhint %}
 
 ## Grand groupe des végétaux
@@ -201,7 +203,88 @@ En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algu
 
 ![Groupe phylog&#xE9;n&#xE9;tique de la lign&#xE9;e verte](../.gitbook/assets/groupe-des-plantes.png)
 
+## La conquête des milieux terrestre
+
+### Besoin des organisme végétaux
+
+Tous végétaux à besoin de ressources pour se développer
+
+{% hint style="warning" %}
+* Lumière
+* Eau
+* $$C0_2$$
+* $$0_2$$ 
+* Element minéraux \(N, P, K, Fe, Mg, Mn, Ca\)
+{% endhint %}
+
+### Dans les milieux aquatiques
+
+Qualification d'une plante aquatique
+
+{% hint style="warning" %}
+* L'eau n'est pas limitante
+* Gaz et éléments minéraux accessibles \(Dissous dans l'eau\)
+* Il n'y à pas de gravité \(Economie de ressource\)
+* La lumière se réverbère sur la surface de l'eau
+* Inertie thermique
+* L'eau est un vecteur de dissimulation
+{% endhint %}
+
+{% hint style="info" %}
+#### Définition
+
+**Inertie Thermique :** L'inertie thermique d'un matériau représente sa résistance au changement de température lorsque intervient une perturbation de son équilibre thermique.
+{% endhint %}
+
+### Dans les milieux terrestres
+
+Lorsque le végétal est en milieu terrestre il subis différente contrainte qui n'existait pas dans le milieu aquatique
+
+#### Contrainte
+
+{% hint style="warning" %}
+* Lumière pouvant être limitante \(Sous couvert végétal\)
+* Eau pouvant être limitante
+* Gaz présent dans l'air
+* Limitation des minéraux dans le sol
+* Influence de la gravité
+* Variation climatique
+* Dessèchement lié à l'air
+{% endhint %}
+
+#### Solution
+
+Pour se faire les plantes se sont adapté et ont crée des système qui répondent à ces problématique
+
+{% hint style="warning" %}
+* Mobiliser l'eau du sol et les élément minéraux
+* Agir contre la gravité
+* Capter les gaz dans l'air ambiant
+* Se protéger des pertes en eau
+* Mettre en place des lieux de stockage pour résister au variation climatique
+* être compétitif pour intercepter la lumière et occuper l'espace
+{% endhint %}
+
 ## Focus sur les angiosperme
+
+{% hint style="info" %}
+Pour faire simple un angiosperme à des tiges des feuilles et des racines
+{% endhint %}
+
+### Graine
+
+Le point de départ des angiosperme est la graine, formée de différentes parties
+
+{% hint style="warning" %}
+* Gemmule
+* Première feuille
+* Tigelle
+* Radicule
+* Cotylédon \(réserve\)
+* Tégument \(Entoure le cotylédon\)
+{% endhint %}
+
+![Sch&#xE9;ma graine haricot](../.gitbook/assets/graine-haricot.png)
 
 ### Feuille
 
@@ -237,6 +320,161 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 {% hint style="danger" %}
 Le **bourgeon** ne fais pas partie de la **Feuille**
 {% endhint %}
+
+## Production de nouvelles cellules
+
+### Définition
+
+{% hint style="info" %}
+**Apex :** Extrémité pointue d'un organe, les apex racinaire et caulinaire possèdent des méristèmes primaire apicaux
+
+**Caulinaire :** Qui se rapporte à la tige
+
+**Organogène :** Relatif à la formation d'organe de l'être vivant
+{% endhint %}
+
+### Introduction
+
+Une plante cherche à croitre en hauteur et longueur ainsi qu'en épaisseur grâce à la production de cellules qui forment des tissus
+
+{% hint style="info" %}
+**Tissu :** **Ensemble** de **cellules** d'un **type** particulier **regroupées** en une **unité** **fonctionnelle**  
+Exemple : Tissus nerveux, musculaire, sanguin, conjonctif... L'étude des tissus est l'objet de l'histologie
+{% endhint %}
+
+![Tissus](../.gitbook/assets/tissus-vegetale.png)
+
+### Production de nouvelles cellules par le fonctionnement de méristèmes
+
+#### Définition méristème
+
+{% hint style="info" %}
+**Méristème** : **Tissu végétal** indifférencié dont les **cellules** se **multiplient** par **mitose** et assurent la **formation** de **tissus**, puis d'**organes nouveaux**
+{% endhint %}
+
+La production de cellules se fait en plusieurs étapes  
+Etape 1 : Production de cellules au niveau des méristème par division \(Mitose\)  
+Etape 2 : Croissance cellulaire, la cellule grandit par synthèse et étirement de la paroi, il y a formation du tissu embryonnaire  
+Etape 3 : Différenciation cellulaire et des tissus, modification structurale et biochimique des cellules pour assurer une fonction particulière dans l'organe. 
+
+* Changement de taille et de forme
+* Changement cellulaire réorganiser \(Vacuole regroupé, différenciation des plastes\), ou disparait
+* Modification possible des parois
+
+{% hint style="success" %}
+Le méristème assure **l'histogenèse**
+{% endhint %}
+
+![](../.gitbook/assets/fonctionnement-meriste-me.png)
+
+### Ou se situe les méristèmes
+
+Les méristèmes sont situés aux extrémités de la plante, il y a **deux types de méristèmes** différents, méristème **primaire** et **secondaire**.
+
+![Disposition des m&#xE9;rist&#xE8;me primaires et secondaire](../.gitbook/assets/meristems_med.jpeg)
+
+{% hint style="info" %}
+* Méristème primaire en **position** **apicale**, qui assure la croissance en **longueur** en produisant des **tissus** **primaires**
+* Méristème secondaire, **Cambium** et **Phellogène**, qui assure la croissance en **épaisseur** de la plante en produisant des **tissus** **secondaire**
+{% endhint %}
+
+![M&#xE9;rist&#xE8;me primaire et secondaire d&apos;une tige](../.gitbook/assets/meriste-me-primaire-et-secondiare.png)
+
+## Diversité et fonction des tissus impliqué dans la croissance en longueur de la plante
+
+{% hint style="info" %}
+Pour tous ce qui est de la croissance en longueur et hauteur, tous les tissus sont issus du fonctionnement du méristème primaire, ce sont des tissus primaires
+{% endhint %}
+
+{% hint style="warning" %}
+Il y à 3 grand types de tissus
+
+* Revêtement et protection
+* Conducteur de sèves
+* Fondamentaux \(Soutien, réserve, sécrétion...\)
+{% endhint %}
+
+Certains constitué de cellules identiques \(tissu simple\), d'autre de différent type cellulaire \(tissu complexe\)
+
+![3 grand type de tissus](../.gitbook/assets/different-type-tissus.jpg)
+
+### Méristème primaire
+
+Les méristème sont présent au extrémité haut et bas de la plante
+
+{% hint style="success" %}
+* Bourgeon **apicale**
+* Bourgeon **auxiliaire**
+* Bout des racines
+{% endhint %}
+
+{% hint style="warning" %}
+Les méristèmes sont organogènes 
+{% endhint %}
+
+## Tissus primaires
+
+{% hint style="info" %}
+Les tissus primaires sont forcément issus d'un méristème primaire, il y a un agencement irrégulier des cellules qui les composent
+{% endhint %}
+
+![Tissus primaires](../.gitbook/assets/meriste-me-primaire.png)
+
+#### Schéma de représentation des tissus primaires
+
+### Tissus de revêtement primaire
+
+Ils sont en surface des organes et joue un rôle de protection
+
+#### Epiderme
+
+{% hint style="info" %}
+C'est un tissus de protection/revêtement des tiges et des feuilles, il est constitué d'une seule couche de cellules, mais composé de plusieurs types cellulaires \(cellules épidermique, cellules somatiques, poiles épidermiques\) et recouvert d'un cuticule  
+Les cellules épidermique sont translucides
+{% endhint %}
+
+Les cuticules permettent à la plantes d'éviter de perdre trop d'eau, c'est une couche de protection externe de cire.
+
+L'épiderme est aussi constitué de stomates, ils sont généralement située sur la face intérieur de la feuille, mais ce n'est pas toujours le cas, car ils doivent se protéger de la chaleur  
+
+{% hint style="info" %}
+Le stomate est un tissus d'échange, qui permet à la plante des échanges gazeux grâce à l'ouverture et fermeture du stomate, ils permettent la régulation des flux hydrique au seins de la plante
+{% endhint %}
+
+![](../.gitbook/assets/stomates.png)
+
+#### Poils épidermiques
+
+Il existe une grande diversité de poiles épidermique, adaptés à tous types d'environnement, et de fonction protecteurs ou prédateurs, ils jouent des rôles bien différents
+
+{% hint style="info" %}
+* Absorption de l'humidité de l'air
+* Sécrétion
+* Attraction des pollinisateurs
+* Accrochage
+{% endhint %}
+
+#### Rhizoderme
+
+Le rhizoderme, appelé aussi assis pilifère, est le tissus de revêtement/protection des jeunes racines, il est d'une seule couche de cellulaire d'épaisseur
+
+Plus les racines sont âgés moins le rhizoderme est présent. Il diminue jusqu'a disparaitre. Les racine n'absorbent alors presque plus de nutriment et sont recouverte d'une zone subéreuse
+
+### Tissus fondamentaux
+
+#### Parenchyme
+
+{% hint style="info" %}
+Tissu végétale formé de cellules peu spécialisées, dont les parois reste mince  
+Ce sont des tissus de constitution qui peuvent cependant accomplir des fonctions spécialisées. \(Comprenant des cellules isodiamétriques\)
+{% endhint %}
+
+* Photosynthèse
+* Stockage de réserve
+* Circulation des gaz
+* Stockage de l'eau
+
+![](../.gitbook/assets/parenchymes.png)
 
 ## Ressources
 
