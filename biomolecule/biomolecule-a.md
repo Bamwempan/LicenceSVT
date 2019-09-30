@@ -228,6 +228,10 @@ Une liaison double correspond à $$n=1$$ et une liaison triple à $$n = 2$$
 
 ### Fonction chimie organique
 
+{% hint style="warning" %}
+La **valence** d'une fonction **correspond** au **nombre** **d'atome** **d'hydrogène** qui ont été **substitués** par un **hétéro-atome** en se référant à **l'alcane** **saturé** **correspondant**
+{% endhint %}
+
 ![Liste des principales fonctions mol&#xE9;culaire de Chimie organique](../.gitbook/assets/fonction-moleculaire.png)
 
 ## Nomenclature
