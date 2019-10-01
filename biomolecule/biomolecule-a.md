@@ -283,5 +283,5 @@ La **valence** d'une fonction **correspond** au **nombre** **d'atome** **d'hydro
 
 #### Molécule F
 
-![](../.gitbook/assets/molecule-f.jpeg)
+![Mol&#xE9;cule F](../.gitbook/assets/molecule-f.jpeg)
 
