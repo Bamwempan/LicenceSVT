@@ -52,6 +52,12 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Lamelle moyenne :** Couche composée principalement de **pectine** située **entre les deux parois** de cellules **végétales** adjacentes
 
 **Tégument :** **Tissu** ou ensemble de tissus et de leur production qui **recouvre** et **délimite** le **corps** d'un être **vivant**
+
+**Pectocellulosique :** 
+
+**Paroi Lignifiée :**
+
+**Paroi subérifiée :**
 {% endhint %}
 
 ## Grand groupe des végétaux
@@ -475,6 +481,85 @@ Ce sont des tissus de constitution qui peuvent cependant accomplir des fonctions
 * Stockage de l'eau
 
 ![](../.gitbook/assets/parenchymes.png)
+
+### Tissus de soutien
+
+Les tissus de **soutient** aident à maintenir la plante **dressé**, la **rigidité** est permise grâce a des **cellules** **jointives** et une **parois** très **épaisse** de celle ci, ont les trouves particulièrement dans les **feuilles** et les **tiges**
+
+{% hint style="info" %}
+Il existe deux types de tissus de soutient
+
+* **Collenchyme**
+* **Sclérenchyme**
+{% endhint %}
+
+#### Collenchyme
+
+{% hint style="warning" %}
+* Paroi **primaire** **pectocellulosique** **épaissie**
+* **Pas** de paroi **secondaire**
+* Cellules **vivantes**
+* Il est **localisé** en **surface** des **organes**
+* Espèces végétale **herbacées** et **jeunes** **ligneuse**
+* Il existe **3 types** de collenchyme
+  * Rond ou Annulaire
+  * Angulaire
+  * Lamellaire ou tangentiel
+{% endhint %}
+
+#### Sclérenchyme
+
+{% hint style="warning" %}
+* Paroi **primaire** et paroi **secondaire** lignifiées
+* **Cellules mortes**
+* Est composé de plusieurs types cellulaire
+{% endhint %}
+
+#### Endoderme et pericycle
+
+Généralement présent dans les tissus racinaire, il se situe à la limite du cylindre centrale et de l'écorce
+
+![](../.gitbook/assets/localisation-percycle-et-endoderme.png)
+
+![](../.gitbook/assets/endoderme-et-pericyle.png)
+
+#### Péricycle
+
+{% hint style="warning" %}
+* Tissus **vivant**, **petite** **cellules** **peu** **différenciées**
+* Une **seule couche** de cellules
+* Couche la **plus externe du cylindre centrale**
+* **Rôle** dans la **ramification** des **racines**
+{% endhint %}
+
+#### Endoderme
+
+{% hint style="warning" %}
+* Tissus **vivant**, paroi partiellement **lignifiées** ou **subérifiées**
+* Couche la plus **interne** de la **zone** **corticale**
+* Rôle dans **l'absorption** -&gt; filtre
+{% endhint %}
+
+![Diff&#xE9;rent type d&apos;endoderme](../.gitbook/assets/different-type-dendoderme.png)
+
+#### **Tissus sécréteur**
+
+Il y a une grande variété de substance produites par
+
+* Des cellules isolées
+* L'épidermes ou des poils sécréteurs
+* Poche / Canaux sécréteurs
+
+Les tissus sécréteurs permettent plusieurs fonction pour les plantes
+
+{% hint style="warning" %}
+* Communication avec d'autre plantes \(Molécule odorante, attirer et séduire les pollinisateurs\)
+* Repousser les herbivores
+{% endhint %}
+
+### Tissus de conductions primaire
+
+
 
 ## Ressources
 
