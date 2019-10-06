@@ -53,11 +53,15 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 
 **Tégument :** **Tissu** ou ensemble de tissus et de leur production qui **recouvre** et **délimite** le **corps** d'un être **vivant**
 
-**Pectocellulosique :** 
+**Pectocellulosique :** Qualifie la **paroi** des cellules végétales qui contient de la **cellulose** et de la **pectine**
 
 **Paroi Lignifiée :**
 
 **Paroi subérifiée :**
+
+**Sève brute :**
+
+**Sève élaborer :**
 {% endhint %}
 
 ## Grand groupe des végétaux
@@ -559,7 +563,145 @@ Les tissus sécréteurs permettent plusieurs fonction pour les plantes
 
 ### Tissus de conductions primaire
 
+Assure la conduction de sèves des trachéophyte
 
+{% hint style="warning" %}
+Les tissus de conductions primaires ont me rôle de **transmettre** les différentes **sèves** dans l'ensemble de la plante, il en existe deux types de sèves, la **sève brute** qui circule dans le **xylème** et la **sèves élaboré** qui circule dans le **phloème**. Les tissus **xylème** et **phloème** sont produits par les **méristème primaire procambium**.  
+  
+Le **xylème** transporte **l'eau** et les **éléments** **minéraux** vers la **tige** et les **feuilles**, alors que le **phloème** transporte les **sucres** produits par les feuilles vers les **racines**.  
+Le xylème et phloème  sont des **faisceaux libéro ligneux**
+{% endhint %}
+
+#### Xylème primaire
+
+Présent dans les feuille tige et racines il assure 3 fonction principales
+
+{% hint style="warning" %}
+* Conduction de sève brut \(Fonction principale\)
+* Soutien \(Légèrement\)
+* Réserve et métabolisme
+{% endhint %}
+
+Le xylème est apparu avec les monilophytes suite à la colinisation du milieu terrestre qui ramène deux contraintes avec lui, la gravité et l'embolie
+
+#### Xylème primaire chez les monilophytes
+
+* Soutient et conduction grâce au trachéide scalariforme
+* Paroi secondaire lignifiée, constitué de cellule morte allongée
+* Zone de perméabilité, ponctuations
+* Conduction en baïonnettes peu efficace, il n'y à pas de fonction de réserve
+
+#### Xylème primaire chez les gymnospermes
+
+Assure le soutient et la conduction 
+
+* Trachéide à ponctuation aréolées
+* Cellules mortes allongées \(Paroi 1 et 2 lignifiées\)
+* Système de conduction plus efficaces
+
+Ainsi que la réserve et métabolisme
+
+* Parenchyme
+* Cellule vivante isodiamétrique \(Stockage amidon\)
+
+#### Xylème primaire chez les angiospermes
+
+![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.png)
+
+Assure le soutien 
+
+* Fibre \(sclérenchymateuse\)
+* Cellule morte très allongée
+* Paroi épaissie et lignifiée \(P1 et P2\)
+* Peu ou pas de ponctuations, lumière de la cellule étroite
+
+Ainsi que la réserve et métabolisme 
+
+* Parenchyme xymélien \(ou ligneux\)
+* Cellule vivante, paroi 1 cellulosique ou lignifiées
+* Stockage d'eau et d'amidon
+* Cellules associés au vaisseaux \(CAV\)
+  * Cellule vivante, paroi mince cellulosique
+  * Métabolisme actif
+
+Conduction grâce au vaisseaux, qui comporte plusieurs éléments. Cellules de grande taille, morte à paroi épaissies \(P1 et P2\), lignifiées, ponctuées. La fabrication des vaisseaux se fait tout au long de la vie de la plante, plus les vaisseaux sont formés tard plus les vaisseaux sont lignifiés.
+
+![Repr&#xE9;sentation sch&#xE9;matique des xyl&#xE8;mes](../.gitbook/assets/xylemeschema.png)
+
+![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.png)
+
+{% hint style="warning" %}
+Il existe plusieurs types de vaisseaux, les premiers vaisseaux fabriqués sont des **protoxylèmes** et ceux fabriqués quand la plante est plus développée sont les **métaxylèmes**
+{% endhint %}
+
+#### Protoxylème
+
+Les protoxylèmes sont les premiers vaisseaux fabriqués par la plante, de ce fait ils sont imparfait. Les cellules s'allongent, constitué de parois transversales entre les vaisseaux. Vaisseaux annelé, spiralés. 
+
+![Repr&#xE9;sentation protoxyl&#xE8;me](../.gitbook/assets/protoxyleme.png)
+
+#### Métaxylème
+
+Les métaxylèmes sont considérés comme des vaisseaux parfaits, les cellules ne s'allongent plus, les vaisseaux sont constitués d'éléments de vaisseaux sans paroi transversale, vaisseaux rayés, réticulés, ponctués.
+
+![Repr&#xE9;sentation m&#xE9;taxyl&#xE8;me](../.gitbook/assets/representationmetaxyleme.png)
+
+{% hint style="success" %}
+Le sens de différenciations des vaisseaux du xylème primaire permet de faire la distinction au niveau histologie entre tige et racine.
+
+* Différenciation centrifuge des vaisseaux du xylème primaire pour la tige
+* Différenciation centripète des vaisseaux du xylème primaire pour les racines
+{% endhint %}
+
+#### Phloème primaire
+
+Présent dans les feuilles, tiges et racines. Ils assurent 3 fonctions
+
+{% hint style="warning" %}
+* Conduction de sève élaborée \(Fonction principale\)
+* Soutient
+* Réserve
+{% endhint %}
+
+Constitué de 
+
+{% hint style="warning" %}
+* Tube criblé \(conduction\)
+* Cellules compagnes
+* Parenchyme libérien \(Parenchyme phloèmien\) métabolisme et réserve
+* Fibre \(soutient\)
+{% endhint %}
+
+* Tissu complexe à cellules vivantes et à parois cellulosiques
+* Allongement possible des cellules
+* Toujours à différenciation centripète
+
+{% hint style="danger" %}
+Phloème primaire est un tissu complexe composé de plusieurs types cellulaire
+{% endhint %}
+
+![Phlo&#xE8;me primaire](../.gitbook/assets/phloeme-primaire.png)
+
+#### Constitution des phloème primaire
+
+**Tubes criblés** -&gt; conduction de sèves élaborée  
+Élément du tube criblé :   
+- Grosse cellule vivante avec parois transversales criblées  
+- Sans noyaux, ni vacuoles, ni ribosome, ni REG \(Constitué de quelques plastes et mitochondries\)
+
+**Cellule compagne** -&gt; collée contre le tube criblé  
+- Maintient en vie l'élément du tube criblé
+
+**Parenchyme phloèmien** \(ou libérien\)  
+- Cellule vivantes, allongées, à parois cellulosiques  
+- Stockage et sécrétion
+
+**Fibre phloèmiennes** \(ou libériennes\) sclérenchymateuses   
+- Cellules vivantes allongées  
+- Paroi cellulosique ou lignifiée, épaissie  
+- Participe au soutient de la plante
+
+![Phlo&#xE8;me primaire sch&#xE9;matique](../.gitbook/assets/phloemeprimaire-schematique.png)
 
 ## Ressources
 
