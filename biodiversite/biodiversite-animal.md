@@ -186,6 +186,40 @@ Les porifères ne possèdent pas de cavité interne
 
 ### Les caractéristiques des Eumétazoaires
 
+{% hint style="warning" %}
+* Différenciation cellulaire poussé
+  * Cellules musculaires
+  * Cellules nerveuse et sensorielle, il y a existence de synapse chimiques et donc de système nerveux
+* Cavité digestive bien différenciée
+  * Bouche
+  * Cellules sécrétrices d'exoenzymes
+* Lame basale complexe
+  * Diversité des molécules de structure
+* **Epithélium**
+  * lame basale : couche complexe de molécule dans la matrice extra cellulaire
+  * 2 couches superposées :
+    * lamina lucida
+    * lamina densa
+  * Complexe de jonction
+{% endhint %}
+
+### A savoir impérativement
+
+{% hint style="success" %}
+* Métazoaires et Eumétazoaires
+* Porifères \(Spongiaires\) - Choanocytes
+  * Pinacoderme / Mésoglée / Choanoderme
+  * Porocyte / Sclérocyte / Amibocyte
+  * Diversité des porifère
+    * Démosponges
+    * Hexactinellides
+    * Calciponges
+    * Homoscléromorphes
+* Savoir refaire les schémas principaux
+{% endhint %}
+
+## 
+
 ## Définitions
 
 {% hint style="info" %}
