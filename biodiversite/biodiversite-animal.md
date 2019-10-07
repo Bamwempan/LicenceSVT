@@ -125,6 +125,67 @@ Entre les deux parois il y a le **mésoglé** \(Gel\), composés de **Porocytes 
 
 ![](../.gitbook/assets/porifereparois.jpg)
 
+#### Amibocytes
+
+Les cellules amibocytes sont totipotente
+
+* Reproduction sexuée
+* Reproduction asexuée
+* Régénération
+* Digestion et transfert de nutriments
+
+![Amibocyte](../.gitbook/assets/amibocytes.png)
+
+#### Fonctionnement des porifères
+
+{% hint style="warning" %}
+Les porifères ne possèdent pas de cavité interne
+{% endhint %}
+
+{% hint style="success" %}
+**Respiration :** Une respiration très mince donc par diffusion \(pas d'organe spécifique\)  
+**Nutritions / Digestion :** Choanocytes, phagocytose, vésicules digestives et amibocytes  
+**Leur régimes alimentaire :** Suspensivore microphages même si il existe des cas de parasitisme et de prédation  
+**Reproduction :** hermaphrodite ou sexes séparés  
+**Reproduction asexué :** régénération, bouturage, gemmules \(dormance, conditions difficiles\)  
+**Reproduction sexué :** Amibocytes se différencient en gamètes dans mésoglée  
+**Excrétion / Osmorégulation :** diffusion de $$NH_4$$ 
+{% endhint %}
+
+#### Importance écologique
+
+{% hint style="success" %}
+* Situés dans les zones littorales et sub-littorales 
+* Filtration : réduction de turbidité de l'eau
+* Abris pour de nombreux animaux
+* Nourriture pour certains poissons 
+* Utilisé pour la biotechnologies et pour les antibiotiques
+{% endhint %}
+
+![Repr&#xE9;sentation g&#xE9;ographique de la population de porif&#xE8;res](../.gitbook/assets/carte-de-presence-des-porife-res.png)
+
+#### Grande lignée de porifères
+
+{% hint style="warning" %}
+* Les Demosponges
+  * 8000 espèces environs soit 80% total
+  * Présentes  dans tous les environnements
+* Les Hexactinellides ou éponges de verre
+  * 1000 espèces, qui sont toutes constituées de spicules de silices à 6 pointes
+  * Milieu marin profond, environ 200m, et froid
+  * Pas de choanoderme \(Un choanosyncytium - syncytium : cellules à plusieurs noyaux\)
+* Les Calciponges ou éponges de calcaire
+  * Milieu marin en eaux peu profondes et chaudes
+  * Récifs coralliens
+* Les Homoscléromorphes
+  * Eaux marines peu profondes
+  * Eponges encroûtantes 
+  * Pas ou peu de spicules \( $$CaCO_3$$ ou $$SiO_2$$ \)
+  * Collagène de type 4 et lame basale
+{% endhint %}
+
+### Les caractéristiques des Eumétazoaires
+
 ## Définitions
 
 {% hint style="info" %}
@@ -149,6 +210,14 @@ Choanocytes :
 Sessile :
 
 Phagocytose :
+
+Amibocytes : 
+
+Totipotente : 
+
+Asexuée :
+
+Turbidité :
 {% endhint %}
 
 ## Résultat du TP "Etang"
