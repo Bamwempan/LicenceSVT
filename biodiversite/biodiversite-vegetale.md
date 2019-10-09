@@ -55,6 +55,8 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 
 **Pectocellulosique :** Qualifie la **paroi** des cellules végétales qui contient de la **cellulose** et de la **pectine**
 
+**Parenchyme :**
+
 **Paroi Lignifiée :**
 
 **Paroi subérifiée :**
@@ -62,6 +64,12 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Sève brute :**
 
 **Sève élaborer :**
+
+**Faisceaux libéraux ligneux :**
+
+**Procambium :** 
+
+**Pachyte :**
 {% endhint %}
 
 ## Grand groupe des végétaux
@@ -164,6 +172,8 @@ La paroi primaire, caractéristique des cellules jeunes, est constitué par des 
 
 {% hint style="success" %}
 La **paroi primaire** assure un rôle de régulation de la **croissance cellulaire**
+
+Les **parois** contienne **toutes** de la **cellulose**
 {% endhint %}
 
 Il existe deux types de parois pour les cellules végétales, paroi primaire et secondaire.  
@@ -333,6 +343,8 @@ Le **bourgeon** ne fais pas partie de la **Feuille**
 
 ## Production de nouvelles cellules
 
+![Liste des tissus primaires et secondaire](../.gitbook/assets/meristemeprimaireetsecondaire.png)
+
 ### Définition
 
 {% hint style="info" %}
@@ -419,7 +431,7 @@ Les méristème sont présent au extrémité haut et bas de la plante
 {% endhint %}
 
 {% hint style="warning" %}
-Les méristèmes sont organogènes 
+Les **méristèmes** **primaires** sont **organogènes** 
 {% endhint %}
 
 ## Tissus primaires
@@ -433,6 +445,8 @@ Les tissus primaires sont forcément issus d'un méristème primaire, il y a un 
 #### Schéma de représentation des tissus primaires
 
 ### Tissus de revêtement primaire
+
+![Liste des tissus primaires et secondaire](../.gitbook/assets/meristemeprimaireetsecondaire.png)
 
 Ils sont en surface des organes et joue un rôle de protection
 
@@ -566,7 +580,7 @@ Les tissus sécréteurs permettent plusieurs fonction pour les plantes
 Assure la conduction de sèves des trachéophyte
 
 {% hint style="warning" %}
-Les tissus de conductions primaires ont me rôle de **transmettre** les différentes **sèves** dans l'ensemble de la plante, il en existe deux types de sèves, la **sève brute** qui circule dans le **xylème** et la **sèves élaboré** qui circule dans le **phloème**. Les tissus **xylème** et **phloème** sont produits par les **méristème primaire procambium**.  
+Les tissus de conductions primaires ont me rôle de **transmettre** les différentes **sèves** dans l'ensemble de la plante, il en existe deux types de sèves, la **sève brute** qui circule dans le **xylème** et la **sèves élaboré** qui circule dans le **phloème**. Les tissus **xylème** et **phloème** sont produits par les **méristèmes primaires procambiums**.  
   
 Le **xylème** transporte **l'eau** et les **éléments** **minéraux** vers la **tige** et les **feuilles**, alors que le **phloème** transporte les **sucres** produits par les feuilles vers les **racines**.  
 Le xylème et phloème  sont des **faisceaux libéro ligneux**
@@ -663,7 +677,7 @@ Présent dans les feuilles, tiges et racines. Ils assurent 3 fonctions
 * Réserve
 {% endhint %}
 
-Constitué de 
+**Constitué de** 
 
 {% hint style="warning" %}
 * Tube criblé \(conduction\)
@@ -684,7 +698,7 @@ Phloème primaire est un tissu complexe composé de plusieurs types cellulaire
 
 #### Constitution des phloème primaire
 
-**Tubes criblés** -&gt; conduction de sèves élaborée  
+**Tubes criblés** -&gt; conduction de sèves élaborée \(Glucides\)  
 Élément du tube criblé :   
 - Grosse cellule vivante avec parois transversales criblées  
 - Sans noyaux, ni vacuoles, ni ribosome, ni REG \(Constitué de quelques plastes et mitochondries\)
@@ -702,6 +716,160 @@ Phloème primaire est un tissu complexe composé de plusieurs types cellulaire
 - Participe au soutient de la plante
 
 ![Phlo&#xE8;me primaire sch&#xE9;matique](../.gitbook/assets/phloemeprimaire-schematique.png)
+
+#### Disposition des tissus conducteurs primaires chez les angiospermes
+
+Les différentes dispositions des xylèmes primaires et phloèmes primaires permet la distinction histologiques entre les feuilles, la tige et les racines
+
+![Disposition des tissus conducteurs primaires dans les tiges, feuilles et racines](../.gitbook/assets/disposition-des-tissus-conducteurs-primaires.png)
+
+{% hint style="warning" %}
+Chez les **tiges** et les **feuilles** la disposition du **Xylème** primaire et **Phloème** primaire est **superposé**
+
+Dans les **racines** la disposition est **alterné**
+{% endhint %}
+
+![](../.gitbook/assets/dispositions-xyleme-primaire-et-phloeme-primaire.png)
+
+{% hint style="success" %}
+La **disposition** des **tissus** **conducteurs** **primaires** résulte du **fonctionnement** du **méristème** **primaires**, le **procambium**
+{% endhint %}
+
+![Explication du passage au procambium aux tissus conducteurs](../.gitbook/assets/du-procambium-au-tissus-conducteurs.png)
+
+## Diversité et fonction des tissus impliqué dans la croissance en épaisseur de la plante
+
+C'est grâce à l'intervention des méristème secondaire que les plantes peuvent s'épaissir, mais cette fonction **n'est pas disponible pour toute les plantes.** Présent au niveau des tiges, feuilles et racines.
+
+* **Très important** chez les plantes dites **ligneuse** \(Buisson bas, buisson, arbuste, arbre\)
+* **Plus restreinte** chez les plantes **herbacées** \(Herbe autre que monocotylédones\)
+
+![Liste des groupes qui ont la pr&#xE9;sences de m&#xE9;rist&#xE8;mes secondaires](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.png)
+
+{% hint style="danger" %}
+Les **Monocotylédones** n'ont pas de méristèmes secondaires, pas de cambium donc pas de tissus secondaires.
+{% endhint %}
+
+### Méristème secondaire
+
+{% hint style="info" %}
+C'est une assise **génératrice** issus du méristème primaire, responsable de la **croissance** en **épaisseur** par la mise en **place** de **tissus** **secondaires**, on dit que c'est un **méristème** **histogène**
+
+Il existe **deux** **types** de **méristèmes** **secondaires**
+
+* **Cambium**
+  * Assise génératrice libéro-ligneuse \(=&gt; **Tissus** **secondaire** de **conduction**\)
+* **Phellogène**
+  * Assise génératrice subéro-phellodermique \(=&gt; **Tissus** **secondaire** de **revêtement**\)
+{% endhint %}
+
+![M&#xE9;rist&#xE8;me secondaires, Cambium et Phellog&#xE8;ne](../.gitbook/assets/meritstemes-secondaires.png)
+
+### Cambium, Tissus secondaire de conduction
+
+Les tissus secondaires de conductions sont produits par le **cambium,** ce sont le **xylème secondaire** et **phloème secondaire.** Présent au niveau des racines, tiges et feuilles de certaine plante.
+
+#### Production de xylème et phloème secondaire
+
+La division périclines du cambium permettent la production de nouvelles cellules.
+
+![Production de xyl&#xE8;me et phlo&#xE8;me secondaires](../.gitbook/assets/fonctionementcreationtissussecondaires.png)
+
+Explication de la division du cambium
+
+![Fonctionnement de la division du cambim](../.gitbook/assets/fonctionnementdeladivisionducambium.png)
+
+#### Xylème secondaire
+
+{% hint style="warning" %}
+* Produit de façon interne
+* Contient uniquement des vaisseaux parfait \(métaxylème\)
+* Fibre
+* Parenchyme
+{% endhint %}
+
+![Xyl&#xE8;me secondaire](../.gitbook/assets/xyleme-secondaire.png)
+
+#### Phloème secondaire
+
+{% hint style="warning" %}
+* Produit de façon externe
+* Même types cellulaire que le phloème primaire
+  * Élément tube criblé
+  * Cellule compagne
+  * Parenchymes phloèmien
+  * Fibres phloèmiennes
+{% endhint %}
+
+![Phlo&#xE8;me secondaire](../.gitbook/assets/phloeme-secondaire.png)
+
+#### Représentation schéma des tissus secondaire avec cambium
+
+![](../.gitbook/assets/schema-du-xyleme-et-phloeme-secondaire-avec-cambium.png)
+
+#### Notion de pachytes \(Pakyte\)
+
+{% hint style="info" %}
+La disposition du cambium peut être continue ou discontinue entres les faisceaux libéraux ligneux, ce qui donne la mise en place continue ou discontinue de tissus conducteurs secondaires
+{% endhint %}
+
+![Disposition continue ou discontinue du cambium](../.gitbook/assets/pachyte.png)
+
+![Disposition des diff&#xE9;rents tissus](../.gitbook/assets/notion-de-pachytes.png)
+
+#### Résultat de productions des tissus secondaires au niveau des organes
+
+#### Tige
+
+![Tissus secondaire au niveau de la tige](../.gitbook/assets/tissussecondairestige.png)
+
+#### Racine
+
+![](../.gitbook/assets/tissussecondairesracine.png)
+
+### Phellogène, Mise en place de tissus secondaire de revêtement
+
+{% hint style="info" %}
+La croissance importante en épaisseur liée au fonctionnement du cambium conduit au déchirement des tissus primaires de revêtement
+
+La plante dois donc en créer de nouveau avec des tissus de revêtement secondaire pour protéger les organes \(Tiges, Racine\), au niveau de certaines plantes \(ligneuses\)
+{% endhint %}
+
+{% hint style="warning" %}
+Fonctionnement du phellogène
+
+* Formation de **suber** \(ou **liège**\) vers l’extérieur
+* Formation du **phelloderme** vers l’intérieur
+
+il y a division périclines du phellogène permettant la production de nouvelles cellules
+{% endhint %}
+
+
+
+![Division p&#xE9;ricline du phellog&#xE8;ne](../.gitbook/assets/fonctionnementphellogene.png)
+
+![Phellog&#xE8;ne](../.gitbook/assets/phellogene.png)
+
+#### Suber
+
+{% hint style="info" %}
+Cellules mortes à paroi subérifiée plus de la cire, ce qui la rend imperméable aux gaz et à l'eau. 
+
+Il peut y avoir la présence de zone ou le suber est désorganiser pour permettre les échange gazeux, ont les appelles les **lenticelles**
+{% endhint %}
+
+### Autre croissance secondaire
+
+Exceptionnellement, il peut y avoir croissance secondaire chez les espèces présentant pas de cambium ou de phellogène \(Palmier, Dragonnier\)  
+On appelle ça la croissance secondaire diffuse \(Pas assuré par une assise mais par des cellules dispersée dans la plante\)
+
+## A savoir !
+
+![Listes des diff&#xE9;rents tissus d&apos;une plante](../.gitbook/assets/meristemeprimaireetsecondaire.png)
+
+### Représentation schématique des Xylèmes et Phloèmes
+
+![Repr&#xE9;sentation sch&#xE9;matique des phlo&#xE8;mes et xyl&#xE8;mes primaire et secondaire ainsi que du cambium](../.gitbook/assets/representation-schema-des-phloeme-et-xyleme-primaire-et-secondaire-+-cambium.png)
 
 ## Ressources
 
