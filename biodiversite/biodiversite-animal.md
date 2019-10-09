@@ -218,7 +218,48 @@ Les porifères ne possèdent pas de cavité interne
 * Savoir refaire les schémas principaux
 {% endhint %}
 
-## 
+## Cnidaires et Bilatériens
+
+### Embryogenèse précoce
+
+Lors de l'embryogenèse précoce il y a deux grande étapes, le clivage et la gastrulation
+
+#### Clivage
+
+Le clivage est la division rapide et rapprochées \(Mitoses\) qui fragmentent l’œuf en cellules filles : blastomères, il n'y à pas d'accroissement de taille
+
+![Clivage](../.gitbook/assets/clivage.png)
+
+{% hint style="warning" %}
+Il existe de modes de clivages
+
+* Clive partiel ou **Méroblastique**
+  * **Séparé** en **deux** **parties**, **embryon** et **réserves**
+  * Viteluse de réserve
+  * Commun chez les oiseaux, "poissons", serpents etc
+* Clivage total ou **Holoblastique**
+  * Il y a deux blastomères
+    * Si il sont de taille égale \(**clivage radiale**\) alors c'est un **Coéloblastula**
+    * Si il sont macromère et micromère \(**clivage spirale**\) alors c'est un **Stéréoblastula**
+{% endhint %}
+
+![Clivage M&#xE9;roblastique et Holoblastique](../.gitbook/assets/deuxmodesdeclivages.png)
+
+![Clivage m&#xE9;roblastique et son r&#xE9;sultat, clivages holoblastique radial ou spiral avec leurs r&#xE9;sultats](../.gitbook/assets/different-resultat-des-clivages.png)
+
+#### Gastrulation
+
+Le **rythme** de **division** est **ralenti** et il y a **mouvement** des **cellules**, **mouvements** morphogénétiques \(feuillet embryonnaire\), suie à ce mouvement il y a formation d'un **Archenteron** et **Blastopore**.
+
+**Archenteron** est **l'intestin** **embryonnaire**, et le **blastopore** la 1ère **ouverture** **embryonnaire**
+
+![Gastrulation par embolie d&apos;une co&#xE9;loblastula ou par Epibolie d&apos;une st&#xE9;r&#xE9;oblastula](../.gitbook/assets/strugulations-de-differents-embryons.png)
+
+Suite à cette gastrulation il y formation de deux feuillet embryonnaire, l'endoderme et l'ectoderme.
+
+**L'endoderme** permet la **nutrition** et **l'ectoderme** est un **contact** avec **l'extérieur**, **épithélium**, et à un **système nerveux**
+
+![R&#xE9;sultat gastrulation d&apos;une co&#xE9;loblastula et d&apos;une st&#xE9;r&#xE9;oblastula](../.gitbook/assets/coeloblastula-et-stereoblastula.png)
 
 ## Définitions
 
@@ -252,6 +293,16 @@ Totipotente :
 Asexuée :
 
 Turbidité :
+
+Cnidaires :
+
+Bilatériens :
+
+Blastomère :
+
+Feuillet embryonnaire : 
+
+Épithélium : 
 {% endhint %}
 
 ## Résultat du TP "Etang"
