@@ -285,3 +285,64 @@ La **valence** d'une fonction **correspond** au **nombre** **d'atome** **d'hydro
 
 ![Mol&#xE9;cule F](../.gitbook/assets/molecule-f.jpeg)
 
+## Isomérie de constitution
+
+Si les molécules possède la même formule brut elles peuvent se distinguer en 3 types possibles.
+
+* Isomérie de squelette -&gt; chaîne carboné principale différente  ![](../.gitbook/assets/isomerie-squelette.png) 
+* Isomérie fonctionnelle -&gt; position des fonctions  ![](../.gitbook/assets/isomerie-fonctionel.png) 
+* Isomérie de position -&gt; Groupe fonctionnel sur une position différente  ![](../.gitbook/assets/isomerie-de-position.png) 
+
+{% hint style="warning" %}
+Un isomère de constitution est parfaitement déterminé lorsque l ’on connaît :
+
+* son squelette carboné
+* son groupe fonctionnel ou insaturation
+* la position où ce groupe est fixé sur le squelette.
+
+Il est alors représenté au moyen d ’une formule plane.
+{% endhint %}
+
+#### Mise en place de l'isomérie
+
+![Isom&#xE9;rie](../.gitbook/assets/isomerie.png)
+
+## Stéréoisomérie
+
+La Stéréoisomérie est la différence de disposition des atomes dans l'espace, il existe plusieurs méthode de représentation des structures tridimensionnelle comme les représentation de Cram et de Newman, dont le point commun est la perspective Cavalière.
+
+![St&#xE9;r&#xE9;oisom&#xE9;rie](../.gitbook/assets/stereoisemirie.png)
+
+### Représentation Cram
+
+![Repr&#xE9;sentation de cram](../.gitbook/assets/representation-de-cram.png)
+
+### Représentation  Perspective Cavalière
+
+![Perspective Cavali&#xE8;re](../.gitbook/assets/perspective-cavaliere.png)
+
+### Projection de Fischer
+
+1. Projection en deux dimension, 1er chaîne carbonée la plus longue vertical 
+2. Fonction la plus oxydée en haut \( $$CO_2H>CHO>CH_2OH>CH_3$$ 
+3. Carbone extrémité en arrière
+
+### Projection de Newman
+
+![](../.gitbook/assets/representation-de-newman.png)
+
+### Conformation cyclohexane
+
+Il existe deux conformations, conformation "chaise" et conformation "bateau". Du fait de sa grand instabilité, à température ambiante, la conformation "bateau" et très peu présente. Dans la conformation chaise il existe :
+
+* 6 liaisons axiales \(Ax\) perpendiculaires au "plan moyen du cycle" et disposées de part et d'autre de ce plan, respectivement vers le haut et vers le bas
+* 6 liaisons équatoriales \(Eq\) faisant un angle faible \(15°\) avec ce plan moyen, également alternées par rapport à lui
+
+![Conformation Chaise](../.gitbook/assets/coformation-chaise.png)
+
+Le **conformère** **chaise** le plus **stable** est celui qui met tous les **substituants** \(atome ou groupe d'atome qui substitue l'hydrogène\) en position **équatorial**. S'il n'est pas possible d'avoir tous les **substituants** en position **équatoriale**, le **plus** **stable** est celui qui a le regroupement le plus **volumineux** en position **équatoriale** afin **d'éviter les interactions di-axiale 1-3**
+
+Si un **cycle** porte **deux** **substituants** sur **deux** **atomes** **différents**, alors il existe une isomérie cyclanique en fonction de leur position relative. On parlera d’isomérie **cis** si les deux substituants sont du même **côté** du **plan** moyen du **cycle**, et d’isomérie **trans** s’ils sont de **part** et **d’autre** du **plan** moyen du **cycle**.
+
+![Cis et Trans](../.gitbook/assets/cis-et-trans.png)
+
