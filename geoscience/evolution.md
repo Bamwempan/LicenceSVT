@@ -34,12 +34,12 @@ Denis diderot, Erasmus Darwin, Jean et Pierre lois Morreaux, parlent d'évolutio
 
 #### Moitié 19é siècle marque les esprit
 
-## Jean Baptiste Lamarck \(1744 - 1829\)
+### Jean Baptiste Lamarck \(1744 - 1829\)
 
 Naturaliste Français il exprime la **théorie transformiste,** publié dans philosophie Zoologique en 1809  
 Il est aussi le créateur du mot **Biologie**, expliqué dans son livre "Histoire Naturelle"
 
-### La théorie transformiste à 4 grand principes
+#### La théorie transformiste à 4 grand principes
 
 {% hint style="warning" %}
 * Adaptation des êtres vivants à leur milieu, il n'y à **pas d'extinctions, pas de bifurcation, les espèces se transforment**
@@ -58,7 +58,7 @@ Il émet donc que l’évolution à pour but de se perfectionner, or l'évolutio
 
 La théorie n'est pas accepté par les religieux
 
-## Charles Darwin
+### Charles Darwin
 
 Charles Darwin est un naturaliste anglais \(1809 - 1882\) qui à proposé la **théorie de l’évolution** au monde scientifique dans son livre **"L'origine des espèces" en 1859**.
 
@@ -78,7 +78,7 @@ Il émet une **hypothèse** que **l’ancêtre commun** de ces différent pinson
 La multitudes de différences serai du au **manque de concurrence** sur les îles.  
 {% endhint %}
 
-![Diversit&#xE9; des pinsons des &#xEE;les des Gal&#xE1;pagos](../.gitbook/assets/pinsons+des+galapagos+-pinsons+de+darwin.jpg)
+![](../.gitbook/assets/pinsons+des+galapagos+-pinsons+de+darwin.jpg)
 
 {% hint style="info" %}
 Il s’intéresse ensuite à la **sélection artificiel**, avec le tri orienté, notamment dans **l'agriculture et l'élevage canin.**
@@ -86,7 +86,7 @@ Il s’intéresse ensuite à la **sélection artificiel**, avec le tri orienté,
 Puis il évoque pour la première le fait que tous **organisme vivant** à un **ancêtre commun**.
 {% endhint %}
 
-### Principe de base du Darwinisme
+#### Principe de base du Darwinisme
 
 {% hint style="warning" %}
 * **Organisme** qui se **ressemblent** ont un **ancêtre commun**
@@ -96,7 +96,7 @@ Puis il évoque pour la première le fait que tous **organisme vivant** à un **
 * Un rôle complémentaire du à la **sélection sexuelle**
 {% endhint %}
 
-### Sélection naturelle
+#### Sélection naturelle
 
 {% hint style="warning" %}
 * Sans limitation, une population s'accrois de façon exponentielle
@@ -125,7 +125,9 @@ Après 1848 et la révolution industrielle, le charbon est utilisé en grande qu
 La sélection sexuelle, avec des attributs plus ou moins spectaculaire, attractif pour le partenaire
 {% endhint %}
 
+{% hint style="success" %}
 Les éléments déterminant de l'évolution est la compétition entre individus d'une espèces doué et variabilité, le milieux ayant rôle de sélection
+{% endhint %}
 
 C'est grâce à une lettre de Russel Wallace 1823 - 1913 envoyé à Charles Darwin en 1858, que Charles Darwin à présenté son travail avec une présentation commune de leur travaux.  
 Russel Wallace a mis en place les fondement de la biogéographie, et les lignes de Wallace
@@ -142,4 +144,78 @@ La théorie de Charles Darwin est une révolution pour le domaine de la sciences
 {% endhint %}
 
 Malgré ça, Darwin ne fournis aucune explication de la variabilité des espèces, pas de satisfaction de l'hérédité des caractères acquis.
+
+### Gregor Mendel
+
+Gregor Mendel \(1822-1884\) est un moine autrichien, il est à l'origine des lois de transmission des caractères par hérédité. L'information est sous forme de particules, transmise par chacun des parents
+
+Il effectue ses expériences sur des croisements de poids. Les caractères **phénotypiques** des **parents** ne se **mélangent** **pas** chez les **descendants** \(pas de transition graduelle entre caractères parentaux\). Il existe des caractères **dominants** et des caractères **récessifs**. Ces recherches sur les hybrides végétaux \(1866\) sont restées méconnues jusqu’au début du 20ème siècle.
+
+### Génétique
+
+#### Hugo de Vries
+
+Hugo de Vries \(1848-1935, botaniste néerlandais\): redécouvre les lois de l’hérédité de Mendel en 1900. Ses observations sur des plantes ornementales lui permettent de définir les **mutations** comme de **brusques transformations spontanées et héréditaires**. De Vries envisages l'existences des gènes. 
+
+Le concept de **mutation** est proposé par **Lucien Connoté \(1856-1951\)** à partir de son travail sur les souris.
+
+* Mutation utile
+* Mutation nuisible
+* Beaucoup de **mutation** **neutre**
+
+#### William Bateson
+
+William Bateson \(1861-1926, biologiste anglais\): Transpose les travaux de de Vries sur les animaux, il crée le terme génétique basé sur l'existence d'unités hypothétiques appelées "gènes", à partir d'une analyse formelle des produits d'un croisement de deux individus de génotype déterminé.
+
+Bateson introduit dès 1902 la notion **d'allèle**, **d'homozygote**, et **d'hétérozygote**.  
+Son collègue Johannsen \(1857 - 1927\) crée le terme et le concept opératoire de "génotype" et "phénotype", il introduit officiellement le terme gène en 1909
+
+#### Thomas H. Morgan
+
+Thomas H. Morgan \(1866-1945, biologiste américain\): transmission héréditaire étudiée sur des élevages de drosophiles avec une attention particulière accordée aux **mutations**. Il apporte des éléments nouveaux à la génétique
+
+{% hint style="warning" %}
+* Les gènes sont localisés dans le noyau sur les **chromosomes**
+* Cela constitue le support de l'hérédité
+* Des relations sont reconnues entre gènes et caractères
+* 1910 Théorie de chromosomique de l'hérédité
+
+**Mutationnisme** : **La sélection naturelle n'est pas prise en compte**. Il n'y a **pas** ici **d'orientation de l'évolution**, de **tri sous l'influence du milieu**. Les individus issue de la mutation sont **d’emblée adaptées a leur milieu** et **non soumis à la sélection**
+{% endhint %}
+
+#### Objection critique du mutationnisme
+
+* L'étude des fossile relève des lignées évolutives
+  * Transformations progressives et graduelles \(Ce qui va à l'encontre de la brutalité des mutations\)
+  * Des orientations maintenues sur de longue périodes \(Ce qui va à l'encontre du caractère aléatoire des mutations\)
+
+![Lign&#xE9; &#xE9;volutive des cheveaux](../.gitbook/assets/ligneevolutive-des-cheveaux.png)
+
+Il existe de nombreux conflits entre généticiens \(Mutationnisme\) et paléontologues \(Darwinisme\) jusqu'au année 1920, c'est l'essor de la génétique des populations qui va aider à concilier les deux tendances. Notamment grâce à 3 précurseur;    
+- John B.S. Haldane \(1892-1964, biologiste anglais\) 1924 : premier modèle mathématique simple de sélection   
+- Ronald A. Fischer \(1890-1962, biologiste anglais\)   
+- Sewall Wright \(1889-1988, biologiste américain\)  
+Haldane, Fischer et Wright situent le **problème** au niveau d’une **nouvelle** **unité** **évolutive** : la **population. Voici les différents principes**
+
+* Un gènes peut présenter plusieurs allèles
+* Certains d'entre eux favorisent l'organisme qui les portes faces à la sélection naturelle
+* Les variation \(Graduelle\) peuvent être du à des facteurs mendéliens multiples
+
+## Définitions
+
+{% hint style="info" %}
+Mutation :
+
+Gènes :
+
+Allèle :
+
+Homozygote : 
+
+Hétérozygote :
+
+Génotype :
+
+Phénotype :
+{% endhint %}
 
