@@ -199,7 +199,139 @@ Haldane, Fischer et Wright situent le **problème** au niveau d’une **nouvelle
 
 * Un gènes peut présenter plusieurs allèles
 * Certains d'entre eux favorisent l'organisme qui les portes faces à la sélection naturelle
-* Les variation \(Graduelle\) peuvent être du à des facteurs mendéliens multiples
+* Les variations \(Graduelles\) peuvent être du à des facteurs mendéliens multiples
+
+{% hint style="warning" %}
+Des allèles mutants apparus **chez quelques individus** peuvent s’étendre à **l’ensemble** de la **population** s’ils confèrent un **avantage** **sélectif**, entraînant une modification **phénotypique** **graduelle** des populations. **Tout changement évolutif** réside dans les **variations** de **fréquences** **alléliques** et celles-ci sont **influencées** par **l’environnement** via la **sélection** **naturelle**.
+
+**Mutationnisme et darwinisme se rencontrent !**
+{% endhint %}
+
+#### Théorie synthétique de l'évolution = néodarwinisme
+
+* **Theodosius Dobzhansky** \(1900-1975, biologiste et généticien ukrainien, puis américain\): Travaux sur la variabilité et génétique des populations de coccinelles. **«Tous les phénomènes évolutifs résultent de changements dans les fréquences de gènes au sein des lignées, sous l’action de la sélection naturelle»**.
+* **Ernst Mayr** \(1904-2005, ornithologue et systématicien allemand, puis américain\): Travaux sur la variabilité phénotypique des oiseaux et la spéciation.
+* **George G. Simpson** \(1902-1984, paléontologue américain\): Travaux sur les mammifères fossiles. **Évolution = changement continu et lent des espèces fossiles**. **L’absence d’intermédiaires** \(les lignées sont incomplètes\) résulte du **manque d’archives paléontologiques**.
+
+{% hint style="success" %}
+Grâce au cumul de ces travaux, la base de la théorie synthétique de l'évolution sont lancé. Voici les différent principes : 
+
+* La **population** comme **unité** **évolutive**.
+  * l’espèce, constituée de populations, manifeste une variabilité héréditaire. L’unité évolutive n’est pas le couple de géniteurs et sa descendance, mais la population.
+* **Transformation** **évolutives** dues à des changements **génétiques** **aléatoire** _**Mutations**_, la _**Sexualité**_ entretenant la variabilité
+* L'orientation du changement évolutif est du à la **Sélection** **Naturelle**
+  * Un allèle est retenu ou éliminé en fonction de sa valeur adaptative
+* L’effet amplificateur du temps: si une **mutation** **favorable** se produit en **grand** **nombre** dans une population et si elle se **répète** sur **plusieurs** **générations**, alors les **mutants** **favorisés** **envahissent** la **population** qui **évolue** naturellement vers une autre **espèce**.
+
+**Fondamentalement Gradualiste \(Gradualisme phylétique, Simpson 1940\)**
+{% endhint %}
+
+### Modalité de la sélection naturelle
+
+Il existe 3 modalités de base; Sélection directionnelle, sélection stabilisante, sélection diversifiante
+
+![Modalit&#xE9;s s&#xE9;lection naturelle](../.gitbook/assets/modalitees-selection-naturelle.png)
+
+#### Sélection directionnelle
+
+Favorise la survie de certains phénotypes par rapport à d’autres \(variation phénotypique déplacée dans la population\)
+
+![S&#xE9;lection Directionelle](../.gitbook/assets/selection-directionelle.png)
+
+#### Sélection stabilisante
+
+Est associée à une réduction de la variation phénotypique
+
+![S&#xE9;lection stabilisante](../.gitbook/assets/selection-stabilisante.png)
+
+#### Sélection diversifiante
+
+Favorise deux phénotypes au moins dans une population et augmente le niveau de variation phénotypique
+
+![S&#xE9;lection diversifiante](../.gitbook/assets/selection-diversifiante.png)
+
+### L'état actuel de la question
+
+* Biologie moléculaire
+* Saltationnisme
+* Équilibre ponctués
+* Neutralisme
+* Génétique du développement
+
+#### Biologie moléculaire
+
+**James D. Watson** \(1928- \) et **Francis H. C. Crick** \(1916-2007\) publient en 1953 leur travail décrivant la structure géométrique de l’ADN. Mais l’histoire a oublié le rôle de **Rosalind Franklin** \(1920-1958\)
+
+{% hint style="info" %}
+L’acide désoxyribonucléique se présente sous la forme d’une double hélice. Chaque chaîne est constituée d'un squelette formé de phosphodiesters et de sucres \(ribose\) en alternance. Chaque sucre porte une «base azotée»: A \(adénine\), T \(thymine\), G \(guanine\) et C \(cytosine\). Les deux chaînes formant la double hélice sont complémentaires \(«paires de bases» A-T et G-C\).
+{% endhint %}
+
+#### Saltationnisme
+
+Fondée par **Richard Goldschmidt** \(1878-1958\), généticien allemand, il propose une idée d’évolution discontinue par sauts morphologiques \(= saltations\), permettant le passage d’une organisation à une autre sans formes intermédiaires. Saltations déclenchées par des mutations impliquant des remaniements de grande ampleur du matériel génétique \(macromutations\). Notion de monstre prometteur. Théorie aujourd’hui abandonnée
+
+![Saltationnisme](../.gitbook/assets/saltationnisme.png)
+
+#### Équilibre ponctuée
+
+**Niles Eldredge** \(1943 \) et **Stephen J. Gould** \(1941-2002\) \(paléontologues américains\): publient en 1972 une remise en cause du gradualisme phylétique et une «explication» des sauts évolutifs. Ils évoquent un problème, **dans le registre fossile, les formes intermédiaires manquent généralement.**
+
+**Pourquoi ?**   
+Leur explication est du au manque de sédiments  
+Pour Eldredge et Gould: les intermédiaires sont très rares et la prépondérance de la spéciation allopatrique \(géographique\) va à l’encontre du gradualisme il instaure donc un modèle d'équilibre ponctué
+
+{% hint style="info" %}
+Une fois formées par spéciation allopatrique, les espèces montrent de longues phases de stabilité morphologique \(**stases**\), suivies de brèves phases de **variation brutale** \(i.e. instantanées à l’échelle des temps géologiques\) au cours desquelles elles donnent naissance ****à de **nouvelles espèces**.
+{% endhint %}
+
+![Diff&#xE9;rence entre le gradualisme &#xE9;volution et l&#x2019;&#xE9;quilibre ponctu&#xE9;s](../.gitbook/assets/difference-entre-equilibre-ponctue-et-gradualisme.png)
+
+1. Un groupe réduit s’isole géographiquement d’une espèce souche
+2. L’isolat montre une évolution différente de la souche \(dérive génique\), à terme, cet isolat peut conduire à une nouvelle espèce
+3. La nouvelle espèce peut envahir le territoire de la population souche, qui s’éteint car moins compétitive
+
+![&#xC9;quilibre ponctu&#xE9;](../.gitbook/assets/equilibre-ponctue.png)
+
+Ce modèle explique le remplacement brutal d'une espèce par une autre dans le registre fossile
+
+{% hint style="info" %}
+Pour Eldredge et Gould, l'evolution n'est pas lente et régulière mais faite d’événement rares et complexe qui brise la stabilité et l'équilibre des espèces \("Équilibre ponctués"\). Ils ne nient pas le gradualisme, mais ils contestent l'universalité
+{% endhint %}
+
+#### Neutralisme
+
+Motoo Kimura \(1924-1994, biochimiste japonais\):Travaille sur les enzymes et l’évolution moléculaire 1968 : Neutral Theory of Molecular Evolution. Sa théorie se compose de différent principe
+
+* Pour une même protéine, le taux d’évolution \(= le nombre de substitutions des allèles\) est plus ou moins constant
+* Les allèles sont sélectivement neutres \(ni avantageux, ni désavantageux
+* Les mutations apparues se fixent au hasard: les allèles étant sélectivement neutres, les mutations ne sont pas éliminées \(mis à part les mutations létales\)
+* La dérive génique est la composante majeure de l’évolution, mais comme elle conduit à l’homozygotie \(un individu est homozygote pour un gène quand il possède deux allèles identiques de ce gène\), le polymorphisme génétique est maintenu par les mutations et les migrations
+
+{% hint style="success" %}
+Certains mutants, sans aucun avantage sélectif, peuvent se répandre dans une population selon les lois du hasard. Rôle mineur de la sélection naturelle: les mutations sont conservées ou non dans les générations successives au hasard des recombinaisons.
+{% endhint %}
+
+### A retenir !
+
+{% hint style="warning" %}
+* Antiquité - 19é siècle
+  * Fixisme
+  * Créationnisme
+  * Génération Spontanées
+* 19é siècle
+  * Essai d'explication de la diversité du vivant
+  * Catastrophisme \(Cuvie\)
+  * Transformisme \(Lamark\)
+  * Évolutionnisme \(Darwin\)
+* Première moitié du 20e
+  * Mutationnisme \(limite le rôle de la sélection naturelle\)
+  * Théorie synthétique gradualiste
+* Seconde moitié du 20e
+  * Équilibre ponctués
+  * Neutralisme
+
+Aujourd’hui, l’évolution est plutôt vue comme un processus multifactoriel ayant pour matière première l’étonnante plasticité du matériel génétique \(Guillaume Lecointre, 2014\).
+{% endhint %}
 
 ## Définitions
 
@@ -217,5 +349,17 @@ Hétérozygote :
 Génotype :
 
 Phénotype :
+
+Facteur mendélien :
+
+Population :
+
+Sédiment :
+
+Stase :
+
+Gradualisme :
+
+Universalité : 
 {% endhint %}
 
