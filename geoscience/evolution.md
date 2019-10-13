@@ -333,6 +333,162 @@ Certains mutants, sans aucun avantage sélectif, peuvent se répandre dans une p
 Aujourd’hui, l’évolution est plutôt vue comme un processus multifactoriel ayant pour matière première l’étonnante plasticité du matériel génétique \(Guillaume Lecointre, 2014\).
 {% endhint %}
 
+## Reconstructions phylogénétiques
+
+### Définitions
+
+{% hint style="info" %}
+**Systématique :** Science de la classification des taxons
+
+**Phylogenèse :** Histoire évolutive d’une lignée
+
+**Phylogénie :** Cours historique de la descendance des êtres vivants \(Haeckel, 1866\)  
+La phylogénie est la science qui étudies les relations de parenté entre les êtres vivants, elle produit des reconstructions phylogénétiques.
+
+**Taxons :** ensemble d’organismes regroupés en tant qu’unité formelle  
+- Homo sapiens = taxon de rang spécifique \(unité espèce\)   
+- Homo = taxon de rang générique \(unité genre\)   
+- Hominidae = taxon de rang familial \(unité famille\)   
+- Primate = taxon de rang ordinal \(unité ordre\)
+
+**Taxinomie :** Science de la description des taxons et de la théorie et de la pratique de la classification. C’est l’identification des organismes et leur rangement dans une classification \(Différent de la phylogénie ! tandis que les phylogénies sont fondées sur la recherche de caractères partagés par les organismes. Les approches peuvent donc être différentes\)
+{% endhint %}
+
+### Systématique évolutionniste
+
+On **regroupe** les organismes ayant des **caractéristiques** **communes**, **dérivées** de celle d'un **ancêtre** **commun**.  
+Il n'y à pas de **méthode** **explicite** et l'approche est assez **subjective** :
+
+* **Nature disparate des indices utilisés** \(Caractère morphologiques, distributions géographique et stratigraphique, similitude globale, similitude écologique...\)
+  * **Relations phylogénétiques**
+  * **Degrés de divergence entre taxons**
+* Considération "**à priori**" sur les processus évolutifs \(**argument d'autorité : raisonnement circulaire**\)
+
+![](../.gitbook/assets/raisonnement-circulaire-systematique-evolutionniste.png)
+
+Le mode de représentation graphique est le **Phylogramme** \(C'est le schéma de relations de parenté exprimant les branchements et le degré de "divergence" associé à chaque branche \(Taxon\)
+
+![Phylog&#xE9;nie des vert&#xE9;br&#xE9; selon Romer \(1966\)](../.gitbook/assets/phylogenie-des-vertebres-selon-romer.png)
+
+### Phénétique
+
+Aussi appeler taxinomie numérique, est basé sur plusieurs principes
+
+* Taxons regroupés sur la base du **degré de similitude globale** \(exprime le degré de divergence entre taxons\)
+* Caractères utilisés **non polarisés** \(tous les caractères, **évolués** ou **primitifs**, sont **traités** **également**\)
+* A partir de « présence » ou « absence » de caractère, ou de mesures quantitatives de caractères, on calcule un indice de similarité entre les taxons à classer.
+
+Différences entre les caractères de 2 taxons mesurées globalement à l'aide d'une variable continue \(similitude globale\) = distance entre les taxons. Voici le protocole
+
+1. Matrice taxons / caractères
+2. Matrice de similitude globale comptabilisant les différences pour chaque couple de taxons
+3. Utilisation d’algorithmes de calcul \(logiciels\) et représentation graphique
+4. Le résultat est un **phénogramme**
+
+Cette méthode permet d'avoir un taux en pourcentage de similitude.
+
+### Cladistique
+
+« Cladisme » ou « systématique phylogénétique » est mis en place par Willy HENNIG \(1913-1976\), entomologiste allemand, dans les année 1950. Pour lui la **systématique** se veut de refléter **strictement** la **phylogénie.** Cette méthode est utilisé sur les caractères morphologiques \(Actuel ou fossile\) et sur les caractères moléculaires \(Actuel ou sub-actuels\), Basé sur deux grand principe
+
+* Partage des caractères dérivés
+  * Seul le **partage** de caractères **évolués** permet de préciser les relations de parenté
+  * Si **plusieurs** **taxons** possèdent un même caractère **évolué** \(**dérivé**\), ils l’ont **hérité d’un ancêtre commun**
+  * Nécessité de **polariser** les **caractères**, avant toute analyse
+* Parcimonie
+  * Parmi **les arbres phylogénétiques possible** \(**cladogramme**\), seul le plus **parcimonieux** est retenu \(Celui impliquant le moins de transformation évolutives\)
+
+{% hint style="warning" %}
+Au préalable, identification des états **primitifs** \(= **plésiomorphes**\) et **dérivés** \(= **apomorphes**\) des **caractères**.
+
+Le partage des caractères dérivés est appelé **synapomorphie**  
+Le partage des caractères primitifs est appelé **symplésiomorphie**
+
+**Seul** le partage de caractères **dérivés** \(**synapomorphies**\) permet de **préciser** les **relations** de **parenté**
+{% endhint %}
+
+![Diff&#xE9;rent clades valides](../.gitbook/assets/arbre_poissons.jpg)
+
+#### Polarisation des caractères
+
+Polariser les caractères, c’est reconnaître leur état apomorphe ou plésiomorphe. On construit alors une matrice de caractères dans laquelle l’état de chaque caractère, pour chaque taxon, est codé \(généralement\) de façon binaire : 0 est le plésiomorphe et 1 l’apomorphe
+
+#### Cladogramme 
+
+Le cladogramme traduit des relations de **groupes-frères**
+
+![Cladogramme](../.gitbook/assets/exemple-cladograme.png)
+
+#### A retenir
+
+{% hint style="info" %}
+* Apomorphie
+  * Un caractère \(ou un état caractère\) dérivé
+* Synapomorphie
+  * Un caractère \(ou un état caractère\) dérivé partagé par au moins deux taxon
+* Autapomorphie
+  * Un caractère \(ou un état de caractère\) dérivé présent chez un seul taxon \(non informatif pour la phylogénie\)
+* Plésiomorphie
+  * un caractère \(ou un état de caractère\) primitif
+* Symplésiomorphie
+  * un caractère \(ou un état de caractère\) primitif partagé par plusieurs taxons
+{% endhint %}
+
+#### Comment "trier" les caractères
+
+**L’homoplasie** est la similitude d’un état de caractère chez différentes espèces qui, contrairement à **l’homologie**, ne provient pas d’un ancêtre commun
+
+{% hint style="danger" %}
+Tenir compte de **l'Homologie**, éliminer ~~_**l'homoplasie**_~~
+{% endhint %}
+
+#### Homologie
+
+**Structures homologues** \(ou organes, ou séq. d ’ADN, ou protéines...\) : structures qui **conservent**, **malgré** leurs **variations** **d’aspect**, la même **organisation fondamentale**, qui reflète l’héritage d’un ancêtre commun
+
+![Malgr&#xE9; la diff&#xE9;rence de forme, fonction et taille, il y a une organisation structur&#xE9; h&#xE9;rit&#xE9; d&apos;un anc&#xEA;tre commun](../.gitbook/assets/membre-anterieurs-de-tetrapodes.png)
+
+Autre exemple d'homologie, avec le crane d'un homme et d'un rat
+
+![Homologie du crane d&apos;un rat et d&apos;un homme](../.gitbook/assets/homologie-crane-rat-et-homme.png)
+
+#### Homoplasie
+
+Bien distinguer l'homoplasie et l'homologie. Qui est homoplasie tout ce qui n'est pas homologue.   
+**Similitude** chez plusieurs **taxons**, de structures \(ou organes, parties d’organes, séq. d’ADN, protéines\) **ne reflétant pas l’héritage d’un ancêtre commun**.   
+**Structures analogues** : structures ayant la **même fonction, sans avoir la même organisation** \(ne reflètent pas l’héritage d’un ancêtre commun\).
+
+![Exemple homoplasie](../.gitbook/assets/clade-homoplasie.png)
+
+**Parallélisme :** **ressemblance apparue indépendamment** chez différents taxons à **partir** de la **même condition ancestrale** \(proches parents; au niveau de la famille, du genre, de l’espèce...\)
+
+![Evolution parall&#xE8;le de poissons t&#xE9;l&#xE9;ost&#xE9;ens entre les lacs Tanganyika et Malawi](../.gitbook/assets/parrallelisme.png)
+
+**Convergence :** **ressemblance** apparue **indépendamment** chez différents taxons à partir d’une condition **ancestrale** **différente** \(au niveau de l’Embranchement, Classe, Ordre...\)
+
+![Les ailes d&#x2019;oiseau, de chauve-souris et de pt&#xE9;rosaure ont une organisation diff&#xE9;rente \(nombre de doigts, faites de peau ou de plumes\) indiquant qu&#x2019;elles ne d&#xE9;rivent pas d&#x2019;un anc&#xEA;tre commun. Ce sont des structures analogues \(homoplasies\)](../.gitbook/assets/convergence-ailes.png)
+
+![Nageoire caudale acquise ind&#xE9;pendamment chez plusieurs lign&#xE9;es d&#x2019;animaux marins](../.gitbook/assets/nageoire-caudale.png)
+
+**Réversion :** l’état **évolué** \(**apomorphe**\) d’un caractère **morphologique** \(ou **moléculaire**\) **revient** à un état **primitif** \(**plésiomorphe**\).
+
+#### Principe de parcimonie
+
+A partir d’une même matrice : plusieurs cladogrammes possibles !
+
+* 3 taxons : 3 possibles \(a\)
+* 4 taxons : 15 possibles \(b\)
+* 5 taxons : 105 possibles
+* 9 taxons : + de 2 millions possibles !
+
+![Diff&#xE9;rent clade selon 3 ou 4 taxons](../.gitbook/assets/exemple-de-clade-selon-differents-taxons.png)
+
+{% hint style="warning" %}
+Est retenu celui qui suppose le moins de **transformations** **évolutives**, \(changements d'états des caractères\). C’est le principe de parcimonie
+
+On **minimise** **l’homoplasie**, puisque les **changements** **d’états** des caractères sont **maintenus** à leur **minimum**
+{% endhint %}
+
 ## Définitions
 
 {% hint style="info" %}
@@ -361,5 +517,9 @@ Stase :
 Gradualisme :
 
 Universalité : 
+
+Plésiomorphe :
+
+Apomorphe : 
 {% endhint %}
 
