@@ -489,6 +489,26 @@ Est retenu celui qui suppose le moins de **transformations** **évolutives**, \(
 On **minimise** **l’homoplasie**, puisque les **changements** **d’états** des caractères sont **maintenus** à leur **minimum**
 {% endhint %}
 
+#### 3 types de grades
+
+**Grade :** Ensemble d’êtres vivants partageant un même degré général d’organisation. Un stade de « progrès » ou de « perfection évolutive », il existe 3 type de grades
+
+{% hint style="warning" %}
+* Clade \(Le seul acceptable\) Groupe monophylétique
+* Groupe paraphylétique
+* Groupe polyphylétique
+{% endhint %}
+
+{% hint style="danger" %}
+**Groupe** **monophylétique \(= clade\) :** groupe incluant **TOUS** les descendants Grades et clade d’un même ancêtre commun \(défini par au moins 1 synapomorphie\).
+{% endhint %}
+
+#### Pour conclure
+
+{% hint style="success" %}
+Toute reconstitution phylogénétique est une hypothèse et un outil pour comprendre les mécanismes de l’évolution
+{% endhint %}
+
 ## Définitions
 
 {% hint style="info" %}
@@ -521,5 +541,9 @@ Universalité :
 Plésiomorphe :
 
 Apomorphe : 
+
+Paraphylétique : 
+
+Polyphylétique : 
 {% endhint %}
 
