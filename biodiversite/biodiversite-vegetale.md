@@ -70,6 +70,8 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Procambium :** 
 
 **Pachyte :**
+
+**Phyllotaxie :**
 {% endhint %}
 
 ## Grand groupe des végétaux
@@ -306,6 +308,8 @@ Le point de départ des angiosperme est la graine, formée de différentes parti
 
 ![Sch&#xE9;ma graine haricot](../.gitbook/assets/graine-haricot.png)
 
+![Photo graine haricot prise a la loupe binoculaire](../.gitbook/assets/graine-haricot%20%281%29.png)
+
 ### Feuille
 
 {% hint style="info" %}
@@ -340,6 +344,19 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 {% hint style="danger" %}
 Le **bourgeon** ne fais pas partie de la **Feuille**
 {% endhint %}
+
+### Phyllotaxie
+
+Il existe 4 grandes phyllotaxie
+
+{% hint style="warning" %}
+* Alterne spiralée
+* Alterne distique
+* Opposée décussée
+* Verticillée
+{% endhint %}
+
+![Phyllotaxie](../.gitbook/assets/phyllotaxie-1.png)
 
 ## Production de nouvelles cellules
 
@@ -870,6 +887,16 @@ On appelle ça la croissance secondaire diffuse \(Pas assuré par une assise mai
 ### Représentation schématique des Xylèmes et Phloèmes
 
 ![Repr&#xE9;sentation sch&#xE9;matique des phlo&#xE8;mes et xyl&#xE8;mes primaire et secondaire ainsi que du cambium](../.gitbook/assets/representation-schema-des-phloeme-et-xyleme-primaire-et-secondaire-+-cambium.png)
+
+## Travaux pratique
+
+### Utilisation de différents colorants
+
+Lors des travaux pratiques pour découvrir les fondements des cellules, nous allons utilisées différents colorants
+
+* Rose à rouge violacé : paroi pecto-cellulosique
+* Vert à turquoise : paroi secondairement imprégnée de lignine
+* Jaunâtre : composées lipidiques \(cutine, subérine\) de la cuticule, de la paroi subérifiée
 
 ## Ressources
 
