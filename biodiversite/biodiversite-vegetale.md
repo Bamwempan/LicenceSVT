@@ -55,19 +55,29 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 
 **Pectocellulosique :** Qualifie la **paroi** des cellules végétales qui contient de la **cellulose** et de la **pectine**
 
-**Parenchyme :**
+**Parenchyme :** Tissu végétal formé de cellules peu spécialisées, dont les parois restent minces \( Ce sont des tissus de constitutions qui peuvent cependant accomplir des fonctions spécialisées\)
 
-**Paroi Lignifiée :**
+**Parenchyme cortical :** Parenchyme situé dans les tiges ou les racines sous le tissu épidermique. \(D'une manière générale, un parenchyme cortical désigne un tissus qui se trouve à la périphérie d'un organe\)
 
-**Paroi subérifiée :**
+**Sclérenchyme :** Tissus de soutien formé de cellules mortes à paroi épaisse entièrement **lignifiée**. \(Le sclérenchyme se trouve essentiellement dans les organes en croissance sous forme de **fibres** allongées et de **sclérites**\)
 
-**Sève brute :**
+**Lignifié :** Se dit d'un tissu, d'un organe, ou d'une plante devenu **ligneux** à la suite du dépôt de **lignine** dans la **paroi** des cellules \(Comme la lignine se dépose dans les parois, l'adjectif **lignifiée** est à employer plutôt pour les cellules et les tissus\)
 
-**Sève élaborer :**
+**Lignine :** Catégorie de substances, **peu** **dégradables**, **non** **glucidiques** résultant de la copolymérisation de 3 alcool aromatiques \(monolignols\) formés à partir de la phénylalanine. \(Les lignines sont colorées en jaune, jaune brun et **l'humus** leur doit sa couleur. Dans les lamelles moyenne elles assurent la soudure irréversible des cellules entre elles. Ce matériau hydrophobe et rigide à permis la formation de végétaux à port arborescent capable de transporter l'eau sous tension sur de longues distances, des racines au feuilles.
 
-**Faisceaux libéraux ligneux :**
+**Suber \(liège\) :** Tissu secondaire protecteur mis en place par l'assise subéro-phellodermique dans les troncs, les branches et les racines. \(De point de vue fonctionnel, le suber remplace l'épiderme qui est tombé. Le suber est formé de cellules empilées radialement, remplies d'air et dont la paroi imprégnée de **subérine** est imperméable à l'eau et au gaz. Cette imperméabilité est à l'origine de leur mort. En conséquence tous les tissus situés à l'extérieur meurent et tombent , ils constituent le **rhytidome** ou **écorce** du language commun.
 
-**Procambium :** 
+**Subérine :** Catégorie de substances de nature lipidiques et donc hydrophobe, déposées dans les parois du **suber** et associées à de la **lignine** dans les parois épaissies de l'endoderme et du périderme racinaires
+
+**Endoderme :**  Assise formée d'une seule épaisseur de cellules qui correspond à la dernière couche de cellules du parenchyme cortical.
+
+**Sève brute :** Solution aqueuse fabriqué à partir de l'eau et des ions puisés dans le sol par les racines contenant aussi de la matière organique libérée par les organes de réserve souterrains. \( La sève brute circule dans la plante dans les vaisseaux du bois \(**Xylème**\). Compte tenu de son sens de déplacement, elle est aussi qualifiée de sève ascendante.
+
+**Sève élaborer :** Solution aqueuse formée dans les feuilles par accumulation de la matière organique provenant de l'**assimilation chlorophyllienne.** \( La sève élaborée utilise des conduits appelés **tube criblés**, qui constituent le **phloème.** Elle est aussi appelée sève descendante.
+
+**Faisceaux libéraux ligneux :** est une partie du système vasculaire d'une plante vasculaire
+
+**Procambium :** Tissu issu des **méristèmes primaires**  racinaire et caulinaire à l'origine de la différenciation du xylème et du phloème primaire. ****
 
 **Pachyte :**
 
