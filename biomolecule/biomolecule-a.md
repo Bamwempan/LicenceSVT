@@ -307,11 +307,9 @@ Il est alors représenté au moyen d ’une formule plane.
 
 ![Isom&#xE9;rie](../.gitbook/assets/isomerie.png)
 
-## Stéréoisomérie
+## Représentation
 
 La Stéréoisomérie est la différence de disposition des atomes dans l'espace, il existe plusieurs méthode de représentation des structures tridimensionnelle comme les représentation de Cram et de Newman, dont le point commun est la perspective Cavalière.
-
-![St&#xE9;r&#xE9;oisom&#xE9;rie](../.gitbook/assets/stereoisemirie.png)
 
 ### Représentation Cram
 
@@ -323,11 +321,28 @@ La Stéréoisomérie est la différence de disposition des atomes dans l'espace,
 
 ### Projection de Fischer
 
+{% hint style="info" %}
+Ce mode de représentation est utilisé essentiellement dans la chimie des sucres.
+
+**Chaîne carbonée verticale avec le carbone le plus oxydé** \(de plus faible indice\) vers le haut.
+{% endhint %}
+
 1. Projection en deux dimension, 1er chaîne carbonée la plus longue vertical 
-2. Fonction la plus oxydée en haut \( $$CO_2H>CHO>CH_2OH>CH_3$$ 
+2. Fonction la plus oxydée en haut \( $$CO_2H>CHO>CH_2OH>CH_3$$ \)
 3. Carbone extrémité en arrière
 
+![Projection Fisher, Repr&#xE9;sentation Cram et repr&#xE9;sentation cavali&#xE8;re](../.gitbook/assets/fisher-cram-cavalie-re.png)
+
+![Fisher Glucose](../.gitbook/assets/fisher-glucose.png)
+
 ### Projection de Newman
+
+{% hint style="warning" %}
+* La molécule est regardée dans l’axe de la liaison entre deux atomes voisins.
+* l’atome de devant est représenté par un cercle ; l’atome de derrière est
+
+  masqué par celui de devant.
+{% endhint %}
 
 ![](../.gitbook/assets/representation-de-newman.png)
 
@@ -345,4 +360,148 @@ Le **conformère** **chaise** le plus **stable** est celui qui met tous les **su
 Si un **cycle** porte **deux** **substituants** sur **deux** **atomes** **différents**, alors il existe une isomérie cyclanique en fonction de leur position relative. On parlera d’isomérie **cis** si les deux substituants sont du même **côté** du **plan** moyen du **cycle**, et d’isomérie **trans** s’ils sont de **part** et **d’autre** du **plan** moyen du **cycle**.
 
 ![Cis et Trans](../.gitbook/assets/cis-et-trans.png)
+
+## Stéréoisomérie de conformation
+
+{% hint style="info" %}
+ Deux isomères sont des composés ayant la même formule brute mais dont les molécules sont différentes
+
+Des **stéréoisomères** sont des composés ayant **même formule de constitution** \(même chaîne carbonée, mêmes fonctions dans les mêmes positions\) et qui **différent** par **l’agencement spatial** de leurs **atomes**.  
+Les différents arrangements des atomes qui résultent de la rotation autour d’une liaison simple sont appelés **conformations** et une conformation particulière est appelée **conformère**.
+{% endhint %}
+
+![St&#xE9;r&#xE9;oisom&#xE9;rie](../.gitbook/assets/stereoisemirie.png)
+
+### Cas de l'éthane
+
+{% hint style="info" %}
+L'ethane $$CH_3 - CH_3$$  constitue l’exemple le plus simple de la chaîne saturée acyclique formée par un enchaînement de 2 carbones reliés par une liaison simple s . Autour de cette liaison, il peut y avoir possibilité de rotation.
+
+Les 2 groupes CH3 peuvent tourner librement l’un par rapport à l’autre. On a donc une infinité d’arrangements différents qui sont des conformations différentes de la même molécule.
+{% endhint %}
+
+{% hint style="warning" %}
+Il existe **deux** **conformation** **particulières**
+
+* Conformation **éclipsé** \(Chaque atome d'hydrogène sont vis à vis les uns des autres\)
+* Conformation **décalé** \(Les atomes d'hydrogènes sont décalé au maximum les uns des autres\)
+
+On passe d'une conformation à l'autre par des rotations de 60 degrés
+{% endhint %}
+
+![](../.gitbook/assets/conformation-decale-et-eclipse.png)
+
+{% hint style="success" %}
+On dit que 2 conformations décalées successives sont séparées par une **barrière d’énergie** \(ou **barrière de potentiel**\) qui vaut dans l’éthane 12,5 KJ.mol-1.  
+La **rotation a donc lieu en permanence**, mais, statistiquement, à un instant donné, il y a dans l’éthane **plus de molécules décalées** \(plus stables\) que de molécules éclipsées.  
+A tout moment elle se modifie, et cela **exclut d’ailleurs que l’on puisse isoler les molécules possédant une certaine conformation**.
+{% endhint %}
+
+### Cas du cyclohexane
+
+{% hint style="info" %}
+ Le **cycle cyclohexanique présente un intérêt particulier** car il est présent dans la structure de nombreux composés naturels \(stéroïdes, terpènes...\)  
+Le cyclohexane peut prendre deux conformations principales dénommées « **forme chaise** » et « **forme bateau** ».
+{% endhint %}
+
+![Conformation chaise](../.gitbook/assets/conformation-chaise.png)
+
+### Isomérie cis trans dans les cyclohexane
+
+#### Substitution en 1,2
+
+#### Substituant identique
+
+![Substitution 1,2, avec des substituants identiques](../.gitbook/assets/deux-subsituant-identique.png)
+
+{% hint style="success" %}
+* Dans le cas **Trans 1,2**, comme les substituant sont **identiques**, ils prennent la **même** **place** dans **l'espace** et sont donc **plus stable** lorsque les deux substituants sont en position équatorial, car il y a le **moins** **d'interactions** **diaxiales** **1,3**.
+* Dans le cas **Cis 1,2**, les deux conformations sont **identiques** et ont donc la **même stabilité**
+{% endhint %}
+
+#### Substituants différents
+
+![Substitution 1,2 avec des substituants diff&#xE9;rents](../.gitbook/assets/2-substituant-differents.png)
+
+{% hint style="success" %}
+* Dans le cas **Trans 1,2**, comme les **substituants** sont **différents**, il faut tenir compte de leur **place** dans **l'espace**. L' $$OH$$ prend moins de place que le $$CH_3$$ , donc la conformation la plus stable sera celle qui aura en position équatorial le substituant le plus volumineux, ici le $$CH_3$$
+* Dans le cas **Cis 1,2**, la conformation la plus stable est celle qui a le **substituant** le **plus volumineux** en position **équatorial** et **minimise les interactions diaxiales 1,3**
+{% endhint %}
+
+#### Substitutions 1,3
+
+#### Substituants identiques
+
+![Substitution 1,3 avec substituants identiques](../.gitbook/assets/substitution-1-3-substituant-identique.png)
+
+{% hint style="success" %}
+* Dans le cas de **Trans 1,3**, comme les substituant sont **identiques**, ils prennent la **même** **place** dans **l'espace** et ont donc une **stabilité** **équivalente** peut importe la conformation chaise.
+* Dans le cas **Cis 1,3**, la conformation la plus stable est celle ou les **substituants** sont tous en **positions** **équatorial**
+{% endhint %}
+
+#### Substituants différents
+
+![](../.gitbook/assets/substitutions-1-3-avec-substituants-differents.png)
+
+{% hint style="success" %}
+* Dans le cas **Trans 1,3**, la conformation la plus stable est celle qui à le **substituant** le plus **volumineux** en position **équatorial**
+* Dans le cas **Cis 1,3**, la conformation la plus stable est celle qui qui à les **deux** **substituants** en positions **équatorial** et **minimise donc les interactions diaxiales 1,3**
+{% endhint %}
+
+## Stéréoisomérie de configuration
+
+{% hint style="info" %}
+ Les **stéréoisomères de configuration** sont des composés ayant **la même  
+ formule de constitution** \(même chaîne carbonée, mêmes fonctions dans les mêmes positions\) et qui **différent par l’agencement spatial** des **atomes** **sans tenir compte des dispositions différentes dues aux rotations autour de simples liaisons** \(-&gt; stéréoisomères de conformation\).  
+Ce sont des molécules différentes, que l’on peut **isoler** et **transformer l’une en l’autre** **qu’après rupture et formation d’au moins une liaison covalente**. Il n’y a **pas d’équilibre** entre elles.
+{% endhint %}
+
+### Définition
+
+{% hint style="info" %}
+**Chiralité :** un composé chimique est dit chiral \(du grec χείρ : la main\) s'il n'est pas superposable à son image dans un miroir
+
+**Achiralité :** qui n'est pas chirale
+
+**Énantiomères :** stéréoisomères qui sont images l’un de l’autre dans un miroir \(par rapport à un plan\) et qui ne sont pas superposables
+
+**Diastéréoisomères :** stéréoisomères qui ne sont pas images l’un de l’autre dans un miroir et qui ne sont pas superposables
+
+**Carbone stéréogène :** Carbone $$sp^3$$ ayant **4 liaisons** $$\sigma$$ avec des **substituants différents \(atomes** ou **groupes d'atomes différents\)**
+{% endhint %}
+
+![Chiralit&#xE9; mol&#xE9;culaire](../.gitbook/assets/chiralite-mains-molecules.jpeg)
+
+#### Chirale
+
+{% hint style="warning" %}
+On dit qu'une molécule est **chirale** si :
+
+1. Elle a **un carbone stéréogène**
+2. Elle n'a **pas de centre de symétrie** ou de **plan de symétrie.**
+3. Elle a **plusieurs carbones stéréogènes** avec des **substituants différents** 
+{% endhint %}
+
+#### Achirale
+
+{% hint style="warning" %}
+On dit qu'une molécule est **achirale** si :
+
+1. Elle **n'a pas de carbone stéréogène**
+2. Elle **à un plan, un axe ou un centre de symétrie**
+{% endhint %}
+
+### Énantiomère
+
+{% hint style="info" %}
+Stéréoisomères qui sont images l’un de l’autre dans un miroir \(par rapport à un plan\) et qui ne sont pas superposables, ce sont donc des **molécules** **chirales**
+{% endhint %}
+
+![&#xC9;nantiom&#xE8;re](../.gitbook/assets/enantiome-re.png)
+
+### Activité optique 
+
+### Configuration absolue
+
+### Diastéréoisomérie
 
