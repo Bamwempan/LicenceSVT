@@ -499,9 +499,61 @@ Stéréoisomères qui sont images l’un de l’autre dans un miroir \(par ra
 
 ![&#xC9;nantiom&#xE8;re](../.gitbook/assets/enantiome-re.png)
 
-### Activité optique 
+### Activité optique
+
+Des énantiomères ont les mêmes propriétés chimiques sauf vis-à-vis des autres molécules \(récepteurs\) chiraux.
+
+![Exemple activit&#xE9; optique](../.gitbook/assets/activite-optique-exemple.png)
+
+{% hint style="info" %}
+Elles possèdent ce que l’on appelle un **pouvoir rotatoire**. Lorsque le plan de la lumière polarisée tournera vers la droite \(sens des aiguilles d’une montre\), on dira que la molécule est **dextrogyre** \(on note \(d\) ou \(+\)\), alors que dans le cas contraire \(vers la gauche\) elle sera **lévogyre** \(on note \(l\) ou \(-\)\).
+
+Ce pouvoir rotatoire se mesure à l’aide d’un polarimètre.
+{% endhint %}
 
 ### Configuration absolue
 
+- Relation d’énantiomérie liée à un carbone stéréogène
+
+#### Loi de Cahn, Ingold, Prélog
+
+{% hint style="danger" %}
+**Rappel :**
+
+$$I > Br > Cl> S > P > Si > F > O > N > C > H> \ ↑↓$$ 
+
+On ne fais **jamais** la **somme** des **numéros** **atomiques** !
+{% endhint %}
+
+1. Après avoir localisé les **carbones** **stéréogènes** \(ou centres chiraux\),
+
+   pour chacun de ceux-ci on classe les **4 atomes** directement reliés au centre stéréogène selon une séquence **décroissante** de leur **numéro** **atomique**.
+
+   1. \(Si parmi ces 4 atomes 2 au moins sont identiques, on les départage en considérant pour chacun d’eux les atomes auxquels ils sont liés en deuxième rang. Il suffit qu’il y ait un de ces atomes en 2ème rang avec un numéro
+
+      atomique supérieur pour que ce groupement devienne prioritaire.\)
+
+   2. Si un groupement comporte des doubles ou triples liaisons, on les considère comme l’équivalent de 2 ou 3 liaisons simples respectivement avec 2 ou 3 atomes du même élément.
+
+2. La séquence décroissante \(1 à 4\) ayant été établie, on regarde la molécule selon l’axe qui relie le centre stéréogène \(C\*\) à l’atome ou au substituant classé en dernier, l’œil étant placé du côté opposé à ce dernier. Puis on examine le « trajet » reliant les trois substituants pris dans l’ordre décroissant de priorité \(1 -&gt; 2 -&gt; 3\):  Si la décroissance de la priorité 1 vers 3 se fait dans le sens d'une aiguille d'une montre, le centre stéréogène est de configuration R \(provenant de rectus en latin\). Si c'est l'inverse, il est de configuration S \(du latin sinister\)
+
+![Exemple configuration absolu](../.gitbook/assets/exemple-config-absolu.png)
+
 ### Diastéréoisomérie
+
+Composé comportant deux carbones stéréogènes, chaque carbone stéréogène peut se trouver indépendamment l’un de l’autre dans la configuration R ou S. Il y a donc au maximum 4 stéréoisomères :
+
+$$
+R,R \ / \ S,S \ / \ R,S \ / \ S,R
+$$
+
+* Les molécules R,R et S,S sont image l'une de l'autre dans un miroir, de plus non superposable, ce sont donc des **énantiomères.** Il en est de même pour les deux molécule R,S et S,R
+* Par contre les couples de molécule R,R - S,R ou S,S - R,S ne sont pas image l'une de l'autre et sont non superposable, on dit que ce sont des **diastéréoisomères.**
+
+![Diast&#xE9;r&#xE9;oisom&#xE8;res](../.gitbook/assets/diastereosime-rie.png)
+
+{% hint style="info" %}
+* Si on à $$n$$ **carbones** **stéréogènes** alors il y a $$2^n$$ **stéréoisomères** au maximum
+* Et donc $$2^{n-1}$$ **couple d'énantiomères au maximum**
+{% endhint %}
 
