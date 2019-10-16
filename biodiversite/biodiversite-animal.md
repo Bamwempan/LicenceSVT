@@ -261,6 +261,148 @@ Suite à cette gastrulation il y formation de deux feuillet embryonnaire, l'endo
 
 ![R&#xE9;sultat gastrulation d&apos;une co&#xE9;loblastula et d&apos;une st&#xE9;r&#xE9;oblastula](../.gitbook/assets/coeloblastula-et-stereoblastula.png)
 
+#### 2 ou 3 feuillets embryonnaire ?
+
+#### Diploblastique - Triploblastique
+
+![](../.gitbook/assets/diplobastique-et-triploblastique.png)
+
+{% hint style="warning" %}
+Malgré le fait que les **cnidaires** et les **cténophores** on **deux feuillet embryonnaire**, il **ne sont pas un clade**
+{% endhint %}
+
+![Position cnidaires et p](../.gitbook/assets/cnidaire-et-ctenophores.png)
+
+### Les Cténophores
+
+{% hint style="warning" %}
+Le **colloblaste** est le caractère propre au **cténophores**.
+
+Ils ont des **tentacules**, sont **transparents** et ont des **cils** **iridescents**
+{% endhint %}
+
+![Ct&#xE9;nophores](../.gitbook/assets/ctenophores.png)
+
+### Cnidaires
+
+{% hint style="warning" %}
+Les **cnidaires** ont plusieurs **formes**, une forme **fixe** appelé **polype** et une forme **mobile** dite **méduse**, une espèces peut être polype et méduse.  
+Voici une listes de caractères pour les cnidaires
+
+* Symétrie radiale, diploblastique
+* Tissus différenciés
+* Stade larvaires, planula
+* Vive en milieu aquatique
+* On du mésoglée **\(Le mésoglée n'est pas un tissus, c'est de la gélatine\)**
+* Fécondation externe
+{% endhint %}
+
+#### Larve planula
+
+![Larve planula](../.gitbook/assets/larve-pluma.png)
+
+#### Polype
+
+![Polype](../.gitbook/assets/polype.png)
+
+#### Méduse
+
+![M&#xE9;duse](../.gitbook/assets/meduse.png)
+
+#### Trois groupes principaux de cnidaires
+
+Contient environs 15 000 espèces
+
+#### Lignée des médusozoaires
+
+#### Les hydrozoaires
+
+{% hint style="info" %}
+Contient environs 9000 espèces
+
+1. Stade polype
+2. Bourgeons médusaires
+3. Méduse mâle ou femelle assure la reproduction via une fécondation externe dans le milieux
+{% endhint %}
+
+![hydrozoaire](../.gitbook/assets/hydrozoaire.png)
+
+![Ob&#xE9;lia](../.gitbook/assets/obelia.png)
+
+#### Les Scyphozoaires
+
+{% hint style="warning" %}
+Forme méduse dominante, il y a division par **strobilisation.**
+
+Chaque pétale sur le polype donne une méduse
+{% endhint %}
+
+![Scyphozoaires](../.gitbook/assets/scyphosoaire.png)
+
+![Schyphozoaires](../.gitbook/assets/scyphosoaire-photo.png)
+
+#### Anthozoaires
+
+{% hint style="warning" %}
+**Seulement** **polype**, produit des gamètes dans l'environnement 
+
+* Coraux
+* Anémone
+{% endhint %}
+
+![Anthozoaires](../.gitbook/assets/anthozoaire.png)
+
+#### Caractéristique des cnidaires
+
+{% hint style="warning" %}
+* Paroi externe : épiderme \(Origine ectoderme\)
+  * Cnidocytes \(Utile pour tuer et capturer les proies, faire fuir les prédateurs\)
+    * Opercules
+    * Cnidocil excitable
+    * Crochets
+    * Capsule : venin
+  * Cellule Épithelio-musculaire
+  * Cellule interstitielle
+* Paroi interne : gastroderme \(origine endoderme\) \(Absorbe la nourriture\)
+  * Cellule digestive
+  * Cellule musculaire
+  * Cellule glandulaire
+* Mésoglée
+{% endhint %}
+
+![Paroi externe](../.gitbook/assets/cnidaires-paroi-externes.png)
+
+![Cnidocyte](../.gitbook/assets/cnidocytes.png)
+
+![Paroi externe](../.gitbook/assets/paroi-externe-cnidaires.png)
+
+#### Point de vue fonctionnel
+
+{% hint style="warning" %}
+* Respiration par diffusion car très simple et fin
+* Nutrition
+  * Cnidocytes
+  * Digestion extra et intra cellulaire
+  * Carnivore
+* Reproduction en plusieurs phases
+  * Phase asexuée : bourgeon et régénération
+  * Phase sexuée : fertilisation externe et planula
+* Excrétion / Osmorégulation avec diffusion de $$NH_4$$ 
+* Sens et Système nerveux
+  * Réseaux nerveux peu développé
+  * Méduse : Cellules sensorielle sensible à la lumière
+{% endhint %}
+
+#### Importance écologique
+
+{% hint style="warning" %}
+* Abri pour les animaux et nourritures de certains poissons
+* Peu de prédateurs 
+  * Etoiles de mer
+  * Tortues marines
+  * Nudibranches
+{% endhint %}
+
 ## Définitions
 
 {% hint style="info" %}
@@ -303,6 +445,12 @@ Blastomère :
 Feuillet embryonnaire : 
 
 Épithélium : 
+
+Larve planula :
+
+Mésoderme :
+
+Cnidocytes :
 {% endhint %}
 
 ## Résultat du TP "Etang"
