@@ -341,6 +341,8 @@ Le point de départ des angiosperme est la graine, formée de différentes parti
 **Le bourgeon ne fais pas partie de la feuille !**
 
 **Tige :** Organe généralement aérien, plus ou moins dressé et ramifié, sur lequel se développent des bourgeons qui se différencient soit en feuilles, soit en fleurs, soit en axes secondaires \(rameaux\) qui, à leur tour, portent des feuilles ou des fleurs.
+
+**Foliole :** Division d'une feuille composée en unités élémentaires \(Contrairement au feuille, les folioles ne possèdent pas de bourgeons\)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -348,8 +350,18 @@ Une feuille simple est bien différente qu'une feuille composée.
 Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de cette dernière.
 {% endhint %}
 
-* Marge du limbe : Entière / Dentée / Lobée
-* Nervure : Pénée / Palmée / Parallèle.
+{% hint style="warning" %}
+#### Nervation
+
+* Marge du limbe
+  * Entière
+  * Dentée
+  * Lobée
+* Nervure
+  * Pénée
+  * Palmée
+  * Parallèle
+{% endhint %}
 
 ![Composition d&apos;une feuille](../.gitbook/assets/tp+salle+etang+fascicule.jpg)
 
