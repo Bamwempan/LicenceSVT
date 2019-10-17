@@ -320,6 +320,8 @@ Le point de départ des angiosperme est la graine, formée de différentes parti
 
 ![Photo graine haricot prise a la loupe binoculaire](../.gitbook/assets/graine-haricot%20%281%29.png)
 
+[Time lapse développement d'un haricot](https://youtu.be/w77zPAtVTuI)
+
 ### Feuille
 
 {% hint style="info" %}
@@ -351,9 +353,15 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 
 ![Composition d&apos;une feuille](../.gitbook/assets/tp+salle+etang+fascicule.jpg)
 
+![Diff&#xE9;renciation feuilles](../.gitbook/assets/differenciation-feuille.png)
+
 {% hint style="danger" %}
 Le **bourgeon** ne fais pas partie de la **Feuille**
 {% endhint %}
+
+#### Photo feuille composée
+
+![Photo l&#xE9;gend&#xE9; d&apos;une feuille compos&#xE9;e](../.gitbook/assets/feuille-compose-haricot.png)
 
 ### Phyllotaxie
 
@@ -367,6 +375,20 @@ Il existe 4 grandes phyllotaxie
 {% endhint %}
 
 ![Phyllotaxie](../.gitbook/assets/phyllotaxie-1.png)
+
+![Compos&#xE9; de stipules ou non ? ](../.gitbook/assets/compose-de-stipules.png)
+
+### Système racinaire
+
+![Syst&#xE8;me racinaire](../.gitbook/assets/photo-syste-me-racinaire.png)
+
+### Jeune pousse
+
+![Photo l&#xE9;gend&#xE9; d&apos;une jeune pousse](../.gitbook/assets/photo-legende-dune-jeunes-pousse-dangiosperme.png)
+
+### Bourgeon
+
+![](../.gitbook/assets/photo-legendee-dun-bourgeon.png)
 
 ## Production de nouvelles cellules
 
@@ -900,6 +922,17 @@ On appelle ça la croissance secondaire diffuse \(Pas assuré par une assise mai
 
 ## Travaux pratique
 
+### Reconnaître qu'elle tissus nous observons
+
+{% hint style="warning" %}
+1. Tissus simple ou complexe
+2. Cellules alignées ou non alignées 
+3. Forme des cellules
+4. Couleur de la paroi
+5. Paroi normal \(fine\) ou épaissie
+6. Positionnement du tissu
+{% endhint %}
+
 ### Utilisation de différents colorants
 
 Lors des travaux pratiques pour découvrir les fondements des cellules, nous allons utilisées différents colorants
@@ -907,6 +940,20 @@ Lors des travaux pratiques pour découvrir les fondements des cellules, nous all
 * Rose à rouge violacé : paroi pecto-cellulosique
 * Vert à turquoise : paroi secondairement imprégnée de lignine
 * Jaunâtre : composées lipidiques \(cutine, subérine\) de la cuticule, de la paroi subérifiée
+
+### Aide au schéma
+
+![Reconnaissance tissus 1](../.gitbook/assets/reconaissance-tissus-1.png)
+
+![Reconnaissance tissus 2](../.gitbook/assets/reconaissance-tissus-2.png)
+
+### Faisceaux libéraux ligneux
+
+![Faisceaux lib&#xE9;raux ligneux](../.gitbook/assets/faisceau-libero-ligneux.png)
+
+### Coupe transversale tige herbacé
+
+![Coupe transversal tige herbac&#xE9;](../.gitbook/assets/coupe-transversale-tige-herbace.png)
 
 ## Ressources
 
