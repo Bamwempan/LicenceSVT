@@ -403,6 +403,82 @@ Chaque pétale sur le polype donne une méduse
   * Nudibranches
 {% endhint %}
 
+## Cœlome
+
+![Origine du c&#x153;lome](../.gitbook/assets/origine-du-coelome.png)
+
+{% hint style="warning" %}
+Le cœlome le regroupement des cavités secondaire d'un animal
+
+* Sac poumon -&gt; Plèvre
+* Sac cœur -&gt; Péricarde
+* Sac gastrique -&gt; Péritoine
+
+Le cœlome permet une augmentation de la complexité
+{% endhint %}
+
+La cavité primaire est l'archentéron, qui est l'intestin primitif au stade embryonnaire, c'est la première cavité qui traverse l'embryon en cours de développement et qui communique avec l'extérieur par le blastopore. Formé au cours de la gastrulation, cet organe tubulaire est entouré de l'endoderme nouvellement formé et deviendra l'appareil digestif de l'organisme.
+
+Le **blastopore** est **l'orifice** de la **blastula** faisant communiquer **l’archentéron** avec **l’extérieur**. Il résulte de l’invagination du matériel superficiel **lors** de la **gastrulation** et constituera **l’anus** chez les **deutérostomiens** et la **bouche** chez les **protostomiens**.
+
+![C&#x153;lome](../.gitbook/assets/difference-des-coelome.png)
+
+Il existes différents système chez un métazoaire
+
+* Système digestif
+* Système nerveux
+* Système respiratoire
+* Système circulaire
+* Système reproducteur
+* Système excréteur
+
+### Acœlomate
+
+{% hint style="warning" %}
+Les acœlomates sont les animaux qui n'ont pas de cavité interne
+{% endhint %}
+
+![](../.gitbook/assets/coupe-transversale-dun-planaire.png)
+
+![Vu longitudinale d&apos;un planaire](../.gitbook/assets/vue-longitidunale-dun-planaire.png)
+
+### Pseudocœlomates et Cœlomates
+
+#### Pseudocœlomates
+
+{% hint style="warning" %}
+Cavité présente mais pas dans le mésoderme
+
+La formation du pseudocœlome est différente de celle du cœlome puisqu’il se développe à partir de la blastocoele mais possède les mêmes fonctions
+{% endhint %}
+
+![Pseudoc&#x153;lomate](../.gitbook/assets/pseudocoelomate.png)
+
+#### Cœlomates
+
+{% hint style="warning" %}
+Cavité formé dans le mésoderme
+{% endhint %}
+
+![C&#x153;lomate](../.gitbook/assets/coelomates.png)
+
+{% hint style="info" %}
+Cavité générale d'un organisme triploblastique délimitée de toute part par un feuillet mésodermique appelé péritoine.
+{% endhint %}
+
+![](../.gitbook/assets/coupe-transversale-dun-lombric.png)
+
+#### Avantages
+
+{% hint style="warning" %}
+L'avantage des cœlomates et pseudocœlomates sont les suivants
+
+* Donne de la place aux organes
+* Le fluide dans le cœlome permet la rigidité \(Squelette liquide, hydrosquelette\)
+* Organe protégé du changement de température
+* Absorbe les chocs
+{% endhint %}
+
 ## Définitions
 
 {% hint style="info" %}
