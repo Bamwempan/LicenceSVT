@@ -12,11 +12,8 @@ description: Semestre Automne année 1
 
 ## Introduction à la biodiversité
 
-{% hint style="info" %}
-#### Définitions
-
-**Biodiversité :** La biodiversité est la diversité biologique observable à tous les niveaux.  
-Ensemble des êtres vivants.
+{% hint style="warning" %}
+**Biodiversité :** La biodiversité est la diversité biologique observable à tous les niveaux. Diversité des écosystèmes, diversité des espèces, diversité génétiques au sein des espèces.
 {% endhint %}
 
 Il existe 3 niveaux d’échelle de diversité 
@@ -34,19 +31,51 @@ La biodiversité est la diversité biologique, diversité du vivants et des êtr
 * Forme multiple dans la nature avec leur variété et leur variabilité \(Organisation, fonction, génétique\)
 * Diversité des écosystèmes, des espèces et des gènes, dans l'espace et dans le temps.
 
-#### Qu'est ce que le vivant ? 
+### Qu'est ce que le vivant ? 
 
-Un être vivant est un organisme vivant.  
-Voici différentes manières de les trouvés.
-
-* Système vivant complexe, connexe, organisé. Constitué d'une ou de plusieurs cellules vivantes \(**Unicellulaire** ou **Pluricellulaire**\)
-* Capable de s'auto-construire, élaborer sa propre matière et sa propre structure
-* Capable de se procurer de la matière et l'énergie nécessaire à son fonctionnement et sa reproduction
-* Capable de se reproduire et de donner naissance à d'autre organismes vivants \(Reproductions végétative ou sexuée\)
+{% hint style="warning" %}
+* Système vivant **complexe**, connexe, organisé. Constitué d'une ou de plusieurs cellules vivantes \(**Unicellulaire** ou **Pluricellulaire**\)
+* Capable de s'**auto-construire**, élaborer sa propre matière et sa propre structure
+* Capable de se procurer de la matière et l'énergie nécessaire à son fonctionnement et sa **reproduction**
+* Capable de se **reproduire** et de donner naissance à d'autre organismes vivants \(Reproductions végétative ou sexuée\)
 * Nécessite un environnement favorable pour survivre
 * Matière vivante fondée sur la chimie organique avec comme base le carbone.
+{% endhint %}
 
-### L'Histoire de la biodiversité.
+### Qu'est ce qu'un animal ?
+
+Les animaux sont aussi appelé métazoaire
+
+{% hint style="warning" %}
+* Être vivant eucaryote
+* Pluricellulaire
+* Hétérotrophe
+* Mobile \(à un stade de son évolution\)
+* contenant du collagène
+{% endhint %}
+
+### Qu'est ce qu'un végétale ?
+
+Les végétaux n'ont pas de caractère spécifiques, voici la liste des plus pertinents
+
+{% hint style="warning" %}
+* Cellule **eucaryote**
+* Cellule qui contient **parois**, **plastes** et **vacuole**
+* **Autotrophe** pour le **carbone**
+* Photosynthèse oxygénique
+* Production de **métabolite** **secondaires** 
+{% endhint %}
+
+### Qu'est ce qu'une cellule ?
+
+{% hint style="warning" %}
+* Unité structurale et fonctionnelle des êtres vivants, formée de molécules organique \(Carbone, Hydrogène, Oxygène, Azote\), les propriété du vivant s'observe à son échelle
+* Entouré d'une membrane plasmique \(Bicouche lipidique\)
+* Complexité d'organisation
+* Echange de la matière et de l'énergie avec son environnement
+* Douée de métabolisme \(Ensemble des réaction chimiques faisant intervenir des enzymes, permettant de synthétiser de la matière\)
+* Peut se diviser
+{% endhint %}
 
 #### Origine de la vie, première trace de vie ?
 
@@ -147,6 +176,8 @@ L'arbre phylogénétique traduit l'histoire de l'évolution
 
 ## L'arbre du vivant
 
+![Classification phylog&#xE9;n&#xE9;tique du vivant](../.gitbook/assets/classification-phylogenetique-du-vivant.jpg)
+
 {% hint style="info" %}
 **LUCA** **:** Last Universal Commun Ancestral
 {% endhint %}
@@ -160,7 +191,7 @@ Un virus n'est pas un être vivant
 C'est un parasite.
 {% endhint %}
 
-Les eucaryote au cours de leurs vie sont forcément en mouvement, soit de manière tracté, **Bicomtes**, soit en propulsion **Unicontes.**
+Les eucaryote au cours de leurs vie sont forcément en mouvement, soit de manière tracté, **Bicontes**, soit en propulsion **Unicontes.**
 
 ![Eucaryote Biconte / Uniconte](../.gitbook/assets/uniconte-biconte.jpeg)
 
@@ -186,6 +217,8 @@ Les cellules unicontes sont mobiles avec un flagelle propulseur
 **Procaryote :**
 
 **Eucaryote :**
+
+**Espèce :** 
 {% endhint %}
 
 ## Ressources
