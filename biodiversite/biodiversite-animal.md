@@ -432,6 +432,91 @@ Il y a deux mode de mise en place de cœlome, **schizocœlie** et **entérocœli
 Le cœlome n'est pas un caractère phylogénétique
 {% endhint %}
 
+## Protostomiens
+
+![Arbre phylog&#xE9;n&#xE9;tique protostomiens](../.gitbook/assets/arbre-phylogenetique-protostomiens.png)
+
+### Devenir du blastopore
+
+{% hint style="warning" %}
+Lors de l'évolution de l'embryon, le blastopore peut devenir, soit la bouche et l'être est alors un protostomien, ou alors l'anus, la bouche est une ouverture secondaire du tube digestif et l'être est alors un deutérostomien
+{% endhint %}
+
+#### Protostomiens
+
+![Blastopore devient la bouche](../.gitbook/assets/bouche-et-anus.png)
+
+#### Deutérostomiens
+
+![Blastopore devient l&apos;anus](../.gitbook/assets/anuse-et-bouche.png)
+
+### Spiraliens
+
+![Arbre phylog&#xE9;n&#xE9;tique des protostomiens spiraliens](../.gitbook/assets/arbre-phylogenetique-des-protostomiens.png)
+
+{% hint style="warning" %}
+Les protostomiens spiraliens se différencies grâce à différent caractère
+
+* Caractère moléculaire
+  * gènes de l'ARN ribosomique 18S
+  * gènes Hox \(développement\)
+* **Clivage spiral** lors de embryogenèse précoce  ![](../.gitbook/assets/clivage-spirale-embryogenese-precose.png) 
+{% endhint %}
+
+#### Plathelminthes
+
+{% hint style="warning" %}
+Il existe deux grande forme de plathelminthes
+
+* Forme libre
+  * Planaires \(Ou Turbellariés\)
+* Forme "parasite"
+  * Cestodes
+  * Trématodes
+{% endhint %}
+
+#### Planaires
+
+{% hint style="warning" %}
+Les plathelminthe sont des **acœlomate**, **prédateur**. Malgré que la bouche soit au niveau du ventre, leur tête est bien à l'avant de l'animal. \(Tête  = concentration système nerveux\)  
+**Système excréteur** \(protonéphridie formée de **cellules flammes**\)  
+L'animal est remplie de **mésenchyme** d'origine mésodermique et de liquide, c'est un hydrosquelette qui transporte des gaz et les aliments.
+
+La particularité des acœlomate est leur forme plate, cette forme leur permet de respirer par diffusion
+{% endhint %}
+
+![Ac&#x153;lomate](../.gitbook/assets/etat-acoelomate.png)
+
+![Coupe longitidunal planaire](../.gitbook/assets/coupe-transversale-planaire.png)
+
+![Coupe transversal planaire](../.gitbook/assets/coupe-traversale-planaire.png)
+
+#### Système excréteur
+
+![Syst&#xE8;me excr&#xE9;teur](../.gitbook/assets/systeme-excreteur.png)
+
+{% hint style="info" %}
+#### Mouvement
+
+* Squelette hydrostatique 
+* Cils et mucus
+
+#### Reproduction
+
+La reproduction des planaires est complexe. Hermaphrodisme à fécondation croisée \(insémination hypodermique chez certaines espèces\)  
+Gamètes mâles produits avant les gamètes femelles : protandrie  
+Stade larvaire: Planaire marine = larve de Muller  
+ ![](../.gitbook/assets/larve-de-muller.png)   
+Régénération par fission transversale ou par architomie  
+ ![](../.gitbook/assets/fission-planaires.png) 
+
+#### Nutrition
+
+Prédateur : les planaires s'attaquent aux invertébrés blessés \(pharynx dévaginable\)
+{% endhint %}
+
+#### Les formes parasites
+
 ## Cœlome
 
 ![Origine du c&#x153;lome](../.gitbook/assets/origine-du-coelome.png)
@@ -467,7 +552,7 @@ Il existes différents système chez un métazoaire
 Les acœlomates sont les animaux qui n'ont pas de cavité interne
 {% endhint %}
 
-![Ac&#x153;lomate](../.gitbook/assets/etat-acoelomate.png)
+![Ac&#x153;lomate](../.gitbook/assets/etat-acoelomate%20%281%29.png)
 
 ![](../.gitbook/assets/coupe-transversale-dun-planaire.png)
 
@@ -559,7 +644,13 @@ Feuillet embryonnaire :
 
 Larve planula :
 
+Ectoderme :
+
 Mésoderme :
+
+Endoderme :
+
+Épithélium :
 
 Cnidocytes :
 {% endhint %}
