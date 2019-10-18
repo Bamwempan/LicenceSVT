@@ -320,7 +320,7 @@ Le point de départ des angiosperme est la graine, formée de différentes parti
 
 ![Photo graine haricot prise a la loupe binoculaire](../.gitbook/assets/graine-haricot%20%281%29.png)
 
-[Time lapse développement d'un haricot](https://youtu.be/w77zPAtVTuI)
+{% embed url="https://www.youtube.com/watch?v=w77zPAtVTuI&feature=youtu.be" caption="Germination Graine Haricot" %}
 
 ### Feuille
 
