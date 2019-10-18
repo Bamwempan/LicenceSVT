@@ -403,12 +403,41 @@ Chaque pétale sur le polype donne une méduse
   * Nudibranches
 {% endhint %}
 
+### Conséquence de la triploblastie
+
+{% hint style="warning" %}
+Apparition du feuillet mésoderme en plus de l'ectoderme et de l'endoderme. Le mésoderme apparaît à partir des parois de l'archentéron.  
+Liste du devenir des différent feuillet
+
+* Endoderme
+  * Nutrition
+  * Respiration
+* Mésoderme
+  * Soutient et tous le reste
+* Ectoderme
+  * Contact avec l’extérieur
+  * Système nerveux
+  * Épithélium
+
+La triploblastie est aussi appelé bilatérien
+{% endhint %}
+
+#### Deux mise en place
+
+Il y a deux mode de mise en place de cœlome, **schizocœlie** et **entérocœlie**
+
+![Schizoc&#x153;lie et Ent&#xE9;roc&#x153;lie](../.gitbook/assets/schizocoelie-et-eterocoelie.png)
+
+{% hint style="danger" %}
+Le cœlome n'est pas un caractère phylogénétique
+{% endhint %}
+
 ## Cœlome
 
 ![Origine du c&#x153;lome](../.gitbook/assets/origine-du-coelome.png)
 
 {% hint style="warning" %}
-Le cœlome le regroupement des cavités secondaire d'un animal
+Le cœlome le regroupement des cavités secondaire d'un animal. C'est une cavité creusé dans le mésoderme, délimité par une couche de cellules appelé péritoine ou mésothélium
 
 * Sac poumon -&gt; Plèvre
 * Sac cœur -&gt; Péricarde
@@ -438,6 +467,8 @@ Il existes différents système chez un métazoaire
 Les acœlomates sont les animaux qui n'ont pas de cavité interne
 {% endhint %}
 
+![Ac&#x153;lomate](../.gitbook/assets/etat-acoelomate.png)
+
 ![](../.gitbook/assets/coupe-transversale-dun-planaire.png)
 
 ![Vu longitudinale d&apos;un planaire](../.gitbook/assets/vue-longitidunale-dun-planaire.png)
@@ -454,11 +485,15 @@ La formation du pseudocœlome est différente de celle du cœlome puisqu’il s
 
 ![Pseudoc&#x153;lomate](../.gitbook/assets/pseudocoelomate.png)
 
+![Pseudoc&#x153;lomate](../.gitbook/assets/pseudocoelomate%20%281%29.png)
+
 #### Cœlomates
 
 {% hint style="warning" %}
 Cavité formé dans le mésoderme
 {% endhint %}
+
+![C&#x153;lomate](../.gitbook/assets/coelomate.png)
 
 ![C&#x153;lomate](../.gitbook/assets/coelomates.png)
 
