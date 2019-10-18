@@ -86,6 +86,8 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Phototropisme :**
 
 **Géotropisme :**
+
+**Symbiose mutualiste :** relations entre deux organismes à bénéfices mutuels \(temporaires ou durables\)
 {% endhint %}
 
 ## Grand groupe des végétaux
@@ -1059,6 +1061,28 @@ Production de tissus **secondaire** de **conduction** via le **cambium**, le **p
 * Se fait à partir du péricycle
 * Origine profonde \(endogène\) de la ramification racinaire
 {% endhint %}
+
+![Ramification partie 1 et 2](../.gitbook/assets/ramification-1-2.png)
+
+![Ramification partie 3](../.gitbook/assets/ramification-3.png)
+
+### Symbiose racinaire
+
+{% hint style="warning" %}
+**Symbiose mycorhizienne** la plus répandue à l’échelle planétaire \(80% des espèces végétales\)
+
+Il existe différents types de symbiose mycorhizienne en fonction de la position du champignon par rapport aux racines :
+
+* Ectomycorhizes \(sur la racine\)
+* Endomycorhizes \(dans la racine\)
+
+Echanges de ressources entre les partenaires : 
+
+* Absorption de l’eau et des éléments minéraux du sol facilitée par la présence de mycorhizes autour des racines \(peuvent assurer jusqu’à 70% des besoins nutritifs de la plante\)
+* En contrepartie, la plante assure la nutrition carbonée de son partenaire mycorhizien
+{% endhint %}
+
+![Racine en orange et champignon en blanc](../.gitbook/assets/symbiose-raicnaires.png)
 
 ## A savoir !
 
