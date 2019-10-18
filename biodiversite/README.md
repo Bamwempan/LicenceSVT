@@ -16,7 +16,7 @@ description: Semestre Automne année 1
 **Biodiversité :** La biodiversité est la diversité biologique observable à tous les niveaux. Diversité des écosystèmes, diversité des espèces, diversité génétiques au sein des espèces.
 {% endhint %}
 
-Il existe 3 niveaux d’échelle de diversité 
+Il existe 3 niveaux d’échelle de diversité
 
 1. Diversité génétique
 2. Diversité spécifique
@@ -31,7 +31,7 @@ La biodiversité est la diversité biologique, diversité du vivants et des êtr
 * Forme multiple dans la nature avec leur variété et leur variabilité \(Organisation, fonction, génétique\)
 * Diversité des écosystèmes, des espèces et des gènes, dans l'espace et dans le temps.
 
-### Qu'est ce que le vivant ? 
+### Qu'est ce que le vivant ?
 
 {% hint style="warning" %}
 * Système vivant **complexe**, connexe, organisé. Constitué d'une ou de plusieurs cellules vivantes \(**Unicellulaire** ou **Pluricellulaire**\)
@@ -66,7 +66,7 @@ Les végétaux n'ont pas de caractère spécifiques, voici la liste des plus per
 * Production de **métabolite** **secondaires** 
 {% endhint %}
 
-### Qu'est ce qu'une cellule ?
+## Qu'est ce qu'une cellule ?
 
 {% hint style="warning" %}
 * Unité structurale et fonctionnelle des êtres vivants, formée de molécules organique \(Carbone, Hydrogène, Oxygène, Azote\), les propriété du vivant s'observe à son échelle
@@ -77,7 +77,7 @@ Les végétaux n'ont pas de caractère spécifiques, voici la liste des plus per
 * Peut se diviser
 {% endhint %}
 
-#### Origine de la vie, première trace de vie ?
+### Origine de la vie, première trace de vie ?
 
 Les premières traces de vie ont été découvertes avec des fossiles datant d'environs -**3.5Ga** avec un assemblage microbien, le stromatolite \(**Bactérie et micro-organisme**\) en Australie.  
 Fossile découverts datant de la même période avec cette fois ci des filament microbiens.  
@@ -86,7 +86,7 @@ Ce sont donc des **Bactérie** **unicellulaire** **procaryote**.
 #### Premier eucaryote ?
 
 Ensuite viens l'apparition des premières cellules **eucaryotes,** environ de **-2.7Ga à -1.5Ga,** découverte de molécule de **chlolestane** produite exclusivement par des eucaryotes.  
-Découverte ensuite d'un fossile daté de **-1.5Ga** qui prouve de manière indiscutable l'apparition des **eucaryotes** durant cette période. 
+Découverte ensuite d'un fossile daté de **-1.5Ga** qui prouve de manière indiscutable l'apparition des **eucaryotes** durant cette période.
 
 La théorie **endosymbiotique** explique l'apparition des premières cellules eucaryote. Avec l'ajout de deux partie importante et différente de la cellule.  
 Mitochondrie : Endosymbiose d'une protéobactérie  
@@ -107,7 +107,7 @@ Cette apparition massive des cellules eucaryote pluricellulaire est en cohérenc
 * La photosynthèse est apparue à un moment unique avec l'apparition des Cyanobactérie.
 * Date d'apparition est d'environ **-3.4Ga à -2.7Ga**
 
-#### Diversification du vivant
+### Diversification du vivant
 
 La faune édiacara à été découverte avec un fossile datant de -600Ma. On entre dans la période du Cambrien, Paléozoïque.
 
@@ -126,7 +126,7 @@ Apparition des dinosaures, les 1er oiseaux, 1er mammifères, les continuité de 
 
 Apparition des Grands Mammifères, continuité des oiseaux et angiospermes
 
-### Grand personnages de la biodiversité
+## Grand personnages de la biodiversité
 
 #### Des Grecque au Romain de -372 à 79
 
@@ -168,6 +168,8 @@ Guillaume Lecointre
 **LUCA** **:** Last Universal Commun Ancestral
 {% endhint %}
 
+#### Virus
+
 {% hint style="warning" %}
 Un virus n'est pas un être vivant
 
@@ -176,6 +178,8 @@ Un virus n'est pas un être vivant
 
 C'est un parasite.
 {% endhint %}
+
+#### Mobilité des êtres vivants
 
 Les eucaryote au cours de leurs vie sont forcément en mouvement, soit de manière tracté, **Bicontes**, soit en propulsion **Unicontes.**
 
@@ -187,12 +191,19 @@ Les cellules bicontes sont mobiles avec deux flagelle tracteurs
 Les cellules unicontes sont mobiles avec un flagelle propulseur
 {% endhint %}
 
-### Définition Cladistique
+### Arbre phylogénétique
 
-L'arbre phylogénétique traduit l'histoire de l'évolution
+{% hint style="warning" %}
+* L'arbre phylogénétique traduit l'histoire de l'évolution
+* A été élaboré par Darwin avec sa théorie de l’évolution
+* Montre les liens de parenté entre groupe d'être vivants sur le plan de l'évolution
+* Ne reconnais que des groupe monophylétique \(Clade\)
+{% endhint %}
 
 {% hint style="info" %}
-**Clade :** Groupe Monophylétique
+#### Définition
+
+**Clade :** Groupe Monophylétique reprenant l'ancêtre commun et **Tous** ses descendants
 
 **Plésiomorphe :** Ancêtre A possède un caractère X à l’état ancestrale
 
@@ -201,11 +212,7 @@ L'arbre phylogénétique traduit l'histoire de l'évolution
 **Synapomorphie :** Innovation, caractère nouveau
 {% endhint %}
 
-### Interaction durable entre les espèces
-
-* Bénitiers
-* Coraux
-* Lichens
+![Clade](../.gitbook/assets/clade.png)
 
 ## Définitions
 
@@ -218,7 +225,7 @@ L'arbre phylogénétique traduit l'histoire de l'évolution
 
 **Eucaryote :**
 
-**Espèce :** 
+**Espèce :**
 {% endhint %}
 
 ## Ressources
