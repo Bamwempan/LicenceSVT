@@ -82,6 +82,10 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Pachyte :**
 
 **Phyllotaxie :**
+
+**Phototropisme :**
+
+**Géotropisme :**
 {% endhint %}
 
 ## Grand groupe des végétaux
@@ -896,6 +900,8 @@ La croissance importante en épaisseur liée au fonctionnement du cambium condui
 La plante dois donc en créer de nouveau avec des tissus de revêtement secondaire pour protéger les organes \(Tiges, Racine\), au niveau de certaines plantes \(ligneuses\)
 {% endhint %}
 
+![Croissance &#xE9;paisseur phellog&#xE8;ne](../.gitbook/assets/croissance-epaisseur-phellogene.png)
+
 {% hint style="warning" %}
 Fonctionnement du phellogène
 
@@ -923,6 +929,136 @@ Il peut y avoir la présence de zone ou le suber est désorganiser pour permettr
 
 Exceptionnellement, il peut y avoir croissance secondaire chez les espèces présentant pas de cambium ou de phellogène \(Palmier, Dragonnier\)  
 On appelle ça la croissance secondaire diffuse \(Pas assuré par une assise mais par des cellules dispersée dans la plante\)
+
+## Racine
+
+Le système racinaire d'une végétale angiosperme est bien différents selon les espèces et assure des rôle plus ou moins différents.
+
+{% hint style="info" %}
+* Volume racinaire très variable selon les espèces
+* Racine généralement souterraine \(sauf exception\)
+* Phototropisme négatif ⬇
+* Géotropisme positif ⬇
+
+Différent rôle
+
+* Ancrage 
+* Stockage de réserve
+* Acquisition de ressource du sol
+* Multiplication végétative \(Assure la reproduction de la plante de manière asexuée\)
+{% endhint %}
+
+![R&#xF4;le racine](../.gitbook/assets/racine-role.png)
+
+### Origine et diversité des racines
+
+{% hint style="warning" %}
+La **racine « vraie »** dérive de la **radicule** elle est rattachée à la tige au **collet** et peut se ramifier.
+
+Il existe aussi des **racines "adventives"** racines formées sur d’autres organes \(tige, feuille\), ne dérivant pas de la radicule. Le **développement** **possible** de racines **adventives** à partir de **n’importe quel organe** permet la **multiplication** **végétative** des **individus**.
+{% endhint %}
+
+![Racine adventives ma&#xEF;s](../.gitbook/assets/racine-de-mais.png)
+
+#### Morphologie des racines
+
+{% hint style="warning" %}
+Les racines se diversifies en trois grands type :
+
+* Pivotant
+* Fasciculé
+* Mixte
+{% endhint %}
+
+![Morphologies racinaires](../.gitbook/assets/morphologies-racinaires.png)
+
+### Croissance de la racine
+
+{% hint style="warning" %}
+La croissance de la racine se fait par un **méristème primaire**, le **méristème racinaires** \(apical\), et est protégé par la **coiffe**. La coiffe crée ses cellules suite au détachement de cellules \(cellule desquamantes\)  
+Le géotropisme des racines est induits par la coiffe, la perception de la gravité repose sur les statolithes présent dans la coiffe
+{% endhint %}
+
+![](../.gitbook/assets/meristeme-apical.png) ![](../.gitbook/assets/meristeme-racinaires-photo-microscope.png)  
+
+![Statolithes](../.gitbook/assets/statolithes.png)
+
+La croissance se fait en 3 étapes
+
+1. Production de cellules \(M\)
+2. Elongation / croissance cellulaire
+3. Différenciation cellulaire /maturation
+
+![Etape racine](../.gitbook/assets/etape-racine.png)
+
+### Structure de la racine
+
+#### Structure morphologique
+
+{% hint style="warning" %}
+Pour rappel il existe trois grand type de morphologies, pivotant, mixte et fasciculé.
+
+* Partie plus âgée
+  * Rhizoderme a desquamé
+  * Racine protégée par la zone subéreuse / subéroïde
+* Absorption : grande surface de contact avec le sol \(poils unicellulaires potentiellement ramifiés\)
+* Zone glabre : Rhizoderme non encore différencié
+* Coiffe : manchon de cellules facilitant la pénétration \(+ zone méristématique\) Racine principale de la racine dans le sol. Cellules se multiplient vite pour se renouveler
+{% endhint %}
+
+![](../.gitbook/assets/morphologie-racine.png)
+
+{% hint style="danger" %}
+Chez certaines racines âgées \(**plantes** **ligneuses**\) protection assurée par suber \(**protection** **secondaire**\)
+{% endhint %}
+
+#### Structure histologique
+
+{% hint style="warning" %}
+#### Tissus primaires
+
+* Revêtement
+  * **Rhizoderme** \(cellules rhizodermiques + poils absorbants\)
+  * **Zone subéreuse ou subéroïde** : \(racines plus âgées\) cellules de parenchyme imprégnées de subérine
+* Fondamentaux
+  * **Parenchyme** \(= **amylenchyme**\) **cortical** : stockage.
+  * **Endoderme** : couche interne de la zone corticale. Rôle de filtre dans l’absorption des éléments minéraux.
+  * **Péricycle** : couche la plus externe du cylindre central . Rôle dans la ramification de la racine
+* Conduction
+  * **Xylème** **primaire** \(présence proto- et métaxylème\)
+  * **Phloème** **primaire**
+{% endhint %}
+
+![Racine coupe longit&#xE9;dunale](../.gitbook/assets/racine-coupe-transversale.png)
+
+{% hint style="success" %}
+#### Pour distinguer une racine ?
+
+1. Symétrie radiale
+2. Alternance du phloème primaire et du xylème primaire
+3. Différenciation centripète du xylème primaire
+{% endhint %}
+
+![Distinction racinaire](../.gitbook/assets/dinstinction-racinaire.png)
+
+#### Tissus secondaires
+
+Chez certains végétaux il y a production de tissus secondaire et de croissance en épaisseur de la racine \([Voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#racine)\). Uniquement chez certaines plantes
+
+![Les monocotyl&#xE9;dones ne produisent pas de tissus secondaire](../.gitbook/assets/production-de-racine-secondaire-possible-phylogenie.png)
+
+{% hint style="warning" %}
+Production de tissus **secondaire** de **conduction** via le **cambium**, le **phloème** **secondaire** et **xylème** **secondaire**. Et production de tissus **secondaire** de **revêtement** via le **phellogène**, le **suber** et **phelloderme** \([voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#phellogene-mise-en-place-de-tissus-secondaire-de-revetement)\)
+{% endhint %}
+
+![](../.gitbook/assets/production-de-racine-secondaire-par-le-cambium-et-le-phellogene.png)
+
+### Ramification de la racine
+
+{% hint style="info" %}
+* Se fait à partir du péricycle
+* Origine profonde \(endogène\) de la ramification racinaire
+{% endhint %}
 
 ## A savoir !
 
