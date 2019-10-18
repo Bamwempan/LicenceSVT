@@ -160,20 +160,6 @@ Cladograme
 
 Guillaume Lecointre
 
-### Définition Cladistique
-
-L'arbre phylogénétique traduit l'histoire de l'évolution
-
-{% hint style="info" %}
-**Clade :** Groupe Monophylétique
-
-**Plésiomorphe :** Ancêtre A possède un caractère X à l’état ancestrale
-
-**Apomorphe :** A' possède un caractère dérivé
-
-**Synapomorphie :** Innovation, caractère nouveau
-{% endhint %}
-
 ## L'arbre du vivant
 
 ![Classification phylog&#xE9;n&#xE9;tique du vivant](../.gitbook/assets/classification-phylogenetique-du-vivant.jpg)
@@ -199,6 +185,20 @@ Les eucaryote au cours de leurs vie sont forcément en mouvement, soit de maniè
 Les cellules bicontes sont mobiles avec deux flagelle tracteurs
 
 Les cellules unicontes sont mobiles avec un flagelle propulseur
+{% endhint %}
+
+### Définition Cladistique
+
+L'arbre phylogénétique traduit l'histoire de l'évolution
+
+{% hint style="info" %}
+**Clade :** Groupe Monophylétique
+
+**Plésiomorphe :** Ancêtre A possède un caractère X à l’état ancestrale
+
+**Apomorphe :** A' possède un caractère dérivé
+
+**Synapomorphie :** Innovation, caractère nouveau
 {% endhint %}
 
 ### Interaction durable entre les espèces
