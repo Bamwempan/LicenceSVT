@@ -33,8 +33,12 @@ La biodiversité est la diversité biologique, diversité du vivants et des êtr
 
 ### Qu'est ce que le vivant ?
 
+{% hint style="info" %}
+Il y a environs 1,9 millions d'espèces décrite à ce jours, mais surement plus de 10 millions existantes.
+{% endhint %}
+
 {% hint style="warning" %}
-* Système vivant **complexe**, connexe, organisé. Constitué d'une ou de plusieurs cellules vivantes \(**Unicellulaire** ou **Pluricellulaire**\)
+* Système vivant **complexe**, connexe, organisé. Constitué d'une ou de plusieurs cellules vivantes \(**Unicellulaire** ou **Pluricellulaire**\) ou mortes \(**sclérenchyme**\).
 * Capable de s'**auto-construire**, élaborer sa propre matière et sa propre structure
 * Capable de se procurer de la matière et l'énergie nécessaire à son fonctionnement et sa **reproduction**
 * Capable de se **reproduire** et de donner naissance à d'autre organismes vivants \(Reproductions végétative ou sexuée\)
@@ -52,11 +56,14 @@ Les animaux sont aussi appelé métazoaire
 * Hétérotrophe
 * Mobile \(à un stade de son évolution\)
 * contenant du collagène
+* N'a pas de paroi cellulaire mais une membrane
 {% endhint %}
+
+![Cellule v&#xE9;g&#xE9;tale vs Animale](../.gitbook/assets/cellule-vegetale-vs-animale.png)
 
 ### Qu'est ce qu'un végétale ?
 
-Les végétaux n'ont pas de caractère spécifiques, voici la liste des plus pertinents
+Les **végétaux** n'ont pas de caractère spécifiques, voici la liste des plus pertinents, et ne forme **pas** un **clade** dans l'arbre phylogénétique
 
 {% hint style="warning" %}
 * Cellule **eucaryote**
