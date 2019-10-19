@@ -181,6 +181,137 @@ Pour visualiser la fonte des glaces nous les disposons sur un graphique
 [Résultat en question 8 et 9](https://kevinrousseau80.gitbook.io/licence-svt/geoscience/evolution-et-cartographie#question-7)
 {% endhint %}
 
+## Géométrie du plan : Vers la carte géologique
+
+{% hint style="info" %}
+**Carte géologique :** représentation, sur un fond topographique, des formations géologiques qui **affleurent à la surface**
+
+**Carte au 1/50 000 :** sur un fond topographique, elle représente la **nature** **des roches** et la disposition **géométrique des formations géologiques** issue des observations **d’ affleurements \(= roches visibles\)**
+{% endhint %}
+
+### Structure "en couche"
+
+{% hint style="warning" %}
+Il existe 3 grands types de structure en couche
+
+* Structure tabulaire \(Couche horizontales\)
+* Structure monoclinale \(Couche inclinées\)
+* Structure plissée \(Couche plissées\)
+{% endhint %}
+
+![Structure en couche](../.gitbook/assets/structure-en-couche.png)
+
+#### Structure tabulaire
+
+{% hint style="warning" %}
+Sur une carte la structure tabulaire, les couches horizontales sont parallèles aux courbes de niveaux
+{% endhint %}
+
+![Couche horizontales parall&#xE8;les au courbes de niveaux](../.gitbook/assets/couche-horizontales.png)
+
+#### Stratification monoclinale
+
+{% hint style="warning" %}
+**Stratification monoclinale :** Limites de couches sont **planes** et **parallèles**, mais présentent un **PENDAGE** \(= un angle par rapport à l’horizontale\) 
+
+Sur une carte les limites de couches **recoupent** les **courbes** **de** **niveaux**
+{% endhint %}
+
+![Structure monoclinale](../.gitbook/assets/structure-monoclinale.png)
+
+#### Vue en coupe et en carte
+
+![Vue de coup et de carte des structures tabulaires et monoclinales](../.gitbook/assets/vue-coupe-et-carte-des-structure-tabulaire-et-monoclinale.png)
+
+### Décrire une structure plane
+
+1. Quantifier la géométrie des plans limites de ces couches
+2. Déterminer leur épaisseur
+3. Horizontale du plan = matérialise, sur le plan P, la trace d’un plan horizontal passant par A
+4. Ligne de plus grande pente = visualise la direction d’écoulement d’un filet d’eau sur P. Cette ligne est orthogonale à l’horizontale du plan.
+
+![G&#xE9;om&#xE9;trie d&apos;un plan g&#xE9;ologique](../.gitbook/assets/geometrie-dun-plan-geologique.png)
+
+1. La direction de l’horizontale du plan \(angle entre le Nord et une horizontale du plan, mesuré dans le sens horaire\)
+2. Le pendage a du plan \(angle entre la ligne de plus grande pente et un plan horizontal; mesuré avec clinomètre de boussole\) et son secteur géographique de plongement
+
+![Calcul plan g&#xE9;om&#xE9;trique plus repr&#xE9;sentation carte](../.gitbook/assets/calcul-plan-geometrique-plus-representation-carte.png)
+
+### Pendage des couches
+
+{% hint style="warning" %}
+Si les couche sont horizontales alors le pendage sera 0°, car ces couches suivent les courbes de niveaux \(Parallèle\)
+
+Si les couches sont verticales alors le pendage sera 90°, car les couches recoupent les courbes de niveau et sont rectiligne
+{% endhint %}
+
+![Diff&#xE9;rent pendages](../.gitbook/assets/pendages-0-et-90.png)
+
+#### Lors que les plan ne sont ni verticaux ni horizontaux
+
+{% hint style="info" %}
+Déterminer le secteur de plongement du pendage : « règle des V » 
+
+Les traces de plans dessinent, dans les vallées, un « V » dont la pointe est dirigée selon le secteur de plongement des plans \(et donc des couches, failles...\). C’est l’inverse sur les lignes de crêtes
+{% endhint %}
+
+![R&#xE8;gle de V](../.gitbook/assets/regles-des-v.png)
+
+### Carte géologique
+
+{% hint style="info" %}
+Difficulté de la lecture des cartes géologiques : déterminer la **géométrie 3D** des formations géologiques d’après l’image 2D de leur intersection avec la surface
+{% endhint %}
+
+{% hint style="warning" %}
+Il est facile de repérer les couches horizontales et verticales
+
+* Horizontales
+  * Les limites de couchent sont parralèle aux courbes de niveaux
+  * Le symbole + est utilisé
+  * Il n'y à pas de direction et le pendage est nul
+* Verticales
+  * Les limites de couches sont droites
+  * Le symbole \_.\_ est utilisé
+  * La direction suive la couche et le pendage est vertical
+{% endhint %}
+
+![Couches horizontales sans direction ni pendages, Couches verticales avec direction N0 et pendage vertical](../.gitbook/assets/couche-horizontales-et-verticale.png)
+
+#### Pour les couches avec un pendage
+
+![](../.gitbook/assets/couche-pendages.png)
+
+### Construction d'une coupe géologique
+
+Procédure à suivre
+
+1. Sur la carte géologique, choisir la position du trait de coupe
+2. Construire un profil topographique sans exagération verticale
+3. Reporter sur le profil l’intersection des limites de couches
+4. Trouver sur la carte des indices de géométrie des couches
+5. Prolonger les limites de couches en profondeur \(avec leur géométrie\)
+6. Reporter les figurés lithologiques
+7. Ajouter une légende des figurés lithologiques \(et titre, échelle, orientation\)
+
+![M&#xE9;thode](../.gitbook/assets/construction-coupe-geologoqique.png)
+
+![R&#xE9;sultat](../.gitbook/assets/reslutat-coupe-geologiques.png)
+
+#### Structure Synclinal ou Anticlinal
+
+{% hint style="warning" %}
+Si les courbes se disent bonjour **en descendant** alors elle sont **Synclinal,** Si les symboles de pendage pointe l'un vers l'autre alors la structure est synclinal.
+
+Si les courbes se disent bonjour **vers le haut** alors elle sont **Anticlinal,** Si les symboles de pendages pointes à l'opposé l'un de l'autre \(Sont dos à dos\) alors la structure est anticlinal.
+{% endhint %}
+
+![Structure synclinal et anticlinal](../.gitbook/assets/structure-coupe-geologique.png)
+
+#### Érosion différentielle
+
+![&#xC9;rosion diff&#xE9;rentielle](../.gitbook/assets/erosion-differentielle.png)
+
 ## Réponse TP
 
 #### Question 1
@@ -219,6 +350,12 @@ Pour se faire nous devons trouver la distance actuel du glacier, qui est de 1,3k
 $$Vitesse Moyenne = \frac {4,36+163+7,5}{3}=58m/a$$   
 Ensuite nous faisons le rapport de la distance sur la vitesse moyenne et nous obtenons   
  $$Année = \frac{1300}{58}=22 ans$$ 
+
+### Séance 4 et 5
+
+#### Question 4
+
+![R&#xE9;sultat question 4 de la s&#xE9;ance 4 et 5](../.gitbook/assets/resultat-question-4.png)
 
 ## Ressources
 
