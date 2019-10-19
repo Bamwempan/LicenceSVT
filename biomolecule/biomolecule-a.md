@@ -491,6 +491,19 @@ On dit qu'une molécule est **achirale** si :
 2. Elle **à un plan, un axe ou un centre de symétrie**
 {% endhint %}
 
+#### Exemple exercice 8-1
+
+![Exercice 8-1](../.gitbook/assets/exercice-8-1.jpeg)
+
+1. Achirale car il y a aucun carbone stéréogène
+2. Chirale car il y a un carbone stéréogène
+3. Chirale car il y a un carbone stéréogène
+4. Achirale car il y a aucun carbone stéréogène
+5. Achirale car il y a aucun carbone stéréogène
+6. Chirale car il y a deux carbone stéréogène avec des substituant différent
+7. Achirale car il y a un plan de symétrie
+8. Achirale car il y a aucun carbone stéréogène et un centre de symétrie
+
 ### Énantiomère
 
 {% hint style="info" %}
