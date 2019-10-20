@@ -142,6 +142,17 @@ Une carte topographique est une carte qui représente les **éléments naturels*
 
 ![Calcul distance r&#xE9;elle AB](../.gitbook/assets/calcul-distance-reelle-ab.png)
 
+### Mesure d'une direction
+
+{% hint style="info" %}
+La direction d'une droite sur une carte est l'ange compté en parant du Nord, dans le sens horaire, jusqu'a la première rencontre avec cette droite.
+
+Si la droite à un sens , l'angle est compté dans un intervalle de 360°, on parle d'azimut.  
+Dans le cas d'une droite de sens indifférent, on réduit l'intervalle de mesure à 180° et on parle de direction.
+{% endhint %}
+
+![Mesure de direction](../.gitbook/assets/mesure-de-direction.JPG)
+
 ## Profil topographique
 
 {% hint style="info" %}
