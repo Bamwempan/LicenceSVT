@@ -509,6 +509,76 @@ On **minimise** **l’homoplasie**, puisque les **changements** **d’états** d
 Toute reconstitution phylogénétique est une hypothèse et un outil pour comprendre les mécanismes de l’évolution
 {% endhint %}
 
+## Développement et évolution
+
+### Relation ontogenèse et phylogenèse
+
+Il existe des relations étroites entre le développement individuel des organismes \(ontogenèse\) et l’histoire évolutive de la lignée \(phylogenèse\) à laquelle appartient cet organisme.
+
+{% hint style="info" %}
+Direction moderne de recherche : **EVO-DEVO** \(Evolution and Developmental Biology\)
+
+**Ontogenèse :** développement de l’individu, de l’œuf à l’adulte
+
+**Phylogenèse :** histoire évolutive d’une lignée
+{% endhint %}
+
+![Ontogen&#xE8;se et Phylogen&#xE8;se](../.gitbook/assets/antogenese-et-phylogenese.png)
+
+#### Exemple
+
+#### Mammifère
+
+{% hint style="warning" %}
+Qualification d'un mammifère, sur le plan fossile
+
+* Neurocrâne synapside
+* Mandibule = 1 seul os \(dentaire\)
+* Articulation de la mâchoire inférieur entre squamosal et dentaire
+* Oreille moyenne à 3 osselets \(marteau, enclume, étrier\)
+
+En générale
+
+* Dentition hétérodonte \(incisives, canines, prémolaires, molaires\)
+* Dentition diphyodonte
+* Pelage/endothermie
+* Glandes lactéales
+* Viviparité \(sauf Monotrèmes\)
+{% endhint %}
+
+![Cr&#xE2;ne](../.gitbook/assets/crane-mamifere.png)
+
+#### "Reptile"
+
+A quoi ressemble la mâchoire et l’oreille moyenne des « reptiles » ?
+
+* Mandibule = 4 à 6 os \(dents sur le dentaire\)
+* Articulation de la mâchoire inférieure entre carré et articulaire
+* Oreille moyenne: un seul os, le stapes \(étrier\)
+
+![Oreille moyenne](../.gitbook/assets/oreille-moyenne-reptile.png)
+
+#### "Mammifère reptile"
+
+A quoi ressemblaient la mâchoire et l’oreille moyenne des « reptiles Mammaliens » ?
+
+* Mandibule = plusieurs os, réduits, en arrière du dentaire
+* Migration du Squamosal qui se rapproche du dentaire
+* Oreille moyenne : Toujours un seul os, le stapes
+
+![Crane reptile mammalien](../.gitbook/assets/crane-reptiles-mammaliens.png)
+
+{% hint style="success" %}
+Transition Permien-Trias : des os de la mandibule « reptilienne » migrent pour constituer les pièces osseuses de l’oreille moyenne des mammifères :
+
+* enclume dérivée du carré
+* marteau dérivé de l’articulaire
+{% endhint %}
+
+![Evolution cr&#xE2;ne](../.gitbook/assets/evolution-crane.png)
+
+{% file src="../.gitbook/assets/exemple-crane.png" %}
+
 ## Définitions
 
 {% hint style="info" %}
