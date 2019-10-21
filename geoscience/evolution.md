@@ -579,6 +579,166 @@ Transition Permien-Trias : des os de la mandibule « reptilienne » migrent pour
 
 {% file src="../.gitbook/assets/exemple-crane.png" %}
 
+#### Ontogenèse mammifère
+
+Observation de l’ontogenèse d’un mammifère : la sarigue \(morphogenèse de la mandibule et de l’oreille moyenne\), au cours du développement embryonnaire, les os de la mandibule « migrent » postérieurement, pour former ceux de l’oreille moyenne chez l’adulte !
+
+{% hint style="warning" %}
+Le **juvénile** du **descendant** \(la **sarigue**\), **ressemble** à **l’adulte** de son **ancêtre** \(le reptile mammalien\) : **Relation Ontogenèse - Phylogenèse**
+{% endhint %}
+
+![Relation Ontogen&#xE8;se et Phylogen&#xE8;se](../.gitbook/assets/ontoge-nese-ptit-mammife-re.png)
+
+### Les lacunes de la théorie synthétique
+
+Cependant, les contraintes développementales sont largement ignorées par la Théorie Synthétique de l’évolution \(TSE, néodarwinisme\) ! La sélection naturelle a réponse à tout et est l’unique moteur de l’évolution... Elle pilote tout !
+
+{% hint style="warning" %}
+**Mais** il y a une **incompatibilité** dans le domaine **macroévolutif** ! Comment expliquer  
+ les grandes transformations à l’échelle des plans d’organisation ?
+
+Les réponses vont venir de l'étude du développement des organismes
+{% endhint %}
+
+{% hint style="info" %}
+**Épigénétique :** L'ensemble des mécanismes moléculaires ayant lieu au niveau du génome et de la régulation de l'expression des gènes qui peuvent être influencés par l'environnement et l'histoire individuelle ainsi qu'être potentiellement transmissibles d'une génération à l'autre.
+{% endhint %}
+
+![Evo-Devo \(Evolution and Developmental Biology\)](../.gitbook/assets/evo-devo.png)
+
+### Génétique du développement
+
+« Le développement documente l’évolution » : validation récente dans la génétique du développement
+
+{% hint style="warning" %}
+Pour expliquer le fait que des cellules avec le même génomes créer des structure a des endroits particuliers, en 1980 la découverte de la hiérarchisation du génome et la découverte des gènes du développement
+{% endhint %}
+
+#### Hiérarchisation du génome
+
+Les **différences** **phénotypiques** sont le résultat de **différences** **génétiques** entre les organismes qui s’expriment au travers de leur **développement**
+
+{% hint style="warning" %}
+**Gènes de structure** \(codant les protéines constitutives et les enzymes\)
+
+* **Gènes du développement** 
+  * Individualisation d’une série hiérarchisée de gènes du développement 
+    * Gènes maternels: déterminent les axes de polarités de l’embryon
+    * Gènes de segmentation: activés par les gènes maternels
+    * **Gènes homéotiques**
+
+Tous impliqués dans la morphogenèse en définissant l'identité et la position  
+ de chacun des segments de l’organisme
+{% endhint %}
+
+#### Gènes homéotiques
+
+{% hint style="info" %}
+**Gène homéotique :** Gène déterminant le plan d’organisation.  
+ Sa mutation produit une **homéose** \(homeo en grec ancien = identique\) \(apparition d’un organe bien formé, mais mal positionné\)
+{% endhint %}
+
+#### Homéose \(Mutation homéotique\)
+
+L’adresse des organes est mal déterminée, mais pas leur structure!
+
+![Hom&#xE9;ose drosophile ](../.gitbook/assets/homeose-drosophile.png)
+
+Un **gène homéotique** \(GH\) se caractérise par 1 séquence **nucléotidique** commune à tous les GH : **l'homéoboîte** qui code un **homéodomaine** capable de se lier à l’ADN. Ce dernier code un facteur de transcription qui active d’autres gènes en cascade.
+
+#### Comment se présentent les gènes homéotiques ?
+
+{% hint style="warning" %}
+**Chez les arthropodes :** 8 gènes homéotiques \(**complexe Hom**\) déterminent l’identité de chaque segment de l’animal. Spécification des segments selon l’axe antéro-postérieur, de façon corrélée à l’ordre des 8 gènes homéotiques sur le chromosome.
+
+**Chez les vertébrés :** Gène homéotique \(= gènes Hox\) regroupés en 4 complexes \(localisés sur 4 chromosomes différents\), déterminent la segmentation antéro-postérieure de l’embryon. \(colinéarité\)
+
+**Règle de colinéarité :** Colinéarité de la disposition des gènes homéotiques sur le chromosome avec l'ordre des domaines d'expression dans l'embryon
+{% endhint %}
+
+![R&#xE8;gle colinarit&#xE9;](../.gitbook/assets/re-gle-colinarite-drosophile.png)
+
+![](../.gitbook/assets/re-gle-colinarite-vertebre.png)
+
+#### Quel rôle jouent les gènes homéotiques dans le développement des organismes ?
+
+{% hint style="info" %}
+Gène homéotique d’Arthropodes, de Vertébrés, mais aussi d’Annélides, d’Echinodermes sont similaires en ce qui concerne leur structure \(séquence codante et ordre sur le chromosome\) et leur fonction \(développement selon l’axe antéro- postérieur\), les **gènes homéotiques** sont des **gènes architecte**, qui **contrôlent l'organisation architecturale** des métazoaire
+{% endhint %}
+
+#### Preuve
+
+Modification de la séquence d’activation des gènes Hox par l’acide rétinoïque, administré à des fœtus de souris à différents stades de gestation
+
+![Squelette modifie&#x301; par l &#x2019;acide re&#x301;tinoi&#x308;que](../.gitbook/assets/preuve-perturbation-ge-ne-hox.png)
+
+{% hint style="warning" %}
+L’acide rétinoïque modifie les gènes Hox et leur **expression phénotypique**, puisque le squelette axial est modifié ! Gène homéotique est bien un gène architecte.
+{% endhint %}
+
+#### Complexe ancestral et diversité
+
+{% hint style="info" %}
+Expériences de substitution de gènes, entre organismes différents :
+
+* Le gène Hoxb-9 de la souris, inséré par transgenèse chez la drosophile, entraîne la transformation des antennes en pattes thoraciques.
+* Le gène Small eye de la souris, inséré par transgenèse chez la drosophile, induit la construction d’yeux additionnels, sur la tête ou les pattes
+
+Substitution fonctionnelle implique que le gène **small eye de vertébré** est **homologue du eyeless d’arthropode**!
+{% endhint %}
+
+![G&#xE8;ne Small eye sur la patte](../.gitbook/assets/small-eyes-sur-la-patte.png)
+
+{% hint style="warning" %}
+Les gènes homéotiques de vertébrés et d’arthropodes **sont homologues, ils dérivent d’un complexe ancestral commun**, dupliqué au cours de l’évolution
+
+Les **duplications** et **délétions** **des gènes homéotiques** créent de la **diversité**
+{% endhint %}
+
+![Arbre phylog&#xE9;n&#xE9;tique des g&#xE8;nes](../.gitbook/assets/phyloge-nie-des-ge-nes.png)
+
+### Evolution et gènes Hox : 4 grands principes
+
+{% hint style="warning" %}
+* **Conservation :** les gènes Hox sont hautement conservés \(permet une analyse comparative du développement\)
+* **Cooption :** au cours de l’évolution ils ont été cooptés et impliqués dans la formation de structures et organes totalement différents
+* **Expression :** modifications du profil d’expression corrélé à des modifications morphologiques
+* **Régulation :** modification de la régulation de l’expression des gènes Hox corrélée à des modifications morphologiques
+{% endhint %}
+
+#### Phylogénie des arthropodes
+
+{% hint style="info" %}
+Les insectes ont perdu des pattes abdominales au cours de l’évolution, de ce fait est il possible de faire réapparaitre le phénotype disparu en modifiant l'expression des gènes impliqués dans le développement des pattes
+{% endhint %}
+
+Deux gènes Hom impliqués dans le développement des pattes les plus postérieur du thorax, Ubx et abd-A, l'expression de ces gènes peut être bloquée par un ARN inhibiteur.  
+Le rôle de Ubx et abd-A est de réprimer l’expression d’un autre gène, distal less. Si distal less n’est pas réprimé, paires de pattes au niveau abdominal.
+
+![ARN Inhibiteur](../.gitbook/assets/arn-inhibiteur.png)
+
+#### Exemple oiseaux
+
+L'arbre phylogénétique qui suit est dit "adultocentrique", condition ancestrale sans palme, les palmes apparaissent à plusieurs reprises au cours de l’évolution.
+
+![Arbre phylog&#xE9;n&#xE9;tique adultocentrique](../.gitbook/assets/arbre-phylogenetique-adultocentrique.png)
+
+L'ontogenèse dans ce cas va montrer que la phylogénie plus le développement rend le pied palmé "condition par défaut"  à l'état embryonnaire qui perdure ou disparait à l'état adulte à plusieurs reprise au cours de l'évolution
+
+![Arbre phylog&#xE9;n&#xE9;tique embryonnaire](../.gitbook/assets/arbre-phylogenetique-embryon.png)
+
+### Bricolage évolutif
+
+{% hint style="info" %}
+**Mutation atavique :** Mutations qui font réapparaître des caractères disparus au cours de l’évolution \(mutations provoquant des dérèglements du développement\)
+
+Les gènes induisant le développement de doigts multiples sont toujours présents chez les formes actuelles ! Il existe des mutations qui peuvent « réactiver » ces gènes
+
+**Organes vestigiaux \(ou structures vestigiales\) :** Structures qui se présentent chez un groupe dans un état réduit et non fonctionnel par rapport à un autre groupe chez lequel elles sont fonctionnelles
+{% endhint %}
+
+![Yeux des animaux cavernicoles](../.gitbook/assets/yeux-des-animaux-cavernicoles.png)
+
 ## Définitions
 
 {% hint style="info" %}
