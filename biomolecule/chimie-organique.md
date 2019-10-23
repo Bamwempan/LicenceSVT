@@ -2,7 +2,7 @@
 description: Semestre Automne année 1
 ---
 
-# Biomolécule A
+# Chimie organique
 
 ## Hybridation des orbitale atomique
 

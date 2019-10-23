@@ -2,7 +2,8 @@
 
 * [Accueil](README.md)
 * [Biomolécule](biomolecule/README.md)
-  * [Biomolécule A](biomolecule/biomolecule-a.md)
+  * [Chimie organique](biomolecule/chimie-organique.md)
+  * [Biochimie](biomolecule/biochimie.md)
 * [Biodiversité](biodiversite/README.md)
   * [Biodiversité Végétale](biodiversite/biodiversite-vegetale.md)
   * [Biodiversité Animal](biodiversite/biodiversite-animal.md)
