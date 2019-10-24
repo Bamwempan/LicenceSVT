@@ -49,8 +49,10 @@ Les glucides on plusieurs utilités
 {% hint style="warning" %}
  $$C_nH_{2n}O_n$$ noté aussi $$C_n(H_2O)_n$$ 
 
-Les **oses** sont **polyalcools** et contenant un **carbonyle** \(**Aldéhyde** ou **Cétone**\) [Voir nomenclature et fonction](https://kevinrousseau80.gitbook.io/licence-svt/biomolecule/chimie-organique#fonction-chimie-organique)
+Les **oses** sont **polyalcools** et contenant un **carbonyle** \(**Aldéhyde** ou **Cétone**\) 
 {% endhint %}
+
+![Fonction mol&#xE9;culaire](../.gitbook/assets/fonction-moleculaire.png)
 
 #### Exemple glucose
 
@@ -83,6 +85,51 @@ Un cétose n'a pas forcément d'alcool secondaire et le cétone est forcément n
 Les oses peuvent être classés en fonction de leur nombre d'atome de carbones
 
 Aldo**pent**ose \(5 carbones\) ou Céto**hex**ose \(6 carbones\)
+{% endhint %}
+
+### Isomérie
+
+{% hint style="warning" %}
+* Une molécule chirale possède au moins un carbone stéréogène \(Centre chiral, noté C\*\)
+* Nomenclature absolue du centre chiral : Règle séquentielles de Cahn, Ingold, Prélog
+  * Les 4 substituants sont classé par ordre de priorité selon l'ordre décroissant des numéros atomiques des atomes liés au C\* \(a&gt;b&gt;c&gt;d\)
+  * On regarde suivant l'atome qui est derrière \(Ici d\)
+  * Séquence a,b,c
+    * Sens des aiguilles d'une montre : configuration R \(rectus\)
+    * Sens contraire des aiguille d'une montre : configuration S \(sinister\)
+* 2 isomères sont l'image l'un de l'autre dans un miroir, qui ne peuvent pas être superposées. Ce sont 2 énantiomère
+{% endhint %}
+
+![Isom&#xE9;rie R et S](../.gitbook/assets/isomerie-r-et-s.png)
+
+#### Différentes représentation des isomère
+
+{% hint style="success" %}
+En biochimie la projection de Fisher est la plus utilisée, de ce fait on regarde dans le sens de visé du carbone stéréogène entre l'hydrogène et l'alcool \(OH\)
+{% endhint %}
+
+![&#xC9;nantiom&#xE8;re R/D et S/L](../.gitbook/assets/representation-fisher-avec-nomination.png)
+
+{% hint style="warning" %}
+* L'énantiomère D \(dexter\), le OH porté par le C\* est à droite
+  * Aussi appeler énantiomère R
+* L'énantiomère L \(Laevus\), le OH porté par le C\* est à gauche 
+  * Aussi appeler énantiomère S
+{% endhint %}
+
+### Filiation
+
+Tableau pour la série D des aldoses et cétoses, valable à gauche si l'alcool est à gauche et ainsi nommé série L
+
+![Tableau pour les s&#xE9;rie D d&apos;aldoses et c&#xE9;tose](../.gitbook/assets/filiation_.png)
+
+{% hint style="warning" %}
+Tous les oses sont classés dans deux catégories. Cette classification repose sur la position de la fonction alcool secondaire porté par le carbone stéréogène le plus éloigné de la fonction aldéhyde ou cétone
+
+* Si le groupe OH est à gauche sur la projection de Fisher l'ose appartient à la série L
+* Si le groupe OH est à droite sur la projection de Fisher l'ose appartient à la série D
+
+La plus grande majorité des oses naturels sont de série D
 {% endhint %}
 
 ## Définition
