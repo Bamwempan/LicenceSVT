@@ -6,25 +6,23 @@ description: Semestre Automne année 1
 
 ## Hybridation des orbitale atomique
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 **Les liaisons** résultent de la mise en commun d'un doublet électronique entre deux atomes
 
 **Les orbitales hybrides** permettent de simuler la **déformation des orbitales atomiques.**
 
-C'est grâce à l'état excité de l'atome qui peut y avoir des orbitale hybride.
+C'est grâce à l'état excité de l'atome qui peut y avoir des orbitale hybride
 {% endhint %}
 
 4 Orbitales atomiques contenant chacune 1 électron donne 3 possibilité de combinaisons.
 
 ### Hybridation Sp3 $$Sp_3$$ \(Tétragonal\)
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 $$Csp_3$$ = 4 liaisons simples $$\sigma$$ 
 
 Qui est constitué que de liaisons simple.
 {% endhint %}
-
-![Hybridation Sp3 pour l&apos;atome d&apos;Azote, de Carbone et d&apos;Oxyg&#xE8;ne.](../.gitbook/assets/moleculesp3.jpg)
 
 #### Exemple pour le carbone Sp3
 
@@ -34,7 +32,7 @@ Les 4 orbitales hybride sont orientés suivant 4 directions d'un **tétraèdre r
 Chaque orbitale hybride fait un angle de **109.28°** avec ses voisines et **contient 1 électron**.  
 Les 4 électrons seront engagés dans **4 liaisons** $$\sigma$$\(sigma\)\(Recouvrement axial\)
 
-![Forme de l&apos;hybridation SP3, t&#xE9;tragonal](../.gitbook/assets/tetragonal-sp3.png)
+![Hybridation Sp3](../.gitbook/assets/carbone-sp3.png)
 
 ### Hybridation Sp2 $$Sp_2$$ \(Trigonal\)
 
@@ -43,8 +41,6 @@ $$Csp_2$$ = 3 Liaisons $$\sigma$$ et une liaison $$\pi$$
 
 Une hybridation Sp2 est constitué d'au moins une liaison double 
 {% endhint %}
-
-![Hybridation Sp2 pour l&apos;atome d&apos;Oxyg&#xE8;ne de Carbone et D&apos;Azote](../.gitbook/assets/hybridationsp2.png)
 
 $$3Oh \ sp_2 + 1 \ OA \quad libre \ \pi$$ --&gt; ![](../.gitbook/assets/hybridationsp2.jpg) 
 
@@ -58,8 +54,6 @@ $$Csp_2$$ =  2 Liaisons $$\sigma$$ et 2 liaisons $$\pi$$
 Qui est constitué d'une liaison triple
 {% endhint %}
 
-![Hybridation Sp pour la mol&#xE9;cule de Carbone et d&apos;Azote](../.gitbook/assets/moleculesp.jpg)
-
 $$1 \ OA_s + 1\ OA_p$$ --&gt; ![](../.gitbook/assets/hybridation-sp.jpg) 
 
 2 orbitales p "pures" **orthogonales** aux 2 orbitales Hybrides
@@ -68,7 +62,7 @@ $$1 \ OA_s + 1\ OA_p$$ --&gt; ![](../.gitbook/assets/hybridation-sp.jpg)
 
 ![Orbitale hybrid de la mol&#xE9;cule C2H2](../.gitbook/assets/c2h2-hybridation.jpg)
 
-![Hybridation lin&#xE9;aire](../.gitbook/assets/hybridation-lineaire.png)
+![Hybridation sp](../.gitbook/assets/hybridation-sp.png)
 
 ### Etat fondamentale et excité de l'azote et de l'oxygène
 
