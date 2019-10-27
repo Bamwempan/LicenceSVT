@@ -77,10 +77,10 @@ Liaison orbitale hybride est nommé $$\pi$$ \(pi\)
 {% hint style="info" %}
 **Electron de valence :** Nombre d'électrons disponible sur la couche externe de l'atome
 
-**Valence atomique :** 
+**Valence atomique :** Nombre de liaisons que l'atome peut faire dans son état neutre
 {% endhint %}
 
-### Tableau récapitulatif des électrons de valences
+#### Tableau récapitulatif des électrons de valences
 
 | Atome | Nb d'électrons  de valences | Valence + Doublet non liant | Forme des liaisons |
 | :--- | :---: | :--- | :---: |
@@ -97,11 +97,7 @@ Il existe différentes types de liaisons
 {% hint style="info" %}
 #### Définitions
 
-_**Liaison Ionique :**  Liaison faible électrostatique entre deux groupements de signe opposés ou entre un anion et un cation_
-
 _**Liaison Covalente :** L_iaison chimique dans laquelle deux atomes se partagent deux électrons \(un électron chacun ou deux électrons venant du même atome\) d'une de leurs couches externes afin de former un doublet d'électrons liant les deux atomes. C'est une des forces qui produit l'attraction mutuelle entre atomes.
-
-_**liaison covalente de coordination :**_ \(anciennement connue sous le nom de liaison dative\) est une description de la liaison covalente entre deux atomes pour lesquels les deux électrons partagés dans la liaison proviennent du même atome.
 {% endhint %}
 
 ### Environnement électronique d'un atome
@@ -124,9 +120,11 @@ _**Règles de l'octet :**_ Tous les autres atomes se lient entre eux de manière
 
 ### Ecriture sous forme brut
 
-On priorise le carbone et l'hydrogène, et ensuite par ordre alphabétique
+{% hint style="warning" %}
+On donne la priorité au carbone et a l'hydrogène, et ensuite par ordre alphabétique
 
-$$C_n H_x$$ 
+$$C_nH_x$$ 
+{% endhint %}
 
 ## Théorie de VSEPR
 
