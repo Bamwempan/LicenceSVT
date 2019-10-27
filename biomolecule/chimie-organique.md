@@ -4,6 +4,22 @@ description: Semestre Automne année 1
 
 # Chimie organique
 
+## Structure électronique
+
+#### Règle Klechkwoski
+
+![R&#xE8;gle Klechkwoski](../.gitbook/assets/re-gle-de-klechowski.png)
+
+#### Structures électroniques des atomes principaux de chimie organique
+
+| Atome | Structure Elec | Atome | Structure Elec |
+| :--- | :--- | :--- | :--- |
+| Hydrogène | $$1s$$  | Carbone | $$1s^22s^22p^2$$  |
+| Helium | $$1s^2$$  | Azote | $$1s^22s^22p^3$$  |
+| Lithium | $$1s^22s$$  | Oxygène | $$1s^22s^22p^4$$  |
+| Beryllium | $$1s^22s^2$$  | Fluor | $$1s^22s^22p^5$$  |
+| Bore | $$1s^22s^22p$$  | Néon | $$1s^22s^22p^6$$  |
+
 ## Hybridation des orbitale atomique
 
 {% hint style="warning" %}
@@ -14,19 +30,13 @@ description: Semestre Automne année 1
 C'est grâce à l'état excité de l'atome qui peut y avoir des orbitale hybride
 {% endhint %}
 
-4 Orbitales atomiques contenant chacune 1 électron donne 3 possibilité de combinaisons.
+![](../.gitbook/assets/hybridation-sp%20%281%29.png)
 
-### Hybridation Sp3 $$Sp_3$$ \(Tétragonal\)
+#### Hybridation Sp3 $$Sp_3$$ \(Tétragonal\)
 
 {% hint style="warning" %}
-$$Csp_3$$ = 4 liaisons simples $$\sigma$$ 
-
-Qui est constitué que de liaisons simple.
+$$Csp_3$$ = 4 liaisons $$\sigma$$ / Qui est constitué que de liaisons simple.
 {% endhint %}
-
-#### Exemple pour le carbone Sp3
-
-$$1 \ OA_s+3 \ OA_p$$ --&gt; ![](../.gitbook/assets/hybridationsp3.jpg) 
 
 Les 4 orbitales hybride sont orientés suivant 4 directions d'un **tétraèdre régulier**.   
 Chaque orbitale hybride fait un angle de **109.28°** avec ses voisines et **contient 1 électron**.  
@@ -34,33 +44,21 @@ Les 4 électrons seront engagés dans **4 liaisons** $$\sigma$$\(sigma\)\(Recouv
 
 ![Hybridation Sp3](../.gitbook/assets/carbone-sp3.png)
 
-### Hybridation Sp2 $$Sp_2$$ \(Trigonal\)
+#### Hybridation Sp2 $$Sp_2$$ \(Trigonal\)
 
-{% hint style="danger" %}
-$$Csp_2$$ = 3 Liaisons $$\sigma$$ et une liaison $$\pi$$ 
-
-Une hybridation Sp2 est constitué d'au moins une liaison double 
+{% hint style="warning" %}
+$$Csp_2$$ = 3 Liaisons $$\sigma$$ et une liaison $$\pi$$ / Une hybridation Sp2 est constitué d'au moins une liaison double 
 {% endhint %}
-
-$$3Oh \ sp_2 + 1 \ OA \quad libre \ \pi$$ --&gt; ![](../.gitbook/assets/hybridationsp2.jpg) 
 
 ![Forme de l&apos;orbitale pour une hybridation Sp2 / Hybridation Sp2 avec la mol&#xE9;cule C2H4](../.gitbook/assets/sans-titre.jpg)
 
-### Hybridation Sp $$Sp$$ \(Linéaire\)
+#### Hybridation Sp $$Sp$$ \(Linéaire\)
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 $$Csp_2$$ =  2 Liaisons $$\sigma$$ et 2 liaisons $$\pi$$ 
-
-Qui est constitué d'une liaison triple
 {% endhint %}
 
-$$1 \ OA_s + 1\ OA_p$$ --&gt; ![](../.gitbook/assets/hybridation-sp.jpg) 
-
-2 orbitales p "pures" **orthogonales** aux 2 orbitales Hybrides
-
-![Formule C2H2](../.gitbook/assets/c2h2-formules.png)
-
-![Orbitale hybrid de la mol&#xE9;cule C2H2](../.gitbook/assets/c2h2-hybridation.jpg)
+![Hybridation Sp carbone](../.gitbook/assets/hybridation-sp-exemple.png)
 
 ![Hybridation sp](../.gitbook/assets/hybridation-sp.png)
 
@@ -72,21 +70,14 @@ Liaison orbitale atomique "classique" est nommé $$\sigma$$ \(sigma\)
 Liaison orbitale hybride est nommé $$\pi$$ \(pi\)
 {% endhint %}
 
-#### Azote
-
-* Hybridation sp3 \(3 Liaisons simples\)
-* Hybridation sp2 \(1 Liaison double\)
-* Hybridation sp \(1 Liaison triple\)
-
-#### Oxygène
-
-* Hybridation sp3 \(2 Liaison Simples\)
-* Hybridation sp2 \(1 Liaison double\)
+![Hybridation sp1.2.3 de l&apos;azote et de l&apos;oxyg&#xE8;ne](../.gitbook/assets/hybridation-sp-azote-et-oxyge-ne.png)
 
 ## Couche de valence des atomes principaux de la chimie organique
 
-{% hint style="danger" %}
-Le nombre d'électrons de valence correspond au nombre d'électrons disponible sur la couche externe de l'atome
+{% hint style="info" %}
+**Electron de valence :** Nombre d'électrons disponible sur la couche externe de l'atome
+
+**Valence atomique :** 
 {% endhint %}
 
 ### Tableau récapitulatif des électrons de valences
