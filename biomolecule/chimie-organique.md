@@ -131,7 +131,7 @@ $$C_nH_x$$
 L’écriture de VSEPR consiste à étudier la géométrie d'un atome A en regardant le nombre d'atome X ou de doublet non liant E qui l'entoure.  
 La formule s'écrit donc $$AX_nE_m$$ 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Il existe 3 principales géométries en chimie organique
 
 * $$AX_4$$ \(Tétraédrique / Trigonal\)
@@ -139,7 +139,7 @@ Il existe 3 principales géométries en chimie organique
 * $$AX_2$$ \(Diagonale / linéaire\)
 {% endhint %}
 
-![3 G&#xE9;om&#xE9;trie du carbone](../.gitbook/assets/capture-du-2019-09-20-14-57-09.png)
+![VSEPR en Hybridation A](../.gitbook/assets/mode-le-vsper.jpg)
 
 ### Tableau récapitulatif des forme géométrique
 
