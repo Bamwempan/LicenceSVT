@@ -273,7 +273,7 @@ La **valence** d'une fonction **correspond** au **nombre** **d'atome** **d'hydro
 Si les molécules possède la même formule brut elles peuvent se distinguer en 3 types possibles.
 
 * Isomérie de squelette -&gt; chaîne carboné principale différente  ![](../.gitbook/assets/isomerie-squelette.png) 
-* Isomérie fonctionnelle -&gt; position des fonctions  ![](../.gitbook/assets/isomerie-fonctionel.png) 
+* Isomérie fonctionnelle -&gt; Fonction différente  ![](../.gitbook/assets/isomerie-fonctionel.png) 
 * Isomérie de position -&gt; Groupe fonctionnel sur une position différente  ![](../.gitbook/assets/isomerie-de-position.png) 
 
 {% hint style="warning" %}
