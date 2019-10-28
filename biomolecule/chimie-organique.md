@@ -118,6 +118,14 @@ _**Règles de l'octet :**_ Tous les autres atomes se lient entre eux de manière
 * Atome avec couche de valence plus élevé au centre
 * On détermine le nombre $$\nu $$ \(Nu\) d'électrons de valence et on en déduit $$\nu/2$$ paire d'électrons à répartir
 
+{% hint style="warning" %}
+Si la formule est + alors on retire 1 à $$\nu$$ si la formule est - alors on ajoute 1 à $$\nu$$
+
+$$NH_4^+$$ Ou $$C_2H_3O_2^-$$ 
+{% endhint %}
+
+![Charge Formelle Lewis C2H3O2- et NH4+](../.gitbook/assets/chargeformellelewis.png)
+
 ### Ecriture sous forme brut
 
 {% hint style="warning" %}
