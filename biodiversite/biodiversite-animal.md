@@ -562,6 +562,45 @@ Les cestodes ont des **ventouses** et des **crochets**, sont constitué d'une **
 
 ![](../.gitbook/assets/arbra-phylogenetique-des-protostomiens-focus-trochozoaires.png)
 
+#### Larve Trochophore
+
+{% hint style="warning" %}
+L'une des **synapomorphie** des **trochozoaires** et le fait qu'ils sont tous au stade larvaires au début de leur vie, appelées **larve trochophore**. Ces larves sont très **diverses**, et sont composés d'une ou plusieurs couronnes de cils leur permettant leur déplacement.
+{% endhint %}
+
+![Larve trochophore typique des ann&#xE9;lides](../.gitbook/assets/larve-trochophore-annelides.png)
+
+{% hint style="warning" %}
+Les deux mésoblastes se divisent en petites cellules formant deux bandes de mésoderme 
+
+* Progressent vers l'avant avec l'allongement larvaire 
+* Se creusent d'une cavité cœlomique
+
+Chaque segment prend le nom de **métamère.** Formation du **cœlome** à partir d'une fente du mésoderme: **schizocoelie**
+{% endhint %}
+
+![Formation du c&#x153;lome](../.gitbook/assets/formation-du-coelome.png)
+
+#### Larve trochophore des mollusques
+
+{% hint style="warning" %}
+Chez les mollusques la larve trochophore à une **coquille** et est appelée **larve véligère**
+
+Il y a une croissance ventro-dorsale et les bandelettes mésodermiques ne se segmentent pas et ne se creusent pas. Il y a qu'une seule cavité cœlomique autour cœur, rein et gonade
+{% endhint %}
+
+![Larve trochophore des mollusque, larve v&#xE9;lig&#xE8;re](../.gitbook/assets/larve-trochophore-mollusiques-larve-veligere.png)
+
+#### Annélides
+
+{% hint style="warning" %}
+Les annélides représentent environ **15000 espèces**. Ce sont des **vers annelés**, **triploblastique,** **protostomiens, hyponeuriens**, **cœlomates** et **métamérisés**.
+{% endhint %}
+
+![Sch&#xE9;ma ann&#xE9;lides](../.gitbook/assets/schemaannelides.png)
+
+
+
 ## Cœlome
 
 ![Origine du c&#x153;lome](../.gitbook/assets/origine-du-coelome.png)
@@ -700,6 +739,12 @@ Endoderme :
 Cnidocytes :
 
 Pharynx :
+
+Larve :
+
+Hyponeurien : 
+
+Epineurien :
 {% endhint %}
 
 #### Prairie
