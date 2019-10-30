@@ -463,7 +463,7 @@ Les protostomiens spiraliens se différencies grâce à différent caractère
 * **Clivage spiral** lors de embryogenèse précoce  ![](../.gitbook/assets/clivage-spirale-embryogenese-precose.png) 
 {% endhint %}
 
-#### Plathelminthes
+### Plathelminthes
 
 {% hint style="warning" %}
 Il existe deux grande forme de plathelminthes
@@ -515,7 +515,52 @@ Régénération par fission transversale ou par architomie
 Prédateur : les planaires s'attaquent aux invertébrés blessés \(pharynx dévaginable\)
 {% endhint %}
 
-#### Les formes parasites
+#### Les formes parasites des plathelminthes
+
+#### Trématodes
+
+{% hint style="warning" %}
+Les formes parasites des spiraliens sont dotés de **ventouses** ou **crochets**. Il en existe deux types, les **trématodes** et les **cestodes**
+{% endhint %}
+
+![Sch&#xE9;ma d&apos;une tr&#xE9;matodes](../.gitbook/assets/trematodesschema.png)
+
+{% hint style="warning" %}
+Les plathelminthes parasites sont pathogènes pour l'homme avec en exemple le  Schistosoma mansoni \(maladie Bilharziose\) 500 000 décès par an et environs 600 millions de personnes concernés.
+{% endhint %}
+
+#### Cycle de vie
+
+![Cycle de vie des tr&#xE9;matodes](../.gitbook/assets/cycle-de-vie-des-trematodes.png)
+
+1. Embryon dans l’hôte
+2. Miracidium
+3. Deux génération dans un hôte escargot
+4. Cercaire \(Vie dans l'eau\) qui pénètre dans l’hôte Homme
+5. Vie adulte dans l’hôte final Homme \(Intestin\)
+
+#### Cestodes
+
+{% hint style="warning" %}
+Les cestodes ont des **ventouses** et des **crochets**, sont constitué d'une **zone de bourgeonnement**, qui forme des **empilement** de **proglottis**. C'est une unité indépendante formant le **strobile**, constitué **essentiellement d'organes sexuelles**. C'est un animal **hermaphrodites**. Peut mesurer environ 10 mètre
+{% endhint %}
+
+![Sch&#xE9;ma Cestodes](../.gitbook/assets/cestodes-schema.png)
+
+#### Fonctionnement des plathelminthes
+
+{% hint style="warning" %}
+* Respiration et circulation : Diffusion \("Vers plat"\), souvent métabolisme anaérobie
+* Alimentation et digestion : Extra et Intracellulaire
+* Reproduction 
+  * Sexuée : Hermaphrodisme à fécondation croisée / Auto
+  * Asexuée : Régénération \(Fission binaire et architomie\)
+* Excrétion : Protonéphridie \(Cellules flammes\)
+{% endhint %}
+
+### Trochozoaires
+
+![](../.gitbook/assets/arbra-phylogenetique-des-protostomiens-focus-trochozoaires.png)
 
 ## Cœlome
 
@@ -653,9 +698,9 @@ Endoderme :
 Épithélium :
 
 Cnidocytes :
-{% endhint %}
 
-## Résultat du TP "Etang"
+Pharynx :
+{% endhint %}
 
 #### Prairie
 
