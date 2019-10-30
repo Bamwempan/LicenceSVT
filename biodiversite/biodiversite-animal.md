@@ -597,7 +597,74 @@ Il y a une croissance ventro-dorsale et les bandelettes mésodermiques ne se seg
 Les annélides représentent environ **15000 espèces**. Ce sont des **vers annelés**, **triploblastique,** **protostomiens, hyponeuriens**, **cœlomates** et **métamérisés**.
 {% endhint %}
 
+{% hint style="danger" %}
+Cas rare d’animal possédant un système circulatoire fermé.
+{% endhint %}
+
 ![Sch&#xE9;ma ann&#xE9;lides](../.gitbook/assets/schemaannelides.png)
+
+![D&#xE9;veloppement larvaire ann&#xE9;lide](../.gitbook/assets/developpement-larvaire-annelides.png)
+
+{% hint style="warning" %}
+Si tous les métamères sont **identiques** alors il y a **métamérie** **homonome**.
+
+Si **différenciations** entre les métamères il y a **métamérie** **hétéronome**
+{% endhint %}
+
+La métamérisation à un effet limité sur la paroi du corps
+
+![Effet de la m&#xE9;tam&#xE9;risation](../.gitbook/assets/effet-de-la-metamerisation-anneelides.png)
+
+{% hint style="warning" %}
+Mais par-contre à un effet important sur le **système** **nerveux** et **excréteur**. Il y a une **répétition** à **l'identique** du **système** **excréteur** dans **chaque** **métamère**.
+{% endhint %}
+
+![](../.gitbook/assets/effet-important-metamerisation-annelides.png)
+
+#### 3 Grand type d'annélides
+
+{% hint style="warning" %}
+* Polychètes
+  * Animaux marin vagile ou sédentaire
+  * Chaque métamère porte des expansion latérales, les parapodes. d'une multitudes de **soies** \(d'ou le polychètes\)
+  * Ils ont des sexes séparés
+* Clitellates
+  * Annélides hermaphrodites qui possèdent un épaississement de l'épiderme à maturité sexuelle; le clitellum, qui permet la sécrétion d'un cocon reproducteur
+  * Ils sont oligochètes et comporte peu de soies et pas de parapodes
+* Achètes
+  * Aussi appelé sangsue, ne possèdent ni parapodes ni soies
+  * Métamérie peu visible, possède une ventouse anal et parfois buccale
+  * Animaux prédateurs ou hématophages \(ectoparasites\)
+{% endhint %}
+
+![Coupe transversale ann&#xE9;lide clitellate](../.gitbook/assets/coupe-transversale-annelides-clitellates.png)
+
+{% hint style="info" %}
+Le tube digestif possède une invagination **médio-dorsale le typhlosolis** permet une augmentation de la surface d'échange. Possède des tissus chloragogène
+{% endhint %}
+
+#### Fonctionnement des annélides
+
+{% hint style="warning" %}
+* Respiration : Cutanée + parfois parapodes
+* Nutrition / digestion : Tube digestif classique \(filtre terre ou hématophage\) et typhlosolis
+* Reproduction : Hermaphrodite ou gonochorique Régénération \(asexuée\)
+* Excrétion : Tissus chloragogène \(rein d’accumulation\) et metanéphridies
+* Sens et système nerveux : Système nerveux hyponeurien métamérisé
+* _**Système circulation sanguin clos !**_
+{% endhint %}
+
+#### Importance écologique
+
+{% hint style="warning" %}
+Bioturbation des sédiments marins
+
+* Homogénéisation de la matière organique
+* Oxygénation des niveaux profonds
+* Stimulation des communautés microbiennes
+{% endhint %}
+
+#### Mollusques
 
 
 
@@ -704,6 +771,8 @@ Porifères :
 
 Choanocytes :
 
+Vagile :
+
 Sessile :
 
 Phagocytose :
@@ -745,6 +814,8 @@ Larve :
 Hyponeurien : 
 
 Epineurien :
+
+Bioturbation :
 {% endhint %}
 
 #### Prairie
