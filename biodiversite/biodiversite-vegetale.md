@@ -1122,6 +1122,99 @@ La croissance de la tige s'effectue par la croissance du bourgeon apical \(Termi
 
 ![Bourgeon ligneux et herbac&#xE9;](../.gitbook/assets/bourgeon-ligneux-et-herbace.png)
 
+#### Organisation de l'apex caulinaire
+
+![Zoom Apex caulinaire bourgeon](../.gitbook/assets/zoom-bouregon.png)
+
+#### Fonctionnement de l'apex caulinaire
+
+#### Plante ligneuse
+
+{% hint style="warning" %}
+Pour les plantes ligneuse la croissance se passe en deux étapes
+
+* Mise en place des phytomères -&gt; Organogenèse \(!! origine superficielle = exogène des feuilles et des bourgeons\)
+* Accroissement des cellules du phytomère : Elongation
+
+Fonctionnement rythmé, moment de repos du méristème.
+{% endhint %}
+
+#### Plante Herbacé
+
+{% hint style="warning" %}
+**Organogenèse** et **elongation** **simultanées**
+{% endhint %}
+
+### Structure de la tige
+
+![Sch&#xE9;ma simplifier tige](../.gitbook/assets/schema-tige-histologie-simpligier.png)
+
+{% hint style="warning" %}
+Tissus primaires
+
+* De revêtement
+  * Epiderme
+* Fondamentaux
+  * Parenchyme cortical
+  * Collenchyme et Sclérenchyme
+* De conduction
+  * Xylème primaire \(Avec Proto et Métaxylème\)
+  * Phloème primaire
+{% endhint %}
+
+{% hint style="success" %}
+Et pour distinguer une racine ? 
+
+* Symétrie radiale
+* Xylème primaire superposé au phloème primaire
+* Vaisseaux du xylème primaire avec un sens de différenciation centrifuge
+* Cylindre centrale plus développer que l'écorce
+* Présence de tissus de soutien \(Collenchyme et Sclérenchyme\)
+{% endhint %}
+
+#### Tissus secondaire
+
+Chez certains végétaux il y a production de tissus secondaire et de croissance en épaisseur de la tige \([Voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#racine)\). Uniquement chez certaines plantes
+
+![Les monocotyl&#xE9;dones ne produisent pas de tissus secondaire](../.gitbook/assets/production-de-racine-secondaire-possible-phylogenie.png)
+
+{% hint style="warning" %}
+Production de tissus **secondaire** de **conduction** via le **cambium**, le **phloème** **secondaire** et **xylème** **secondaire**. Et production de tissus **secondaire** de **revêtement** via le **phellogène**, le **suber** et **phelloderme** \([voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#phellogene-mise-en-place-de-tissus-secondaire-de-revetement)\)
+{% endhint %}
+
+![Production de tissus secondaire](../.gitbook/assets/production-de-racine-secondaire-par-le-cambium-et-le-phellogene.png)
+
+#### Structure histologique
+
+![Diff&#xE9;rence histologique entre herbac&#xE9;e et ligneuse](../.gitbook/assets/difference-histologique-herbacee-et-ligneuse.png)
+
+#### Architecture et développement
+
+{% hint style="warning" %}
+Croissance rythmique = arrêts de croissance et présence d’unités de croissance
+
+Croissance continue = pas d’arrêts de croissance
+{% endhint %}
+
+![Architecture d&apos;une tige et bourgeon](../.gitbook/assets/architecture-tige-et-bourgeon-apical.png)
+
+{% hint style="warning" %}
+* Développement **monopodial**
+  * L’axe 1 poursuit son fonctionnement végétatif
+  * Croissance via le bourgeon terminal
+* Développement **sympodial**
+  * L’axe 1 ne poursuit pas son fonctionnement végétatif \(méristème se transforme et/ou meurt\)
+  * Croissance via des bourgeons axillaires
+{% endhint %}
+
+![D&#xE9;veloppement monopodial et sympodial](../.gitbook/assets/difference-croissance-tige.png)
+
+#### Différenciation rameaux
+
+![Diff&#xE9;renciation rameaux](../.gitbook/assets/differenciation-structure-tige.png)
+
+## Feuille
+
 ## A savoir !
 
 ![Listes des diff&#xE9;rents tissus d&apos;une plante](../.gitbook/assets/meristemeprimaireetsecondaire.png)
