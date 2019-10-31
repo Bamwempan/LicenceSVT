@@ -1084,6 +1084,44 @@ Echanges de ressources entre les partenaires :
 
 ![Racine en orange et champignon en blanc](../.gitbook/assets/symbiose-raicnaires.png)
 
+## Tige
+
+{% hint style="info" %}
+Organe végétatif à symétrie radiale qui porte généralement des feuilles et des bourgeons. Généralement aérienne et à croissance verticale.
+
+Phototropisme positif et géotropisme négatif, la tige permet le soutient de la plante et la circulation de la sève entre les feuilles et les racines
+{% endhint %}
+
+### Origine de la tige
+
+{% hint style="warning" %}
+La tige provient du groupe gemmule et tigelles, elle est rattaché à la racine par le collet, la tige porte les cotylédons, feuilles et le bourgeon terminal \(Apical\). Les tiges sont un empilement de phytomères.
+{% endhint %}
+
+![Sch&#xE9;ma annot&#xE9; tige](../.gitbook/assets/schema-annoter-tige.png)
+
+### Diversité des tiges
+
+{% hint style="warning" %}
+* Tiges aériennes 
+  * orthotropes, dressées et autoporteuses
+  * orthotropes, dressées et non-autoporteuses
+  * Plagiotropes
+    * Stolon \(Fraisier\)
+  * Réduite \(Port en rosette, pissenlit, Grassette\)
+* Tiges souterraines
+  * Á croissance horizontale \(plagiotrope\) \(Rhizome -&gt; iris, Tubercule -&gt; pomme de terre\)
+  * A croissance verticale \(Orthotrope\) \(Bulbe -&gt; oignon, Corme -&gt; Crocus\)
+{% endhint %}
+
+### Croissance de la tige
+
+{% hint style="warning" %}
+La croissance de la tige s'effectue par la croissance du bourgeon apical \(Terminal\), chez les plantes ligneuse le bourgeon est protégé par des écailles, chez une plante herbacé il n'est pas protégé.
+{% endhint %}
+
+![Bourgeon ligneux et herbac&#xE9;](../.gitbook/assets/bourgeon-ligneux-et-herbace.png)
+
 ## A savoir !
 
 ![Listes des diff&#xE9;rents tissus d&apos;une plante](../.gitbook/assets/meristemeprimaireetsecondaire.png)
