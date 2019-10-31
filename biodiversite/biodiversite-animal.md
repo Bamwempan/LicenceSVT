@@ -666,7 +666,81 @@ Bioturbation des sédiments marins
 
 #### Mollusques
 
+{% hint style="warning" %}
+Il existe environ 80 000 espèces de mollusque, ils sont proche des annélides mais ne sont **pas** **métamérisés** et subissent une **régression** du **cœlome**. Ils ont une symétrie bilatérale. La synapomorphie des mollusques est la présence d'une **radula**
 
+Composé de trois grandes parties
+
+* Tête
+  * Yeux
+  * Tentacules sensoriels
+  * Bouche \(Radula\)
+* Pied
+  * Locomotion, très musculeux
+* Masse viscérale
+  * un **manteau** qui sécrète la **coquille** qui limite une **cavité palléale** contenant les **branchies**
+{% endhint %}
+
+* [ ] AJOUTER SCHEMA MOLLUSQUE ANNOTER PROPREMENT
+
+{% hint style="warning" %}
+Le tube digestif d'une larve véligère subis trois modification
+
+* Flexion gastrique : tube digestif en U \(bouche proche de l'anus\)
+* Spiralisation : la masse viscérale s'enroule sur elle-même
+* Rotation à 180° : la cavité palléale s'ouvre au-dessus de la tête
+{% endhint %}
+
+![Evolution larve v&#xE9;lig&#xE8;re](../.gitbook/assets/modification-larve-velige-re.png)
+
+#### Gastéropodes
+
+{% hint style="warning" %}
+* Aquatique ou terrestre
+* Coquille univalve spiralée +/- régressé
+* Nombreuse variation anatomique au sein du groupe
+  * Meme plan d'organisation
+
+Principales innovations
+
+* Coquille univalve spiralée
+* Cavité palléale +/- modifiée \(Respiration\)
+* Radula +/- modifier \(Alimentation\)
+{% endhint %}
+
+![Plan organisation gast&#xE9;ropodes](../.gitbook/assets/gasteropodes.png)
+
+#### Céphalopodes
+
+{% hint style="warning" %}
+1. Cavité palléale : ventrale et orientée vers l'avant
+2. Pied : couronne de tentacules + entonnoir servant à la propulsion
+3. Bouche équipée d'une radula et d'un "bec de perroquet »
+4. Poche du noir \(annexe du rectum\)
+5. Système nerveux très cérébralisé vers l'avant
+6. Coquille réduite et interne
+{% endhint %}
+
+![Sch&#xE9;ma c&#xE9;phalopode](../.gitbook/assets/schemacephalopodes.png)
+
+![Plan d&apos;organisation cephalopodes](../.gitbook/assets/plan-organisation-cephalopodes.png)
+
+{% hint style="warning" %}
+* Animal aquatique
+* De taille très variable
+* Vitesse de locomotion très variable
+* Coquille univalve +/- régressée
+  * Meme plan d'architecture
+
+Principales innovations
+
+* Pied \(Préhension des proies\)
+* Cavité palléale \(locomotion par propulsion\)
+* Circulation en grande partie endiguée
+* ‘véritable’ encéphale \(fusion des ggl. nervx. en un complexe supra-oesophagien\)
+{% endhint %}
+
+![](../.gitbook/assets/schemaannotercephalopdes.png)
 
 ## Cœlome
 
