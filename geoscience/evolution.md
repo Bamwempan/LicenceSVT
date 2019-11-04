@@ -739,6 +739,38 @@ Les gènes induisant le développement de doigts multiples sont toujours pré
 
 ![Yeux des animaux cavernicoles](../.gitbook/assets/yeux-des-animaux-cavernicoles.png)
 
+#### Exaptation
+
+{% hint style="info" %}
+Nouvelle fonction d'un organe anciennement non fonctionnelle \(Aile des autruches qui ne servent plus à voler mais sont utilisées pour ventiler les petits\)
+{% endhint %}
+
+{% hint style="warning" %}
+1. Exaptation élément macro-évolutif marquant \(Acquisition de plume\)
+2. Fonction originelle des plume, qui est l'isolation thermique deviens un outil qui sert pour l'envol
+{% endhint %}
+
+### Conclusion
+
+{% hint style="warning" %}
+* Grande unicité entre les plans d'organisation des métazoaires
+* Aide à expliquer comment des transformations majeur et rapide ont pu se produire, cela permet d'expliquer l'inexplicable
+{% endhint %}
+
+## Allométrie
+
+Concept mis en place part D'Arcy Thompson, dans son ouvrage théorie des coordonnées transformées
+
+{% hint style="info" %}
+**Allométrie :** Changement de proportion associés à des changements de taille
+
+* Allométrie positive : Organe visée grandi plus vite que le corps \(Phylogenèse\)
+* Allométrie négative : Organe visée grandi peu voir diminue par rapport au corps \(Ontogenèse\)
+* Isométrie : Changement de taille mais qui conserve ses proportions
+{% endhint %}
+
+### Hétérochronie du développement
+
 ## Définitions
 
 {% hint style="info" %}
