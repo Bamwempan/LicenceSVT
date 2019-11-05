@@ -737,7 +737,24 @@ Les gènes induisant le développement de doigts multiples sont toujours pré
 **Organes vestigiaux \(ou structures vestigiales\) :** Structures qui se présentent chez un groupe dans un état réduit et non fonctionnel par rapport à un autre groupe chez lequel elles sont fonctionnelles
 {% endhint %}
 
+#### Organes vestigiaux
+
 ![Yeux des animaux cavernicoles](../.gitbook/assets/yeux-des-animaux-cavernicoles.png)
+
+#### Chez le python
+
+{% hint style="info" %}
+* Aucun signe de développement de membre antérieur
+* Membres postérieurs vestigiaux: bassin et fémur tronqué
+* Toutes les vertèbres antérieures ont des côtes, sauf l’atlas
+* Corps d’un serpent : ressemble à un thorax allongé \(jusqu’à 400 paires de côtes\)
+{% endhint %}
+
+{% hint style="warning" %}
+Hox-c6 et Hox-c8, sur le chromosome 15, associés au développement des vertèbres thoraciques chez les tétrapodes. Chez le python : Hox-c6 et Hox-c8 exprimés sur l’ensemble du tronc est l'expression des gènes hox consistante avec une identité thoracique
+
+Importance de la **régulation des gènes homéotiques** dans les modifications de morphologie générale d’un organisme.
+{% endhint %}
 
 #### Exaptation
 
@@ -746,9 +763,11 @@ Nouvelle fonction d'un organe anciennement non fonctionnelle \(Aile des autruche
 {% endhint %}
 
 {% hint style="warning" %}
-1. Exaptation élément macro-évolutif marquant \(Acquisition de plume\)
-2. Fonction originelle des plume, qui est l'isolation thermique deviens un outil qui sert pour l'envol
+1. Exaptation **élément macro-évolutif marquant** \(Acquisition de plume\)
+2. Fonction originelle des plume, qui est l'isolation thermique deviens un outil qui sert pour l'envol et qui garde sa fonction d'isolation thermique
 {% endhint %}
+
+![Evolutions des plumes dans le temps](../.gitbook/assets/exaptation-plumes-exemple.png)
 
 ### Conclusion
 
@@ -759,7 +778,9 @@ Nouvelle fonction d'un organe anciennement non fonctionnelle \(Aile des autruche
 
 ## Allométrie
 
-Concept mis en place part D'Arcy Thompson, dans son ouvrage théorie des coordonnées transformées
+Concept mis en place part D'Arcy Thompson, il publie en 1917 : « On Growth and Form » ou il explique la théorie des coordonnées transformées
+
+![Allom&#xE9;trie de croissance](../.gitbook/assets/allometrie-de-croissance-schem.png)
 
 {% hint style="info" %}
 **Allométrie :** Changement de proportion associés à des changements de taille
@@ -768,6 +789,18 @@ Concept mis en place part D'Arcy Thompson, dans son ouvrage théorie des coordon
 * Allométrie négative : Organe visée grandi peu voir diminue par rapport au corps \(Ontogenèse\)
 * Isométrie : Changement de taille mais qui conserve ses proportions
 {% endhint %}
+
+![Allom&#xE9;trie positive / n&#xE9;gative / Isom&#xE9;rie](../.gitbook/assets/differente-allometrie.png)
+
+#### Allométrie ontogénétiques
+
+{% hint style="info" %}
+* Ontogenèse de l'homme est une allométrie négative du crâne
+* Ontogenèse du crabe violoniste est une allométrie positive de la pince droite
+* Ontogenèse du chimpanzé allométrie positive des maxillaire et dentaire
+{% endhint %}
+
+![Allom&#xE9;trie Ontog&#xE9;n&#xE9;tique Homme Crabe et Chimpanz&#xE9;](../.gitbook/assets/allometrieonogene-se.png)
 
 ### Hétérochronie du développement
 
