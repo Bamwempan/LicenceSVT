@@ -132,6 +132,83 @@ Tous les oses sont classés dans deux catégories. Cette classification repose s
 La plus grande majorité des oses naturels sont de série D
 {% endhint %}
 
+### Aldoses
+
+Les aldoses sont des oses qui ont une fonction aldéhyde en sur le premier carbone.
+
+#### Aldotrioses
+
+{% hint style="warning" %}
+Les aldotrioses aussi appelé Glycéraldhéyde ont une chaîne carbonée principale de 3 carbones et un seul carbone stéréogène, il y a donc 2 stéréiosomère et un couple d'énantiomère
+{% endhint %}
+
+![Aldotriose Glyc&#xE9;rald&#xE9;hyde](../.gitbook/assets/aldotriose-glyceraldheyde.png)
+
+#### Aldotétroses
+
+{% hint style="warning" %}
+Les aldotétroses aussi appelés Erythrose si tous les alcool sont du même cotés ou alors Thréose si les alcools sont alternés ont une chaîne carbonée principale de 4 carbones et 2 carbones stéréogènes, il y a donc 4 stéréiosomère et 2 couple d'énantiomère
+{% endhint %}
+
+![Aldot&#xE9;troses](../.gitbook/assets/aldotetroses%20%281%29.png)
+
+{% hint style="info" %}
+**Épimère :** Deux isomères qui ne **diffèrent que par la configuration d'un seul carbone** stéréogène
+
+Ici le L-Thréose est l'épimère en 3 du D-Erythrose
+{% endhint %}
+
+#### Aldopentoses
+
+{% hint style="warning" %}
+Les aldopentoses ont une chaîne carbonée principale de 5 carbones et 3 carbones stéréogènes, il y a donc 8 stéréiosomères et 4 couple d'énantiomère  
+Ici ça sera le D-Ribose qui est important
+{% endhint %}
+
+![D-Riboze](../.gitbook/assets/alodpenthose-d-ribose.png)
+
+#### Aldohexoses
+
+{% hint style="warning" %}
+Les aldohexoses ont une chaîne carbonée principale de 6 carbones et 4 carbones stéréogènes, il y a donc 16 stéréiosomères et 8 couples d'énantiomères  
+Ici ça sera le D-Glucoses qui est très important et le D-Mannose et D-Galactose important
+{% endhint %}
+
+![](../.gitbook/assets/aldohexoses-d-glucose.png)
+
+### Cétoses
+
+{% hint style="warning" %}
+Le cétose le plus simple n'a pas de centre chiral, c'est le **Déhydroxyacétone.** Les cétoses on une fonction cétone au carbone 2 
+{% endhint %}
+
+![D&#xE9;hydroxyac&#xE9;tone](../.gitbook/assets/dehydroxyacetone.png)
+
+#### Cétotétroses
+
+{% hint style="warning" %}
+Les cétotétroses ont une chaîne principale carbonée de 4 carbones et 1 seul carbone stéréogènes, soit 2 stéréoisomères et 1 couple d'énantiomère
+{% endhint %}
+
+![S&#xE9;rie D et L des Erythruloses](../.gitbook/assets/erythrulose.png)
+
+#### Cétopentoses
+
+{% hint style="warning" %}
+Les cétotétroses ont une chaîne principale carbonée de 5 carbones et 2 carbones stéréogènes. Soit 4 stéréoisomères et 2 couples d'énantiomères
+{% endhint %}
+
+![C&#xE9;topentoses Erythrose et Thr&#xE9;ose](../.gitbook/assets/aldotetroses.png)
+
+#### Cétohexoses
+
+{% hint style="warning" %}
+Les cétohexoses ont une chaîne principale carbonée de 6 carbones et 3 carbones stéréogènes. Soit 8 stéréoisomères et 4 couples d'énantiomères. Le cétohexose le plus important est le Fructose. Il ressemble fortement au glucose.  
+Liste des cétohexoses, D- et L-Psicose, **D- et L-Fructose**, D- et L-Sorbose, D- et L-Tagatose
+{% endhint %}
+
+![](../.gitbook/assets/cetohexoses-fructose.png)
+
 ## Définition
 
 {% hint style="info" %}
