@@ -814,6 +814,112 @@ Concept mis en place part D'Arcy Thompson, il publie en 1917 : « On Growth and 
 
 ### Hétérochronie du développement
 
+Stephen Jay GOULD \(1941-2002\) Publication de Ontogeny and Phylogeny \(1977\), Système rigoureux d’analyse des décalages entre ontogenèses et de leurs implications en termes évolutifs, c'est hétérochronies du développement
+
+{% hint style="danger" %}
+L'hétérochronie est toujours un rapport entre deux espèces !
+{% endhint %}
+
+{% hint style="info" %}
+**Hétérochronies du développement** sont des altérations de la chronologie des étapes du développement d’un organisme **par rapport à celui d’un autre pris comme référence.** Cela concerne. Se manifestent de façon évidente dans les **cas d’allométries de croissance**
+
+* La **durée du développement** \(progenèse et hypermorphose\)
+* Le **rythme du développement** \(néoténie et accélération\)
+{% endhint %}
+
+#### Exemple hétérochronie chat et chien
+
+{% hint style="info" %}
+Pourquoi les races de chiens diffèrent-elles fortement les unes des autres, et celles de chats peu ?
+
+* Chiens : fortes allométries de croissance dans le développement des os crâniens \(ex: maxillaire\)
+* Chats : croissance ±isométrique de tous les os crâniens.
+{% endhint %}
+
+![](../.gitbook/assets/images-crane-chien-et-chat-allometrie.png)
+
+### Les paedomorphoses
+
+{% hint style="info" %}
+Paedomorphoses : assurent la persistance, chez l’adulte, de caractères juvéniles
+{% endhint %}
+
+{% hint style="warning" %}
+Il existe deux type fondamentaux de paedomorphose
+
+**Progenèse :** affecte la durée du développement = apparition précoce de la maturité sexuelle **\(blocage de la croissance\)**. les adultes progénétiques ont une morphologie et une taille de juvéniles
+
+**Néotenie :** affecte le rythme du développement est donc le ralentissement du développement de l’organisme **\(taille et maturité sexuelles non modifiées\)**. les adultes néoténiques ont une taille normale mais conservent des caractères juvéniles
+{% endhint %}
+
+![H&#xE9;t&#xE9;rochronies phase paedomorphose](../.gitbook/assets/eterochronie-phase-paedomorphose.png)
+
+#### Exemple néoténie
+
+Exemple de néoténie : Axolotl des lacs froids du Mexique. Axolotl est amphibien strictement aquatique, resté au stade larvaire, mais qui se reproduit !  
+Expérimentalement : possible \(injection d’hormone thyroïdienne de croissance\) de provoquer la métamorphose !
+
+![Axolotl albinos](../.gitbook/assets/axolotl-albinos.png)
+
+![N&#xE9;ot&#xE9;nie crane humain par rapport au chimpanz&#xE9;](../.gitbook/assets/neotenie-crane-humain-par-rapport-au-chimpanze.png)
+
+#### Les péramorphoses
+
+{% hint style="info" %}
+**Péramorphoses :** permettent l’apparition de caractères nouveaux
+{% endhint %}
+
+{% hint style="warning" %}
+Il existe deux types fondamentaux de péramorphoses 
+
+**Accélération s.s.:** affecte le rythme du développement il y a donc accélération du développement somatique **\(taille et maturité sexuelle non modifiés\)**. Les formes accélérées matures ont une morphologie hyper-adulte, une taille normale
+
+**Hypermorphose :** affecte la durée du développement = allongement du développement provoqué par un retard de la maturité sexuelle **\(pas de modification du développement somatique, juste une croissance plus longue\)**. Les adultes hypermorphiques ont une taille plus grande
+{% endhint %}
+
+#### Exemple Accélération
+
+Ancêtre adulte ressemble au juvénile du descendant, sans différenciation de taille adulte : descendant accéléré !
+
+![acc&#xE9;l&#xE9;ration : lign&#xE9;e d&#x2019;ammono&#xEF;des du Cr&#xE9;tac&#xE9;](../.gitbook/assets/acceleration-lignee-ammonoides-du-cretace.png)
+
+#### Exemple hypermorphose
+
+![hypermorphose : 2 esp&#xE8;ces de Cardium](../.gitbook/assets/hypermorphose-2-especes-de-cardium.png)
+
+{% hint style="info" %}
+Hypermorphose lignée humaine.  
+**H. sapiens : néoténie crânienne** par rapport à Pan troglodytes \(chimpanzé\) et Australopithecus africanus. Mais augmentation de la taille globale de l’homme, due à une **croissance prolongée** et un **retard de la maturité sexuelle** \(i.e. allongement de la durée de vie\). L’homme est dès lors également **hypermorphique** **par rapport** au chimpanzé et à l’Australopithèque...
+{% endhint %}
+
+![Hypermorphose lign&#xE9;e humaine](../.gitbook/assets/hypermorphose-lignee-humaine.png)
+
+### Conclusion
+
+{% hint style="warning" %}
+L’évolution doit être envisagée comme un processus de modification des **développements morphologiques** plutôt que comme une simple accumulation de différences entre adultes. 
+{% endhint %}
+
+#### Evo-devo
+
+{% hint style="warning" %}
+Que nous dit l’EVO-DEVO ? L’évolution :
+
+* Résulte de **mutations des gènes régulateurs du développement**, plutôt que de
+
+  **l’accumulation de petites différences dans les gènes de structure**
+
+* Résulte de **variations dans le programme de développement précoce.**
+
+  **Variations du programme de développement correspondant au « réservoir » des**
+
+  **changements évolutifs, en imposant des limites à la sélection naturelle.**\(diversité des espèces domestiques dépend plus des variations disponibles dans le
+
+  programme de développement des espèces sauvages ancestrales, que des efforts des
+
+  éleveurs !\)
+{% endhint %}
+
 ## Définitions
 
 {% hint style="info" %}
