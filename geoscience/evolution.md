@@ -802,6 +802,16 @@ Concept mis en place part D'Arcy Thompson, il publie en 1917 : « On Growth and 
 
 ![Allom&#xE9;trie Ontog&#xE9;n&#xE9;tique Homme Crabe et Chimpanz&#xE9;](../.gitbook/assets/allometrieonogene-se.png)
 
+#### Allométrie phylogénétique
+
+{% hint style="info" %}
+* Allométrie positive des canines \(première dent sur les maxillaires\) chez certains félidés
+* Comment le nez \(l’évent\) de la baleine s’est retrouvé au sommet du crâne ? Nasal au sommet du crâne repoussé par le développement du pré-maxillaire ! Croissance allométrique des os pré-maxillaires a « poussée » le nasal vers le sommet du crâne ! \(spécialisation au mode de vie aquatique\)
+  * chez l’embryon de Cétacé, l’évent a la position classique des mammifères terrestres \(l’ontogenèse récapitule la phylogenèse\)
+{% endhint %}
+
+![Allom&#xE9;trie phylog&#xE9;n&#xE9;tique f&#xE9;lid&#xE9; et c&#xE9;tac&#xE9; et ontogen&#xE8;se c&#xE9;tac&#xE9;](../.gitbook/assets/exemple-allometrie-phylogenetique.png)
+
 ### Hétérochronie du développement
 
 ## Définitions
