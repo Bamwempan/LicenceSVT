@@ -1258,6 +1258,18 @@ Lors des travaux pratiques pour découvrir les fondements des cellules, nous all
 
 ![Coupe transversal tige herbac&#xE9;](../.gitbook/assets/coupe-transversale-tige-herbace.png)
 
+### Correction CC
+
+![Sch&#xE9;ma Coupe transversale tige herbac&#xE9;](../.gitbook/assets/schema-coupe-tranvsersal-tige-herbace.jpeg)
+
+## Sortie Tête d'or
+
+### Définition
+
+{% hint style="info" %}
+**Épiphyte :** Les épiphytes sont des trachéophytes qui vivent sur les tronc, les branches et parfois les feuilles d'un arbre hôte, sans être enraciné dans le sol. Vivre sur un support organique, hors du sol, revient à vivre en milieu oligotrophe.
+{% endhint %}
+
 ## Ressources
 
 {% tabs %}
