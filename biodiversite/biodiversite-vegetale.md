@@ -1250,7 +1250,80 @@ Lors des travaux pratiques pour découvrir les fondements des cellules, nous all
 
 {% hint style="info" %}
 **Épiphyte :** Les épiphytes sont des trachéophytes qui vivent sur les tronc, les branches et parfois les feuilles d'un arbre hôte, sans être enraciné dans le sol. Vivre sur un support organique, hors du sol, revient à vivre en milieu oligotrophe.
+
+**Vélamen :** Ou voile, formé de plusieurs assises de cellules mortes à parois subéro-ligneuse ponctuées. Ces cellules absorbent l'eau atmosphériques et la conduisent vers l'intérieur des racines
+
+**Mésophylle :** partie interne d'une feuille. Constitué de parenchyme chlorophyllien \(chlorenchyme\), c'est le siège principal de la photosynthèse. Il est recouvert par l'épiderme et parcouru par un réseau de nervures et de faisceaux conducteurs plus fins
+
+**Cladode :** Rameaux spécialisés ayant l'apparence d'une feuille et assurant les mêmes fonctions \(photosynthèse et respiration, réserves\). Les cladodes sont courts, aplatis et formés d'un seul entrenœud. Les phylloclades sont constitués de plusieurs entrenœuds aplatis
 {% endhint %}
+
+* Apparition des angiosperme il y a environs 100 millions d'années, eucalyptus 100 mètre de haut record..
+
+#### Épiphyte
+
+* Épiphyte tel que Zamia pseudoparasitica qui pousse sur les troncs d'arbres et s'ancre avec ses racines. NB : C'est la seule espèce de la division des Gymnospermes qui est épiphyte.
+* Le guy n'est pas épiphyte mais hémiparasite car c'est une plante parasite qui n'a pas de racine
+
+#### Monocotylédone
+
+* Orchidée, environs 25000 espèces, terrestre ou épiphyte, limbe en gouttière pour ramener au racine l'eau, racine sans poils absorbant, plante adaptée à la sécheresse
+  * Vanille forme liane, racine dans le sol, donc terrestre, grimpe pour accéder à la lumière, racine adventive sur les racine pour s'accrocher au support.
+* Broméliacée, feuillage tire au blanc, feuille épaisse, plante adaptée à la sécheresse
+* Tillandsia ou fille de l'air, famille de l'ananas. Épiphyte, pas de racine, poils morphologie parapluie, cellule qui se gorge d'eau, et de referme si trop chaud, sel minéraux par le vent. Multiplication végétative. \(Broméliacée\)
+* L'agave, plante monocotylédone, fleur pointue appeler dent pour se défendre des animaux, présence de sclérenchyme dans les feuilles, parenchymes aquifère présent dans la tige, tige peu présent. Feuille blanchâtre grâce à la pruine. Création de la tequila grâce au parenchyme.
+* Cactus, plante xérophyte, stockage des tiges, plante verticale pour réduire la perte d'eau, crête et creux alterner pour crée des zone d'ombre permet d'avoir plus de 50% de la surface à l'ombre, permet de choisir ou ouvrir les appareil somatique, une plante perd forcément de l'eau.
+  * Figuier de barbari, forme de tige plate, permet d'augmenter la surface de photosynthèse, cladode. Feuille sont toutes les épines, pour la défense et ne perd plus d'eau.
+* Palmier, stipe, racine adventive, pas de ramifications monocotyledone, rzdicule dégénère et autre système fait les racines, ps de tissus secondaire. Ensemble de faisceaux libéraux ligneux, tissus de soutient de type sclerznchyme et collenchyme. Très grande feuille et petiole.
+* Pandanys, Angiosperme monocotyledone, feuille Allonger, sans petiole et base élargie. Feuille angenante, nervure primaire et secondaire dans la lonbgueur et impression de parallélisme. Peut se ramifier, racine en échasses, adventive. Sol instable. Système de compensation d'équilibre.
+* Cocotier, stipe, feuille grande et gênante. Feuille de type pêne. Racine adventive
+* Bananier, nervure parallèle, tige qui porte les fruits, tige visible est un ensemble de feuille petiole. Duplication végétative. Croissance annuel.
+* Bambou, tissus lignée mais pas de type xyleme, sclerznchyme qui assure le soutient, tige creuse et cylindrique, deux type foliaire. Une sur la tige en protection pour le bourgeon et feuille issus du bourgeon tige plus feuille. Racine adventive plus Rhyzome
+
+#### Dicotylédone
+
+Euphorbe, tige parenchyme aquifère, aile pour faire de l'ombre, plus de feuille en haut de la plante, nervation plate. Présence temporaire des feuilles, quand suffisant d'eau, printemps et saison des pluie, boost la plante pour produire fleur et fruit, perte de feuille pour réduire perte en eau.
+
+Baobab, adaptation à la sécheresse. Tronc très développer. Parenchyme aquifère dans le tronc très développer. Pas de feuille saison sèche.
+
+Buli provient de la multiplication végétative, micro tige qui ensuite développe des racine adventive, puis des feuille et redonne une plante entière \(Kalanchoe\)
+
+Plante cailloux litophe, deux tiges, parenchyme aquaiphere, devenir petit pour diminuer et jouer sur le rapport surface volume.
+
+#### Plante carnivore
+
+Toute angiosperme, la plus part dicotylédone mais quelques espèces monocotylédones, ce sont des plantes qui possède carence en nitrate et ion, et qui vivent généralement dans un environnement tourbière, très charger en matière organique, gorge d'eau et ph acide, qui n'est pas assimilable par une plante. Environnement sablonneux et environnement aquatique, oligotrophe. Passif mixte et actif, type de piège. Modification de foliere, lymbe ou ~~périple~~ ou les deux, Toute plante produise des fleurs, polyniser par des insecte. Qui ne sont pas attirer par les nectaire produit par les pièges. Grande distance piège et fleur
+
+* Piège forme de cornée, sarracenie, développement d'une feuille, haut lymbe et basse le petiol, luminosite attire les insecte plus nectar, plus substance enivrante. Surface interne du corne ne permet pas de remonter, plus poils vers le bas, empêche le vol. Zbsorbtion de molécule protéines au niveau des feuilles.
+* Drosera, piège mixte, petiole plus lymbe, limbe remplie de poils doter de goûté de sécrétion. Collante, lymbe fait un mouvement pour bloquer l'insecte.
+* Dionee, piège actif piège en mâchoire, petiole plus lymbe. Lymbe forme le piège. Petiole plus epais, philode, pour la photosynthèse, charnière médiane, nervure médiane, mouvement rapide, au centième de seconde, fermeture en deux temps, première phase pas de orocution danzime, donc diminution des dépende inutiles. Face intérieur du lymbe, poils sensitive grave à l'urée dégager par l'animal en panique, production danzime deuxième phase du piège et fermé complètement le piège.
+* Utriculaire plante aquatique carnivore, oligotrophe, grosse poche en dispositif de clape, n'importe quel arthropodes peut être capturer, utricule vide sans proie, lorsque rencontre des poils et d'un animal ouverture du pore et aspire, se remplis d'eau et referme le clamer sous la pression de l'eau. Ensuite l'eau va diminuer, plus prois grâce au poils et activé les znzime avec Zbsorbtion des feuilles.
+* Plante liane, heliamphoras, pièges à l'extrémité de la feuille, piège en urne. Nepintgece, piège rempli de liquide,
+
+#### Gymnosperme
+
+Zamia, gymnosperme, différence au élément conducteur, pas de vaisseaux au niveau du xyleme, remplacer par les trachéide. Couleur blanche pruine, cuticule épaisse. Rigidités des élément pour éviter de bouger et diminuer la perte d'eau, orientation en v pour le soleil vers le haut, ombicuite
+
+Sycas, gymnosperme, tissus secondaire, cone pour les mâle et feuille peut développer pour les femelles, Cycas, reoroduction en cone
+
+#### Vie aquatique
+
+* Fougère, plante aquatique, marsilea , stratégie, système racinaire au fond et feuille à la surface.
+* Deuxième stratégie plante flottante, lymbe couvertes de poils et rend la surface hydrophobe, contribue à la flottaison de la plante
+* Rhyzome avec racine adventive, petiole inséré de manière centrale, permet de mettre la plante en corner si monter des eaux, lymbe hydrophobe, lotus
+* Plante helophyte, papyrus, parenchyme aeriphere dans la tige.
+* Lentille d'eau, plante sans feuille, cladode, système de reproduction végétatif, une racine...
+* Aune, hygrophyte
+
+#### Trachéophyte
+
+Cyatheaceae, une feuille, tronc se forme de la tige centrale et des petiole autour, stipe. Racine adventive.
+
+Cyprès chauve, floride, plante marécageux. Sol anoxique, racine mes en place des pneumatpphore, pour assurer la respiration
+
+#### Feuille
+
+Feuille anastomose, recoupement des nervure primaire secondaire et tertiaire. Plus les faisceaux sont plus proche plus c'est efficaces.
 
 ## Ressources
 
