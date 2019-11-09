@@ -98,8 +98,6 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 4. Gymnosperme \(Pin, Sapin\)
 5. Angiosperme \(Plantes à fleurs\)
 
-![Ordres d&apos;apparitions des v&#xE9;g&#xE9;taux](../.gitbook/assets/vegetaux-simplifie.jpg)
-
 {% hint style="warning" %}
 Le groupe des angiosperme est le dernier à être arriver sur terre est donc **le plus complexe**, de ce fait il s'est mieux **adapté à son environnement**, les angiospermes représentent environ **95%** des végétaux terrestre.
 {% endhint %}
@@ -134,7 +132,7 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 
 #### Cellule végétale
 
-![Composition d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/hd_la_cellule_vegetale_07_13.jpg)
+![Cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/la_cellule_vegetale_07_13.jpg)
 
 ### Caractéristiques principales d'un végétal
 
@@ -229,17 +227,11 @@ En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algu
 
 ## La lignée verte, les grands groupes des végétaux
 
+![Arbre phylog&#xE9;n&#xE9;tique &quot;v&#xE9;g&#xE9;taux&quot;](../.gitbook/assets/arbre-phylogenetique-lignee-verte-min.jpg)
+
 ### Arbre phylogénique des différents groupe de la lignée verte
 
-![Premi&#xE8;re partie de la lign&#xE9;e Verte](../.gitbook/assets/capture-du-2019-09-19-18-08-29.png)
-
-![Deuxi&#xE8;me partie](../.gitbook/assets/capture-du-2019-09-19-18-13-13.png)
-
-![3e et derni&#xE8;re partie](../.gitbook/assets/capture-du-2019-09-19-18-16-27.png)
-
-![Arbre phylog&#xE9;n&#xE9;tique lign&#xE9;e verte complet](../.gitbook/assets/arbre-phylogenetique-lignee-verte%20%281%29.jpg)
-
-![Groupe phylog&#xE9;n&#xE9;tique de la lign&#xE9;e verte](../.gitbook/assets/groupe-des-plantes.png)
+![](../.gitbook/assets/groupe-des-plantes.png)
 
 ## La conquête des milieux terrestre
 
@@ -322,9 +314,7 @@ Le point de départ des angiosperme est la graine, formée de différentes parti
 * Tégument \(Entoure le cotylédon\)
 {% endhint %}
 
-![Sch&#xE9;ma graine haricot](../.gitbook/assets/graine-haricot.png)
-
-![Photo graine haricot prise a la loupe binoculaire](../.gitbook/assets/graine-haricot%20%281%29.png)
+![](../.gitbook/assets/graine-haricot.png)
 
 {% embed url="https://www.youtube.com/watch?v=w77zPAtVTuI&feature=youtu.be" caption="Germination Graine Haricot" %}
 
@@ -369,9 +359,9 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
   * Parallèle
 {% endhint %}
 
-![Composition d&apos;une feuille](../.gitbook/assets/tp+salle+etang+fascicule.jpg)
+![](../.gitbook/assets/schema-feuille-simple-et-compose.jpg)
 
-![Diff&#xE9;renciation feuilles](../.gitbook/assets/differenciation-feuille.png)
+![](../.gitbook/assets/differenciation-feuille.png)
 
 {% hint style="danger" %}
 Le **bourgeon** ne fais pas partie de la **Feuille**
@@ -392,7 +382,7 @@ Il existe 4 grandes phyllotaxie
 * Verticillée
 {% endhint %}
 
-![Phyllotaxie](../.gitbook/assets/phyllotaxie-1.png)
+![Phyllotaxie](../.gitbook/assets/phyllotaxie.png)
 
 ![Compos&#xE9; de stipules ou non ? ](../.gitbook/assets/compose-de-stipules.png)
 
@@ -410,7 +400,7 @@ Il existe 4 grandes phyllotaxie
 
 ## Production de nouvelles cellules
 
-![Liste des tissus primaires et secondaire](../.gitbook/assets/meristemeprimaireetsecondaire.png)
+![M&#xE9;rist&#xE8;me primaire et secondaire](../.gitbook/assets/meristemeprimaireetsecondaire.png)
 
 ### Définition
 
@@ -431,7 +421,7 @@ Une plante cherche à croitre en hauteur et longueur ainsi qu'en épaisseur grâ
 Exemple : Tissus nerveux, musculaire, sanguin, conjonctif... L'étude des tissus est l'objet de l'histologie
 {% endhint %}
 
-![Tissus](../.gitbook/assets/tissus-vegetale.png)
+![Liste des tissus d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/tissus-vegetale.png)
 
 ### Production de nouvelles cellules par le fonctionnement de méristèmes
 
@@ -454,7 +444,7 @@ Etape 3 : Différenciation cellulaire et des tissus, modification structurale et
 Le méristème assure **l'histogenèse**
 {% endhint %}
 
-![](../.gitbook/assets/fonctionnement-meriste-me.png)
+![Fonctionnement m&#xE9;rist&#xE8;me](../.gitbook/assets/fonctionnement-meriste-me.png)
 
 ### Ou se situe les méristèmes
 
@@ -485,7 +475,7 @@ Il y à 3 grand types de tissus
 
 Certains constitué de cellules identiques \(tissu simple\), d'autre de différent type cellulaire \(tissu complexe\)
 
-![3 grand type de tissus](../.gitbook/assets/different-type-tissus.jpg)
+![Disposition des tissus conducteurs primaires dans les tiges, feuilles et racines](../.gitbook/assets/different-type-tissus.jpg)
 
 ### Méristème primaire
 
@@ -507,13 +497,13 @@ Les **méristèmes** **primaires** sont **organogènes**
 Les tissus primaires sont forcément issus d'un méristème primaire, il y a un agencement irrégulier des cellules qui les composent
 {% endhint %}
 
-![Tissus primaires](../.gitbook/assets/meriste-me-primaire.png)
+![](../.gitbook/assets/meriste-me-primaire.png)
 
 #### Schéma de représentation des tissus primaires
 
 ### Tissus de revêtement primaire
 
-![Liste des tissus primaires et secondaire](../.gitbook/assets/meristemeprimaireetsecondaire.png)
+![](../.gitbook/assets/meristemeprimaireetsecondaire.png)
 
 Ils sont en surface des organes et joue un rôle de protection
 
@@ -532,7 +522,7 @@ L'épiderme est aussi constitué de stomates, ils sont généralement située su
 Le stomate est un tissus d'échange, qui permet à la plante des échanges gazeux grâce à l'ouverture et fermeture du stomate, ils permettent la régulation des flux hydrique au seins de la plante
 {% endhint %}
 
-![](../.gitbook/assets/stomates.png)
+![Stomates](../.gitbook/assets/stomates.png)
 
 #### Poils épidermiques
 
@@ -565,7 +555,7 @@ Ce sont des tissus de constitution qui peuvent cependant accomplir des fonctions
 * Circulation des gaz
 * Stockage de l'eau
 
-![](../.gitbook/assets/parenchymes.png)
+![Photo des diff&#xE9;rents parenchymes](../.gitbook/assets/parenchymes.png)
 
 ### Tissus de soutien
 
@@ -782,13 +772,13 @@ Phloème primaire est un tissu complexe composé de plusieurs types cellulaire
 - Paroi cellulosique ou lignifiée, épaissie  
 - Participe au soutient de la plante
 
-![Phlo&#xE8;me primaire sch&#xE9;matique](../.gitbook/assets/phloemeprimaire-schematique.png)
+![Phlo&#xE8;me primaire sch&#xE9;matique](../.gitbook/assets/phloemeprimaire-schematique.jpg)
 
 #### Disposition des tissus conducteurs primaires chez les angiospermes
 
 Les différentes dispositions des xylèmes primaires et phloèmes primaires permet la distinction histologiques entre les feuilles, la tige et les racines
 
-![Disposition des tissus conducteurs primaires dans les tiges, feuilles et racines](../.gitbook/assets/disposition-des-tissus-conducteurs-primaires.png)
+![Disposition des tissus conducteurs primaires dans les tiges, feuilles et racines](../.gitbook/assets/different-type-tissus.jpg)
 
 {% hint style="warning" %}
 Chez les **tiges** et les **feuilles** la disposition du **Xylème** primaire et **Phloème** primaire est **superposé**
@@ -796,13 +786,13 @@ Chez les **tiges** et les **feuilles** la disposition du **Xylème** primaire et
 Dans les **racines** la disposition est **alterné**
 {% endhint %}
 
-![](../.gitbook/assets/dispositions-xyleme-primaire-et-phloeme-primaire.png)
+![](../.gitbook/assets/dispositions-xyleme-primaire-et-phloeme-primaire.jpg)
 
 {% hint style="success" %}
 La **disposition** des **tissus** **conducteurs** **primaires** résulte du **fonctionnement** du **méristème** **primaires**, le **procambium**
 {% endhint %}
 
-![Explication du passage au procambium aux tissus conducteurs](../.gitbook/assets/du-procambium-au-tissus-conducteurs.png)
+![Explication du passage au procambium aux tissus conducteurs](../.gitbook/assets/du-procambium-au-tissus-conducteurs.jpg)
 
 ## Diversité et fonction des tissus impliqué dans la croissance en épaisseur de la plante
 
@@ -811,7 +801,7 @@ C'est grâce à l'intervention des méristème secondaire que les plantes peuven
 * **Très important** chez les plantes dites **ligneuse** \(Buisson bas, buisson, arbuste, arbre\)
 * **Plus restreinte** chez les plantes **herbacées** \(Herbe autre que monocotylédones\)
 
-![Liste des groupes qui ont la pr&#xE9;sences de m&#xE9;rist&#xE8;mes secondaires](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.png)
+![Liste des groupes qui ont la pr&#xE9;sences de m&#xE9;rist&#xE8;mes secondaires](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.jpg)
 
 {% hint style="danger" %}
 Les **Monocotylédones** n'ont pas de méristèmes secondaires, pas de cambium donc pas de tissus secondaires.
@@ -830,7 +820,7 @@ Il existe **deux** **types** de **méristèmes** **secondaires**
   * Assise génératrice subéro-phellodermique \(=&gt; **Tissus** **secondaire** de **revêtement**\)
 {% endhint %}
 
-![M&#xE9;rist&#xE8;me secondaires, Cambium et Phellog&#xE8;ne](../.gitbook/assets/meritstemes-secondaires.png)
+![M&#xE9;rist&#xE8;me secondaires, cambium et phellog&#xE8;ne](../.gitbook/assets/meritstemes-secondaires.jpg)
 
 ### Cambium, Tissus secondaire de conduction
 
@@ -840,11 +830,11 @@ Les tissus secondaires de conductions sont produits par le **cambium,** ce sont 
 
 La division périclines du cambium permettent la production de nouvelles cellules.
 
-![Production de xyl&#xE8;me et phlo&#xE8;me secondaires](../.gitbook/assets/fonctionementcreationtissussecondaires.png)
+![Production de xyl&#xE8;me et phlo&#xE8;me secondaires](../.gitbook/assets/fonctionnementcreationtissussecondaires.jpg)
 
-Explication de la division du cambium
+#### Explication de la division du cambium
 
-![Fonctionnement de la division du cambim](../.gitbook/assets/fonctionnementdeladivisionducambium.png)
+![](../.gitbook/assets/fonctionnementdeladivisionducambium.jpg)
 
 #### Xylème secondaire
 
@@ -855,7 +845,7 @@ Explication de la division du cambium
 * Parenchyme
 {% endhint %}
 
-![Xyl&#xE8;me secondaire](../.gitbook/assets/xyleme-secondaire.png)
+![Xyl&#xE8;me secondaire](../.gitbook/assets/xyleme-secondaire.jpg)
 
 #### Phloème secondaire
 
@@ -868,11 +858,11 @@ Explication de la division du cambium
   * Fibres phloèmiennes
 {% endhint %}
 
-![Phlo&#xE8;me secondaire](../.gitbook/assets/phloeme-secondaire.png)
+![Phlo&#xE8;me secondaire](../.gitbook/assets/phloeme-secondaire.jpg)
 
 #### Représentation schéma des tissus secondaire avec cambium
 
-![](../.gitbook/assets/schema-du-xyleme-et-phloeme-secondaire-avec-cambium.png)
+![](../.gitbook/assets/schema-du-xyleme-et-phloeme-secondaire-avec-cambium.jpg)
 
 #### Notion de pachytes \(Pakyte\)
 
@@ -880,7 +870,7 @@ Explication de la division du cambium
 La disposition du cambium peut être continue ou discontinue entres les faisceaux libéraux ligneux, ce qui donne la mise en place continue ou discontinue de tissus conducteurs secondaires
 {% endhint %}
 
-![Disposition continue ou discontinue du cambium](../.gitbook/assets/pachyte.png)
+![Disposition continue ou discontinue du cambium](../.gitbook/assets/pachyte.jpg)
 
 ![Disposition des diff&#xE9;rents tissus](../.gitbook/assets/notion-de-pachytes.png)
 
@@ -1047,8 +1037,6 @@ Chez certaines racines âgées \(**plantes** **ligneuses**\) protection assurée
 
 Chez certains végétaux il y a production de tissus secondaire et de croissance en épaisseur de la racine \([Voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#racine)\). Uniquement chez certaines plantes
 
-![Les monocotyl&#xE9;dones ne produisent pas de tissus secondaire](../.gitbook/assets/production-de-racine-secondaire-possible-phylogenie.png)
-
 {% hint style="warning" %}
 Production de tissus **secondaire** de **conduction** via le **cambium**, le **phloème** **secondaire** et **xylème** **secondaire**. Et production de tissus **secondaire** de **revêtement** via le **phellogène**, le **suber** et **phelloderme** \([voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#phellogene-mise-en-place-de-tissus-secondaire-de-revetement)\)
 {% endhint %}
@@ -1176,8 +1164,6 @@ Et pour distinguer une racine ?
 
 Chez certains végétaux il y a production de tissus secondaire et de croissance en épaisseur de la tige \([Voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#racine)\). Uniquement chez certaines plantes
 
-![Les monocotyl&#xE9;dones ne produisent pas de tissus secondaire](../.gitbook/assets/production-de-racine-secondaire-possible-phylogenie.png)
-
 {% hint style="warning" %}
 Production de tissus **secondaire** de **conduction** via le **cambium**, le **phloème** **secondaire** et **xylème** **secondaire**. Et production de tissus **secondaire** de **revêtement** via le **phellogène**, le **suber** et **phelloderme** \([voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#phellogene-mise-en-place-de-tissus-secondaire-de-revetement)\)
 {% endhint %}
@@ -1216,8 +1202,6 @@ Croissance continue = pas d’arrêts de croissance
 ## Feuille
 
 ## A savoir !
-
-![Listes des diff&#xE9;rents tissus d&apos;une plante](../.gitbook/assets/meristemeprimaireetsecondaire.png)
 
 ### Représentation schématique des Xylèmes et Phloèmes
 
