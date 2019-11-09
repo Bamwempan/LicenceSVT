@@ -59,7 +59,7 @@ Les animaux sont aussi appelé métazoaire
 * N'a pas de paroi cellulaire mais une membrane
 {% endhint %}
 
-![Cellule v&#xE9;g&#xE9;tale vs Animale](../.gitbook/assets/cellule-vegetale-vs-animale.png)
+![Diff&#xE9;rence cellule v&#xE9;g&#xE9;tale et Animale](../.gitbook/assets/cellule-vegetale-vs-animale.jpg)
 
 ### Qu'est ce qu'un végétale ?
 
@@ -103,7 +103,7 @@ Chloroplaste : Endosymbiose d'une cyanobactérie
 Mitochondrie on leur propre ADN
 {% endhint %}
 
-![Th&#xE9;orie de l&apos;endosymbiotique](../.gitbook/assets/415px-serial_endosymbiosis.svg.png)
+![](../.gitbook/assets/theorieendosymbiotique.jpg)
 
 #### Premier organisme eucaryote coloniaux / pluricellulaire
 
@@ -148,7 +148,7 @@ Carl von Linée, naturaliste, invente le système de nomenclature, en 1750, et a
 * Hiérarchie naturelles et fixisme
 * 7 niveaux et nomenclature binomiale
 
-![Nomenclature de Carl Von Linn&#xE9;e en 7 niveaux](../.gitbook/assets/vector-illustration-major-taxonomic-ranks-hierarchy-biological-classification-classification-system.jpg)
+![Nomenclature de Carl Von Linn&#xE9;e en 7 niveaux](../.gitbook/assets/major-taxonomic-ranks-hierarchy-biological-classification-classification-system-carl-linnaeus.jpg)
 
 #### 19e Siècle
 
