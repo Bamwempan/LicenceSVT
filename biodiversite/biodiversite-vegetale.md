@@ -878,11 +878,11 @@ La disposition du cambium peut être continue ou discontinue entres les faisceau
 
 #### Tige
 
-![Tissus secondaire au niveau de la tige](../.gitbook/assets/tissussecondairestige.png)
+![](../.gitbook/assets/tissussecondairestige.jpg)
 
 #### Racine
 
-![](../.gitbook/assets/tissussecondairesracine.png)
+![](../.gitbook/assets/tissussecondairesracine.jpg)
 
 ### Phellogène, Mise en place de tissus secondaire de revêtement
 
@@ -892,7 +892,7 @@ La croissance importante en épaisseur liée au fonctionnement du cambium condui
 La plante dois donc en créer de nouveau avec des tissus de revêtement secondaire pour protéger les organes \(Tiges, Racine\), au niveau de certaines plantes \(ligneuses\)
 {% endhint %}
 
-![Croissance &#xE9;paisseur phellog&#xE8;ne](../.gitbook/assets/croissance-epaisseur-phellogene.png)
+![Croissance &#xE9;paisseur phellog&#xE8;ne](../.gitbook/assets/croissance-epaisseur-phellogene.jpg)
 
 {% hint style="warning" %}
 Fonctionnement du phellogène
@@ -903,11 +903,9 @@ Fonctionnement du phellogène
 il y a division périclines du phellogène permettant la production de nouvelles cellules
 {% endhint %}
 
-
-
 ![Division p&#xE9;ricline du phellog&#xE8;ne](../.gitbook/assets/fonctionnementphellogene.png)
 
-![Phellog&#xE8;ne](../.gitbook/assets/phellogene.png)
+![Phellog&#xE8;ne](../.gitbook/assets/phellogene.jpg)
 
 #### Suber
 
@@ -940,7 +938,7 @@ Différent rôle
 * Multiplication végétative \(Assure la reproduction de la plante de manière asexuée\)
 {% endhint %}
 
-![R&#xF4;le racine](../.gitbook/assets/racine-role.png)
+![R&#xF4;le racine](../.gitbook/assets/racine-role.jpg)
 
 ### Origine et diversité des racines
 
@@ -950,7 +948,7 @@ La **racine « vraie »** dérive de la **radicule** elle est rattachée à la t
 Il existe aussi des **racines "adventives"** racines formées sur d’autres organes \(tige, feuille\), ne dérivant pas de la radicule. Le **développement** **possible** de racines **adventives** à partir de **n’importe quel organe** permet la **multiplication** **végétative** des **individus**.
 {% endhint %}
 
-![Racine adventives ma&#xEF;s](../.gitbook/assets/racine-de-mais.png)
+![Racine adventives ma&#xEF;s](../.gitbook/assets/racine-de-mais.jpg)
 
 #### Morphologie des racines
 
@@ -962,7 +960,7 @@ Les racines se diversifies en trois grands type :
 * Mixte
 {% endhint %}
 
-![Morphologies racinaires](../.gitbook/assets/morphologies-racinaires.png)
+![Morphologies racinaires](../.gitbook/assets/morphologies-racinaires.jpg)
 
 ### Croissance de la racine
 
@@ -971,9 +969,9 @@ La croissance de la racine se fait par un **méristème primaire**, le **mérist
 Le géotropisme des racines est induits par la coiffe, la perception de la gravité repose sur les statolithes présent dans la coiffe
 {% endhint %}
 
-![](../.gitbook/assets/meristeme-apical.png) ![](../.gitbook/assets/meristeme-racinaires-photo-microscope.png)  
+![](../.gitbook/assets/meristeme-apical.jpg) ![](../.gitbook/assets/meristeme-racinaires-photo-microscope.jpg)  
 
-![Statolithes](../.gitbook/assets/statolithes.png)
+![Statolithes](../.gitbook/assets/statolithes.jpg)
 
 La croissance se fait en 3 étapes
 
@@ -981,7 +979,7 @@ La croissance se fait en 3 étapes
 2. Elongation / croissance cellulaire
 3. Différenciation cellulaire /maturation
 
-![Etape racine](../.gitbook/assets/etape-racine.png)
+![Etape racine](../.gitbook/assets/etape-racine.jpg)
 
 ### Structure de la racine
 
@@ -998,7 +996,7 @@ Pour rappel il existe trois grand type de morphologies, pivotant, mixte et fasci
 * Coiffe : manchon de cellules facilitant la pénétration \(+ zone méristématique\) Racine principale de la racine dans le sol. Cellules se multiplient vite pour se renouveler
 {% endhint %}
 
-![](../.gitbook/assets/morphologie-racine.png)
+![](../.gitbook/assets/morphologie-racine.jpg)
 
 {% hint style="danger" %}
 Chez certaines racines âgées \(**plantes** **ligneuses**\) protection assurée par suber \(**protection** **secondaire**\)
