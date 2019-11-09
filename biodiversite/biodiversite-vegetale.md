@@ -1019,7 +1019,7 @@ Chez certaines racines âgées \(**plantes** **ligneuses**\) protection assurée
   * **Phloème** **primaire**
 {% endhint %}
 
-![Racine coupe longit&#xE9;dunale](../.gitbook/assets/racine-coupe-transversale.png)
+![](../.gitbook/assets/racine-coupe-transversale.jpg)
 
 {% hint style="success" %}
 #### Pour distinguer une racine ?
@@ -1029,11 +1029,13 @@ Chez certaines racines âgées \(**plantes** **ligneuses**\) protection assurée
 3. Différenciation centripète du xylème primaire
 {% endhint %}
 
-![Distinction racinaire](../.gitbook/assets/dinstinction-racinaire.png)
+![Distinction racinaire](../.gitbook/assets/dinstinction-racinaire.jpg)
 
 #### Tissus secondaires
 
 Chez certains végétaux il y a production de tissus secondaire et de croissance en épaisseur de la racine \([Voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#racine)\). Uniquement chez certaines plantes
+
+![](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.jpg)
 
 {% hint style="warning" %}
 Production de tissus **secondaire** de **conduction** via le **cambium**, le **phloème** **secondaire** et **xylème** **secondaire**. Et production de tissus **secondaire** de **revêtement** via le **phellogène**, le **suber** et **phelloderme** \([voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#phellogene-mise-en-place-de-tissus-secondaire-de-revetement)\)
@@ -1048,9 +1050,9 @@ Production de tissus **secondaire** de **conduction** via le **cambium**, le **p
 * Origine profonde \(endogène\) de la ramification racinaire
 {% endhint %}
 
-![Ramification partie 1 et 2](../.gitbook/assets/ramification-1-2.png)
+![Ramification partie 1 et 2](../.gitbook/assets/ramification-1-2.jpg)
 
-![Ramification partie 3](../.gitbook/assets/ramification-3.png)
+![Ramification partie 3](../.gitbook/assets/ramification-3.jpg)
 
 ### Symbiose racinaire
 
@@ -1068,7 +1070,7 @@ Echanges de ressources entre les partenaires :
 * En contrepartie, la plante assure la nutrition carbonée de son partenaire mycorhizien
 {% endhint %}
 
-![Racine en orange et champignon en blanc](../.gitbook/assets/symbiose-raicnaires.png)
+![](../.gitbook/assets/symbiose-raicnaires.jpg)
 
 ## Tige
 
@@ -1084,7 +1086,7 @@ Phototropisme positif et géotropisme négatif, la tige permet le soutient de la
 La tige provient du groupe gemmule et tigelles, elle est rattaché à la racine par le collet, la tige porte les cotylédons, feuilles et le bourgeon terminal \(Apical\). Les tiges sont un empilement de phytomères.
 {% endhint %}
 
-![Sch&#xE9;ma annot&#xE9; tige](../.gitbook/assets/schema-annoter-tige.png)
+![Sch&#xE9;ma annot&#xE9; tige](../.gitbook/assets/schema-annoter-tige.jpg)
 
 ### Diversité des tiges
 
@@ -1106,11 +1108,11 @@ La tige provient du groupe gemmule et tigelles, elle est rattaché à la racine 
 La croissance de la tige s'effectue par la croissance du bourgeon apical \(Terminal\), chez les plantes ligneuse le bourgeon est protégé par des écailles, chez une plante herbacé il n'est pas protégé.
 {% endhint %}
 
-![Bourgeon ligneux et herbac&#xE9;](../.gitbook/assets/bourgeon-ligneux-et-herbace.png)
+![Bourgeon ligneux et herbac&#xE9;](../.gitbook/assets/bourgeon-ligneux-et-herbace.jpg)
 
 #### Organisation de l'apex caulinaire
 
-![Zoom Apex caulinaire bourgeon](../.gitbook/assets/zoom-bouregon.png)
+![Zoom Apex caulinaire bourgeon](../.gitbook/assets/zoom-bouregon.jpg)
 
 #### Fonctionnement de l'apex caulinaire
 
@@ -1133,7 +1135,7 @@ Fonctionnement rythmé, moment de repos du méristème.
 
 ### Structure de la tige
 
-![Sch&#xE9;ma simplifier tige](../.gitbook/assets/schema-tige-histologie-simpligier.png)
+![Sch&#xE9;ma simplifier tige](../.gitbook/assets/schema-tige-histologie-simpligier.jpg)
 
 {% hint style="warning" %}
 Tissus primaires
@@ -1162,15 +1164,15 @@ Et pour distinguer une racine ?
 
 Chez certains végétaux il y a production de tissus secondaire et de croissance en épaisseur de la tige \([Voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#racine)\). Uniquement chez certaines plantes
 
+![](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.jpg)
+
 {% hint style="warning" %}
 Production de tissus **secondaire** de **conduction** via le **cambium**, le **phloème** **secondaire** et **xylème** **secondaire**. Et production de tissus **secondaire** de **revêtement** via le **phellogène**, le **suber** et **phelloderme** \([voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#phellogene-mise-en-place-de-tissus-secondaire-de-revetement)\)
 {% endhint %}
 
-![Production de tissus secondaire](../.gitbook/assets/production-de-racine-secondaire-par-le-cambium-et-le-phellogene.png)
-
 #### Structure histologique
 
-![Diff&#xE9;rence histologique entre herbac&#xE9;e et ligneuse](../.gitbook/assets/difference-histologique-herbacee-et-ligneuse.png)
+![Diff&#xE9;rence histologique entre herbac&#xE9;e et ligneuse](../.gitbook/assets/difference-histologique-herbacee-et-ligneuse.jpg)
 
 #### Architecture et développement
 
@@ -1180,7 +1182,7 @@ Croissance rythmique = arrêts de croissance et présence d’unités de croi
 Croissance continue = pas d’arrêts de croissance
 {% endhint %}
 
-![Architecture d&apos;une tige et bourgeon](../.gitbook/assets/architecture-tige-et-bourgeon-apical.png)
+![Architecture d&apos;une tige et bourgeon](../.gitbook/assets/architecture-tige-et-bourgeon-apical.jpg)
 
 {% hint style="warning" %}
 * Développement **monopodial**
@@ -1191,7 +1193,7 @@ Croissance continue = pas d’arrêts de croissance
   * Croissance via des bourgeons axillaires
 {% endhint %}
 
-![D&#xE9;veloppement monopodial et sympodial](../.gitbook/assets/difference-croissance-tige.png)
+![D&#xE9;veloppement monopodial et sympodial](../.gitbook/assets/difference-croissance-tige.jpg)
 
 #### Différenciation rameaux
 
@@ -1201,9 +1203,7 @@ Croissance continue = pas d’arrêts de croissance
 
 ## A savoir !
 
-### Représentation schématique des Xylèmes et Phloèmes
-
-![Repr&#xE9;sentation sch&#xE9;matique des phlo&#xE8;mes et xyl&#xE8;mes primaire et secondaire ainsi que du cambium](../.gitbook/assets/representation-schema-des-phloeme-et-xyleme-primaire-et-secondaire-+-cambium.png)
+![](../.gitbook/assets/meristemeprimaireetsecondaire.png)
 
 ## Travaux pratique
 
@@ -1234,11 +1234,11 @@ Lors des travaux pratiques pour découvrir les fondements des cellules, nous all
 
 ### Faisceaux libéraux ligneux
 
-![Faisceaux lib&#xE9;raux ligneux](../.gitbook/assets/faisceau-libero-ligneux.png)
+![Faisceaux lib&#xE9;raux ligneux](../.gitbook/assets/faisceau-libero-ligneux.jpg)
 
 ### Coupe transversale tige herbacé
 
-![Coupe transversal tige herbac&#xE9;](../.gitbook/assets/coupe-transversale-tige-herbace.png)
+![Coupe transversal tige herbac&#xE9;](../.gitbook/assets/coupe-transversale-tige-herbace.jpg)
 
 ### Correction CC
 
