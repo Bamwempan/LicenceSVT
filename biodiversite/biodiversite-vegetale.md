@@ -102,7 +102,7 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 Le groupe des angiosperme est le dernier à être arriver sur terre est donc **le plus complexe**, de ce fait il s'est mieux **adapté à son environnement**, les angiospermes représentent environ **95%** des végétaux terrestre.
 {% endhint %}
 
-![Grand groupe des v&#xE9;g&#xE9;taux sur terre](../.gitbook/assets/abre-phyloginetique.jpg)
+![Grand groupe des v&#xE9;g&#xE9;taux sur terre](../.gitbook/assets/abre-phyloginetique.png)
 
 ## Qu'est ce qu'un végétal ?
 
@@ -149,7 +149,7 @@ Les parties importante d'une cellule végétales sont le noyaux et les organites
 
 Les chlorophylles dans les chloroplastes permettent la photosynthèse grâce à l’énergie solaire.
 
-![&#xC9;quation photosynth&#xE8;se](../.gitbook/assets/photosynthesis_equation_fr.svg.png)
+![&#xC9;quation photosynth&#xE8;se](../.gitbook/assets/photosynthesis_equation_fr.png)
 
 ### Métabolite secondaire
 
@@ -361,7 +361,7 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 
 ![](../.gitbook/assets/schema-feuille-simple-et-compose.jpg)
 
-![](../.gitbook/assets/differenciation-feuille.png)
+![](../.gitbook/assets/differenciation-feuille.jpg)
 
 {% hint style="danger" %}
 Le **bourgeon** ne fais pas partie de la **Feuille**
@@ -369,7 +369,7 @@ Le **bourgeon** ne fais pas partie de la **Feuille**
 
 #### Photo feuille composée
 
-![Photo l&#xE9;gend&#xE9; d&apos;une feuille compos&#xE9;e](../.gitbook/assets/feuille-compose-haricot.png)
+![](../.gitbook/assets/feuille-compose-haricot.jpg)
 
 ### Phyllotaxie
 
@@ -388,15 +388,15 @@ Il existe 4 grandes phyllotaxie
 
 ### Système racinaire
 
-![Syst&#xE8;me racinaire](../.gitbook/assets/photo-syste-me-racinaire.png)
+![Syst&#xE8;me racinaire](../.gitbook/assets/photo-syste-me-racinaire.jpg)
 
 ### Jeune pousse
 
-![Photo l&#xE9;gend&#xE9; d&apos;une jeune pousse](../.gitbook/assets/photo-legende-dune-jeunes-pousse-dangiosperme.png)
+![Photo l&#xE9;gend&#xE9; d&apos;une jeune pousse](../.gitbook/assets/photo-legende-dune-jeunes-pousse-dangiosperme.jpg)
 
 ### Bourgeon
 
-![](../.gitbook/assets/photo-legendee-dun-bourgeon.png)
+![](../.gitbook/assets/photo-legendee-dun-bourgeon.jpg)
 
 ## Production de nouvelles cellules
 
@@ -421,7 +421,7 @@ Une plante cherche à croitre en hauteur et longueur ainsi qu'en épaisseur grâ
 Exemple : Tissus nerveux, musculaire, sanguin, conjonctif... L'étude des tissus est l'objet de l'histologie
 {% endhint %}
 
-![Liste des tissus d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/tissus-vegetale.png)
+![Liste des tissus d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/tissus-vegetale.jpg)
 
 ### Production de nouvelles cellules par le fonctionnement de méristèmes
 
@@ -444,7 +444,7 @@ Etape 3 : Différenciation cellulaire et des tissus, modification structurale et
 Le méristème assure **l'histogenèse**
 {% endhint %}
 
-![Fonctionnement m&#xE9;rist&#xE8;me](../.gitbook/assets/fonctionnement-meriste-me.png)
+![Fonctionnement m&#xE9;rist&#xE8;me](../.gitbook/assets/fonctionnement-meriste-me.jpg)
 
 ### Ou se situe les méristèmes
 
@@ -522,7 +522,7 @@ L'épiderme est aussi constitué de stomates, ils sont généralement située su
 Le stomate est un tissus d'échange, qui permet à la plante des échanges gazeux grâce à l'ouverture et fermeture du stomate, ils permettent la régulation des flux hydrique au seins de la plante
 {% endhint %}
 
-![Stomates](../.gitbook/assets/stomates.png)
+![Stomates](../.gitbook/assets/stomates.jpg)
 
 #### Poils épidermiques
 
@@ -555,7 +555,7 @@ Ce sont des tissus de constitution qui peuvent cependant accomplir des fonctions
 * Circulation des gaz
 * Stockage de l'eau
 
-![Photo des diff&#xE9;rents parenchymes](../.gitbook/assets/parenchymes.png)
+![Photo des diff&#xE9;rents parenchymes](../.gitbook/assets/parenchymes.jpg)
 
 ### Tissus de soutien
 
@@ -594,9 +594,9 @@ Il existe deux types de tissus de soutient
 
 Généralement présent dans les tissus racinaire, il se situe à la limite du cylindre centrale et de l'écorce
 
-![](../.gitbook/assets/localisation-percycle-et-endoderme.png)
+![](../.gitbook/assets/localisation-percycle-et-endoderme.jpg)
 
-![](../.gitbook/assets/endoderme-et-pericyle.png)
+![](../.gitbook/assets/endoderme-et-pericyle.jpg)
 
 #### Péricycle
 
@@ -677,7 +677,7 @@ Ainsi que la réserve et métabolisme
 
 #### Xylème primaire chez les angiospermes
 
-![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.png)
+![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg)
 
 Assure le soutien 
 
@@ -697,9 +697,9 @@ Ainsi que la réserve et métabolisme
 
 Conduction grâce au vaisseaux, qui comporte plusieurs éléments. Cellules de grande taille, morte à paroi épaissies \(P1 et P2\), lignifiées, ponctuées. La fabrication des vaisseaux se fait tout au long de la vie de la plante, plus les vaisseaux sont formés tard plus les vaisseaux sont lignifiés.
 
-![Repr&#xE9;sentation sch&#xE9;matique des xyl&#xE8;mes](../.gitbook/assets/xylemeschema.png)
+![Repr&#xE9;sentation sch&#xE9;matique des xyl&#xE8;mes](../.gitbook/assets/xylemeschema.jpg)
 
-![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.png)
+![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
 
 {% hint style="warning" %}
 Il existe plusieurs types de vaisseaux, les premiers vaisseaux fabriqués sont des **protoxylèmes** et ceux fabriqués quand la plante est plus développée sont les **métaxylèmes**
@@ -709,13 +709,13 @@ Il existe plusieurs types de vaisseaux, les premiers vaisseaux fabriqués sont d
 
 Les protoxylèmes sont les premiers vaisseaux fabriqués par la plante, de ce fait ils sont imparfait. Les cellules s'allongent, constitué de parois transversales entre les vaisseaux. Vaisseaux annelé, spiralés. 
 
-![Repr&#xE9;sentation protoxyl&#xE8;me](../.gitbook/assets/protoxyleme.png)
+![Repr&#xE9;sentation protoxyl&#xE8;me](../.gitbook/assets/protoxyleme.jpg)
 
 #### Métaxylème
 
 Les métaxylèmes sont considérés comme des vaisseaux parfaits, les cellules ne s'allongent plus, les vaisseaux sont constitués d'éléments de vaisseaux sans paroi transversale, vaisseaux rayés, réticulés, ponctués.
 
-![Repr&#xE9;sentation m&#xE9;taxyl&#xE8;me](../.gitbook/assets/representationmetaxyleme.png)
+![Repr&#xE9;sentation m&#xE9;taxyl&#xE8;me](../.gitbook/assets/representationmetaxyleme.jpg)
 
 {% hint style="success" %}
 Le sens de différenciations des vaisseaux du xylème primaire permet de faire la distinction au niveau histologie entre tige et racine.
@@ -751,7 +751,7 @@ Présent dans les feuilles, tiges et racines. Ils assurent 3 fonctions
 Phloème primaire est un tissu complexe composé de plusieurs types cellulaire
 {% endhint %}
 
-![Phlo&#xE8;me primaire](../.gitbook/assets/phloeme-primaire.png)
+![Phlo&#xE8;me primaire](../.gitbook/assets/phloeme-primaire.jpg)
 
 #### Constitution des phloème primaire
 
