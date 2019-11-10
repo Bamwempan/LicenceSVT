@@ -6,89 +6,9 @@ description: >-
 
 # Biodiversité Végétale
 
-## Application de la biodiversité végétal
-
 La biodiversité végétale permet notamment de comprendre le fonctionnement et l'évolution des plantes, les protéger lors de construction, pour les utilisée dans le système économique et social, et de comprendre les différent services systémique.
 
 Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histologie végétale, Morphologie végétale, Taxinomie et Systématique \(Classement des végétaux\)**
-
-## Définitions
-
-Le terme **végétal** est bien **différents** du terme **plante**.
-
-{% hint style="info" %}
-**Végétal :** Être vivant **eucaryote pluricellulaire**, généralement **autotrophe au carbone** \(présence de **chloroplastes**\) dont les cellules sont entourées par une paroi et qui possède un **thalle** \(lame foliacée aplatie\) ou des **organes différenciés, cormus** \(racine, tige, feuille\).  
-**Remarque :** Les champignons et Mycètes ne sont plus considéré comme des végétaux et les algues pluricellulaire sont parfois rangé dans les protistes.  
-**A savoir :** Embryophytes, Fabrique de l'amidon
-
-**Embryophytes :** Aussi appelé Cormophytes, rassemblent ce qu'on appelle les plantes terrestres. \([Source](https://fr.wikipedia.org/wiki/Embryophyta)\)  
-Elles forment un groupe monophylétique. Ce terme de plantes terrestres n'interdit pas que certaines d'entre elles se soient par la suite adaptées aux milieux aquatiques \(à la manière des cétacés chez les animaux\) ou que leur fécondation reste en milieu aquatique.  
-Avec les algues vertes, ou chlorophytes lato sensu \(groupe paraphylétique\), elles constituent le règne des plantes vertes et le clade des chlorobiontes caractérisé par l'association des chlorophylles a et b et l'amidon stocké dans les plastes.  
-Les embryophytes sont définies par la présence d'un embryon végétal.
-
-**Cormophytes :** Ensemble des plantes dont l'appareil végétatif est un cormus.
-
-**Chloroplaste :** La chloroplaste est **l'organite** responsable de la **photosynthèse**.
-
-**Photosynthèse** : Fabrication de matière organique à partir de matière minérale \( $$CO_2,H_2O, etc$$ \) et d'énergie lumineuse qui se déroule chez les végétaux chlorophylliens.
-
-**Matière minérale :** Ensemble des molécules qui **ne contiennent pas** de **carbone réduit**.
-
-* La matière minérale comprend les différentes formes de carbone oxydés comme le dioxyde de carbone et le monoxyde de carbone, les sulfates, les nitrates, les phosphates, les nitrites, l'ammonium, l'eau ....
-
-**Matière organique :** Molécule fabriquée par les **êtres vivants** à **partir** de **carbone réduit**, d'hydrogène, d'oxygène, d'azote, de soufre et de phosphore.
-
-**Carbone réduit :** Atome de carbone dont **au moins un des quatre** électrons célibataires de la couche externe participe à **une liaison**, le plus souvent avec un atome d'**hydrogènes**.
-
-**Autotrophe :** Propriété d'un être vivant qui consiste à fabriquer de la matière organique à partir de matière minéral et d'énergie.  
-**-**Si l'énergie est la lumière, la cellule est phototrophe / Si elle est d'origine chimique, la cellule est chimiotrophe.
-
-**Autotrophe au carbone :** Capacité d'un être vivant qui synthétise sa propre matière organique à partir de matière minéral \( $$CO_2$$ \) et d'énergie.
-
-**Thalle :** **Appareil végétatif** des "végétaux primitifs : **thallophytes**" constitué de cellules isolées \(Algue unicellulaire, levures\), de filaments ramifiés \(mycélium des mycètes\) ou d'un tissu parenchymateux lamellaire \(algues\) par opposition à l'appareil végétatif présentant des feuilles, tiges, et des racines.
-
-**Appareil végétatif :** Ensemble des organes d'une plante \(**thalle** chez les thallophytes, **cormus** chez les cormophytes : racine, tige, feuille\) qui assurent sa croissance.
-
-**Lamelle moyenne :** Couche composée principalement de **pectine** située **entre les deux parois** de cellules **végétales** adjacentes
-
-**Tégument :** **Tissu** ou ensemble de tissus et de leur production qui **recouvre** et **délimite** le **corps** d'un être **vivant**
-
-**Pectocellulosique :** Qualifie la **paroi** des cellules végétales qui contient de la **cellulose** et de la **pectine**
-
-**Parenchyme :** Tissu végétal formé de cellules peu spécialisées, dont les parois restent minces \( Ce sont des tissus de constitutions qui peuvent cependant accomplir des fonctions spécialisées\)
-
-**Parenchyme cortical :** Parenchyme situé dans les tiges ou les racines sous le tissu épidermique. \(D'une manière générale, un parenchyme cortical désigne un tissus qui se trouve à la périphérie d'un organe\)
-
-**Sclérenchyme :** Tissus de soutien formé de cellules mortes à paroi épaisse entièrement **lignifiée**. \(Le sclérenchyme se trouve essentiellement dans les organes en croissance sous forme de **fibres** allongées et de **sclérites**\)
-
-**Lignifié :** Se dit d'un tissu, d'un organe, ou d'une plante devenu **ligneux** à la suite du dépôt de **lignine** dans la **paroi** des cellules \(Comme la lignine se dépose dans les parois, l'adjectif **lignifiée** est à employer plutôt pour les cellules et les tissus\)
-
-**Lignine :** Catégorie de substances, **peu** **dégradables**, **non** **glucidiques** résultant de la copolymérisation de 3 alcool aromatiques \(monolignols\) formés à partir de la phénylalanine. \(Les lignines sont colorées en jaune, jaune brun et **l'humus** leur doit sa couleur. Dans les lamelles moyenne elles assurent la soudure irréversible des cellules entre elles. Ce matériau hydrophobe et rigide à permis la formation de végétaux à port arborescent capable de transporter l'eau sous tension sur de longues distances, des racines au feuilles.
-
-**Suber \(liège\) :** Tissu secondaire protecteur mis en place par l'assise subéro-phellodermique dans les troncs, les branches et les racines. \(De point de vue fonctionnel, le suber remplace l'épiderme qui est tombé. Le suber est formé de cellules empilées radialement, remplies d'air et dont la paroi imprégnée de **subérine** est imperméable à l'eau et au gaz. Cette imperméabilité est à l'origine de leur mort. En conséquence tous les tissus situés à l'extérieur meurent et tombent , ils constituent le **rhytidome** ou **écorce** du language commun.
-
-**Subérine :** Catégorie de substances de nature lipidiques et donc hydrophobe, déposées dans les parois du **suber** et associées à de la **lignine** dans les parois épaissies de l'endoderme et du périderme racinaires
-
-**Endoderme :**  Assise formée d'une seule épaisseur de cellules qui correspond à la dernière couche de cellules du parenchyme cortical.
-
-**Sève brute :** Solution aqueuse fabriqué à partir de l'eau et des ions puisés dans le sol par les racines contenant aussi de la matière organique libérée par les organes de réserve souterrains. \( La sève brute circule dans la plante dans les vaisseaux du bois \(**Xylème**\). Compte tenu de son sens de déplacement, elle est aussi qualifiée de sève ascendante.
-
-**Sève élaborer :** Solution aqueuse formée dans les feuilles par accumulation de la matière organique provenant de l'**assimilation chlorophyllienne.** \( La sève élaborée utilise des conduits appelés **tube criblés**, qui constituent le **phloème.** Elle est aussi appelée sève descendante.
-
-**Faisceaux libéraux ligneux :** est une partie du système vasculaire d'une plante vasculaire
-
-**Procambium :** Tissu issu des **méristèmes primaires**  racinaire et caulinaire à l'origine de la différenciation du xylème et du phloème primaire. ****
-
-**Pachyte :**
-
-**Phyllotaxie :**
-
-**Phototropisme :**
-
-**Géotropisme :**
-
-**Symbiose mutualiste :** relations entre deux organismes à bénéfices mutuels \(temporaires ou durables\)
-{% endhint %}
 
 ## Grand groupe des végétaux
 
@@ -1325,6 +1245,84 @@ Cyprès chauve, floride, plante marécageux. Sol anoxique, racine mes en place d
 
 Feuille anastomose, recoupement des nervure primaire secondaire et tertiaire. Plus les faisceaux sont plus proche plus c'est efficaces.
 
+## Définitions
+
+Le terme **végétal** est bien **différents** du terme **plante**.
+
+{% hint style="info" %}
+**Végétal :** Être vivant **eucaryote pluricellulaire**, généralement **autotrophe au carbone** \(présence de **chloroplastes**\) dont les cellules sont entourées par une paroi et qui possède un **thalle** \(lame foliacée aplatie\) ou des **organes différenciés, cormus** \(racine, tige, feuille\).  
+**Remarque :** Les champignons et Mycètes ne sont plus considéré comme des végétaux et les algues pluricellulaire sont parfois rangé dans les protistes.  
+**A savoir :** Embryophytes, Fabrique de l'amidon
+
+**Embryophytes :** Aussi appelé Cormophytes, rassemblent ce qu'on appelle les plantes terrestres. \([Source](https://fr.wikipedia.org/wiki/Embryophyta)\)  
+Elles forment un groupe monophylétique. Ce terme de plantes terrestres n'interdit pas que certaines d'entre elles se soient par la suite adaptées aux milieux aquatiques \(à la manière des cétacés chez les animaux\) ou que leur fécondation reste en milieu aquatique.  
+Avec les algues vertes, ou chlorophytes lato sensu \(groupe paraphylétique\), elles constituent le règne des plantes vertes et le clade des chlorobiontes caractérisé par l'association des chlorophylles a et b et l'amidon stocké dans les plastes.  
+Les embryophytes sont définies par la présence d'un embryon végétal.
+
+**Cormophytes :** Ensemble des plantes dont l'appareil végétatif est un cormus.
+
+**Chloroplaste :** La chloroplaste est **l'organite** responsable de la **photosynthèse**.
+
+**Photosynthèse** : Fabrication de matière organique à partir de matière minérale \( $$CO_2,H_2O, etc$$ \) et d'énergie lumineuse qui se déroule chez les végétaux chlorophylliens.
+
+**Matière minérale :** Ensemble des molécules qui **ne contiennent pas** de **carbone réduit**.
+
+* La matière minérale comprend les différentes formes de carbone oxydés comme le dioxyde de carbone et le monoxyde de carbone, les sulfates, les nitrates, les phosphates, les nitrites, l'ammonium, l'eau ....
+
+**Matière organique :** Molécule fabriquée par les **êtres vivants** à **partir** de **carbone réduit**, d'hydrogène, d'oxygène, d'azote, de soufre et de phosphore.
+
+**Carbone réduit :** Atome de carbone dont **au moins un des quatre** électrons célibataires de la couche externe participe à **une liaison**, le plus souvent avec un atome d'**hydrogènes**.
+
+**Autotrophe :** Propriété d'un être vivant qui consiste à fabriquer de la matière organique à partir de matière minéral et d'énergie.  
+**-**Si l'énergie est la lumière, la cellule est phototrophe / Si elle est d'origine chimique, la cellule est chimiotrophe.
+
+**Autotrophe au carbone :** Capacité d'un être vivant qui synthétise sa propre matière organique à partir de matière minéral \( $$CO_2$$ \) et d'énergie.
+
+**Thalle :** **Appareil végétatif** des "végétaux primitifs : **thallophytes**" constitué de cellules isolées \(Algue unicellulaire, levures\), de filaments ramifiés \(mycélium des mycètes\) ou d'un tissu parenchymateux lamellaire \(algues\) par opposition à l'appareil végétatif présentant des feuilles, tiges, et des racines.
+
+**Appareil végétatif :** Ensemble des organes d'une plante \(**thalle** chez les thallophytes, **cormus** chez les cormophytes : racine, tige, feuille\) qui assurent sa croissance.
+
+**Lamelle moyenne :** Couche composée principalement de **pectine** située **entre les deux parois** de cellules **végétales** adjacentes
+
+**Tégument :** **Tissu** ou ensemble de tissus et de leur production qui **recouvre** et **délimite** le **corps** d'un être **vivant**
+
+**Pectocellulosique :** Qualifie la **paroi** des cellules végétales qui contient de la **cellulose** et de la **pectine**
+
+**Parenchyme :** Tissu végétal formé de cellules peu spécialisées, dont les parois restent minces \( Ce sont des tissus de constitutions qui peuvent cependant accomplir des fonctions spécialisées\)
+
+**Parenchyme cortical :** Parenchyme situé dans les tiges ou les racines sous le tissu épidermique. \(D'une manière générale, un parenchyme cortical désigne un tissus qui se trouve à la périphérie d'un organe\)
+
+**Sclérenchyme :** Tissus de soutien formé de cellules mortes à paroi épaisse entièrement **lignifiée**. \(Le sclérenchyme se trouve essentiellement dans les organes en croissance sous forme de **fibres** allongées et de **sclérites**\)
+
+**Lignifié :** Se dit d'un tissu, d'un organe, ou d'une plante devenu **ligneux** à la suite du dépôt de **lignine** dans la **paroi** des cellules \(Comme la lignine se dépose dans les parois, l'adjectif **lignifiée** est à employer plutôt pour les cellules et les tissus\)
+
+**Lignine :** Catégorie de substances, **peu** **dégradables**, **non** **glucidiques** résultant de la copolymérisation de 3 alcool aromatiques \(monolignols\) formés à partir de la phénylalanine. \(Les lignines sont colorées en jaune, jaune brun et **l'humus** leur doit sa couleur. Dans les lamelles moyenne elles assurent la soudure irréversible des cellules entre elles. Ce matériau hydrophobe et rigide à permis la formation de végétaux à port arborescent capable de transporter l'eau sous tension sur de longues distances, des racines au feuilles.
+
+**Suber \(liège\) :** Tissu secondaire protecteur mis en place par l'assise subéro-phellodermique dans les troncs, les branches et les racines. \(De point de vue fonctionnel, le suber remplace l'épiderme qui est tombé. Le suber est formé de cellules empilées radialement, remplies d'air et dont la paroi imprégnée de **subérine** est imperméable à l'eau et au gaz. Cette imperméabilité est à l'origine de leur mort. En conséquence tous les tissus situés à l'extérieur meurent et tombent , ils constituent le **rhytidome** ou **écorce** du language commun.
+
+**Subérine :** Catégorie de substances de nature lipidiques et donc hydrophobe, déposées dans les parois du **suber** et associées à de la **lignine** dans les parois épaissies de l'endoderme et du périderme racinaires
+
+**Endoderme :**  Assise formée d'une seule épaisseur de cellules qui correspond à la dernière couche de cellules du parenchyme cortical.
+
+**Sève brute :** Solution aqueuse fabriqué à partir de l'eau et des ions puisés dans le sol par les racines contenant aussi de la matière organique libérée par les organes de réserve souterrains. \( La sève brute circule dans la plante dans les vaisseaux du bois \(**Xylème**\). Compte tenu de son sens de déplacement, elle est aussi qualifiée de sève ascendante.
+
+**Sève élaborer :** Solution aqueuse formée dans les feuilles par accumulation de la matière organique provenant de l'**assimilation chlorophyllienne.** \( La sève élaborée utilise des conduits appelés **tube criblés**, qui constituent le **phloème.** Elle est aussi appelée sève descendante.
+
+**Faisceaux libéraux ligneux :** est une partie du système vasculaire d'une plante vasculaire
+
+**Procambium :** Tissu issu des **méristèmes primaires**  racinaire et caulinaire à l'origine de la différenciation du xylème et du phloème primaire. ****
+
+**Pachyte :**
+
+**Phyllotaxie :**
+
+**Phototropisme :**
+
+**Géotropisme :**
+
+**Symbiose mutualiste :** relations entre deux organismes à bénéfices mutuels \(temporaires ou durables\)
+{% endhint %}
+
 ## Ressources
 
 {% tabs %}
@@ -1341,4 +1339,3 @@ Feuille anastomose, recoupement des nervure primaire secondaire et tertiaire. Pl
 * [L'origine des espèces Charles Darwin](https://www.decitre.fr/livres/l-origine-des-especes-9782081221079.html)
 {% endtab %}
 {% endtabs %}
-
