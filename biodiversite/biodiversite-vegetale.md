@@ -354,7 +354,7 @@ Exemple : Tissus nerveux, musculaire, sanguin, conjonctif... L'étude des tissus
 La production de cellules se fait en plusieurs étapes  
 Etape 1 : Production de cellules au niveau des méristème par division \(Mitose\)  
 Etape 2 : Croissance cellulaire, la cellule grandit par synthèse et étirement de la paroi, il y a formation du tissu embryonnaire  
-Etape 3 : Différenciation cellulaire et des tissus, modification structurale et biochimique des cellules pour assurer une fonction particulière dans l'organe. 
+Etape 3 : Différenciation cellulaire et des tissus, modification structurale et biochimique des cellules pour assurer une fonction particulière dans l'organe.
 
 * Changement de taille et de forme
 * Changement cellulaire réorganiser \(Vacuole regroupé, différenciation des plastes\), ou disparait
@@ -408,7 +408,7 @@ Les méristème sont présent au extrémité haut et bas de la plante
 {% endhint %}
 
 {% hint style="warning" %}
-Les **méristèmes** **primaires** sont **organogènes** 
+Les **méristèmes** **primaires** sont **organogènes**
 {% endhint %}
 
 ## Tissus primaires
@@ -436,7 +436,7 @@ Les cellules épidermique sont translucides
 
 Les cuticules permettent à la plantes d'éviter de perdre trop d'eau, c'est une couche de protection externe de cire.
 
-L'épiderme est aussi constitué de stomates, ils sont généralement située sur la face intérieur de la feuille, mais ce n'est pas toujours le cas, car ils doivent se protéger de la chaleur  
+L'épiderme est aussi constitué de stomates, ils sont généralement située sur la face intérieur de la feuille, mais ce n'est pas toujours le cas, car ils doivent se protéger de la chaleur
 
 {% hint style="info" %}
 Le stomate est un tissus d'échange, qui permet à la plante des échanges gazeux grâce à l'ouverture et fermeture du stomate, ils permettent la régulation des flux hydrique au seins de la plante
@@ -557,10 +557,10 @@ Les tissus sécréteurs permettent plusieurs fonction pour les plantes
 Assure la conduction de sèves des trachéophyte
 
 {% hint style="warning" %}
-Les tissus de conductions primaires ont me rôle de **transmettre** les différentes **sèves** dans l'ensemble de la plante, il en existe deux types de sèves, la **sève brute** qui circule dans le **xylème** et la **sèves élaboré** qui circule dans le **phloème**. Les tissus **xylème** et **phloème** sont produits par les **méristèmes primaires procambiums**.  
-  
+Les tissus de conductions primaires ont me rôle de **transmettre** les différentes **sèves** dans l'ensemble de la plante, il en existe deux types de sèves, la **sève brute** qui circule dans le **xylème** et la **sèves élaboré** qui circule dans le **phloème**. Les tissus **xylème** et **phloème** sont produits par les **méristèmes primaires procambiums**.
+
 Le **xylème** transporte **l'eau** et les **éléments** **minéraux** vers la **tige** et les **feuilles**, alors que le **phloème** transporte les **sucres** produits par les feuilles vers les **racines**.  
-Le xylème et phloème  sont des **faisceaux libéro ligneux**
+Le xylème et phloème sont des **faisceaux libéro ligneux**
 {% endhint %}
 
 #### Xylème primaire
@@ -584,7 +584,7 @@ Le xylème est apparu avec les monilophytes suite à la colinisation du milieu t
 
 #### Xylème primaire chez les gymnospermes
 
-Assure le soutient et la conduction 
+Assure le soutient et la conduction
 
 * Trachéide à ponctuation aréolées
 * Cellules mortes allongées \(Paroi 1 et 2 lignifiées\)
@@ -599,14 +599,14 @@ Ainsi que la réserve et métabolisme
 
 ![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg)
 
-Assure le soutien 
+Assure le soutien
 
 * Fibre \(sclérenchymateuse\)
 * Cellule morte très allongée
 * Paroi épaissie et lignifiée \(P1 et P2\)
 * Peu ou pas de ponctuations, lumière de la cellule étroite
 
-Ainsi que la réserve et métabolisme 
+Ainsi que la réserve et métabolisme
 
 * Parenchyme xymélien \(ou ligneux\)
 * Cellule vivante, paroi 1 cellulosique ou lignifiées
@@ -627,7 +627,7 @@ Il existe plusieurs types de vaisseaux, les premiers vaisseaux fabriqués sont d
 
 #### Protoxylème
 
-Les protoxylèmes sont les premiers vaisseaux fabriqués par la plante, de ce fait ils sont imparfait. Les cellules s'allongent, constitué de parois transversales entre les vaisseaux. Vaisseaux annelé, spiralés. 
+Les protoxylèmes sont les premiers vaisseaux fabriqués par la plante, de ce fait ils sont imparfait. Les cellules s'allongent, constitué de parois transversales entre les vaisseaux. Vaisseaux annelé, spiralés.
 
 ![Repr&#xE9;sentation protoxyl&#xE8;me](../.gitbook/assets/protoxyleme.jpg)
 
@@ -654,7 +654,7 @@ Présent dans les feuilles, tiges et racines. Ils assurent 3 fonctions
 * Réserve
 {% endhint %}
 
-**Constitué de** 
+**Constitué de**
 
 {% hint style="warning" %}
 * Tube criblé \(conduction\)
@@ -676,21 +676,25 @@ Phloème primaire est un tissu complexe composé de plusieurs types cellulaire
 #### Constitution des phloème primaire
 
 **Tubes criblés** -&gt; conduction de sèves élaborée \(Glucides\)  
-Élément du tube criblé :   
-- Grosse cellule vivante avec parois transversales criblées  
-- Sans noyaux, ni vacuoles, ni ribosome, ni REG \(Constitué de quelques plastes et mitochondries\)
+Élément du tube criblé :
 
-**Cellule compagne** -&gt; collée contre le tube criblé  
-- Maintient en vie l'élément du tube criblé
+* Grosse cellule vivante avec parois transversales criblées  
+* Sans noyaux, ni vacuoles, ni ribosome, ni REG \(Constitué de quelques plastes et mitochondries\)
 
-**Parenchyme phloèmien** \(ou libérien\)  
-- Cellule vivantes, allongées, à parois cellulosiques  
-- Stockage et sécrétion
+**Cellule compagne** -&gt; collée contre le tube criblé
 
-**Fibre phloèmiennes** \(ou libériennes\) sclérenchymateuses   
-- Cellules vivantes allongées  
-- Paroi cellulosique ou lignifiée, épaissie  
-- Participe au soutient de la plante
+* Maintient en vie l'élément du tube criblé
+
+**Parenchyme phloèmien** \(ou libérien\)
+
+* Cellule vivantes, allongées, à parois cellulosiques  
+* Stockage et sécrétion
+
+**Fibre phloèmiennes** \(ou libériennes\) sclérenchymateuses
+
+* Cellules vivantes allongées  
+* Paroi cellulosique ou lignifiée, épaissie  
+* Participe au soutient de la plante
 
 ![Phlo&#xE8;me primaire sch&#xE9;matique](../.gitbook/assets/phloemeprimaire-schematique.jpg)
 
@@ -830,7 +834,7 @@ il y a division périclines du phellogène permettant la production de nouvelles
 #### Suber
 
 {% hint style="info" %}
-Cellules mortes à paroi subérifiée plus de la cire, ce qui la rend imperméable aux gaz et à l'eau. 
+Cellules mortes à paroi subérifiée plus de la cire, ce qui la rend imperméable aux gaz et à l'eau.
 
 Il peut y avoir la présence de zone ou le suber est désorganiser pour permettre les échange gazeux, ont les appelles les **lenticelles**
 {% endhint %}
@@ -889,7 +893,7 @@ La croissance de la racine se fait par un **méristème primaire**, le **mérist
 Le géotropisme des racines est induits par la coiffe, la perception de la gravité repose sur les statolithes présent dans la coiffe
 {% endhint %}
 
-![](../.gitbook/assets/meristeme-apical.jpg) ![](../.gitbook/assets/meristeme-racinaires-photo-microscope.jpg)  
+![](../.gitbook/assets/meristeme-apical.jpg) ![](../.gitbook/assets/meristeme-racinaires-photo-microscope.jpg)
 
 ![Statolithes](../.gitbook/assets/statolithes.jpg)
 
@@ -984,7 +988,7 @@ Il existe différents types de symbiose mycorhizienne en fonction de la position
 * Ectomycorhizes \(sur la racine\)
 * Endomycorhizes \(dans la racine\)
 
-Echanges de ressources entre les partenaires : 
+Echanges de ressources entre les partenaires :
 
 * Absorption de l’eau et des éléments minéraux du sol facilitée par la présence de mycorhizes autour des racines \(peuvent assurer jusqu’à 70% des besoins nutritifs de la plante\)
 * En contrepartie, la plante assure la nutrition carbonée de son partenaire mycorhizien
@@ -1071,7 +1075,7 @@ Tissus primaires
 {% endhint %}
 
 {% hint style="success" %}
-Et pour distinguer une racine ? 
+Et pour distinguer une racine ?
 
 * Symétrie radiale
 * Xylème primaire superposé au phloème primaire
@@ -1290,7 +1294,7 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 
 **Subérine :** Catégorie de substances de nature lipidiques et donc hydrophobe, déposées dans les parois du **suber** et associées à de la **lignine** dans les parois épaissies de l'endoderme et du périderme racinaires
 
-**Endoderme :**  Assise formée d'une seule épaisseur de cellules qui correspond à la dernière couche de cellules du parenchyme cortical.
+**Endoderme :** Assise formée d'une seule épaisseur de cellules qui correspond à la dernière couche de cellules du parenchyme cortical.
 
 **Sève brute :** Solution aqueuse fabriqué à partir de l'eau et des ions puisés dans le sol par les racines contenant aussi de la matière organique libérée par les organes de réserve souterrains. \( La sève brute circule dans la plante dans les vaisseaux du bois \(**Xylème**\). Compte tenu de son sens de déplacement, elle est aussi qualifiée de sève ascendante.
 
@@ -1298,7 +1302,7 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 
 **Faisceaux libéraux ligneux :** est une partie du système vasculaire d'une plante vasculaire
 
-**Procambium :** Tissu issu des **méristèmes primaires**  racinaire et caulinaire à l'origine de la différenciation du xylème et du phloème primaire. ****
+**Procambium :** Tissu issu des **méristèmes primaires** racinaire et caulinaire à l'origine de la différenciation du xylème et du phloème primaire. _\*\*_
 
 **Pachyte :**
 
@@ -1335,3 +1339,4 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 * [L'origine des espèces Charles Darwin](https://www.decitre.fr/livres/l-origine-des-especes-9782081221079.html)
 {% endtab %}
 {% endtabs %}
+
