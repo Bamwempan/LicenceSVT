@@ -11,16 +11,42 @@ La biodiversité végétale permet notamment de comprendre le fonctionnement et 
 Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histologie végétale, Morphologie végétale, Taxinomie et Systématique \(Classement des végétaux\)**
 
 ## Qu’est ce qu’un végétale
+**Un végétal c'est toutes les algues et les plantes (Embryophytes)**
+{% hint style="warning" %}
+* Cellules eucaryotes
+* Autotrophe pour le carbone
+* Photosynthèse **oxygénique**
+* Production de métabolites secondaires
+* Cellules avec paroi, vacuole et plastes
+{% endhint %}
 ### Caractéristique principales des végétaux
 ##### Photosynthèse
+Les chlorophylles dans les chloroplastes permettent la photosynthèse grâce à l’énergie solaire.
+
+![&#xC9;quation photosynth&#xE8;se](../.gitbook/assets/photosynthesis_equation_fr.png)
+##### Métabolites secondaires
+{% hint style="danger" %}
+En plus des métabolites primaires (ADN, ARN, lipide, glucides etc etc) les végétaux peuvent produire des métabolites secondaire pour se protéger (Odeur, Gout) ou pour la dissémination des graines et du pollen (Couleur)
+{% endhint %}
 ### Cellule végétales
+Les cellules végétales sont **eucaryotes**, d'une taille d'environ **100μm**.
+{% hint style="warning" %}
+* **Noyaux** \(Entouré d'une enveloppe nucléaire\)
+* **Cytoplasme** \(Contient de l'eau et des ions\)
+* **Membrane plasmique** \(Délimite le cytoplasme\)
+* **Mitochondrie** \(Respiration, produit du $$H_2O_2$$ toxique pour la plante\)
+* **Réticulum endoplasmique** \(Produit des lipide et protéine\)
+* **Appareil de Golgi** \(Réservoir de protéine\)
+* **Péroxysome** \(Dégrade le $$H_2O_2$$ en $$H_2O$$ et $$O_2$$ \)
+* **Ribosome** \(Fabrique des protéine\)
+* **Vacuole** délimité par une membrane, le **Tonoplaste**
+{% endhint %}
 ##### Vacuole
 ##### Parois
 ##### Plastes
-##### Métabolites secondaires
+### Explication de l'apparition de végétaux terrestre
 ## Arbre phylogénétique des végétaux
 ### Lignée Verte
-#### Explication de l'apparition de végétaux terrestre
 ### Embryophyte
 ### Trachéophyte
 ### Focus Gymnosperme
