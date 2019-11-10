@@ -1166,18 +1166,6 @@ Lors des travaux pratiques pour découvrir les fondements des cellules, nous all
 
 ## Sortie Tête d'or
 
-### Définition
-
-{% hint style="info" %}
-**Épiphyte :** Les épiphytes sont des trachéophytes qui vivent sur les tronc, les branches et parfois les feuilles d'un arbre hôte, sans être enraciné dans le sol. Vivre sur un support organique, hors du sol, revient à vivre en milieu oligotrophe.
-
-**Vélamen :** Ou voile, formé de plusieurs assises de cellules mortes à parois subéro-ligneuse ponctuées. Ces cellules absorbent l'eau atmosphériques et la conduisent vers l'intérieur des racines
-
-**Mésophylle :** partie interne d'une feuille. Constitué de parenchyme chlorophyllien \(chlorenchyme\), c'est le siège principal de la photosynthèse. Il est recouvert par l'épiderme et parcouru par un réseau de nervures et de faisceaux conducteurs plus fins
-
-**Cladode :** Rameaux spécialisés ayant l'apparence d'une feuille et assurant les mêmes fonctions \(photosynthèse et respiration, réserves\). Les cladodes sont courts, aplatis et formés d'un seul entrenœud. Les phylloclades sont constitués de plusieurs entrenœuds aplatis
-{% endhint %}
-
 * Apparition des angiosperme il y a environs 100 millions d'années, eucalyptus 100 mètre de haut record..
 
 #### Épiphyte
@@ -1321,6 +1309,14 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Géotropisme :**
 
 **Symbiose mutualiste :** relations entre deux organismes à bénéfices mutuels \(temporaires ou durables\)
+
+**Épiphyte :** Les épiphytes sont des trachéophytes qui vivent sur les tronc, les branches et parfois les feuilles d'un arbre hôte, sans être enraciné dans le sol. Vivre sur un support organique, hors du sol, revient à vivre en milieu oligotrophe.
+
+**Vélamen :** Ou voile, formé de plusieurs assises de cellules mortes à parois subéro-ligneuse ponctuées. Ces cellules absorbent l'eau atmosphériques et la conduisent vers l'intérieur des racines
+
+**Mésophylle :** partie interne d'une feuille. Constitué de parenchyme chlorophyllien \(chlorenchyme\), c'est le siège principal de la photosynthèse. Il est recouvert par l'épiderme et parcouru par un réseau de nervures et de faisceaux conducteurs plus fins
+
+**Cladode :** Rameaux spécialisés ayant l'apparence d'une feuille et assurant les mêmes fonctions \(photosynthèse et respiration, réserves\). Les cladodes sont courts, aplatis et formés d'un seul entrenœud. Les phylloclades sont constitués de plusieurs entrenœuds aplatis
 {% endhint %}
 
 ## Ressources
