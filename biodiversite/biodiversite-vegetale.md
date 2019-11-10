@@ -11,7 +11,9 @@ La biodiversité végétale permet notamment de comprendre le fonctionnement et 
 Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histologie végétale, Morphologie végétale, Taxinomie et Systématique \(Classement des végétaux\)**
 
 ## Qu’est ce qu’un végétale
-**Un végétal c'est toutes les algues et les plantes (Embryophytes)**
+
+**Un végétal c'est toutes les algues et les plantes \(Embryophytes\)**
+
 {% hint style="warning" %}
 * Cellules eucaryotes
 * Autotrophe pour le carbone
@@ -19,17 +21,25 @@ Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histolo
 * Production de métabolites secondaires
 * Cellules avec paroi, vacuole et plastes
 {% endhint %}
+
 ### Caractéristique principales des végétaux
-##### Photosynthèse
+
+**Photosynthèse**
+
 Les chlorophylles dans les chloroplastes permettent la photosynthèse grâce à l’énergie solaire.
 
 ![&#xC9;quation photosynth&#xE8;se](../.gitbook/assets/photosynthesis_equation_fr.png)
-##### Métabolites secondaires
+
+**Métabolites secondaires**
+
 {% hint style="warning" %}
-En plus des métabolites primaires (ADN, ARN, lipide, glucides etc etc) les végétaux peuvent produire des métabolites secondaire pour se protéger (Odeur, Gout) ou pour la dissémination des graines et du pollen (Couleur)
+En plus des métabolites primaires \(ADN, ARN, lipide, glucides etc etc\) les végétaux peuvent produire des métabolites secondaire pour se protéger \(Odeur, Gout\) ou pour la dissémination des graines et du pollen \(Couleur\)
 {% endhint %}
+
 ### Cellule végétales
+
 Les cellules végétales sont **eucaryotes**, d'une taille d'environ **100μm**.
+
 {% hint style="warning" %}
 * **Noyaux** \(Entouré d'une enveloppe nucléaire\)
 * **Cytoplasme** \(Contient de l'eau et des ions\)
@@ -41,99 +51,137 @@ Les cellules végétales sont **eucaryotes**, d'une taille d'environ **100μm**.
 * **Ribosome** \(Fabrique des protéine\)
 * **Vacuole** délimité par une membrane, le **Tonoplaste**
 {% endhint %}
+
 ![Sch&#xE9;ma d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/cellule-vegetale.jpg)
+
 ![Cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/la_cellule_vegetale_07_13.jpg)
-##### Vacuole
+
+**Vacuole**
+
 {% hint style="warning" %}
 La vacuole est délimitée par le **tonoplaste** et éffectue différent rôle
-* Stockage eau et nutriments (transitoire)
-* Croissance (par stockage eau)
-* Soutien (par pression et turgescence)
-* Elimination (déchets, éléments toxiques pour cellule)
-* Défense, attraction (petites molécules, types pigments, tanins)
+
+* Stockage eau et nutriments \(transitoire\)
+* Croissance \(par stockage eau\)
+* Soutien \(par pression et turgescence\)
+* Elimination \(déchets, éléments toxiques pour cellule\)
+* Défense, attraction \(petites molécules, types pigments, tanins\)
 {% endhint %}
-##### Parois
+
+**Parois**
+
 {% hint style="warning" %}
 Constitution d'une paroi primaire
-* eau (60-70%)
+
+* eau \(60-70%\)
 * microfibrilles de **cellulose**
 * **hémicellulose**
 * pectines
 * protéines
 * enzymes
 {% endhint %}
+
 Certaines cellules on la possibilité d'avoir deux parois. La paroi secondaire se situes sous la paroi primaire
+
 {% hint style="info" %}
 **Lamelle moyenne** est le **ciment** entre les cellules végétales
 {% endhint %}
+
 Les parois peuvent avoir des spécialisation
+
 {% hint style="warning" %}
-* Lignification, Incrustation lignine (hydrophobe, insoluble)
+* Lignification, Incrustation lignine \(hydrophobe, insoluble\)
   * Mort cellulaire
   * Tissus type Xylème et Sclérenchyme
-* Subérification, Incrustation de subérine (lipide)
-  * Suber (liège, écorce)
+* Subérification, Incrustation de subérine \(lipide\)
+  * Suber \(liège, écorce\)
 * Cutinisation, Dépôts de cires
   * Epiderme
 {% endhint %}
+
 Les parois assurent différents rôle
+
 {% hint style="warning" %}
-* Définition et maintien de la forme (port érigé, forme cellules)
-* Croissance contrôlée (élasticité des parois primaires)
-* Maintien intégrité cellulaire (importance de la pression de turgescence sur la paroi)
+* Définition et maintien de la forme \(port érigé, forme cellules\)
+* Croissance contrôlée \(élasticité des parois primaires\)
+* Maintien intégrité cellulaire \(importance de la pression de turgescence sur la paroi\)
 * Barrière protectrice
-* Défense (imprégnations substances chimiques de type lignine, cutine...)
-* Soutien / Rigidité (paroi + lignification : cellule très rigide = tissu de soutien)
+* Défense \(imprégnations substances chimiques de type lignine, cutine...\)
+* Soutien / Rigidité \(paroi + lignification : cellule très rigide = tissu de soutien\)
 {% endhint %}
-##### Plastes
+
+**Plastes**
+
 {% hint style="warning" %}
 * Chloroplastes
   * Photosynthèse
   * Synthèse acides gras
-  * Métabolisme : (fixation carbone, azote, souffre)
+  * Métabolisme : \(fixation carbone, azote, souffre\)
 * Amyloplastes
   * Réserve
   * Géoperception
 * Chromoplastes
   * Attraction de pollinisateurs et disséminateurs
 {% endhint %}
+
 ### Explication de l'apparition de végétaux terrestre
+
 ## Arbre phylogénétique des végétaux
-### Lignée Verte
-### Embryophyte
-### Trachéophyte
+
+### Lignée Verte
+
+### Embryophyte
+
+### Trachéophyte
+
 ### Focus Gymnosperme
+
 #### Synapormophie
+
 ### Focus Angiosperme
-#### Monocotylédone
-#### Dicotylédone
-## Plan organisation Histologique
-### Méristème Primaire
-### Tissus Primaire
-##### Conduction
-##### Revêtement
-##### Soutient
-### Méristème Secondaire
-### Tissus Secondaire
-##### Conduction
-##### Revêtement
-##### Soutient
-## Plan organisation Morphologique
+
+#### Monocotylédone
+
+#### Dicotylédone
+
+## Plan organisation Histologique
+
+### Méristème Primaire
+
+### Tissus Primaire
+
+**Conduction**
+
+**Revêtement**
+
+**Soutient**
+
+### Méristème Secondaire
+
+### Tissus Secondaire
+
+**Conduction**
+
+**Revêtement**
+
+**Soutient**
+
+## Plan organisation Morphologique
+
 ### Graine
+
 Le point de départ des angiosperme est la graine, formée de différentes parties
-{% hint style="warning" %}
-* Gemmule
-* Première feuille
-* Tigelle
-* Radicule
-* Cotylédon \(réserve\)
-* Tégument \(Entoure le cotylédon\)
-{% endhint %}
+
 ![](../.gitbook/assets/graine-haricot.png)
-### Bourgeon
-### Tige
-### Racine
-### Feuille
+
+### Bourgeon
+
+### Tige
+
+### Racine
+
+### Feuille
+
 {% hint style="info" %}
 #### **Définition**
 
@@ -162,6 +210,7 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 
 {% hint style="warning" %}
 #### Nervation
+
 * Marge du limbe
   * Entière
   * Dentée
@@ -180,10 +229,12 @@ Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de
 Le **bourgeon** ne fais pas partie de la **Feuille**
 {% endhint %}
 
-![Photo feuille composée](../.gitbook/assets/feuille-compose-haricot.jpg)
+![Photo feuille compos&#xE9;e](../.gitbook/assets/feuille-compose-haricot.jpg)
 
 #### Phyllotaxie
+
 Il existe 4 grandes phyllotaxie
+
 {% hint style="warning" %}
 * Alterne spiralée
 * Alterne distique
@@ -196,8 +247,10 @@ Il existe 4 grandes phyllotaxie
 ![Compos&#xE9; de stipules ou non ? ](../.gitbook/assets/compose-de-stipules.png)
 
 ## Adaptation aux condition environnemental
-## Travaux Pratique
-## Définition
+
+## Travaux Pratique
+
+## Définition
 
 ## Grand groupe des végétaux
 
