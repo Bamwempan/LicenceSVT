@@ -243,7 +243,7 @@ Les tissus de conduction primaires assurent la conduction de sèves chez les tra
 #### Xylème primaire
 {% hint style="warning" %}
 Présent dans la feuille, la tige et la racine, il assure 3 fonction
-* Conduction
+* Conduction de **sève brut**
   * Fabrication de vaisseaux tout au long de la croissance de la plante => plus les vaisseaux sont formés tard plus les vaisseaux sont lignifiés
 * Soutien
   * Cellules mortes
@@ -268,6 +268,23 @@ Le sens Sens de différenciation des vaisseaux du xylème primaire permet de fai
 distinction au niveau histologique entre tige et racine, différenciation centrifuge pour la tige et centripète pour les racines
 {% endhint %}
 #### Phloème primaire
+{% hint style="warning" %}
+Présent dans la feuille, la tige et la racine, il assure 3 fonction
+* Conduction de **sève élaborée** grâce au tube criblé
+* Soutien
+* Réserve
+Il est constitué
+* Tube criblé
+* Cellules compagne
+  * collée contre tube criblé -> Maintien en vie l’élément de tube criblé
+* Parenchyme libérien (Parenchyme phloèmien)
+  * Cellules vivantes, allongées, à parois cellulosiques.
+  * Stockage, sécrétion
+**Phloème primaire est un tissu complexe composé de plusieurs types cellulaires.**
+* Tissu complexe à cellules vivantes et à parois cellulosiques
+* Allongement possible des cellules
+* toujours à différenciation centripète
+{% endhint %}
 ### Tissus Secondaire
 Conduction
 Revêtement
