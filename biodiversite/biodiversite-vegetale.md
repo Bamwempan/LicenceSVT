@@ -10,6 +10,45 @@ La biodiversité végétale permet notamment de comprendre le fonctionnement et 
 
 Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histologie végétale, Morphologie végétale, Taxinomie et Systématique \(Classement des végétaux\)**
 
+## Qu’est ce qu’un végétale
+### Caractéristique principales des végétaux
+##### Photosynthèse
+### Cellule végétales
+##### Vacuole
+##### Parois
+##### Plastes
+##### Métabolites secondaires
+## Arbre phylogénétique des végétaux
+### Lignée Verte
+#### Explication de l'apparition de végétaux terrestre
+### Embryophyte
+### Trachéophyte
+### Focus Gymnosperme
+#### Synapormophie
+### Focus Angiosperme
+#### Monocotylédone
+#### Dicotylédone
+## Plan organisation Histologique
+### Méristème Primaire
+### Tissus Primaire
+##### Conduction
+##### Revêtement
+##### Soutient
+### Méristème Secondaire
+### Tissus Secondaire
+##### Conduction
+##### Revêtement
+##### Soutient
+## Plan organisation Morphologique
+### Graine
+### Bourgeon
+### Tige
+### Racine
+### Feuille
+## Adaptation aux condition environnemental
+## Travaux Pratique
+## Définition
+
 ## Grand groupe des végétaux
 
 1. Algues
