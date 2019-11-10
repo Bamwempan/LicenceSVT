@@ -25,7 +25,7 @@ Les chlorophylles dans les chloroplastes permettent la photosynthèse grâce à 
 
 ![&#xC9;quation photosynth&#xE8;se](../.gitbook/assets/photosynthesis_equation_fr.png)
 ##### Métabolites secondaires
-{% hint style="danger" %}
+{% hint style="warning" %}
 En plus des métabolites primaires (ADN, ARN, lipide, glucides etc etc) les végétaux peuvent produire des métabolites secondaire pour se protéger (Odeur, Gout) ou pour la dissémination des graines et du pollen (Couleur)
 {% endhint %}
 ### Cellule végétales
@@ -42,8 +42,56 @@ Les cellules végétales sont **eucaryotes**, d'une taille d'environ **100μm**.
 * **Vacuole** délimité par une membrane, le **Tonoplaste**
 {% endhint %}
 ##### Vacuole
+{% hint style="warning" %}
+La vacuole est délimitée par le **tonoplaste** et éffectue différent rôle
+* Stockage eau et nutriments (transitoire)
+* Croissance (par stockage eau)
+* Soutien (par pression et turgescence)
+* Elimination (déchets, éléments toxiques pour cellule)
+* Défense, attraction (petites molécules, types pigments, tanins)
+{% endhint %}
 ##### Parois
+{% hint style="warning" %}
+Constitution d'une paroi primaire
+* eau (60-70%)
+* microfibrilles de **cellulose**
+* **hémicellulose**
+* pectines
+* protéines
+* enzymes
+{% endhint %}
+Certaines cellules on la possibilité d'avoir deux parois. La paroi secondaire se situes sous la paroi primaire
+Les parois peuvent avoir des spécialisation
+{% hint style="warning" %}
+* Lignification, Incrustation lignine (hydrophobe, insoluble)
+  * Mort cellulaire
+  * Tissus type Xylème et Sclérenchyme
+* Subérification, Incrustation de subérine (lipide)
+  * Suber (liège, écorce)
+* Cutinisation, Dépôts de cires
+  * Epiderme
+{% endhint %}
+Les parois assurent différents rôle
+{% hint style="warning" %}
+* Définition et maintien de la forme (port érigé, forme cellules)
+* Croissance contrôlée (élasticité des parois primaires)
+* Maintien intégrité cellulaire (importance de la pression de turgescence sur la paroi)
+* Barrière protectrice
+* Défense (imprégnations substances chimiques de type lignine, cutine...)
+* Soutien / Rigidité (paroi + lignification : cellule très rigide = tissu de soutien)
+{% endhint %}
 ##### Plastes
+{% hint style="warning" %}
+* Chloroplastes
+  * Photosynthèse
+  * Synthèse acides gras
+  * Métabolisme : (fixation carbone, azote, souffre)
+* Amyloplastes
+  * Réserve
+  * Géoperception
+* Chromoplastes
+  * Attraction de pollinisateurs et disséminateurs
+{% endhint %}
 ### Explication de l'apparition de végétaux terrestre
 ## Arbre phylogénétique des végétaux
 ### Lignée Verte
