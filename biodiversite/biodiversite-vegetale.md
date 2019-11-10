@@ -41,6 +41,8 @@ Les cellules végétales sont **eucaryotes**, d'une taille d'environ **100μm**.
 * **Ribosome** \(Fabrique des protéine\)
 * **Vacuole** délimité par une membrane, le **Tonoplaste**
 {% endhint %}
+![Sch&#xE9;ma d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/cellule-vegetale.jpg)
+![Cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/la_cellule_vegetale_07_13.jpg)
 ##### Vacuole
 {% hint style="warning" %}
 La vacuole est délimitée par le **tonoplaste** et éffectue différent rôle
@@ -61,6 +63,9 @@ Constitution d'une paroi primaire
 * enzymes
 {% endhint %}
 Certaines cellules on la possibilité d'avoir deux parois. La paroi secondaire se situes sous la paroi primaire
+{% hint style="info" %}
+**Lamelle moyenne** est le **ciment** entre les cellules végétales
+{% endhint %}
 Les parois peuvent avoir des spécialisation
 {% hint style="warning" %}
 * Lignification, Incrustation lignine (hydrophobe, insoluble)
@@ -115,10 +120,81 @@ Les parois assurent différents rôle
 ##### Soutient
 ## Plan organisation Morphologique
 ### Graine
+Le point de départ des angiosperme est la graine, formée de différentes parties
+{% hint style="warning" %}
+* Gemmule
+* Première feuille
+* Tigelle
+* Radicule
+* Cotylédon \(réserve\)
+* Tégument \(Entoure le cotylédon\)
+{% endhint %}
+![](../.gitbook/assets/graine-haricot.png)
 ### Bourgeon
 ### Tige
 ### Racine
 ### Feuille
+{% hint style="info" %}
+#### **Définition**
+
+**Feuille :** Organe aplati, généralement de couleur verte, qui assure l'essentiel de la photosynthèse et les échange d'eau et de gaz avec l'atmosphère.
+
+**Limbe :** Partie élargie et aplatie de la feuille qui assure la photosynthèse.
+
+**Marge :** La marge est le contour du limbe.
+
+**Nervure :** Ligne saillante formée par les faisceaux conducteurs de la feuille.
+
+**Pétiole :** Structure de petite dimension, à symétrie bilatérale, **reliant le limbe** de la feuille à la **tige** qui convient les **vaisseaux conducteurs de sève.**
+
+**Bourgeon :** Structure constituée par de très jeunes feuilles \(Bourgeon foliaire\) ou de très jeunes fleurs \(Bourgeon florale\) situé sur un axe relativement court, terminé par un méristème apical caulinaire, et protégé par des feuilles modifiées, les écailles.  
+**Le bourgeon ne fais pas partie de la feuille !**
+
+**Tige :** Organe généralement aérien, plus ou moins dressé et ramifié, sur lequel se développent des bourgeons qui se différencient soit en feuilles, soit en fleurs, soit en axes secondaires \(rameaux\) qui, à leur tour, portent des feuilles ou des fleurs.
+
+**Foliole :** Division d'une feuille composée en unités élémentaires \(Contrairement au feuille, les folioles ne possèdent pas de bourgeons\)
+{% endhint %}
+
+{% hint style="warning" %}
+Une feuille simple est bien différente qu'une feuille composée.  
+Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de cette dernière.
+{% endhint %}
+
+{% hint style="warning" %}
+#### Nervation
+* Marge du limbe
+  * Entière
+  * Dentée
+  * Lobée
+* Nervure
+  * Pénée
+  * Palmée
+  * Parallèle
+{% endhint %}
+
+![](../.gitbook/assets/schema-feuille-simple-et-compose.jpg)
+
+![](../.gitbook/assets/differenciation-feuille.jpg)
+
+{% hint style="danger" %}
+Le **bourgeon** ne fais pas partie de la **Feuille**
+{% endhint %}
+
+![Photo feuille composée](../.gitbook/assets/feuille-compose-haricot.jpg)
+
+#### Phyllotaxie
+Il existe 4 grandes phyllotaxie
+{% hint style="warning" %}
+* Alterne spiralée
+* Alterne distique
+* Opposée décussée
+* Verticillée
+{% endhint %}
+
+![Phyllotaxie](../.gitbook/assets/phyllotaxie.png)
+
+![Compos&#xE9; de stipules ou non ? ](../.gitbook/assets/compose-de-stipules.png)
+
 ## Adaptation aux condition environnemental
 ## Travaux Pratique
 ## Définition
@@ -136,127 +212,6 @@ Le groupe des angiosperme est le dernier à être arriver sur terre est donc **l
 {% endhint %}
 
 ![Grand groupe des v&#xE9;g&#xE9;taux sur terre](../.gitbook/assets/abre-phyloginetique.png)
-
-## Qu'est ce qu'un végétal ?
-
-### Construction des cellules végétales
-
-{% hint style="success" %}
-Les parties importante d'une cellule végétales sont le noyaux et les organites listées ci-dessous
-
-* **Noyaux** \(Entouré d'une enveloppe nucléaire\)
-* **Cytoplasme** \(Contient de l'eau et des ions\)
-* **Membrane plasmique** \(Délimite le cytoplasme\)
-* **Mitochondrie** \(Respiration, produit du $$H_2O_2$$ toxique pour la plante\)
-* **Réticulum endoplasmique** \(Produit des lipide et protéine\)
-* **Appareil de Golgi** \(Réservoir de protéine\)
-* **Péroxysome** \(Dégrade le $$H_2O_2$$ en $$H_2O$$ et $$O_2$$ \)
-* **Ribosome** \(Fabrique des protéine\)
-* **Vacuole** délimité par une membrane, le **Tonoplaste**
-{% endhint %}
-
-#### Cellule végétale en cours
-
-![Sch&#xE9;ma d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/cellule-vegetale.jpg)
-
-{% hint style="info" %}
-**Lamelle moyenne** est le **ciment** entre les cellules végétales
-{% endhint %}
-
-#### Cellule végétale
-
-![Cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/la_cellule_vegetale_07_13.jpg)
-
-### Caractéristiques principales d'un végétal
-
-{% hint style="warning" %}
-* **Cellule Eucaryote**
-* **Photosynthèse oxygénique**
-* **Autotrophe** pour le **carbone**
-* Métabolite secondaires
-* **Paroi, Plaste, Vacuole** au niveau de la cellule végétale.
-* La taille des cellules allant de $$30\mu m \ à \ 120\mu m$$ 
-{% endhint %}
-
-### Comment fonctionne la photosynthèse
-
-Les chlorophylles dans les chloroplastes permettent la photosynthèse grâce à l’énergie solaire.
-
-![&#xC9;quation photosynth&#xE8;se](../.gitbook/assets/photosynthesis_equation_fr.png)
-
-### Métabolite secondaire
-
-En plus des **métabolites primaires** \(ADN, ARN, lipide, glucides etc etc\) les végétaux peuvent produire des métabolites secondaire pour se **protéger** \(Odeur, Gout\) ou pour la **dissémination des graines** et du pollen \(Couleur\)
-
-### Les différentes fonctions des plastes
-
-Une cellules végétales peut avoir plusieurs plastes différentes
-
-{% hint style="success" %}
-**Chloroplaste :** Permet la photosynthèse, Synthèse acide gras, fixation carbone, azote et souffre  
-**Chromoplaste :** Permet l'attraction des pollinisateurs et dissémilateurs de graine grâce au changement de couleur  
-**Amyloplastes :** Sert de réserve et de géo-perception \(Permet au racine de pousser vers le bas\)
-{% endhint %}
-
-### La vacuole
-
-La vacuoles est délimitée par un **tonoplaste**. La vacuole à plusieurs rôle au sein de la cellule
-
-{% hint style="success" %}
-* Stockage d'eau et de nutriments de manière transitoire
-* Croissance
-* Soutient \(par pression et turgescence\)
-* Élimination des déchets et éléments toxiques de la plante
-* Défense et attraction avec la production de pigments, tanin et autre molécules
-{% endhint %}
-
-### Parois
-
-{% hint style="info" %}
-#### Définition
-
-Matrice extracellulaire entourant la **membrane plasmique** des cellules des **végétaux** **chlorophylliens**.  
-La paroi primaire, caractéristique des cellules jeunes, est constitué par des micro fibrilles de cellulose \(25 à 30%\) disposées dans tous les sens, ce qui lui permet d'être extensible, de pectines \(jusqu’à 35%\), d'hémicellulose \(15 à 25%\) et de glycoprotéines \(5 à 10%\). Son épaisseur est de 1 et 3 µm. La **paroi secondaire** se forme au cours de la différenciation de la cellule, elle est plus épaisse, moins hydratée, contient une proposition plus importante de cellulose mais pas de pectine. Elle se situe **sous la paroi primaire**
-{% endhint %}
-
-{% hint style="success" %}
-La **paroi primaire** assure un rôle de régulation de la **croissance cellulaire**
-
-Les **parois** contienne **toutes** de la **cellulose**
-{% endhint %}
-
-Il existe deux types de parois pour les cellules végétales, paroi primaire et secondaire.  
-La communication entre les cellules se fait par les petites perforations au niveaux des parois qu'on appelle **plasmodesme,** qui permet de communiquer de **cytoplasme** d'une cellule à une autre, si il y a un groupe de plasmodesme alors on est en présence d'une **ponctuation.**
-
-{% hint style="info" %}
-**Symplasme :** Ensemble des **cytoplasmes** communiquant par le biais de **plasmodesmes**
-
-**Apoplasme :** Ensemble des parois des cellules et des espaces de vide \(Cellules mortes + parois\)
-{% endhint %}
-
-La paroi primaire contient différents éléments important utiles pour la plantes
-
-* Eau à 60 - 70%
-* Micro-fibrilles de cellulose
-* Hémicellulose
-* Pectines
-* Protéines
-* Enzymes
-* Calcium \(0.5% - 1%\)
-
-La paroi secondaire sert notamment de soutient pour le végétal, majoritairement constitué de cellulose et d'eau, elle se dépose ultérieurement sur la paroi primaire, elle est toujours constitué de 3 couches.
-
-Les parois des cellules végétales ont différentes spécialisation, mais ne sont pas obligatoirement présente sous cette forme.  
-**Lignification :** Incrustation **lignine** \(Hydrophobe, insoluble\), cela entraîne la **mort de la cellule**, \*\*Tissus type Xylène et Sclérenchyme
-
-Subérification : **Incrustation subérine \(lipide\), forme le** suber\*\* \(Liège, écorce\)
-
-**Cutinisation :** Dépôt de cires \(Epiderme\)
-
-### Pour conclure
-
-Les végétaux comprend **toutes les algues**, qui produisent de la **chlorophylle a , a/b, a/c** et divers pigments ainsi que que les plantes **embryophytes**, qui produisent de la **chlorophylle a/b**.  
-En L1 c'est la **lignée verte** qui nous intéresse, donc **une partie des algues** et tous les **embryophytes**
 
 ## La lignée verte, les grands groupes des végétaux
 
@@ -329,95 +284,6 @@ Pour se faire les plantes se sont adapté et ont crée des système qui réponde
 {% endhint %}
 
 ## Focus sur les angiosperme
-
-{% hint style="info" %}
-Pour faire simple un angiosperme à des tiges des feuilles et des racines
-{% endhint %}
-
-### Graine
-
-Le point de départ des angiosperme est la graine, formée de différentes parties
-
-{% hint style="warning" %}
-* Gemmule
-* Première feuille
-* Tigelle
-* Radicule
-* Cotylédon \(réserve\)
-* Tégument \(Entoure le cotylédon\)
-{% endhint %}
-
-![](../.gitbook/assets/graine-haricot.png)
-
-{% embed url="https://www.youtube.com/watch?v=w77zPAtVTuI&feature=youtu.be" caption="Germination Graine Haricot" %}
-
-### Feuille
-
-{% hint style="info" %}
-#### **Définition**
-
-**Feuille :** Organe aplati, généralement de couleur verte, qui assure l'essentiel de la photosynthèse et les échange d'eau et de gaz avec l'atmosphère.
-
-**Limbe :** Partie élargie et aplatie de la feuille qui assure la photosynthèse.
-
-**Marge :** La marge est le contour du limbe.
-
-**Nervure :** Ligne saillante formée par les faisceaux conducteurs de la feuille.
-
-**Pétiole :** Structure de petite dimension, à symétrie bilatérale, **reliant le limbe** de la feuille à la **tige** qui convient les **vaisseaux conducteurs de sève.**
-
-**Bourgeon :** Structure constituée par de très jeunes feuilles \(Bourgeon foliaire\) ou de très jeunes fleurs \(Bourgeon florale\) situé sur un axe relativement court, terminé par un méristème apical caulinaire, et protégé par des feuilles modifiées, les écailles.  
-**Le bourgeon ne fais pas partie de la feuille !**
-
-**Tige :** Organe généralement aérien, plus ou moins dressé et ramifié, sur lequel se développent des bourgeons qui se différencient soit en feuilles, soit en fleurs, soit en axes secondaires \(rameaux\) qui, à leur tour, portent des feuilles ou des fleurs.
-
-**Foliole :** Division d'une feuille composée en unités élémentaires \(Contrairement au feuille, les folioles ne possèdent pas de bourgeons\)
-{% endhint %}
-
-{% hint style="warning" %}
-Une feuille simple est bien différente qu'une feuille composée.  
-Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de cette dernière.
-{% endhint %}
-
-{% hint style="warning" %}
-#### Nervation
-
-* Marge du limbe
-  * Entière
-  * Dentée
-  * Lobée
-* Nervure
-  * Pénée
-  * Palmée
-  * Parallèle
-{% endhint %}
-
-![](../.gitbook/assets/schema-feuille-simple-et-compose.jpg)
-
-![](../.gitbook/assets/differenciation-feuille.jpg)
-
-{% hint style="danger" %}
-Le **bourgeon** ne fais pas partie de la **Feuille**
-{% endhint %}
-
-#### Photo feuille composée
-
-![](../.gitbook/assets/feuille-compose-haricot.jpg)
-
-### Phyllotaxie
-
-Il existe 4 grandes phyllotaxie
-
-{% hint style="warning" %}
-* Alterne spiralée
-* Alterne distique
-* Opposée décussée
-* Verticillée
-{% endhint %}
-
-![Phyllotaxie](../.gitbook/assets/phyllotaxie.png)
-
-![Compos&#xE9; de stipules ou non ? ](../.gitbook/assets/compose-de-stipules.png)
 
 ### Système racinaire
 
