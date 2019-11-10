@@ -109,9 +109,7 @@ Les parois assurent différents rôle
 * Défense \(imprégnations substances chimiques de type lignine, cutine...\)
 * Soutien / Rigidité \(paroi + lignification : cellule très rigide = tissu de soutien\)
 {% endhint %}
-
 **Plastes**
-
 {% hint style="warning" %}
 * Chloroplastes
   * Photosynthèse
@@ -123,65 +121,166 @@ Les parois assurent différents rôle
 * Chromoplastes
   * Attraction de pollinisateurs et disséminateurs
 {% endhint %}
-
 ### Explication de l'apparition de végétaux terrestre
-
 ## Arbre phylogénétique des végétaux
-
 ### Lignée Verte
-
 ### Embryophyte
-
 ### Trachéophyte
-
 ### Focus Gymnosperme
-
 #### Synapormophie
-
 ### Focus Angiosperme
-
 #### Monocotylédone
-
 #### Dicotylédone
-
 ## Plan organisation Histologique
-
-### Méristème Primaire
-
+### Méristème
+La plante assure la croissance via le fonctionnement des méristèmes primaires.
+{% hint style="info" %}
+**Méristème :** ensemble de cellules ayant gardé des propriétés embryonnaires et capables de se diviser, les méristèmes assurent l'**histogenèse**
+{% endhint %}
+{% hint style="warning" %}
+La production de nouvelles cellules et tissus se faire par les méristèmes en plusieurs étapes
+1. Production de cellules au niveau des méristèmes par division (mitoses)
+2. Croissance cellulaire, la cellule grandit, par synthèse et étirement de paroi (élastique) il y a formation du tissu embryonnaire (Parenchyme fondamentale)
+3. Différenciation cellulaire ou différenciation des tissus 
+{% endhint %}
+#### Méristèmes primaires
+{% hint style="warning" %}
+Les méristèmes primaires se situent au apex de la plante, **méristème caulinaire et racinaire**, il assurent l'**organogenèse** avec la création des tissus primaires.
+{% endhint %}
+#### Méristèmes secondaires
 ### Tissus Primaire
-
-**Conduction**
-
-**Revêtement**
-
-**Soutient**
-
-### Méristème Secondaire
-
+Les tissus primaires sont issus du fonctionnement des méristèmes primaires et les cellules sont désorganisées.
+#### Parenchyme fondamentale
+{% hint style="warning" %}
+Aussi appelé tissus embryonnaire
+* Cellules vivantes
+* Paroi primaire pectocellulosique mince (pas de paroi secondaire)
+* Noyau volumineux
+* Vacuoles petites et nombreuses
+* Forme isodiamétrique (approximativement sphérique)
+* Parfois avec méats
+* Plastes indifférenciés
+* Mitochondries nombreuses
+* Tissu sans fonction métabolique précise (totipotence des cellules)
+{% endhint %}
+#### Revêtement
+{% hint style="warning" %}
+* Epiderme
+  * Tissu de recouvrement/protection des tiges et feuilles
+  * Une seule couche de cellules (assise)
+  * Composé de plusieurs types cellulaires (c.épidermiques, c.stomatiques, poils épidermiques)
+  * Recouvert d’une cuticule
+* Rhizoderme
+  * Tissu de recouvrement/protection des jeunes racines
+* Zone subéreuse
+  * Présent chez les racines plus vielles qui perdent le rhizoderme
+{% endhint %}
+#### Tissus fondamentaux
+#### Parenchymes
+{% hint style="warning" %}
+Le parenchyme assure les fonction dans le métabolisme de la plante
+* Photosynthèse => Chlorenchyme
+* Stockage de réserves => Amylenchyme
+* Circulation des gaz => Aérenchyme 
+* Stockage de l’eau => Hydrenchyme
+* Parenchyme cortical (Situé sous l'épiderme)
+{% endhint %}
+#### Tissus de soutien
+{% hint style="warning" %}
+Il y a deux tissus de soutien primaires, le **collenchyme** et **sclérenchyme**, ils assurent la rigidité grâce au parois épaissie des cellules. Situés principalement dans les **tiges** et les **feuilles**
+{% endhint %}
+#### Collenchyme
+{% hint style="warning" %}
+* Paroi **primaire pectocellulosique épaissie**
+* **Pas de paroi secondaire**
+* Cellules **vivantes**
+* Il est **localisé** en **surface** des **organes**
+* Espèces végétale **herbacées** et **jeunes ligneuse**
+* Il existe **3 types** de collenchyme
+  * Rond ou Annulaire
+  * Angulaire
+  * Lamellaire ou tangentiel
+{% endhint %}
+#### Sclérenchyme
+{% hint style="warning" %}
+* Paroi **primaire** et paroi **secondaire** lignifiées
+* **Cellules mortes**
+* Est composé de plusieurs types cellulaire
+{% endhint %}
+#### Endoderme et pericycle
+Tissus présents dans la racine, ils se situent à la limite du cylindre centrale et de l'écorce
+![Endoderme et pericycle](../.gitbook/assets/endoderme-et-pericyle.jpg)
+#### Péricycle
+{% hint style="warning" %}
+* Tissus **vivant, petite cellules peu différenciées**
+* Une **seule couche** de cellules
+* Couche la **plus externe du cylindre centrale**
+* **Rôle** dans la **ramification** des **racines**
+{% endhint %}
+#### Endoderme
+{% hint style="warning" %}
+* Tissus **vivant**, paroi partiellement **lignifiées** ou **subérifiées**
+* Couche la plus **interne** de la **zone** **corticale**
+* Rôle dans **l'absorption** => filtre
+{% endhint %}
+![Diff&#xE9;rent type d&apos;endoderme](../.gitbook/assets/different-type-dendoderme.png)
+#### Tissus sécréteurs
+Il y a une grande variété de substance produites par
+* Des cellules isolées
+* L'épidermes ou des poils sécréteurs
+* Poche / Canaux sécréteurs
+Les tissus sécréteurs permettent plusieurs fonction pour les plantes
+{% hint style="warning" %}
+* Communication avec d'autre plantes \(Molécule odorante, attirer et séduire les pollinisateurs\)
+* Repousser les herbivores
+{% endhint %}
+#### Tissus de conductions primaire
+Les tissus de conduction primaires assurent la conduction de sèves chez les trachéophytes et sont formés par le procambium. L'ensemble xylème et phloème primaire se nomme faisceaux libéro-ligneux
+{% hint style="danger" %}
+* Xylème transporte sève brut
+* Phloème transporte sève élaborée
+{% endhint %}
+#### Xylème primaire
+{% hint style="warning" %}
+Présent dans la feuille, la tige et la racine, il assure 3 fonction
+* Conduction
+  * Fabrication de vaisseaux tout au long de la croissance de la plante => plus les vaisseaux sont formés tard plus les vaisseaux sont lignifiés
+* Soutien
+  * Cellules mortes
+  * Paroi épaissie (Paroi primaire et secondaire)
+  * Peu ou pas de ponctuation, lumiière de la cellule étroite
+* Réserve et metabolisme
+  * Parenchyme **xymélien** (ou **ligneux**)
+  * Cellules vivantes, parois primaire cellulosiques ou lignifiées
+  * Stockage eau, amidon
+{% endhint %}
+![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg)
+![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
+{% hint style="warning" %}
+Durant la fabrication du xylème il y a création de proto et métaxylème
+* Protoxylème : Vaisseaux imparfaits (Crée en premier)
+  * Cellules s’allongent encore.
+  * Parois transversales présentes entre les éléments de vaisseaux => Vaisseaux annelés, spiralés.
+* Métaxylème : Vaisseaux parfaits (Crée en dernier)
+  * Cellules ne s’allongent plus.
+  * Les vaisseaux sont constitués d’éléments de vaisseaux sans paroi transversale => Vaisseaux rayés, réticulés, ponctués
+Le sens Sens de différenciation des vaisseaux du xylème primaire permet de faire la
+distinction au niveau histologique entre tige et racine, différenciation centrifuge pour la tige et centripète pour les racines
+{% endhint %}
+#### Phloème primaire
 ### Tissus Secondaire
-
-**Conduction**
-
-**Revêtement**
-
-**Soutient**
-
+Conduction
+Revêtement
+Soutient
 ## Plan organisation Morphologique
-
 ### Graine
-
 Le point de départ des angiosperme est la graine, formée de différentes parties
 
 ![](../.gitbook/assets/graine-haricot.png)
-
 ### Bourgeon
-
 ### Tige
-
 ### Racine
-
 ### Feuille
-
 {% hint style="info" %}
 #### **Définition**
 
@@ -245,12 +344,29 @@ Il existe 4 grandes phyllotaxie
 ![Phyllotaxie](../.gitbook/assets/phyllotaxie.png)
 
 ![Compos&#xE9; de stipules ou non ? ](../.gitbook/assets/compose-de-stipules.png)
-
 ## Adaptation aux condition environnemental
-
 ## Travaux Pratique
-
 ## Définition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Grand groupe des végétaux
 
@@ -520,69 +636,7 @@ Il existe deux types de tissus de soutient
 * **Sclérenchyme**
 {% endhint %}
 
-#### Collenchyme
-
-{% hint style="warning" %}
-* Paroi **primaire** **pectocellulosique** **épaissie**
-* **Pas** de paroi **secondaire**
-* Cellules **vivantes**
-* Il est **localisé** en **surface** des **organes**
-* Espèces végétale **herbacées** et **jeunes** **ligneuse**
-* Il existe **3 types** de collenchyme
-  * Rond ou Annulaire
-  * Angulaire
-  * Lamellaire ou tangentiel
-{% endhint %}
-
-#### Sclérenchyme
-
-{% hint style="warning" %}
-* Paroi **primaire** et paroi **secondaire** lignifiées
-* **Cellules mortes**
-* Est composé de plusieurs types cellulaire
-{% endhint %}
-
-#### Endoderme et pericycle
-
-Généralement présent dans les tissus racinaire, il se situe à la limite du cylindre centrale et de l'écorce
-
 ![](../.gitbook/assets/localisation-percycle-et-endoderme.jpg)
-
-![](../.gitbook/assets/endoderme-et-pericyle.jpg)
-
-#### Péricycle
-
-{% hint style="warning" %}
-* Tissus **vivant**, **petite** **cellules** **peu** **différenciées**
-* Une **seule couche** de cellules
-* Couche la **plus externe du cylindre centrale**
-* **Rôle** dans la **ramification** des **racines**
-{% endhint %}
-
-#### Endoderme
-
-{% hint style="warning" %}
-* Tissus **vivant**, paroi partiellement **lignifiées** ou **subérifiées**
-* Couche la plus **interne** de la **zone** **corticale**
-* Rôle dans **l'absorption** -&gt; filtre
-{% endhint %}
-
-![Diff&#xE9;rent type d&apos;endoderme](../.gitbook/assets/different-type-dendoderme.png)
-
-#### **Tissus sécréteur**
-
-Il y a une grande variété de substance produites par
-
-* Des cellules isolées
-* L'épidermes ou des poils sécréteurs
-* Poche / Canaux sécréteurs
-
-Les tissus sécréteurs permettent plusieurs fonction pour les plantes
-
-{% hint style="warning" %}
-* Communication avec d'autre plantes \(Molécule odorante, attirer et séduire les pollinisateurs\)
-* Repousser les herbivores
-{% endhint %}
 
 ### Tissus de conductions primaire
 
@@ -629,7 +683,7 @@ Ainsi que la réserve et métabolisme
 
 #### Xylème primaire chez les angiospermes
 
-![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg)
+
 
 Assure le soutien
 
@@ -651,7 +705,7 @@ Conduction grâce au vaisseaux, qui comporte plusieurs éléments. Cellules de g
 
 ![Repr&#xE9;sentation sch&#xE9;matique des xyl&#xE8;mes](../.gitbook/assets/xylemeschema.jpg)
 
-![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
+
 
 {% hint style="warning" %}
 Il existe plusieurs types de vaisseaux, les premiers vaisseaux fabriqués sont des **protoxylèmes** et ceux fabriqués quand la plante est plus développée sont les **métaxylèmes**
