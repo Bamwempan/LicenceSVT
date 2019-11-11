@@ -109,7 +109,9 @@ Les parois assurent différents rôle
 * Défense \(imprégnations substances chimiques de type lignine, cutine...\)
 * Soutien / Rigidité \(paroi + lignification : cellule très rigide = tissu de soutien\)
 {% endhint %}
+
 **Plastes**
+
 {% hint style="warning" %}
 * Chloroplastes
   * Photosynthèse
@@ -121,9 +123,13 @@ Les parois assurent différents rôle
 * Chromoplastes
   * Attraction de pollinisateurs et disséminateurs
 {% endhint %}
+
 ### Explication de l'apparition de végétaux terrestre
+
 #### Besoin des organisme végétaux
+
 Tous végétaux à besoin de ressources pour se développer
+
 {% hint style="warning" %}
 * Lumière
 * Eau
@@ -131,8 +137,11 @@ Tous végétaux à besoin de ressources pour se développer
 * $$0_2$$ 
 * Element minéraux \(N, P, K, Fe, Mg, Mn, Ca\)
 {% endhint %}
+
 #### Dans les milieux aquatiques
+
 Qualification d'une plante aquatique
+
 {% hint style="warning" %}
 * L'eau n'est pas limitante
 * Gaz et éléments minéraux accessibles \(Dissous dans l'eau\)
@@ -141,13 +150,19 @@ Qualification d'une plante aquatique
 * Inertie thermique
 * L'eau est un vecteur de dissimulation
 {% endhint %}
+
 {% hint style="info" %}
 #### Définition
+
 **Inertie Thermique :** L'inertie thermique d'un matériau représente sa résistance au changement de température lorsque intervient une perturbation de son équilibre thermique.
 {% endhint %}
+
 #### Dans les milieux terrestres
+
 Lorsque le végétal est en milieu terrestre il subis différente contrainte qui n'existait pas dans le milieu aquatique
+
 #### Contrainte
+
 {% hint style="warning" %}
 * Lumière pouvant être limitante \(Sous couvert végétal\)
 * Eau pouvant être limitante
@@ -157,8 +172,11 @@ Lorsque le végétal est en milieu terrestre il subis différente contrainte qui
 * Variation climatique
 * Dessèchement lié à l'air
 {% endhint %}
+
 #### Solution
+
 Pour se faire les plantes se sont adapté et ont crée des système qui répondent à ces problématiques
+
 {% hint style="warning" %}
 * Mobiliser l'eau du sol et les élément minéraux
 * Agir contre la gravité
@@ -167,95 +185,131 @@ Pour se faire les plantes se sont adapté et ont crée des système qui réponde
 * Mettre en place des lieux de stockage pour résister au variation climatique
 * être compétitif pour intercepter la lumière et occuper l'espace
 {% endhint %}
+
 ## Arbre phylogénétique des végétaux
+
 {% hint style="warning" %}
 1. Algues
 2. Bryophytes \(Mousses\)
 3. Monophysites \(Fougères, Prêles\)
 4. Gymnosperme \(Pin, Sapin\)
 5. Angiosperme \(Plantes à fleurs\)
-Le groupe des angiosperme est le dernier à être arriver sur terre est donc **le plus complexe**, de ce fait il s'est mieux **adapté à son environnement**, les angiospermes représentent environ **95%** des végétaux terrestre.
+
+   Le groupe des angiosperme est le dernier à être arriver sur terre est donc **le plus complexe**, de ce fait il s'est mieux **adapté à son environnement**, les angiospermes représentent environ **95%** des végétaux terrestre.
 {% endhint %}
 
 ![Grand groupe des v&#xE9;g&#xE9;taux sur terre](../.gitbook/assets/abre-phyloginetique.png)
+
 ### Lignée Verte
-![Arbre phylog&#xE9;n&#xE9;tique &quot;v&#xE9;g&#xE9;taux&quot;](../.gitbook/assets/arbre-phylogenetique-lignee-verte-min.jpg)
-![Arbre phylogenetique lignée verte](../.gitbook/assets/groupe-des-plantes.png)
+
+![Arbre phylog&#xE9;n&#xE9;tique &quot;v&#xE9;g&#xE9;taux&quot;](../.gitbook/assets/arbre-phylogenetique-lignee-verte-min.jpg) ![Arbre phylogenetique lign&#xE9;e verte](../.gitbook/assets/groupe-des-plantes.png)
+
 ### Embryophyte
+
 ### Trachéophyte
+
 ### Focus Gymnosperme
+
 #### Synapormophie
+
 ### Focus Angiosperme
+
 #### Monocotylédone
+
 #### Dicotylédone
+
 ## Plan organisation Histologique
+
 ### Méristème
+
 La plante assure la croissance via le fonctionnement des méristèmes primaires.
+
 {% hint style="info" %}
 **Méristème :** ensemble de cellules ayant gardé des propriétés embryonnaires et capables de se diviser, les méristèmes assurent l'**histogenèse**
 {% endhint %}
+
 {% hint style="warning" %}
-La production de nouvelles cellules et tissus se faire par les méristèmes en plusieurs étapes
-1. Production de cellules au niveau des méristèmes par division (mitoses)
-2. Croissance cellulaire, la cellule grandit, par synthèse et étirement de paroi (élastique) il y a formation du tissu embryonnaire (Parenchyme fondamentale)
-3. Différenciation cellulaire ou différenciation des tissus 
+La production de nouvelles cellules et tissus se faire par les méristèmes en plusieurs étapes 1. Production de cellules au niveau des méristèmes par division \(mitoses\) 2. Croissance cellulaire, la cellule grandit, par synthèse et étirement de paroi \(élastique\) il y a formation du tissu embryonnaire \(Parenchyme fondamentale\) 3. Différenciation cellulaire ou différenciation des tissus
 {% endhint %}
-#### Méristèmes primaires
+
+#### Méristèmes primaires
+
 {% hint style="warning" %}
 Les méristèmes primaires se situent au apex de la plante, **méristème caulinaire et racinaire**, il assurent l'**organogenèse** avec la création des tissus primaires.
 {% endhint %}
-#### Méristèmes secondaires
+
+#### Méristèmes secondaires
+
 {% hint style="warning" %}
-Les méristèmes secondaires sont une assise génératrice issue du méristème primaire, responsable de la croissance en épaisseur par la mise en place de tissus secondaires (méristème histogène). Il existe 2 types de méristèmes secondaires
-* Cambium = assise génératrice libéro-ligneuse (=> tissus secondaires de conduction)
-* Phellogène = assise génératrice subéro-phellodermique (=> tissus secondaires de revêtement)
-**Les méristèmes secondaires ne sont pas présents chez toutes les plantes**
-* Très importance chez les plantes dites ligneuses (buisson bas, buisson, arbuste, arbre)
-* Plus restreinte chez les plantes herbacées (herbes autres que Monocotylédones)
+Les méristèmes secondaires sont une assise génératrice issue du méristème primaire, responsable de la croissance en épaisseur par la mise en place de tissus secondaires \(méristème histogène\). Il existe 2 types de méristèmes secondaires
+
+* Cambium = assise génératrice libéro-ligneuse \(=&gt; tissus secondaires de conduction\)
+* Phellogène = assise génératrice subéro-phellodermique \(=&gt; tissus secondaires de revêtement\)
+
+  **Les méristèmes secondaires ne sont pas présents chez toutes les plantes**
+
+* Très importance chez les plantes dites ligneuses \(buisson bas, buisson, arbuste, arbre\)
+* Plus restreinte chez les plantes herbacées \(herbes autres que Monocotylédones\)
 {% endhint %}
-![Familles de plantes qui possèdent méristèmes secondaires](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.jpg)
+
+![Familles de plantes qui poss&#xE8;dent m&#xE9;rist&#xE8;mes secondaires](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.jpg)
+
 ### Tissus Primaire
+
 Les tissus primaires sont issus du fonctionnement des méristèmes primaires et les cellules sont désorganisées.
+
 #### Parenchyme fondamentale
+
 {% hint style="warning" %}
 Aussi appelé tissus embryonnaire
+
 * Cellules vivantes
-* Paroi primaire pectocellulosique mince (pas de paroi secondaire)
+* Paroi primaire pectocellulosique mince \(pas de paroi secondaire\)
 * Noyau volumineux
 * Vacuoles petites et nombreuses
-* Forme isodiamétrique (approximativement sphérique)
+* Forme isodiamétrique \(approximativement sphérique\)
 * Parfois avec méats
 * Plastes indifférenciés
 * Mitochondries nombreuses
-* Tissu sans fonction métabolique précise (totipotence des cellules)
+* Tissu sans fonction métabolique précise \(totipotence des cellules\)
 {% endhint %}
-#### Revêtement
+
+#### Revêtement
+
 {% hint style="warning" %}
 * Epiderme
   * Tissu de recouvrement/protection des tiges et feuilles
-  * Une seule couche de cellules (assise)
-  * Composé de plusieurs types cellulaires (c.épidermiques, c.stomatiques, poils épidermiques)
+  * Une seule couche de cellules \(assise\)
+  * Composé de plusieurs types cellulaires \(c.épidermiques, c.stomatiques, poils épidermiques\)
   * Recouvert d’une cuticule
 * Rhizoderme
   * Tissu de recouvrement/protection des jeunes racines
 * Zone subéreuse
   * Présent chez les racines plus vielles qui perdent le rhizoderme
 {% endhint %}
+
 #### Tissus fondamentaux
+
 #### Parenchymes
+
 {% hint style="warning" %}
 Le parenchyme assure les fonction dans le métabolisme de la plante
-* Photosynthèse => Chlorenchyme
-* Stockage de réserves => Amylenchyme
-* Circulation des gaz => Aérenchyme 
-* Stockage de l’eau => Hydrenchyme
-* Parenchyme cortical (Situé sous l'épiderme)
+
+* Photosynthèse =&gt; Chlorenchyme
+* Stockage de réserves =&gt; Amylenchyme
+* Circulation des gaz =&gt; Aérenchyme 
+* Stockage de l’eau =&gt; Hydrenchyme
+* Parenchyme cortical \(Situé sous l'épiderme\)
 {% endhint %}
-#### Tissus de soutien
+
+#### Tissus de soutien
+
 {% hint style="warning" %}
 Il y a deux tissus de soutien primaires, le **collenchyme** et **sclérenchyme**, ils assurent la rigidité grâce au parois épaissie des cellules. Situés principalement dans les **tiges** et les **feuilles**
 {% endhint %}
+
 #### Collenchyme
+
 {% hint style="warning" %}
 * Paroi **primaire pectocellulosique épaissie**
 * **Pas de paroi secondaire**
@@ -267,111 +321,159 @@ Il y a deux tissus de soutien primaires, le **collenchyme** et **sclérenchyme**
   * Angulaire
   * Lamellaire ou tangentiel
 {% endhint %}
+
 #### Sclérenchyme
+
 {% hint style="warning" %}
 * Paroi **primaire** et paroi **secondaire** lignifiées
 * **Cellules mortes**
 * Est composé de plusieurs types cellulaire
 {% endhint %}
+
 #### Endoderme et pericycle
-Tissus présents dans la racine, ils se situent à la limite du cylindre centrale et de l'écorce
+
+Tissus présents dans la racine, ils se situent à la limite du cylindre centrale et de l'écorce 
+
 ![Endoderme et pericycle](../.gitbook/assets/endoderme-et-pericyle.jpg)
+
 #### Péricycle
+
 {% hint style="warning" %}
 * Tissus **vivant, petite cellules peu différenciées**
 * Une **seule couche** de cellules
 * Couche la **plus externe du cylindre centrale**
 * **Rôle** dans la **ramification** des **racines**
 {% endhint %}
+
 #### Endoderme
+
 {% hint style="warning" %}
 * Tissus **vivant**, paroi partiellement **lignifiées** ou **subérifiées**
 * Couche la plus **interne** de la **zone** **corticale**
-* Rôle dans **l'absorption** => filtre
+* Rôle dans **l'absorption** =&gt; filtre
 {% endhint %}
+
 ![Diff&#xE9;rent type d&apos;endoderme](../.gitbook/assets/different-type-dendoderme.png)
+
 #### Tissus sécréteurs
+
 Il y a une grande variété de substance produites par
+
 * Des cellules isolées
 * L'épidermes ou des poils sécréteurs
 * Poche / Canaux sécréteurs
-Les tissus sécréteurs permettent plusieurs fonction pour les plantes
+
+  Les tissus sécréteurs permettent plusieurs fonction pour les plantes
+
 {% hint style="warning" %}
 * Communication avec d'autre plantes \(Molécule odorante, attirer et séduire les pollinisateurs\)
 * Repousser les herbivores
 {% endhint %}
-#### Tissus de conductions primaire
+
+#### Tissus de conductions primaire
+
 Les tissus de conduction primaires assurent la conduction de sèves chez les trachéophytes et sont formés par le procambium. L'ensemble xylème et phloème primaire se nomme faisceaux libéro-ligneux
+
 {% hint style="danger" %}
 * Xylème transporte sève brut
 * Phloème transporte sève élaborée
 {% endhint %}
+
 #### Xylème primaire
+
 {% hint style="warning" %}
 Présent dans la feuille, la tige et la racine, il assure 3 fonction
+
 * Conduction de **sève brut**
-  * Fabrication de vaisseaux tout au long de la croissance de la plante => plus les vaisseaux sont formés tard plus les vaisseaux sont lignifiés
+  * Fabrication de vaisseaux tout au long de la croissance de la plante =&gt; plus les vaisseaux sont formés tard plus les vaisseaux sont lignifiés
 * Soutien
   * Cellules mortes
-  * Paroi épaissie (Paroi primaire et secondaire)
+  * Paroi épaissie \(Paroi primaire et secondaire\)
   * Peu ou pas de ponctuation, lumiière de la cellule étroite
 * Réserve et metabolisme
-  * Parenchyme **xymélien** (ou **ligneux**)
+  * Parenchyme **xymélien** \(ou **ligneux**\)
   * Cellules vivantes, parois primaire cellulosiques ou lignifiées
   * Stockage eau, amidon
 {% endhint %}
-![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg)
+
+ 
+
 ![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
+
+![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg)
+
 {% hint style="warning" %}
 Durant la fabrication du xylème il y a création de proto et métaxylème
-* Protoxylème : Vaisseaux imparfaits (Crée en premier)
+
+* Protoxylème : Vaisseaux imparfaits \(Crée en premier\)
   * Cellules s’allongent encore.
-  * Parois transversales présentes entre les éléments de vaisseaux => Vaisseaux annelés, spiralés.
-* Métaxylème : Vaisseaux parfaits (Crée en dernier)
+  * Parois transversales présentes entre les éléments de vaisseaux =&gt; Vaisseaux annelés, spiralés.
+* Métaxylème : Vaisseaux parfaits \(Crée en dernier\)
   * Cellules ne s’allongent plus.
-  * Les vaisseaux sont constitués d’éléments de vaisseaux sans paroi transversale => Vaisseaux rayés, réticulés, ponctués
-Le sens Sens de différenciation des vaisseaux du xylème primaire permet de faire la
-distinction au niveau histologique entre tige et racine, différenciation centrifuge pour la tige et centripète pour les racines
+  * Les vaisseaux sont constitués d’éléments de vaisseaux sans paroi transversale =&gt; Vaisseaux rayés, réticulés, ponctués
+
+    Le sens Sens de différenciation des vaisseaux du xylème primaire permet de faire la
+
+    distinction au niveau histologique entre tige et racine, différenciation centrifuge pour la tige et centripète pour les racines
 {% endhint %}
+
 #### Phloème primaire
+
 {% hint style="warning" %}
 Présent dans la feuille, la tige et la racine, il assure 3 fonction
+
 * Conduction de **sève élaborée** grâce au tube criblé
 * Soutien
 * Réserve
-Il est constitué
+
+  Il est constitué
+
 * Tube criblé
 * Cellules compagne
-  * collée contre tube criblé -> Maintien en vie l’élément de tube criblé
-* Parenchyme libérien (Parenchyme phloèmien)
+  * collée contre tube criblé -&gt; Maintien en vie l’élément de tube criblé
+* Parenchyme libérien \(Parenchyme phloèmien\)
   * Cellules vivantes, allongées, à parois cellulosiques.
   * Stockage, sécrétion
-**Phloème primaire est un tissu complexe composé de plusieurs types cellulaires.**
+
+    **Phloème primaire est un tissu complexe composé de plusieurs types cellulaires.**
 * Tissu complexe à cellules vivantes et à parois cellulosiques
 * Allongement possible des cellules
 * toujours à différenciation centripète
 {% endhint %}
-![Disposition du xylème primaire et phloème primaire dans les différent organes de la plante](../.gitbook/assets/dispositions-xyleme-primaire-et-phloeme-primaire.jpg)
+
+![Disposition du xyl&#xE8;me primaire et phlo&#xE8;me primaire dans les diff&#xE9;rent organes de la plante](../.gitbook/assets/dispositions-xyleme-primaire-et-phloeme-primaire.jpg)
+
 ### Tissus Secondaire
-#### Tissus secondaires de conduction
+
+#### Tissus secondaires de conduction
+
 {% hint style="warning" %}
 Les tissus secondaires de conduction sont produits par le **cambium**, situés au niveaux des racines et des tiges. Le fonctionnement du cambium est rythmique.
+
 * Xylème secondaire
 * Phloème secondaire
-C'est grâce à la division périclines du cambium qu'il y a production de nouvelles cellules
-* Vers l’extérieur formation du phloème secondaire (= liber)
-* Vers l’intérieur formation du xylème secondaire (= bois)
+
+  C'est grâce à la division périclines du cambium qu'il y a production de nouvelles cellules
+
+* Vers l’extérieur formation du phloème secondaire \(= liber\)
+* Vers l’intérieur formation du xylème secondaire \(= bois\)
 {% endhint %}
-![Fonctionnement de la mise en place des Xylème et Phloème secondaires](../.gitbook/assets/fonctionnementdeladivisionducambium.jpg)
+
+![Fonctionnement de la mise en place des Xyl&#xE8;me et Phlo&#xE8;me secondaires](../.gitbook/assets/fonctionnementdeladivisionducambium.jpg)
+
 #### Xylème secondaire
+
 {% hint style="warning" %}
 * Produit de façon interne
 * Contient uniquement des vaisseaux parfait \(métaxylème\)
 * Fibre
 * Parenchyme
 {% endhint %}
+
 ![Xyl&#xE8;me secondaire](../.gitbook/assets/xyleme-secondaire.jpg)
+
 #### Phloème secondaire
+
 {% hint style="warning" %}
 * Produit de façon externe
 * Même types cellulaire que le phloème primaire
@@ -380,38 +482,58 @@ C'est grâce à la division périclines du cambium qu'il y a production de nouve
   * Parenchymes phloèmien
   * Fibres phloèmiennes
 {% endhint %}
+
 ![Phlo&#xE8;me secondaire](../.gitbook/assets/phloeme-secondaire.jpg)
-#### Pachyte
+
+#### Pachyte
+
 {% hint style="warning" %}
 L'ensemble xylème secondaire et phloème secondaire se nomme **pachyte**, et peut exister de manière continu ou discontinu
 {% endhint %}
-[] Ajouter schéma page 75 et 86 du libre de botanique
-#### Tissus de revêtement
+
+\[\] Ajouter schéma page 75 et 86 du libre de botanique
+
+#### Tissus de revêtement
+
 {% hint style="warning" %}
-La croissance importante en épaisseur liée au fonctionnement du cambium conduit au déchirement des tissus primaires de revêtement, la plante dois donc en créer de nouveau avec des tissus de revêtement secondaire pour protéger les organes (Tiges, Racine), au niveau de certaines plantes (ligneuses) via le phellogène grâce à la division périclines du phellogène permettant la production de nouvelles cellules
-* Formation de suber (ou liège) vers l’extérieur
-  * Le suber (cellules mortes à paroi subérifiée + cire) est imperméable à l’eau et aux gaz
+La croissance importante en épaisseur liée au fonctionnement du cambium conduit au déchirement des tissus primaires de revêtement, la plante dois donc en créer de nouveau avec des tissus de revêtement secondaire pour protéger les organes \(Tiges, Racine\), au niveau de certaines plantes \(ligneuses\) via le phellogène grâce à la division périclines du phellogène permettant la production de nouvelles cellules
+
+* Formation de suber \(ou liège\) vers l’extérieur
+  * Le suber \(cellules mortes à paroi subérifiée + cire\) est imperméable à l’eau et aux gaz
   * Cependant possibilité de zone ou le suber est désorganiser pour permettre les échanges gazeux, se sont les **lenticelles**
 * Formation de phelloderme vers l’intérieur
 {% endhint %}
+
 ![Phellog&#xE8;ne](../.gitbook/assets/phellogene.jpg)
+
 ### Récapitulatif
+
 ![](../.gitbook/assets/meristemeprimaireetsecondaire.png)
+
 ## Plan organisation Morphologique
+
 ### Graine
+
 Le point de départ des angiosperme est la graine, formée de différentes parties
 
 ![](../.gitbook/assets/graine-haricot.png)
+
 ### Jeune Pousse
+
 ![Photo l&#xE9;gend&#xE9; d&apos;une jeune pousse](../.gitbook/assets/photo-legende-dune-jeunes-pousse-dangiosperme.jpg)
+
 ### Bourgeon
-![Photographie d'une coupe transversale d'un bourgeon](../.gitbook/assets/photo-legendee-dun-bourgeon.jpg)
+
+![Photographie d&apos;une coupe transversale d&apos;un bourgeon](../.gitbook/assets/photo-legendee-dun-bourgeon.jpg)
+
 ### Tige
+
 {% hint style="info" %}
-Organe végétatif à symétrie radiale qui porte généralement des feuilles et des bourgeons. Généralement aérienne et à croissance verticale.
-Phototropisme positif et géotropisme négatif, la tige permet le soutient de la plante et la circulation de la sève entre les feuilles et les racines
+Organe végétatif à symétrie radiale qui porte généralement des feuilles et des bourgeons. Généralement aérienne et à croissance verticale. Phototropisme positif et géotropisme négatif, la tige permet le soutient de la plante et la circulation de la sève entre les feuilles et les racines
 {% endhint %}
+
 #### Origine de la tige
+
 {% hint style="warning" %}
 La tige provient du groupe gemmule et tigelles, elle est rattaché à la racine par le collet, la tige porte les cotylédons, feuilles et le bourgeon terminal \(Apical\). Les tiges sont un empilement de phytomères.
 {% endhint %}
@@ -530,19 +652,25 @@ Croissance continue = pas d’arrêts de croissance
 ![Diff&#xE9;renciation rameaux](../.gitbook/assets/differenciation-structure-tige.png)
 
 ### Racine
+
 Le système racinaire d'une végétale angiosperme est bien différents selon les espèces et assure des rôle plus ou moins différents.
+
 {% hint style="info" %}
 * Volume racinaire très variable selon les espèces
 * Racine généralement souterraine \(sauf exception\)
 * Phototropisme négatif ⬇
 * Géotropisme positif ⬇
-Différent rôle
+
+  Différent rôle
+
 * Ancrage 
 * Stockage de réserve
 * Acquisition de ressource du sol
 * Multiplication végétative \(Assure la reproduction de la plante de manière asexuée\)
 {% endhint %}
+
 ![R&#xF4;le racine](../.gitbook/assets/racine-role.jpg)
+
 #### Origine et diversité des racines
 
 {% hint style="warning" %}
@@ -644,8 +772,6 @@ Chez certains végétaux il y a production de tissus secondaire et de croissance
 Production de tissus **secondaire** de **conduction** via le **cambium**, le **phloème** **secondaire** et **xylème** **secondaire**. Et production de tissus **secondaire** de **revêtement** via le **phellogène**, le **suber** et **phelloderme** \([voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#phellogene-mise-en-place-de-tissus-secondaire-de-revetement)\)
 {% endhint %}
 
-![](../.gitbook/assets/production-de-racine-secondaire-par-le-cambium-et-le-phellogene.png)
-
 #### Ramification de la racine
 
 {% hint style="info" %}
@@ -674,7 +800,9 @@ Echanges de ressources entre les partenaires :
 {% endhint %}
 
 ![](../.gitbook/assets/symbiose-raicnaires.jpg)
+
 ### Feuille
+
 {% hint style="info" %}
 #### **Définition**
 
@@ -738,7 +866,9 @@ Il existe 4 grandes phyllotaxie
 ![Phyllotaxie](../.gitbook/assets/phyllotaxie.png)
 
 ![Compos&#xE9; de stipules ou non ? ](../.gitbook/assets/compose-de-stipules.png)
+
 ## Adaptation aux condition environnemental
+
 ## Travaux pratique
 
 ### Reconnaître qu'elle tissus nous observons
@@ -934,12 +1064,14 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 {% endhint %}
 
 ## Ressources
+
 {% tabs %}
 {% tab title="Liens utiles" %}
 * [Nowatera](http://www.nowatera.be/)
 * [Dictionaire de SVT par Michel Breuil](https://www.decitre.fr/livres/dictionnaire-de-svt-9782091520155.html)
 * [Wikipédia](https://fr.wikipedia.org/wiki/Portail:Botanique)
 {% endtab %}
+
 {% tab title="Bouquin à acheter" %}
 * [Biologie de Neil Campbell](https://www.decitre.fr/livres/biologie-9782761350655.html)
 * [Classification du viant de Guillaume Lecointre Tome 1](https://www.decitre.fr/livres/classification-phylogenetique-du-vivant-9782701182940.html)
@@ -948,35 +1080,9 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Grand groupe des végétaux
 
-
-
 ## La lignée verte, les grands groupes des végétaux
-
-
-
-
 
 ## Focus sur les angiosperme
 
@@ -986,57 +1092,7 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 
 ### Jeune pousse
 
-
-
 ### Bourgeon
-
-![Liste des tissus d&apos;une cellule v&#xE9;g&#xE9;tale](../.gitbook/assets/tissus-vegetale.jpg)
-
-![Fonctionnement m&#xE9;rist&#xE8;me](../.gitbook/assets/fonctionnement-meriste-me.jpg)
-
-![Disposition des m&#xE9;rist&#xE8;me primaires et secondaire](../.gitbook/assets/meristems_med.jpeg)
 
 ![M&#xE9;rist&#xE8;me primaire et secondaire d&apos;une tige](../.gitbook/assets/meriste-me-primaire-et-secondiare.png)
 
-
-![Disposition des tissus conducteurs primaires dans les tiges, feuilles et racines](../.gitbook/assets/different-type-tissus.jpg)
-
-![](../.gitbook/assets/meriste-me-primaire.png)
-
-![Stomates](../.gitbook/assets/stomates.jpg)
-
-![Photo des diff&#xE9;rents parenchymes](../.gitbook/assets/parenchymes.jpg)
-
-![](../.gitbook/assets/localisation-percycle-et-endoderme.jpg)
-
-![Repr&#xE9;sentation sch&#xE9;matique des xyl&#xE8;mes](../.gitbook/assets/xylemeschema.jpg)
-
-![Repr&#xE9;sentation protoxyl&#xE8;me](../.gitbook/assets/protoxyleme.jpg)
-
-![Repr&#xE9;sentation m&#xE9;taxyl&#xE8;me](../.gitbook/assets/representationmetaxyleme.jpg)
-
-![Phlo&#xE8;me primaire](../.gitbook/assets/phloeme-primaire.jpg)
-
-![Phlo&#xE8;me primaire sch&#xE9;matique](../.gitbook/assets/phloemeprimaire-schematique.jpg)
-
-![Disposition des tissus conducteurs primaires dans les tiges, feuilles et racines](../.gitbook/assets/different-type-tissus.jpg)
-
-![Explication du passage au procambium aux tissus conducteurs](../.gitbook/assets/du-procambium-au-tissus-conducteurs.jpg)
-
-![Liste des groupes qui ont la pr&#xE9;sences de m&#xE9;rist&#xE8;mes secondaires](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.jpg)
-
-![M&#xE9;rist&#xE8;me secondaires, cambium et phellog&#xE8;ne](../.gitbook/assets/meritstemes-secondaires.jpg)
-
-![Production de xyl&#xE8;me et phlo&#xE8;me secondaires](../.gitbook/assets/fonctionnementcreationtissussecondaires.jpg)
-
-![Disposition continue ou discontinue du cambium](../.gitbook/assets/pachyte.jpg)
-
-![Disposition des diff&#xE9;rents tissus](../.gitbook/assets/notion-de-pachytes.png)
-
-![](../.gitbook/assets/tissussecondairestige.jpg)
-
-![](../.gitbook/assets/tissussecondairesracine.jpg)
-
-![Croissance &#xE9;paisseur phellog&#xE8;ne](../.gitbook/assets/croissance-epaisseur-phellogene.jpg)
-
-![Division p&#xE9;ricline du phellog&#xE8;ne](../.gitbook/assets/fonctionnementphellogene.png)
