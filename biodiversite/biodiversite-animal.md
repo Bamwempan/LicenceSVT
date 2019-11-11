@@ -26,7 +26,7 @@ Le nombre d'espèces des **métazoaire** **connus** est environ **1,25 millions*
 
 Les métazoaires font parties de la branche de l'arbre des vivants, celle des eucaryotes. Ce sont tous des **unicontes** \(Cellule mobile avec un flagelle propulseur\)
 
-![Arbre phylog&#xE9;n&#xE9;tique des m&#xE9;tazoaires](../.gitbook/assets/abre-phylogenetique-des-metazoaire.png)
+![Arbre phylog&#xE9;n&#xE9;tique m&#xE9;tazoaire](../.gitbook/assets/abre-phylogenetique-des-metazoaire.png)
 
 ## Passage à la pluricellularité
 
@@ -98,7 +98,7 @@ Malgré leur différents formes et organisation, leur différences ne permet pas
 * Sycon
 * Leucon
 
-![Types d&apos;organisation des porif&#xE8;res](../.gitbook/assets/organisation-des-poriferes.jpg)
+![Types d&apos;organisation des porif&#xE8;res](../.gitbook/assets/organisation-porifere.jpg)
 
 #### Choanocytes
 
@@ -112,7 +112,7 @@ Constitution d'une cellule choanocyte
 * Vacuole digestive
 {% endhint %}
 
-![Choanocyte](../.gitbook/assets/choanocytes.jpg)
+![Choanocyte](../.gitbook/assets/choanocyte.jpg)
 
 #### Parois du corps
 
@@ -123,7 +123,7 @@ Paroi interne composé de **choanoderme**, formé de **choanocytes**.
 Entre les deux parois il y a le **mésoglé** \(Gel\), composés de **Porocytes tubulaires \(Pores\)**
 {% endhint %}
 
-![](../.gitbook/assets/porifereparois.jpg)
+![Parois porif&#xE8;re](../.gitbook/assets/parois-porifere.jpg)
 
 #### Amibocytes
 
@@ -134,7 +134,7 @@ Les cellules amibocytes sont totipotente
 * Régénération
 * Digestion et transfert de nutriments
 
-![Amibocyte](../.gitbook/assets/amibocytes.png)
+![Amibocytes](../.gitbook/assets/amibocytes.jpg)
 
 #### Fonctionnement des porifères
 
@@ -162,7 +162,7 @@ Les porifères ne possèdent pas de cavité interne
 * Utilisé pour la biotechnologies et pour les antibiotiques
 {% endhint %}
 
-![Repr&#xE9;sentation g&#xE9;ographique de la population de porif&#xE8;res](../.gitbook/assets/carte-de-presence-des-porife-res.png)
+![Carte de localisation des porif&#xE8;res](../.gitbook/assets/carte-presence-porifere.jpg)
 
 #### Grande lignée de porifères
 
@@ -243,9 +243,9 @@ Il existe de modes de clivages
     * Si il sont macromère et micromère \(**clivage spirale**\) alors c'est un **Stéréoblastula**
 {% endhint %}
 
-![Clivage M&#xE9;roblastique et Holoblastique](../.gitbook/assets/deuxmodesdeclivages.png)
+![Clivage M&#xE9;roblastique et Holoblastique](../.gitbook/assets/deux-mode-de-clivage.jpg)
 
-![Clivage m&#xE9;roblastique et son r&#xE9;sultat, clivages holoblastique radial ou spiral avec leurs r&#xE9;sultats](../.gitbook/assets/different-resultat-des-clivages.png)
+![Clivage m&#xE9;roblastique et son r&#xE9;sultat, clivages holoblastique radial ou spiral avec leurs r&#xE9;sultats](../.gitbook/assets/different-resultats-clivage.jpg)
 
 #### Gastrulation
 
@@ -253,25 +253,25 @@ Le **rythme** de **division** est **ralenti** et il y a **mouvement** des **cell
 
 **Archenteron** est **l'intestin** **embryonnaire**, et le **blastopore** la 1ère **ouverture** **embryonnaire**
 
-![Gastrulation par embolie d&apos;une co&#xE9;loblastula ou par Epibolie d&apos;une st&#xE9;r&#xE9;oblastula](../.gitbook/assets/strugulations-de-differents-embryons.png)
+![Gastrulation par embolie d&apos;une co&#xE9;loblastula ou par Epibolie d&apos;une st&#xE9;r&#xE9;oblastula](../.gitbook/assets/gastrulation-embolie-epibolie.jpg)
 
 Suite à cette gastrulation il y formation de deux feuillet embryonnaire, l'endoderme et l'ectoderme.
 
 **L'endoderme** permet la **nutrition** et **l'ectoderme** est un **contact** avec **l'extérieur**, **épithélium**, et à un **système nerveux**
 
-![R&#xE9;sultat gastrulation d&apos;une co&#xE9;loblastula et d&apos;une st&#xE9;r&#xE9;oblastula](../.gitbook/assets/coeloblastula-et-stereoblastula.png)
+![R&#xE9;sultat gastrulation d&apos;une co&#xE9;loblastula et d&apos;une st&#xE9;r&#xE9;oblastula](../.gitbook/assets/coeloblastula-stereoblastula.jpg)
 
 #### 2 ou 3 feuillets embryonnaire ?
 
 #### Diploblastique - Triploblastique
 
-![](../.gitbook/assets/diplobastique-et-triploblastique.png)
+![](../.gitbook/assets/diploblastique-triploblastique.jpg)
 
 {% hint style="warning" %}
 Malgré le fait que les **cnidaires** et les **cténophores** on **deux feuillet embryonnaire**, il **ne sont pas un clade**
 {% endhint %}
 
-![Position cnidaires et p](../.gitbook/assets/cnidaire-et-ctenophores.png)
+![](../.gitbook/assets/phylogenie-cnidaire-ctenophore.jpg)
 
 ### Les Cténophores
 
@@ -281,7 +281,7 @@ Le **colloblaste** est le caractère propre au **cténophores**.
 Ils ont des **tentacules**, sont **transparents** et ont des **cils** **iridescents**
 {% endhint %}
 
-![Ct&#xE9;nophores](../.gitbook/assets/ctenophores.png)
+![](../.gitbook/assets/representation-ctenophore.jpg)
 
 ### Cnidaires
 
@@ -299,15 +299,15 @@ Voici une listes de caractères pour les cnidaires
 
 #### Larve planula
 
-![Larve planula](../.gitbook/assets/larve-pluma.png)
+![](../.gitbook/assets/photo-larve-planula.jpg)
 
 #### Polype
 
-![Polype](../.gitbook/assets/polype.png)
+![](../.gitbook/assets/schema-polype.jpg)
 
 #### Méduse
 
-![M&#xE9;duse](../.gitbook/assets/meduse.png)
+![](../.gitbook/assets/shema-meduse.jpg)
 
 #### Trois groupes principaux de cnidaires
 
@@ -325,9 +325,9 @@ Contient environs 9000 espèces
 3. Méduse mâle ou femelle assure la reproduction via une fécondation externe dans le milieux
 {% endhint %}
 
-![hydrozoaire](../.gitbook/assets/hydrozoaire.png)
+![](../.gitbook/assets/schema-cycle-hydrozoaire.jpg)
 
-![Ob&#xE9;lia](../.gitbook/assets/obelia.png)
+![](../.gitbook/assets/photo-obelia.jpg)
 
 #### Les Scyphozoaires
 
@@ -337,9 +337,9 @@ Forme méduse dominante, il y a division par **strobilisation.**
 Chaque pétale sur le polype donne une méduse
 {% endhint %}
 
-![Scyphozoaires](../.gitbook/assets/scyphosoaire.png)
+![](../.gitbook/assets/schema-cycle-scyphosoaire.jpg)
 
-![Schyphozoaires](../.gitbook/assets/scyphosoaire-photo.png)
+![](../.gitbook/assets/photo-scyphosoaire.jpg)
 
 #### Anthozoaires
 
@@ -350,7 +350,7 @@ Chaque pétale sur le polype donne une méduse
 * Anémone
 {% endhint %}
 
-![Anthozoaires](../.gitbook/assets/anthozoaire.png)
+![](../.gitbook/assets/photo-anthozoaire.jpg)
 
 #### Caractéristique des cnidaires
 
@@ -370,11 +370,11 @@ Chaque pétale sur le polype donne une méduse
 * Mésoglée
 {% endhint %}
 
-![Paroi externe](../.gitbook/assets/cnidaires-paroi-externes.png)
+![](../.gitbook/assets/paroi-externe-cnidaire.jpg)
 
-![Cnidocyte](../.gitbook/assets/cnidocytes.png)
+![](../.gitbook/assets/representation-annotee-cnidocyte.jpg)
 
-![Paroi externe](../.gitbook/assets/paroi-externe-cnidaires.png)
+![](../.gitbook/assets/paroi-interne-cnidaire.jpg)
 
 #### Point de vue fonctionnel
 
@@ -426,7 +426,7 @@ La triploblastie est aussi appelé bilatérien
 
 Il y a deux mode de mise en place de cœlome, **schizocœlie** et **entérocœlie**
 
-![Schizoc&#x153;lie et Ent&#xE9;roc&#x153;lie](../.gitbook/assets/schizocoelie-et-eterocoelie.png)
+![Schizoc&#x153;lie et Ent&#xE9;roc&#x153;lie](../.gitbook/assets/schizocoelie-eterocoelie.jpg)
 
 {% hint style="danger" %}
 Le cœlome n'est pas un caractère phylogénétique
@@ -434,7 +434,7 @@ Le cœlome n'est pas un caractère phylogénétique
 
 ## Protostomiens
 
-![Arbre phylog&#xE9;n&#xE9;tique protostomiens](../.gitbook/assets/arbre-phylogenetique-protostomiens.png)
+![Arbre phylog&#xE9;n&#xE9;tique protostomiens](../.gitbook/assets/arbre-phylogenetique-protostomien.jpg)
 
 ### Devenir du blastopore
 
@@ -444,11 +444,11 @@ Lors de l'évolution de l'embryon, le blastopore peut devenir, soit la bouche et
 
 #### Protostomiens
 
-![Blastopore devient la bouche](../.gitbook/assets/bouche-et-anus.png)
+![Blastopore devient la bouche](../.gitbook/assets/blastopore-bouche.png)
 
 #### Deutérostomiens
 
-![Blastopore devient l&apos;anus](../.gitbook/assets/anuse-et-bouche.png)
+![Blastopore devient l&apos;anus](../.gitbook/assets/blastopore-anus.png)
 
 ### Spiraliens
 
