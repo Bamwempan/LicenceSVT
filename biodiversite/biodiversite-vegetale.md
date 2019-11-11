@@ -231,6 +231,7 @@ La plante assure la croissance via le fonctionnement des méristèmes primaires.
 {% hint style="warning" %}
 La production de nouvelles cellules et tissus se faire par les méristèmes en plusieurs étapes 1. Production de cellules au niveau des méristèmes par division \(mitoses\) 2. Croissance cellulaire, la cellule grandit, par synthèse et étirement de paroi \(élastique\) il y a formation du tissu embryonnaire \(Parenchyme fondamentale\) 3. Différenciation cellulaire ou différenciation des tissus
 {% endhint %}
+
 ![M&#xE9;rist&#xE8;me primaire et secondaire d&apos;une tige](../.gitbook/assets/meriste-me-primaire-et-secondiare.png)
 
 #### Méristèmes primaires
@@ -333,7 +334,7 @@ Il y a deux tissus de soutien primaires, le **collenchyme** et **sclérenchyme**
 
 #### Endoderme et pericycle
 
-Tissus présents dans la racine, ils se situent à la limite du cylindre centrale et de l'écorce 
+Tissus présents dans la racine, ils se situent à la limite du cylindre centrale et de l'écorce
 
 ![Endoderme et pericycle](../.gitbook/assets/endoderme-et-pericyle.jpg)
 
@@ -396,8 +397,9 @@ Présent dans la feuille, la tige et la racine, il assure 3 fonction
   * Cellules vivantes, parois primaire cellulosiques ou lignifiées
   * Stockage eau, amidon
 {% endhint %}
-![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg)
-![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
+
+![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg) ![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
+
 {% hint style="warning" %}
 Durant la fabrication du xylème il y a création de proto et métaxylème
 
@@ -487,7 +489,7 @@ Les tissus secondaires de conduction sont produits par le **cambium**, situés a
 L'ensemble xylème secondaire et phloème secondaire se nomme **pachyte**, et peut exister de manière continu ou discontinu
 {% endhint %}
 
-\[\] Ajouter schéma page 75 et 86 du libre de botanique
+![Pachyte continu et discontinu](../.gitbook/assets/pachyte-continu-et-discontinu.jpeg)
 
 #### Tissus de revêtement
 
@@ -535,6 +537,8 @@ La tige provient du groupe gemmule et tigelles, elle est rattaché à la racine 
 {% endhint %}
 
 ![Sch&#xE9;ma annot&#xE9; tige](../.gitbook/assets/schema-annoter-tige.jpg)
+
+![Origine m&#xE9;rist&#xE9;matique des tissus de la tige](../.gitbook/assets/origine-meristematique-des-tissus-de-la-tige.png)
 
 #### Diversité des tiges
 
@@ -659,7 +663,7 @@ Le système racinaire d'une végétale angiosperme est bien différents selon le
 
   Différent rôle
 
-* Ancrage 
+* Ancrage
 * Stockage de réserve
 * Acquisition de ressource du sol
 * Multiplication végétative \(Assure la reproduction de la plante de manière asexuée\)
@@ -676,6 +680,8 @@ Il existe aussi des **racines "adventives"** racines formées sur d’autres org
 {% endhint %}
 
 ![Racine adventives ma&#xEF;s](../.gitbook/assets/racine-de-mais.jpg)
+
+![Origine m&#xE9;rist&#xE9;matique des tissus de la racine](../.gitbook/assets/origine-meristematique-des-tissus-de-la-racine.png)
 
 #### Morphologie des racines
 
@@ -1077,3 +1083,4 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 * [L'origine des espèces Charles Darwin](https://www.decitre.fr/livres/l-origine-des-especes-9782081221079.html)
 {% endtab %}
 {% endtabs %}
+
