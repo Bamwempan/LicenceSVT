@@ -10,16 +10,16 @@ La biodiversité végétale permet notamment de comprendre le fonctionnement et 
 
 Biochimie moléculaire, Physiologie Végétale, Pathologie Végétale, **Histologie végétale, Morphologie végétale, Taxinomie et Systématique \(Classement des végétaux\)**
 
-## Qu’est ce qu’un végétale
+## Qu’est ce qu’un végétal
 
-**Un végétal c'est toutes les algues et les plantes \(Embryophytes\)**
+**Un végétal c'est toutes les algues et les plantes \(Embryophytes\), il y a environs 298 000 espèces.**
 
 {% hint style="warning" %}
 * Cellules eucaryotes
 * Autotrophe pour le carbone
 * Photosynthèse **oxygénique**
 * Production de métabolites secondaires
-* Cellules avec paroi, vacuole et plastes
+* Cellules avec **paroi, vacuole et plastes**
 {% endhint %}
 
 ### Caractéristique principales des végétaux
@@ -71,25 +71,18 @@ La vacuole est délimitée par le **tonoplaste** et éffectue différent rôle
 **Parois**
 
 {% hint style="warning" %}
-Constitution d'une paroi primaire
+La paroi primaire d'une cellule est composée à **70% d'eau**, de **microfibrilles de cellulose**, **d'hémicellulose**, **pectines**, **protéines** et **enzymes**.
 
-* eau \(60-70%\)
-* microfibrilles de **cellulose**
-* **hémicellulose**
-* pectines
-* protéines
-* enzymes
+Certaines cellules on la possibilité d'avoir deux parois. La paroi secondaire se situes sous la paroi primaire, et ont des **fibres de celluloses orientées.**
+
+**Lamelle moyenne** est le **ciment** entre les cellules végétales. La circulation des substances entre les cellules par **voie symplastique** ou **voie apoplastique**
 {% endhint %}
 
-Certaines cellules on la possibilité d'avoir deux parois. La paroi secondaire se situes sous la paroi primaire
-
-{% hint style="info" %}
-**Lamelle moyenne** est le **ciment** entre les cellules végétales
-{% endhint %}
-
-Les parois peuvent avoir des spécialisation
+![](../.gitbook/assets/paroi.jpg)
 
 {% hint style="warning" %}
+Les parois peuvent avoir des spécialisation
+
 * Lignification, Incrustation lignine \(hydrophobe, insoluble\)
   * Mort cellulaire
   * Tissus type Xylème et Sclérenchyme
@@ -97,11 +90,9 @@ Les parois peuvent avoir des spécialisation
   * Suber \(liège, écorce\)
 * Cutinisation, Dépôts de cires
   * Epiderme
-{% endhint %}
 
-Les parois assurent différents rôle
+Et assurent différents rôle
 
-{% hint style="warning" %}
 * Définition et maintien de la forme \(port érigé, forme cellules\)
 * Croissance contrôlée \(élasticité des parois primaires\)
 * Maintien intégrité cellulaire \(importance de la pression de turgescence sur la paroi\)
@@ -128,33 +119,21 @@ Les parois assurent différents rôle
 
 #### Besoin des organisme végétaux
 
-Tous végétaux à besoin de ressources pour se développer
-
 {% hint style="warning" %}
-* Lumière
-* Eau
-* $$C0_2$$
-* $$0_2$$ 
-* Element minéraux \(N, P, K, Fe, Mg, Mn, Ca\)
+Tous végétaux à besoin de ressources pour se développer. Lumière, Eau, Dioxyde de carbone, Dioxygène et des éléments minéraux \(N, P, K, Fe, Mg, Mn, Ca\)
 {% endhint %}
 
 #### Dans les milieux aquatiques
 
+{% hint style="warning" %}
 Qualification d'une plante aquatique
 
-{% hint style="warning" %}
 * L'eau n'est pas limitante
 * Gaz et éléments minéraux accessibles \(Dissous dans l'eau\)
 * Il n'y à pas de gravité \(Economie de ressource\)
 * La lumière se réverbère sur la surface de l'eau
 * Inertie thermique
 * L'eau est un vecteur de dissimulation
-{% endhint %}
-
-{% hint style="info" %}
-#### Définition
-
-**Inertie Thermique :** L'inertie thermique d'un matériau représente sa résistance au changement de température lorsque intervient une perturbation de son équilibre thermique.
 {% endhint %}
 
 #### Dans les milieux terrestres
@@ -202,7 +181,13 @@ Pour se faire les plantes se sont adapté et ont crée des système qui réponde
 
 ### Lignée Verte
 
-![Arbre phylog&#xE9;n&#xE9;tique &quot;v&#xE9;g&#xE9;taux&quot;](../.gitbook/assets/arbre-phylogenetique-lignee-verte-min.jpg) ![Arbre phylogenetique lign&#xE9;e verte](../.gitbook/assets/groupe-des-plantes.png)
+{% hint style="warning" %}
+La lignée verte est une partie des algues \(Produise de la chlorophylle a ou a/b\) et l’ensemble des plantes \(Embryophytes\)
+{% endhint %}
+
+![Arbre phylog&#xE9;n&#xE9;tique &quot;v&#xE9;g&#xE9;taux&quot;](../.gitbook/assets/arbre-phylogenetique-lignee-verte-min.jpg)
+
+![Arbre phylogenetique lign&#xE9;e verte](../.gitbook/assets/groupe-des-plantes.png)
 
 ### Embryophyte
 
@@ -214,6 +199,8 @@ Pour se faire les plantes se sont adapté et ont crée des système qui réponde
 
 ### Focus Angiosperme
 
+#### 
+
 #### Monocotylédone
 
 #### Dicotylédone
@@ -222,14 +209,16 @@ Pour se faire les plantes se sont adapté et ont crée des système qui réponde
 
 ### Méristème
 
-La plante assure la croissance via le fonctionnement des méristèmes primaires.
-
 {% hint style="info" %}
 **Méristème :** ensemble de cellules ayant gardé des propriétés embryonnaires et capables de se diviser, les méristèmes assurent l'**histogenèse**
 {% endhint %}
 
 {% hint style="warning" %}
-La production de nouvelles cellules et tissus se faire par les méristèmes en plusieurs étapes 1. Production de cellules au niveau des méristèmes par division \(mitoses\) 2. Croissance cellulaire, la cellule grandit, par synthèse et étirement de paroi \(élastique\) il y a formation du tissu embryonnaire \(Parenchyme fondamentale\) 3. Différenciation cellulaire ou différenciation des tissus
+La plante assure la croissance via le fonctionnement des méristèmes primaires.La production de nouvelles cellules et tissus se faire par les méristèmes en plusieurs étapes 
+
+1. Production de cellules au niveau des méristèmes par division \(mitoses\)
+2. Croissance cellulaire, la cellule grandit, par synthèse et étirement de paroi \(élastique\) il y a formation du tissu embryonnaire \(Parenchyme fondamentale\)
+3. Différenciation cellulaire ou différenciation des tissus
 {% endhint %}
 
 ![M&#xE9;rist&#xE8;me primaire et secondaire d&apos;une tige](../.gitbook/assets/meriste-me-primaire-et-secondiare.png)
@@ -1046,7 +1035,9 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 
 **Faisceaux libéraux ligneux :** est une partie du système vasculaire d'une plante vasculaire
 
-**Procambium :** Tissu issu des **méristèmes primaires** racinaire et caulinaire à l'origine de la différenciation du xylème et du phloème primaire. _\*\*_
+**Procambium :** Tissu issu des **méristèmes primaires** racinaire et caulinaire à l'origine de la différenciation du xylème et du phloème primaire.
+
+**Inertie Thermique :** L'inertie thermique d'un matériau représente sa résistance au changement de température lorsque intervient une perturbation de son équilibre thermique.
 
 **Pachyte :**
 
@@ -1065,6 +1056,10 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Mésophylle :** partie interne d'une feuille. Constitué de parenchyme chlorophyllien \(chlorenchyme\), c'est le siège principal de la photosynthèse. Il est recouvert par l'épiderme et parcouru par un réseau de nervures et de faisceaux conducteurs plus fins
 
 **Cladode :** Rameaux spécialisés ayant l'apparence d'une feuille et assurant les mêmes fonctions \(photosynthèse et respiration, réserves\). Les cladodes sont courts, aplatis et formés d'un seul entrenœud. Les phylloclades sont constitués de plusieurs entrenœuds aplatis
+
+**Symplasme :** Ensemble des cytoplasmes communiquant par les plasmodesmes
+
+**Apoplasme :** Ensemble des parois et des espaces vides entre cellules \(cellules mortes et parois\)
 {% endhint %}
 
 ## Ressources
