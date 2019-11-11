@@ -148,6 +148,15 @@ La production de nouvelles cellules et tissus se faire par les méristèmes en p
 Les méristèmes primaires se situent au apex de la plante, **méristème caulinaire et racinaire**, il assurent l'**organogenèse** avec la création des tissus primaires.
 {% endhint %}
 #### Méristèmes secondaires
+{% hint style="warning" %}
+Les méristèmes secondaires sont une assise génératrice issue du méristème primaire, responsable de la croissance en épaisseur par la mise en place de tissus secondaires (méristème histogène). Il existe 2 types de méristèmes secondaires
+* Cambium = assise génératrice libéro-ligneuse (=> tissus secondaires de conduction)
+* Phellogène = assise génératrice subéro-phellodermique (=> tissus secondaires de revêtement)
+**Les méristèmes secondaires ne sont pas présents chez toutes les plantes**
+* Très importance chez les plantes dites ligneuses (buisson bas, buisson, arbuste, arbre)
+* Plus restreinte chez les plantes herbacées (herbes autres que Monocotylédones)
+{% endhint %}
+![Familles de plantes qui possèdent méristèmes secondaires](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.jpg)
 ### Tissus Primaire
 Les tissus primaires sont issus du fonctionnement des méristèmes primaires et les cellules sont désorganisées.
 #### Parenchyme fondamentale
@@ -285,10 +294,52 @@ Il est constitué
 * Allongement possible des cellules
 * toujours à différenciation centripète
 {% endhint %}
+![Disposition du xylème primaire et phloème primaire dans les différent organes de la plante](../.gitbook/assets/dispositions-xyleme-primaire-et-phloeme-primaire.jpg)
 ### Tissus Secondaire
-Conduction
-Revêtement
-Soutient
+#### Tissus secondaires de conduction
+{% hint style="warning" %}
+Les tissus secondaires de conduction sont produits par le **cambium**, situés au niveaux des racines et des tiges. Le fonctionnement du cambium est rythmique.
+* Xylème secondaire
+* Phloème secondaire
+C'est grâce à la division périclines du cambium qu'il y a production de nouvelles cellules
+* Vers l’extérieur formation du phloème secondaire (= liber)
+* Vers l’intérieur formation du xylème secondaire (= bois)
+{% endhint %}
+![Fonctionnement de la mise en place des Xylème et Phloème secondaires](../.gitbook/assets/fonctionnementdeladivisionducambium.jpg)
+#### Xylème secondaire
+{% hint style="warning" %}
+* Produit de façon interne
+* Contient uniquement des vaisseaux parfait \(métaxylème\)
+* Fibre
+* Parenchyme
+{% endhint %}
+![Xyl&#xE8;me secondaire](../.gitbook/assets/xyleme-secondaire.jpg)
+#### Phloème secondaire
+{% hint style="warning" %}
+* Produit de façon externe
+* Même types cellulaire que le phloème primaire
+  * Élément tube criblé
+  * Cellule compagne
+  * Parenchymes phloèmien
+  * Fibres phloèmiennes
+{% endhint %}
+![Phlo&#xE8;me secondaire](../.gitbook/assets/phloeme-secondaire.jpg)
+#### Pachyte
+{% hint style="warning" %}
+L'ensemble xylème secondaire et phloème secondaire se nomme **pachyte**, et peut exister de manière continu ou discontinu
+{% endhint %}
+[] Ajouter schéma page 75 et 86 du libre de botanique
+#### Tissus de revêtement
+{% hint style="warning" %}
+La croissance importante en épaisseur liée au fonctionnement du cambium conduit au déchirement des tissus primaires de revêtement, la plante dois donc en créer de nouveau avec des tissus de revêtement secondaire pour protéger les organes (Tiges, Racine), au niveau de certaines plantes (ligneuses) via le phellogène grâce à la division périclines du phellogène permettant la production de nouvelles cellules
+* Formation de suber (ou liège) vers l’extérieur
+  * Le suber (cellules mortes à paroi subérifiée + cire) est imperméable à l’eau et aux gaz
+  * Cependant possibilité de zone ou le suber est désorganiser pour permettre les échanges gazeux, se sont les **lenticelles**
+* Formation de phelloderme vers l’intérieur
+{% endhint %}
+![Phellog&#xE8;ne](../.gitbook/assets/phellogene.jpg)
+### Récapitulatif
+![](../.gitbook/assets/meristemeprimaireetsecondaire.png)
 ## Plan organisation Morphologique
 ### Graine
 Le point de départ des angiosperme est la graine, formée de différentes parties
@@ -588,8 +639,6 @@ Les tissus primaires sont forcément issus d'un méristème primaire, il y a un 
 
 ### Tissus de revêtement primaire
 
-![](../.gitbook/assets/meristemeprimaireetsecondaire.png)
-
 Ils sont en surface des organes et joue un rôle de protection
 
 #### Epiderme
@@ -813,7 +862,7 @@ Chez les **tiges** et les **feuilles** la disposition du **Xylème** primaire et
 Dans les **racines** la disposition est **alterné**
 {% endhint %}
 
-![](../.gitbook/assets/dispositions-xyleme-primaire-et-phloeme-primaire.jpg)
+
 
 {% hint style="success" %}
 La **disposition** des **tissus** **conducteurs** **primaires** résulte du **fonctionnement** du **méristème** **primaires**, le **procambium**
@@ -859,38 +908,6 @@ La division périclines du cambium permettent la production de nouvelles cellule
 
 ![Production de xyl&#xE8;me et phlo&#xE8;me secondaires](../.gitbook/assets/fonctionnementcreationtissussecondaires.jpg)
 
-#### Explication de la division du cambium
-
-![](../.gitbook/assets/fonctionnementdeladivisionducambium.jpg)
-
-#### Xylème secondaire
-
-{% hint style="warning" %}
-* Produit de façon interne
-* Contient uniquement des vaisseaux parfait \(métaxylème\)
-* Fibre
-* Parenchyme
-{% endhint %}
-
-![Xyl&#xE8;me secondaire](../.gitbook/assets/xyleme-secondaire.jpg)
-
-#### Phloème secondaire
-
-{% hint style="warning" %}
-* Produit de façon externe
-* Même types cellulaire que le phloème primaire
-  * Élément tube criblé
-  * Cellule compagne
-  * Parenchymes phloèmien
-  * Fibres phloèmiennes
-{% endhint %}
-
-![Phlo&#xE8;me secondaire](../.gitbook/assets/phloeme-secondaire.jpg)
-
-#### Représentation schéma des tissus secondaire avec cambium
-
-![](../.gitbook/assets/schema-du-xyleme-et-phloeme-secondaire-avec-cambium.jpg)
-
 #### Notion de pachytes \(Pakyte\)
 
 {% hint style="info" %}
@@ -931,8 +948,6 @@ il y a division périclines du phellogène permettant la production de nouvelles
 {% endhint %}
 
 ![Division p&#xE9;ricline du phellog&#xE8;ne](../.gitbook/assets/fonctionnementphellogene.png)
-
-![Phellog&#xE8;ne](../.gitbook/assets/phellogene.jpg)
 
 #### Suber
 
