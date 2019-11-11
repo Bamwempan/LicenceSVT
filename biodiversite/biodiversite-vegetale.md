@@ -231,6 +231,7 @@ La plante assure la croissance via le fonctionnement des méristèmes primaires.
 {% hint style="warning" %}
 La production de nouvelles cellules et tissus se faire par les méristèmes en plusieurs étapes 1. Production de cellules au niveau des méristèmes par division \(mitoses\) 2. Croissance cellulaire, la cellule grandit, par synthèse et étirement de paroi \(élastique\) il y a formation du tissu embryonnaire \(Parenchyme fondamentale\) 3. Différenciation cellulaire ou différenciation des tissus
 {% endhint %}
+![M&#xE9;rist&#xE8;me primaire et secondaire d&apos;une tige](../.gitbook/assets/meriste-me-primaire-et-secondiare.png)
 
 #### Méristèmes primaires
 
@@ -395,13 +396,8 @@ Présent dans la feuille, la tige et la racine, il assure 3 fonction
   * Cellules vivantes, parois primaire cellulosiques ou lignifiées
   * Stockage eau, amidon
 {% endhint %}
-
- 
-
-![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
-
 ![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg)
-
+![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
 {% hint style="warning" %}
 Durant la fabrication du xylème il y a création de proto et métaxylème
 
@@ -692,6 +688,8 @@ Les racines se diversifies en trois grands type :
 {% endhint %}
 
 ![Morphologies racinaires](../.gitbook/assets/morphologies-racinaires.jpg)
+
+![Syst&#xE8;me racinaire](../.gitbook/assets/photo-syste-me-racinaire.jpg)
 
 #### Croissance de la racine
 
@@ -1079,20 +1077,3 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 * [L'origine des espèces Charles Darwin](https://www.decitre.fr/livres/l-origine-des-especes-9782081221079.html)
 {% endtab %}
 {% endtabs %}
-
-## Grand groupe des végétaux
-
-## La lignée verte, les grands groupes des végétaux
-
-## Focus sur les angiosperme
-
-### Système racinaire
-
-![Syst&#xE8;me racinaire](../.gitbook/assets/photo-syste-me-racinaire.jpg)
-
-### Jeune pousse
-
-### Bourgeon
-
-![M&#xE9;rist&#xE8;me primaire et secondaire d&apos;une tige](../.gitbook/assets/meriste-me-primaire-et-secondiare.png)
-
