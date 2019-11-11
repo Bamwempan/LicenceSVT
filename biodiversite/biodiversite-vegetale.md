@@ -370,6 +370,8 @@ Les tissus de conduction primaires assurent la conduction de sèves chez les tra
 * Phloème transporte sève élaborée
 {% endhint %}
 
+![Faisceaux lib&#xE9;ro ligneux](../.gitbook/assets/photo-coupe-transversale-tige-prise-au-microscope.jpg)
+
 #### Xylème primaire
 
 {% hint style="warning" %}
@@ -387,7 +389,7 @@ Présent dans la feuille, la tige et la racine, il assure 3 fonction
   * Stockage eau, amidon
 {% endhint %}
 
-![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg) ![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
+![Xyl&#xE8;me primaire chez les angiospermes](../.gitbook/assets/xylemeprimaieangiosperme.jpg)
 
 {% hint style="warning" %}
 Durant la fabrication du xylème il y a création de proto et métaxylème
@@ -403,6 +405,8 @@ Durant la fabrication du xylème il y a création de proto et métaxylème
 
     distinction au niveau histologique entre tige et racine, différenciation centrifuge pour la tige et centripète pour les racines
 {% endhint %}
+
+![Fabrication vaisseaux xyl&#xE8;me](../.gitbook/assets/fabricationsvaisseaux.jpg)
 
 #### Phloème primaire
 
