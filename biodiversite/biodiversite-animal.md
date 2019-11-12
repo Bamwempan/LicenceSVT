@@ -452,7 +452,7 @@ Lors de l'évolution de l'embryon, le blastopore peut devenir, soit la bouche et
 
 ### Spiraliens
 
-![Arbre phylog&#xE9;n&#xE9;tique des protostomiens spiraliens](../.gitbook/assets/arbre-phylogenetique-des-protostomiens.png)
+![](../.gitbook/assets/arbre-phylogenetique-protostomiens.png)
 
 {% hint style="warning" %}
 Les protostomiens spiraliens se différencies grâce à différent caractère
@@ -485,15 +485,15 @@ L'animal est remplie de **mésenchyme** d'origine mésodermique et de liquide, c
 La particularité des acœlomate est leur forme plate, cette forme leur permet de respirer par diffusion
 {% endhint %}
 
-![Ac&#x153;lomate](../.gitbook/assets/etat-acoelomate.png)
+![Etat ac&#x153;lomate](../.gitbook/assets/etat-acoelomate.png)
 
-![Coupe longitidunal planaire](../.gitbook/assets/coupe-transversale-planaire.png)
+![Coupe longitudinal planaire](../.gitbook/assets/schema-annote-coupe-longitudinal-planaire.png)
 
-![Coupe transversal planaire](../.gitbook/assets/coupe-traversale-planaire.png)
+![Coupe transversal planaire](../.gitbook/assets/shema-annoter-coupe-transversal-planaire.png)
 
 #### Système excréteur
 
-![Syst&#xE8;me excr&#xE9;teur](../.gitbook/assets/systeme-excreteur.png)
+![](../.gitbook/assets/systeme-excreteur-planaire.jpg)
 
 {% hint style="info" %}
 #### Mouvement
@@ -506,9 +506,9 @@ La particularité des acœlomate est leur forme plate, cette forme leur permet d
 La reproduction des planaires est complexe. Hermaphrodisme à fécondation croisée \(insémination hypodermique chez certaines espèces\)  
 Gamètes mâles produits avant les gamètes femelles : protandrie  
 Stade larvaire: Planaire marine = larve de Muller  
- ![](../.gitbook/assets/larve-de-muller.png)   
+ ![](../.gitbook/assets/larve-muller.jpg)   
 Régénération par fission transversale ou par architomie  
- ![](../.gitbook/assets/fission-planaires.png) 
+ ![](../.gitbook/assets/fission-planaires.jpg) 
 
 #### Nutrition
 
@@ -776,8 +776,6 @@ Il existes différents système chez un métazoaire
 {% hint style="warning" %}
 Les acœlomates sont les animaux qui n'ont pas de cavité interne
 {% endhint %}
-
-![Ac&#x153;lomate](../.gitbook/assets/etat-acoelomate%20%281%29.png)
 
 ![](../.gitbook/assets/coupe-transversale-dun-planaire.png)
 
