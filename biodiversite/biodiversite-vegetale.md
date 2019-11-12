@@ -809,7 +809,7 @@ Echanges de ressources entre les partenaires :
 
 **Marge :** La marge est le contour du limbe.
 
-**Nervure :** Ligne saillante formée par les faisceaux conducteurs de la feuille.
+**Nervure :** Ligne saillante formée par les faisceaux conducteurs de la feuille, transporte sève brut et élaborée
 
 **Pétiole :** Structure de petite dimension, à symétrie bilatérale, **reliant le limbe** de la feuille à la **tige** qui convient les **vaisseaux conducteurs de sève.**
 
@@ -819,7 +819,51 @@ Echanges de ressources entre les partenaires :
 **Tige :** Organe généralement aérien, plus ou moins dressé et ramifié, sur lequel se développent des bourgeons qui se différencient soit en feuilles, soit en fleurs, soit en axes secondaires \(rameaux\) qui, à leur tour, portent des feuilles ou des fleurs.
 
 **Foliole :** Division d'une feuille composée en unités élémentaires \(Contrairement au feuille, les folioles ne possèdent pas de bourgeons\)
+
+**Phytomère :** 
 {% endhint %}
+
+#### Caractéristique d'une tige
+
+{% hint style="warning" %}
+* La feuille est portée par la tige, chlorophyllienne, généralement aérienne, aplatie et à une croissance limitée dans le temps et l'espace
+* Symétrie bilatérale
+* Xylème primaire superposé au phloème primaire
+* Parenchyme chlorophyllien \(homogène ou hétérogène\) --&gt; limbe
+* Présence de cuticule, de tissus de soutien, est composée du limbe plus du pétiole
+{% endhint %}
+
+#### Origine de la feuille
+
+{% hint style="warning" %}
+Les feuilles proviennent des méristèmes caulinaires, qui mettent en place les phytomères, l’ébauche foliaire se développera en une feuille adulte constituée d’un limbe et d’un pétiole.
+
+1. L’ébauche s’accroît en hauteur par son méristème terminal
+2. Le limbe est construit par son méristème marginal
+
+**Chez les monocotylédones et les conifères, l’ébauche foliaire se développe grâce à un méristème basal.**
+{% endhint %}
+
+![](../.gitbook/assets/origine-feuille.jpeg)
+
+#### Organisation histologique
+
+{% hint style="warning" %}
+La feuille \(limbe + pétiole + base\) a une structure histologique comparable à celle de la tige.
+
+* Tissus primaire
+  * Revêtement : Epiderme + stomates \(+ poils épidermiques\)
+  * Fondamentaux 
+    * Parenchymes photosynthétique \(Chlorenchyme\)
+    * Collenchyme / Sclérenchyme
+  * De conduction : Xylème et Phloème primaire
+
+Chez certaines plantes il y a possibilité de tissus secondaires de conduction, xylème secondaire, cambium et phloème secondaire.
+{% endhint %}
+
+![Le p&#xE9;tiole fait partie de la feuille !](../.gitbook/assets/histologie-petiole-feuille.jpg)
+
+#### Organisation morphologique
 
 {% hint style="warning" %}
 Une feuille simple est bien différente qu'une feuille composée.  
