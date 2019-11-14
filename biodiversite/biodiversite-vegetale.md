@@ -519,8 +519,12 @@ Le point de départ des angiosperme est la graine, formée de différentes parti
 
 ### Tige
 
-{% hint style="info" %}
-Organe végétatif à symétrie radiale qui porte généralement des feuilles et des bourgeons. Généralement aérienne et à croissance verticale. Phototropisme positif et géotropisme négatif, la tige permet le soutient de la plante et la circulation de la sève entre les feuilles et les racines
+#### Caractéristique de la tige
+
+{% hint style="warning" %}
+Organe végétatif à **symétrie radiale** qui **porte généralement des feuilles et des bourgeons**. Généralement **aérienne** et à croissance **verticale**. **Phototropisme positif** et **géotropisme négatif**, **chlorophyllienne,** la **tige permet le soutient de la plante** et la **circulation de la sève entre les feuilles et les racines.** Présente **cuticule et épiderme.**
+
+Sens de **différenciation** des **vaisseaux** du **xylème** primaire **centrifuge**, **Phloème et Xylème primaire superposés,** écorce plus petite que le cylindre centrale, présence de tissus de **soutien** \(**Collenchyme** et **Sclérenchyme**\)
 {% endhint %}
 
 #### Origine de la tige
@@ -550,7 +554,7 @@ La tige provient du groupe gemmule et tigelles, elle est rattaché à la racine 
 #### Croissance de la tige
 
 {% hint style="warning" %}
-La croissance de la tige s'effectue par la croissance du bourgeon apical \(Terminal\), chez les plantes ligneuse le bourgeon est protégé par des écailles, chez une plante herbacé il n'est pas protégé.
+La croissance de la tige s'effectue par la croissance du bourgeon apical \(Terminal\), chez **les plantes ligneuse le bourgeon est protégé par des écailles**, chez une **plante herbacé il n'est pas protégé**.
 {% endhint %}
 
 ![Bourgeon ligneux et herbac&#xE9;](../.gitbook/assets/bourgeon-ligneux-et-herbace.jpg)
@@ -561,21 +565,15 @@ La croissance de la tige s'effectue par la croissance du bourgeon apical \(Termi
 
 #### Fonctionnement de l'apex caulinaire
 
-#### Plante ligneuse
-
 {% hint style="warning" %}
-Pour les plantes ligneuse la croissance se passe en deux étapes
+Pour les plantes **ligneuse** la croissance se passe en deux étapes
 
 * Mise en place des phytomères -&gt; Organogenèse \(!! origine superficielle = exogène des feuilles et des bourgeons\)
 * Accroissement des cellules du phytomère : Elongation
 
 Fonctionnement rythmé, moment de repos du méristème.
-{% endhint %}
 
-#### Plante Herbacé
-
-{% hint style="warning" %}
-**Organogenèse** et **elongation** **simultanées**
+Pour les plantes herbacé il y o**rganogenèse** et **elongation** **simultanées**
 {% endhint %}
 
 #### Structure de la tige
@@ -583,16 +581,17 @@ Fonctionnement rythmé, moment de repos du méristème.
 ![Sch&#xE9;ma simplifier tige](../.gitbook/assets/schema-tige-histologie-simpligier.jpg)
 
 {% hint style="warning" %}
-Tissus primaires
+#### Tissus primaires
 
-* De revêtement
-  * Epiderme
-* Fondamentaux
-  * Parenchyme cortical
-  * Collenchyme et Sclérenchyme
-* De conduction
-  * Xylème primaire \(Avec Proto et Métaxylème\)
-  * Phloème primaire
+* De revêtement : Epiderme
+* Fondamentaux : Parenchyme cortical, Collenchyme et Sclérenchyme
+* De conduction : Xylème primaire \(Avec Proto et Métaxylème\) et Phloème primaire
+
+#### Tissus secondaires
+
+Chez certains végétaux il y a production de tissus secondaire et de croissance en épaisseur de la tige \([Voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#racine)\). Uniquement chez certaines plantes
+
+Production de tissus **secondaire** de **conduction** via le **cambium**, le **phloème** **secondaire** et **xylème** **secondaire**. Et production de tissus **secondaire** de **revêtement** via le **phellogène**, le **suber** et **phelloderme** \([voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#phellogene-mise-en-place-de-tissus-secondaire-de-revetement)\)
 {% endhint %}
 
 {% hint style="success" %}
@@ -603,16 +602,6 @@ Et pour distinguer une racine ?
 * Vaisseaux du xylème primaire avec un sens de différenciation centrifuge
 * Cylindre centrale plus développer que l'écorce
 * Présence de tissus de soutien \(Collenchyme et Sclérenchyme\)
-{% endhint %}
-
-#### Tissus secondaire
-
-Chez certains végétaux il y a production de tissus secondaire et de croissance en épaisseur de la tige \([Voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#racine)\). Uniquement chez certaines plantes
-
-![](../.gitbook/assets/listesdesgroupesquiontlapresencedemeristemesecondaires.jpg)
-
-{% hint style="warning" %}
-Production de tissus **secondaire** de **conduction** via le **cambium**, le **phloème** **secondaire** et **xylème** **secondaire**. Et production de tissus **secondaire** de **revêtement** via le **phellogène**, le **suber** et **phelloderme** \([voir ici](https://kevinrousseau80.gitbook.io/licence-svt/biodiversite/biodiversite-vegetale#phellogene-mise-en-place-de-tissus-secondaire-de-revetement)\)
 {% endhint %}
 
 #### Structure histologique
@@ -648,18 +637,18 @@ Croissance continue = pas d’arrêts de croissance
 
 Le système racinaire d'une végétale angiosperme est bien différents selon les espèces et assure des rôle plus ou moins différents.
 
-{% hint style="info" %}
+#### Caractéristique des racines
+
+{% hint style="warning" %}
 * Volume racinaire très variable selon les espèces
 * Racine généralement souterraine \(sauf exception\)
 * Phototropisme négatif ⬇
 * Géotropisme positif ⬇
-
-  Différent rôle
-
-* Ancrage
-* Stockage de réserve
-* Acquisition de ressource du sol
-* Multiplication végétative \(Assure la reproduction de la plante de manière asexuée\)
+* Différent rôle
+  * Ancrage
+  * Stockage de réserve
+  * Acquisition de ressource du sol
+  * Multiplication végétative \(Assure la reproduction de la plante de manière asexuée\)
 {% endhint %}
 
 ![R&#xF4;le racine](../.gitbook/assets/racine-role.jpg)
@@ -679,11 +668,7 @@ Il existe aussi des **racines "adventives"** racines formées sur d’autres org
 #### Morphologie des racines
 
 {% hint style="warning" %}
-Les racines se diversifies en trois grands type :
-
-* Pivotant
-* Fasciculé
-* Mixte
+Les racines se diversifies en trois grands type : **Pivotant** / **Fasciculé** / **Mixte**
 {% endhint %}
 
 ![Morphologies racinaires](../.gitbook/assets/morphologies-racinaires.jpg)
@@ -820,6 +805,8 @@ Echanges de ressources entre les partenaires :
 
 **Foliole :** Division d'une feuille composée en unités élémentaires \(Contrairement au feuille, les folioles ne possèdent pas de bourgeons\)
 
+**Abscission :** 
+
 **Phytomère :** 
 {% endhint %}
 
@@ -831,6 +818,7 @@ Echanges de ressources entre les partenaires :
 * Xylème primaire superposé au phloème primaire
 * Parenchyme chlorophyllien \(homogène ou hétérogène\) --&gt; limbe
 * Présence de cuticule, de tissus de soutien, est composée du limbe plus du pétiole
+* La feuille peut aussi être caractérisée par son **abscission**
 {% endhint %}
 
 #### Origine de la feuille
@@ -867,20 +855,12 @@ Chez certaines plantes il y a possibilité de tissus secondaires de conduction, 
 
 {% hint style="warning" %}
 Une feuille simple est bien différente qu'une feuille composée.  
-Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de cette dernière.
-{% endhint %}
+Pour trouver une feuille il faut situer ou est le bourgeon, qui est la "Base" de cette dernière. Les feuilles peuvent être séparées en plusieurs groupe selon leur marges et / ou leur nervure : 
 
-{% hint style="warning" %}
-#### Nervation
+* Marge du limbe : **Entière** / **Dentée** / **Lobée**
+* Nervure : **Pénée** / **Palmée** / **Parallèle**
 
-* Marge du limbe
-  * Entière
-  * Dentée
-  * Lobée
-* Nervure
-  * Pénée
-  * Palmée
-  * Parallèle
+Les feuilles peuvent être **persistantes** ou **caduc \(Durée de d'un an max\)**
 {% endhint %}
 
 ![](../.gitbook/assets/schema-feuille-simple-et-compose.jpg)
@@ -923,7 +903,7 @@ Il existe 4 grandes phyllotaxie
 6. Positionnement du tissu
 {% endhint %}
 
-### Utilisation de différents colorants
+#### Utilisation de différents colorants
 
 Lors des travaux pratiques pour découvrir les fondements des cellules, nous allons utilisées différents colorants
 
@@ -931,25 +911,25 @@ Lors des travaux pratiques pour découvrir les fondements des cellules, nous all
 * Vert à turquoise : paroi secondairement imprégnée de lignine
 * Jaunâtre : composées lipidiques \(cutine, subérine\) de la cuticule, de la paroi subérifiée
 
-### Aide au schéma
+#### Aide au schéma
 
 ![Reconnaissance tissus 1](../.gitbook/assets/reconaissance-tissus-1.png)
 
 ![Reconnaissance tissus 2](../.gitbook/assets/reconaissance-tissus-2.png)
 
-### Faisceaux libéraux ligneux
+#### Faisceaux libéraux ligneux
 
 ![Faisceaux lib&#xE9;raux ligneux](../.gitbook/assets/faisceau-libero-ligneux.jpg)
 
-### Coupe transversale tige herbacé
+#### Coupe transversale tige herbacé
 
 ![Coupe transversal tige herbac&#xE9;](../.gitbook/assets/coupe-transversale-tige-herbace.jpg)
 
-### Correction CC
+#### Correction CC
 
 ![Sch&#xE9;ma Coupe transversale tige herbac&#xE9;](../.gitbook/assets/schema-coupe-tranvsersal-tige-herbace.jpeg)
 
-## Sortie Tête d'or
+### Sortie Tête d'or
 
 * Apparition des angiosperme il y a environs 100 millions d'années, eucalyptus 100 mètre de haut record..
 
@@ -971,7 +951,7 @@ Lors des travaux pratiques pour découvrir les fondements des cellules, nous all
 * Pandanys, Angiosperme monocotyledone, feuille Allonger, sans petiole et base élargie. Feuille angenante, nervure primaire et secondaire dans la lonbgueur et impression de parallélisme. Peut se ramifier, racine en échasses, adventive. Sol instable. Système de compensation d'équilibre.
 * Cocotier, stipe, feuille grande et gênante. Feuille de type pêne. Racine adventive
 * Bananier, nervure parallèle, tige qui porte les fruits, tige visible est un ensemble de feuille petiole. Duplication végétative. Croissance annuel.
-* Bambou, tissus lignée mais pas de type xyleme, sclerznchyme qui assure le soutient, tige creuse et cylindrique, deux type foliaire. Une sur la tige en protection pour le bourgeon et feuille issus du bourgeon tige plus feuille. Racine adventive plus Rhyzome
+* Bambou, tissus lignée mais pas de type xyleme, sclerznchyme qui assure le soutient, tige creuse et cylindrique, deux type foliaire. Une sur la tige en protection pour le bourgeon et feuille issus du bourgeon tige plus feuille. Racine adventive plus rhizome
 
 #### Dicotylédone
 
@@ -1003,7 +983,7 @@ Sycas, gymnosperme, tissus secondaire, cone pour les mâle et feuille peut déve
 
 * Fougère, plante aquatique, marsilea , stratégie, système racinaire au fond et feuille à la surface.
 * Deuxième stratégie plante flottante, lymbe couvertes de poils et rend la surface hydrophobe, contribue à la flottaison de la plante
-* Rhyzome avec racine adventive, petiole inséré de manière centrale, permet de mettre la plante en corner si monter des eaux, lymbe hydrophobe, lotus
+* Rhizome avec racine adventive, petiole inséré de manière centrale, permet de mettre la plante en corner si monter des eaux, lymbe hydrophobe, lotus
 * Plante helophyte, papyrus, parenchyme aeriphere dans la tige.
 * Lentille d'eau, plante sans feuille, cladode, système de reproduction végétatif, une racine...
 * Aune, hygrophyte
@@ -1108,6 +1088,8 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Symplasme :** Ensemble des cytoplasmes communiquant par les plasmodesmes
 
 **Apoplasme :** Ensemble des parois et des espaces vides entre cellules \(cellules mortes et parois\)
+
+**Rhizome :** 
 {% endhint %}
 
 ## Ressources
