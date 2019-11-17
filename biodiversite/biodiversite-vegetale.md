@@ -1090,6 +1090,8 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Apoplasme :** Ensemble des parois et des espaces vides entre cellules \(cellules mortes et parois\)
 
 **Rhizome :** 
+
+**Rachis :** Continuité du pétiole sur une feuille composée à nervation pénée
 {% endhint %}
 
 ## Ressources
