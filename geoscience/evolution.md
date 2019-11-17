@@ -78,7 +78,7 @@ Il émet une **hypothèse** que **l’ancêtre commun** de ces différent pinson
 La multitudes de différences serai du au **manque de concurrence** sur les îles.  
 {% endhint %}
 
-![](../.gitbook/assets/pinsons+des+galapagos+-pinsons+de+darwin.jpg)
+![](../.gitbook/assets/pinsons-galapagos.jpg)
 
 {% hint style="info" %}
 Il s’intéresse ensuite à la **sélection artificiel**, avec le tri orienté, notamment dans **l'agriculture et l'élevage canin.**
@@ -189,7 +189,7 @@ Thomas H. Morgan \(1866-1945, biologiste américain\): transmission héréditair
   * Transformations progressives et graduelles \(Ce qui va à l'encontre de la brutalité des mutations\)
   * Des orientations maintenues sur de longue périodes \(Ce qui va à l'encontre du caractère aléatoire des mutations\)
 
-![Lign&#xE9; &#xE9;volutive des cheveaux](../.gitbook/assets/ligneevolutive-des-cheveaux.png)
+![Lign&#xE9; &#xE9;volutive des chevaux](../.gitbook/assets/ligne-evolutive-chevaux.jpg)
 
 Il existe de nombreux conflits entre généticiens \(Mutationnisme\) et paléontologues \(Darwinisme\) jusqu'au année 1920, c'est l'essor de la génétique des populations qui va aider à concilier les deux tendances. Notamment grâce à 3 précurseur;    
 - John B.S. Haldane \(1892-1964, biologiste anglais\) 1924 : premier modèle mathématique simple de sélection   
@@ -230,25 +230,25 @@ Grâce au cumul de ces travaux, la base de la théorie synthétique de l'évolut
 
 Il existe 3 modalités de base; Sélection directionnelle, sélection stabilisante, sélection diversifiante
 
-![Modalit&#xE9;s s&#xE9;lection naturelle](../.gitbook/assets/modalitees-selection-naturelle.png)
+![Modalit&#xE9;s s&#xE9;lection naturelle](../.gitbook/assets/modalite-selection-naturelle.png)
 
 #### Sélection directionnelle
 
 Favorise la survie de certains phénotypes par rapport à d’autres \(variation phénotypique déplacée dans la population\)
 
-![S&#xE9;lection Directionelle](../.gitbook/assets/selection-directionelle.png)
+![](../.gitbook/assets/selection-directionelle.png)
 
 #### Sélection stabilisante
 
 Est associée à une réduction de la variation phénotypique
 
-![S&#xE9;lection stabilisante](../.gitbook/assets/selection-stabilisante.png)
+![](../.gitbook/assets/selection-stabilisante.png)
 
 #### Sélection diversifiante
 
 Favorise deux phénotypes au moins dans une population et augmente le niveau de variation phénotypique
 
-![S&#xE9;lection diversifiante](../.gitbook/assets/selection-diversifiante.png)
+![](../.gitbook/assets/selection-diversifiante.png)
 
 ### L'état actuel de la question
 
@@ -270,7 +270,7 @@ L’acide désoxyribonucléique se présente sous la forme d’une double hélic
 
 Fondée par **Richard Goldschmidt** \(1878-1958\), généticien allemand, il propose une idée d’évolution discontinue par sauts morphologiques \(= saltations\), permettant le passage d’une organisation à une autre sans formes intermédiaires. Saltations déclenchées par des mutations impliquant des remaniements de grande ampleur du matériel génétique \(macromutations\). Notion de monstre prometteur. Théorie aujourd’hui abandonnée
 
-![Saltationnisme](../.gitbook/assets/saltationnisme.png)
+![](../.gitbook/assets/saltationisme.jpg)
 
 #### Équilibre ponctuée
 
@@ -284,7 +284,7 @@ Pour Eldredge et Gould: les intermédiaires sont très rares et la prépondéran
 Une fois formées par spéciation allopatrique, les espèces montrent de longues phases de stabilité morphologique \(**stases**\), suivies de brèves phases de **variation brutale** \(i.e. instantanées à l’échelle des temps géologiques\) au cours desquelles elles donnent naissance ****à de **nouvelles espèces**.
 {% endhint %}
 
-![Diff&#xE9;rence entre le gradualisme &#xE9;volution et l&#x2019;&#xE9;quilibre ponctu&#xE9;s](../.gitbook/assets/difference-entre-equilibre-ponctue-et-gradualisme.png)
+![Diff&#xE9;rence entre le gradualisme &#xE9;volution et l&#x2019;&#xE9;quilibre ponctu&#xE9;s](../.gitbook/assets/equilibre-ponctue-gradualisme.png)
 
 1. Un groupe réduit s’isole géographiquement d’une espèce souche
 2. L’isolat montre une évolution différente de la souche \(dérive génique\), à terme, cet isolat peut conduire à une nouvelle espèce
@@ -364,11 +364,11 @@ Il n'y à pas de **méthode** **explicite** et l'approche est assez **subjective
   * **Degrés de divergence entre taxons**
 * Considération "**à priori**" sur les processus évolutifs \(**argument d'autorité : raisonnement circulaire**\)
 
-![](../.gitbook/assets/raisonnement-circulaire-systematique-evolutionniste.png)
+![](../.gitbook/assets/raisonement-circulaire-systematique-evolutioniste.jpg)
 
 Le mode de représentation graphique est le **Phylogramme** \(C'est le schéma de relations de parenté exprimant les branchements et le degré de "divergence" associé à chaque branche \(Taxon\)
 
-![Phylog&#xE9;nie des vert&#xE9;br&#xE9; selon Romer \(1966\)](../.gitbook/assets/phylogenie-des-vertebres-selon-romer.png)
+![Phylog&#xE9;nie des vert&#xE9;br&#xE9; selon Romer \(1966\)](../.gitbook/assets/phylogenie-vertebre-romer.jpg)
 
 ### Phénétique
 
@@ -407,7 +407,7 @@ Le partage des caractères primitifs est appelé **symplésiomorphie**
 **Seul** le partage de caractères **dérivés** \(**synapomorphies**\) permet de **préciser** les **relations** de **parenté**
 {% endhint %}
 
-![Diff&#xE9;rent clades valides](../.gitbook/assets/arbre_poissons.jpg)
+![Repr&#xE9;sentation clade valide](../.gitbook/assets/different-clade.jpg)
 
 #### Polarisation des caractères
 
@@ -417,7 +417,7 @@ Polariser les caractères, c’est reconnaître leur état apomorphe ou plésiom
 
 Le cladogramme traduit des relations de **groupes-frères**
 
-![Cladogramme](../.gitbook/assets/exemple-cladograme.png)
+![](../.gitbook/assets/cladograme-exemple.jpg)
 
 #### A retenir
 
@@ -446,11 +446,11 @@ Tenir compte de **l'Homologie**, éliminer ~~_**l'homoplasie**_~~
 
 **Structures homologues** \(ou organes, ou séq. d ’ADN, ou protéines...\) : structures qui **conservent**, **malgré** leurs **variations** **d’aspect**, la même **organisation fondamentale**, qui reflète l’héritage d’un ancêtre commun
 
-![Malgr&#xE9; la diff&#xE9;rence de forme, fonction et taille, il y a une organisation structur&#xE9; h&#xE9;rit&#xE9; d&apos;un anc&#xEA;tre commun](../.gitbook/assets/membre-anterieurs-de-tetrapodes.png)
+![Malgr&#xE9; la diff&#xE9;rence de forme, fonction et taille, il y a une organisation structur&#xE9; h&#xE9;rit&#xE9; d&apos;un anc&#xEA;tre commun](../.gitbook/assets/membre-anterieur-tetrapodes.jpg)
 
 Autre exemple d'homologie, avec le crane d'un homme et d'un rat
 
-![Homologie du crane d&apos;un rat et d&apos;un homme](../.gitbook/assets/homologie-crane-rat-et-homme.png)
+![Homologie du cr&#xE2;ne d&apos;un rat et d&apos;un homme](../.gitbook/assets/homologie-crane-homme-rat.jpg)
 
 #### Homoplasie
 
@@ -458,17 +458,17 @@ Bien distinguer l'homoplasie et l'homologie. Qui est homoplasie tout ce qui n'es
 **Similitude** chez plusieurs **taxons**, de structures \(ou organes, parties d’organes, séq. d’ADN, protéines\) **ne reflétant pas l’héritage d’un ancêtre commun**.   
 **Structures analogues** : structures ayant la **même fonction, sans avoir la même organisation** \(ne reflètent pas l’héritage d’un ancêtre commun\).
 
-![Exemple homoplasie](../.gitbook/assets/clade-homoplasie.png)
+![homoplasie](../.gitbook/assets/homoplasie-clade.jpg)
 
 **Parallélisme :** **ressemblance apparue indépendamment** chez différents taxons à **partir** de la **même condition ancestrale** \(proches parents; au niveau de la famille, du genre, de l’espèce...\)
 
-![Evolution parall&#xE8;le de poissons t&#xE9;l&#xE9;ost&#xE9;ens entre les lacs Tanganyika et Malawi](../.gitbook/assets/parrallelisme.png)
+![Evolution parall&#xE8;le de poissons t&#xE9;l&#xE9;ost&#xE9;ens entre les lacs Tanganyika et Malawi](../.gitbook/assets/parrallelisme.jpg)
 
 **Convergence :** **ressemblance** apparue **indépendamment** chez différents taxons à partir d’une condition **ancestrale** **différente** \(au niveau de l’Embranchement, Classe, Ordre...\)
 
-![Les ailes d&#x2019;oiseau, de chauve-souris et de pt&#xE9;rosaure ont une organisation diff&#xE9;rente \(nombre de doigts, faites de peau ou de plumes\) indiquant qu&#x2019;elles ne d&#xE9;rivent pas d&#x2019;un anc&#xEA;tre commun. Ce sont des structures analogues \(homoplasies\)](../.gitbook/assets/convergence-ailes.png)
+![](../.gitbook/assets/convergence-ailes.jpg)
 
-![Nageoire caudale acquise ind&#xE9;pendamment chez plusieurs lign&#xE9;es d&#x2019;animaux marins](../.gitbook/assets/nageoire-caudale.png)
+![Nageoire caudale acquise ind&#xE9;pendamment chez plusieurs lign&#xE9;es d&#x2019;animaux marins](../.gitbook/assets/convergence-nageoire-caudale.jpg)
 
 **Réversion :** l’état **évolué** \(**apomorphe**\) d’un caractère **morphologique** \(ou **moléculaire**\) **revient** à un état **primitif** \(**plésiomorphe**\).
 
@@ -481,7 +481,7 @@ A partir d’une même matrice : plusieurs cladogrammes possibles !
 * 5 taxons : 105 possibles
 * 9 taxons : + de 2 millions possibles !
 
-![Diff&#xE9;rent clade selon 3 ou 4 taxons](../.gitbook/assets/exemple-de-clade-selon-differents-taxons.png)
+![Diff&#xE9;rent clade selon 3 ou 4 taxons](../.gitbook/assets/clade-taxons.jpg)
 
 {% hint style="warning" %}
 Est retenu celui qui suppose le moins de **transformations** **évolutives**, \(changements d'états des caractères\). C’est le principe de parcimonie
@@ -523,7 +523,7 @@ Direction moderne de recherche : **EVO-DEVO** \(Evolution and Developmental Biol
 **Phylogenèse :** histoire évolutive d’une lignée
 {% endhint %}
 
-![Ontogen&#xE8;se et Phylogen&#xE8;se](../.gitbook/assets/antogenese-et-phylogenese.png)
+![Ontogen&#xE8;se et Phylogen&#xE8;se](../.gitbook/assets/antogenese-phylogenese.jpg)
 
 #### Exemple
 
@@ -546,7 +546,7 @@ En générale
 * Viviparité \(sauf Monotrèmes\)
 {% endhint %}
 
-![Cr&#xE2;ne](../.gitbook/assets/crane-mamifere.png)
+![Cr&#xE2;ne mammif&#xE8;re](../.gitbook/assets/crane-mammifere.jpg)
 
 #### "Reptile"
 
@@ -566,7 +566,7 @@ A quoi ressemblaient la mâchoire et l’oreille moyenne des « reptiles Mammali
 * Migration du Squamosal qui se rapproche du dentaire
 * Oreille moyenne : Toujours un seul os, le stapes
 
-![Crane reptile mammalien](../.gitbook/assets/crane-reptiles-mammaliens.png)
+![Cr&#xE2;ne reptile mammaliens](../.gitbook/assets/crane-reptiles-mammaliens.png)
 
 {% hint style="success" %}
 Transition Permien-Trias : des os de la mandibule « reptilienne » migrent pour constituer les pièces osseuses de l’oreille moyenne des mammifères :
@@ -575,7 +575,7 @@ Transition Permien-Trias : des os de la mandibule « reptilienne » migrent pour
 * marteau dérivé de l’articulaire
 {% endhint %}
 
-![Evolution cr&#xE2;ne](../.gitbook/assets/evolution-crane.png)
+![](../.gitbook/assets/evolution-crane.jpg)
 
 {% file src="../.gitbook/assets/exemple-crane.png" %}
 
@@ -587,7 +587,7 @@ Observation de l’ontogenèse d’un mammifère : la sarigue \(morphogenèse
 Le **juvénile** du **descendant** \(la **sarigue**\), **ressemble** à **l’adulte** de son **ancêtre** \(le reptile mammalien\) : **Relation Ontogenèse - Phylogenèse**
 {% endhint %}
 
-![Relation Ontogen&#xE8;se et Phylogen&#xE8;se](../.gitbook/assets/ontoge-nese-ptit-mammife-re.png)
+![](../.gitbook/assets/ontogenese-petit-mammifere.jpg)
 
 ### Les lacunes de la théorie synthétique
 
@@ -604,7 +604,7 @@ Les réponses vont venir de l'étude du développement des organismes
 **Épigénétique :** L'ensemble des mécanismes moléculaires ayant lieu au niveau du génome et de la régulation de l'expression des gènes qui peuvent être influencés par l'environnement et l'histoire individuelle ainsi qu'être potentiellement transmissibles d'une génération à l'autre.
 {% endhint %}
 
-![Evo-Devo \(Evolution and Developmental Biology\)](../.gitbook/assets/evo-devo.png)
+![Evo-Devo \(Evolution and Developmental Biology\)](../.gitbook/assets/evo-devo.jpg)
 
 ### Génétique du développement
 
@@ -642,7 +642,7 @@ Tous impliqués dans la morphogenèse en définissant l'identité et la posi
 
 L’adresse des organes est mal déterminée, mais pas leur structure!
 
-![Hom&#xE9;ose drosophile ](../.gitbook/assets/homeose-drosophile.png)
+![hom&#xE9;ose drosophile](../.gitbook/assets/homeose-drosophile.jpg)
 
 Un **gène homéotique** \(GH\) se caractérise par 1 séquence **nucléotidique** commune à tous les GH : **l'homéoboîte** qui code un **homéodomaine** capable de se lier à l’ADN. Ce dernier code un facteur de transcription qui active d’autres gènes en cascade.
 
