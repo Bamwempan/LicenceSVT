@@ -72,7 +72,7 @@ La **France** est dans **3 fuseaux, de 30 à 32.**
 **Latitude :** C'est une coordonnée géographique représentée par une valeur angulaire, expression de la position d'un point sur Terre, au nord ou au sud de l'équateur qui est le plan de référence. Lorsqu'ils sont reliés entre eux, tous les endroits de la Terre ayant une même latitude forment un cercle dont le plan est parallèle à celui de l'équateur, d'où l'autre terme « parallèle » permettant de nommer une latitude.
 {% endhint %}
 
-![M&#xE9;ridien Parall&#xE8;le](../.gitbook/assets/meridien-parallele.jpeg)
+![](../.gitbook/assets/meridiens-parralelle.jpeg)
 
 Pour retrouver un point on chercher sa **longitude \(Angle AOB\)** et sa **latitude \(Angle BOP\)**.
 
@@ -121,7 +121,7 @@ Une carte topographique est une carte qui représente les **éléments naturels*
 **Point coté :** Sommet ou point bas, avec altitude en m
 {% endhint %}
 
-![Courbe de niveau](../.gitbook/assets/courbe-de-niveau-et-equidistance.png)
+![Courbe de niveaux et equidistance](../.gitbook/assets/courbes-niveaux-equidistance.jpg)
 
 * Pour faciliter la lecture, certaines courbes de niveaux sont **épaisse**, ont les appelle les **courbes maîtresse**
 * **L’écartement** **des courbes** donne une idée de la **pente** **\(d’autant + forte que les courbes de niveau sont rapprochées les unes des autres\)**
@@ -136,11 +136,11 @@ Une carte topographique est une carte qui représente les **éléments naturels*
 **Pente :** C'est l'inclinaison de la surface topographique par rapport à l’horizontale
 {% endhint %}
 
-![Distance r&#xE9;elle et apparente](../.gitbook/assets/distance-reelle-et-apparente.png)
+![Distance r&#xE9;elle et apparente](../.gitbook/assets/distance-relle-apparente.png)
 
 #### Calcul distance réelle AB
 
-![Calcul distance r&#xE9;elle AB](../.gitbook/assets/calcul-distance-reelle-ab.png)
+![](../.gitbook/assets/calcul-distance-reelle-ab.png)
 
 ### Mesure d'une direction
 
@@ -151,7 +151,7 @@ Si la droite à un sens , l'angle est compté dans un intervalle de 360°, on pa
 Dans le cas d'une droite de sens indifférent, on réduit l'intervalle de mesure à 180° et on parle de direction.
 {% endhint %}
 
-![Mesure de direction](../.gitbook/assets/mesure-de-direction.JPG)
+![Mesure direction](../.gitbook/assets/mesure-direction.jpeg)
 
 ## Profil topographique
 
@@ -159,7 +159,7 @@ Dans le cas d'une droite de sens indifférent, on réduit l'intervalle de mesure
 **Profil topographique :** Est une vue en coupe représentant l’intersection de la surface du sol par un plan vertical
 {% endhint %}
 
-![Profil Topographique](../.gitbook/assets/profil-topographique.png)
+![](../.gitbook/assets/profil-topographique.jpg)
 
 ### Construction d'un profil topographique
 
@@ -167,7 +167,7 @@ Dans le cas d'une droite de sens indifférent, on réduit l'intervalle de mesure
 
 **Echelle horizontale :** c’est **toujours** **l’échelle** de la **carte**
 
-![Profil Topogaphique](../.gitbook/assets/methode-profil-topogaphique.png)
+![](../.gitbook/assets/methode-profil-topographique.jpg)
 
 {% hint style="warning" %}
 Suite à l'interprétation des profils topographique ont peux en en déduire plusieurs type de vallée
@@ -182,11 +182,11 @@ Pour se faire nous avons calculé la distance de fonte d'un glacier
 
 #### Résultat de la prise de distance
 
-![R&#xE9;sultat](../.gitbook/assets/distance-glacier.png)
+![](../.gitbook/assets/distance-glacier.png)
 
 Pour visualiser la fonte des glaces nous les disposons sur un graphique
 
-![&#xC9;volution de la position du front du glacier des Bossons entre 1863 et 2016](../.gitbook/assets/mise-en-place-des-points-sur-graphique.png)
+![&#xC9;volution de la position du front du glacier des Bossons entre 1863 et 2016](../.gitbook/assets/point-sur-graphique.jpg)
 
 {% hint style="warning" %}
 [Résultat en question 8 et 9](https://kevinrousseau80.gitbook.io/licence-svt/geoscience/evolution-et-cartographie#question-7)
@@ -210,7 +210,7 @@ Il existe 3 grands types de structure en couche
 * Structure plissée \(Couche plissées\)
 {% endhint %}
 
-![Structure en couche](../.gitbook/assets/structure-en-couche.png)
+![](../.gitbook/assets/structure-en-couche.png)
 
 #### Structure tabulaire
 
@@ -218,7 +218,7 @@ Il existe 3 grands types de structure en couche
 Sur une carte la structure tabulaire, les couches horizontales sont parallèles aux courbes de niveaux
 {% endhint %}
 
-![Couche horizontales parall&#xE8;les au courbes de niveaux](../.gitbook/assets/couche-horizontales.png)
+![Couche horizontales parall&#xE8;les au courbes de niveaux](../.gitbook/assets/couches-horizontales.jpg)
 
 #### Stratification monoclinale
 
@@ -228,11 +228,11 @@ Sur une carte la structure tabulaire, les couches horizontales sont parallèles 
 Sur une carte les limites de couches **recoupent** les **courbes** **de** **niveaux**
 {% endhint %}
 
-![Structure monoclinale](../.gitbook/assets/structure-monoclinale.png)
+![](../.gitbook/assets/structure-monoclinale.jpg)
 
 #### Vue en coupe et en carte
 
-![Vue de coup et de carte des structures tabulaires et monoclinales](../.gitbook/assets/vue-coupe-et-carte-des-structure-tabulaire-et-monoclinale.png)
+![Vue de coup et de carte des structures tabulaires et monoclinales](../.gitbook/assets/vue-coupe-carte-structure-monoclinale.png)
 
 ### Décrire une structure plane
 
@@ -241,12 +241,12 @@ Sur une carte les limites de couches **recoupent** les **courbes** **de** **nive
 3. Horizontale du plan = matérialise, sur le plan P, la trace d’un plan horizontal passant par A
 4. Ligne de plus grande pente = visualise la direction d’écoulement d’un filet d’eau sur P. Cette ligne est orthogonale à l’horizontale du plan.
 
-![G&#xE9;om&#xE9;trie d&apos;un plan g&#xE9;ologique](../.gitbook/assets/geometrie-dun-plan-geologique.png)
+![G&#xE9;om&#xE9;trie d&apos;un plan g&#xE9;ologique](../.gitbook/assets/geometrie-plan-ecologique.png)
 
 1. La direction de l’horizontale du plan \(angle entre le Nord et une horizontale du plan, mesuré dans le sens horaire\)
 2. Le pendage a du plan \(angle entre la ligne de plus grande pente et un plan horizontal; mesuré avec clinomètre de boussole\) et son secteur géographique de plongement
 
-![Calcul plan g&#xE9;om&#xE9;trique plus repr&#xE9;sentation carte](../.gitbook/assets/calcul-plan-geometrique-plus-representation-carte.png)
+![Calcul plan g&#xE9;om&#xE9;trique plus repr&#xE9;sentation carte](../.gitbook/assets/calcul-plan-geometrie-representation.png)
 
 ### Pendage des couches
 
@@ -256,7 +256,7 @@ Si les couche sont horizontales alors le pendage sera 0°, car ces couches suive
 Si les couches sont verticales alors le pendage sera 90°, car les couches recoupent les courbes de niveau et sont rectiligne
 {% endhint %}
 
-![Diff&#xE9;rent pendages](../.gitbook/assets/pendages-0-et-90.png)
+![Diff&#xE9;rent pendages](../.gitbook/assets/pendage-0-90.png)
 
 #### Lors que les plan ne sont ni verticaux ni horizontaux
 
@@ -266,7 +266,7 @@ Déterminer le secteur de plongement du pendage : « règle des V »
 Les traces de plans dessinent, dans les vallées, un « V » dont la pointe est dirigée selon le secteur de plongement des plans \(et donc des couches, failles...\). C’est l’inverse sur les lignes de crêtes
 {% endhint %}
 
-![R&#xE8;gle de V](../.gitbook/assets/regles-des-v.png)
+![R&#xE8;gle V](../.gitbook/assets/regle-v.jpg)
 
 ### Carte géologique
 
@@ -287,11 +287,11 @@ Il est facile de repérer les couches horizontales et verticales
   * La direction suive la couche et le pendage est vertical
 {% endhint %}
 
-![Couches horizontales sans direction ni pendages, Couches verticales avec direction N0 et pendage vertical](../.gitbook/assets/couche-horizontales-et-verticale.png)
+![Couches horizontales sans direction ni pendages, Couches verticales avec direction N0 et pendage vertical](../.gitbook/assets/couche-horizontale-verticale.jpg)
 
 #### Pour les couches avec un pendage
 
-![](../.gitbook/assets/couche-pendages.png)
+![](../.gitbook/assets/couche-pendage.jpg)
 
 ### Construction d'une coupe géologique
 
@@ -305,9 +305,9 @@ Procédure à suivre
 6. Reporter les figurés lithologiques
 7. Ajouter une légende des figurés lithologiques \(et titre, échelle, orientation\)
 
-![M&#xE9;thode](../.gitbook/assets/construction-coupe-geologoqique.png)
+![M&#xE9;thode](../.gitbook/assets/construction-coupe-geologique.jpg)
 
-![R&#xE9;sultat](../.gitbook/assets/reslutat-coupe-geologiques.png)
+![R&#xE9;sultat](../.gitbook/assets/resultats-coupe-geologique.png)
 
 #### Structure Synclinal ou Anticlinal
 
@@ -317,11 +317,11 @@ Si les courbes se disent bonjour **en descendant** alors elle sont **Synclinal,*
 Si les courbes se disent bonjour **vers le haut** alors elle sont **Anticlinal,** Si les symboles de pendages pointes à l'opposé l'un de l'autre \(Sont dos à dos\) alors la structure est anticlinal.
 {% endhint %}
 
-![Structure synclinal et anticlinal](../.gitbook/assets/structure-coupe-geologique.png)
+![Structure Synclinal et Anticlinal](../.gitbook/assets/structure-coupe-geologique.jpg)
 
 #### Érosion différentielle
 
-![&#xC9;rosion diff&#xE9;rentielle](../.gitbook/assets/erosion-differentielle.png)
+![&#xC9;rosion diff&#xE9;rentielle](../.gitbook/assets/erosion-differentielle.jpg)
 
 ## Réponse TP
 
@@ -372,7 +372,7 @@ Ensuite nous faisons le rapport de la distance sur la vitesse moyenne et nous ob
 
 ### Tableau de conversion des mesures principales
 
-![Conversion principales](../.gitbook/assets/capture-du-2019-09-20-16-48-41.png)
+![](../.gitbook/assets/converstion-principale-m.jpg)
 
 ### Règle de trigonométrie
 
