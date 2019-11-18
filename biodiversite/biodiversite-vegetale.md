@@ -1089,7 +1089,7 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 
 **Apoplasme :** Ensemble des parois et des espaces vides entre cellules \(cellules mortes et parois\)
 
-**Rhizome :** 
+**Rhizome :** Tige souterraine, portant des feuilles écailleuses et des racines adventives qui produits de nouvelles pousses aérienne à partir de bourgeons
 
 **Rachis :** Continuité du pétiole sur une feuille composée à nervation pénée
 {% endhint %}
