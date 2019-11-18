@@ -656,9 +656,9 @@ Un **gène homéotique** \(GH\) se caractérise par 1 séquence **nucléoti
 **Règle de colinéarité :** Colinéarité de la disposition des gènes homéotiques sur le chromosome avec l'ordre des domaines d'expression dans l'embryon
 {% endhint %}
 
-![R&#xE8;gle colinarit&#xE9;](../.gitbook/assets/re-gle-colinarite-drosophile.png)
+![R&#xE8;gle colinarit&#xE9;](../.gitbook/assets/regle-colinarite-drosophile.jpg)
 
-![](../.gitbook/assets/re-gle-colinarite-vertebre.png)
+![](../.gitbook/assets/regle-colinarite-vertebre.jpg)
 
 #### Quel rôle jouent les gènes homéotiques dans le développement des organismes ?
 
@@ -670,7 +670,7 @@ Gène homéotique d’Arthropodes, de Vertébrés, mais aussi d’Annélide
 
 Modification de la séquence d’activation des gènes Hox par l’acide rétinoïque, administré à des fœtus de souris à différents stades de gestation
 
-![Squelette modifie&#x301; par l &#x2019;acide re&#x301;tinoi&#x308;que](../.gitbook/assets/preuve-perturbation-ge-ne-hox.png)
+![Squelette modifie&#x301; par l &#x2019;acide re&#x301;tinoi&#x308;que](../.gitbook/assets/preuve-perturbation-gene-hox.jpg)
 
 {% hint style="warning" %}
 L’acide rétinoïque modifie les gènes Hox et leur **expression phénotypique**, puisque le squelette axial est modifié ! Gène homéotique est bien un gène architecte.
@@ -687,7 +687,7 @@ Expériences de substitution de gènes, entre organismes différents :
 Substitution fonctionnelle implique que le gène **small eye de vertébré** est **homologue du eyeless d’arthropode**!
 {% endhint %}
 
-![G&#xE8;ne Small eye sur la patte](../.gitbook/assets/small-eyes-sur-la-patte.png)
+![G&#xE8;ne Small eye sur la patte](../.gitbook/assets/small-eyes-patte.jpg)
 
 {% hint style="warning" %}
 Les gènes homéotiques de vertébrés et d’arthropodes **sont homologues, ils dérivent d’un complexe ancestral commun**, dupliqué au cours de l’évolution
@@ -695,7 +695,7 @@ Les gènes homéotiques de vertébrés et d’arthropodes **sont homologues,
 Les **duplications** et **délétions** **des gènes homéotiques** créent de la **diversité**
 {% endhint %}
 
-![Arbre phylog&#xE9;n&#xE9;tique des g&#xE8;nes](../.gitbook/assets/phyloge-nie-des-ge-nes.png)
+![](../.gitbook/assets/phylogenie-genes.jpg)
 
 ### Evolution et gènes Hox : 4 grands principes
 
@@ -715,17 +715,17 @@ Les insectes ont perdu des pattes abdominales au cours de l’évolution, de ce
 Deux gènes Hom impliqués dans le développement des pattes les plus postérieur du thorax, Ubx et abd-A, l'expression de ces gènes peut être bloquée par un ARN inhibiteur.  
 Le rôle de Ubx et abd-A est de réprimer l’expression d’un autre gène, distal less. Si distal less n’est pas réprimé, paires de pattes au niveau abdominal.
 
-![ARN Inhibiteur](../.gitbook/assets/arn-inhibiteur.png)
+![ARN Inhibiteur](../.gitbook/assets/arn-inhibiteur.jpg)
 
 #### Exemple oiseaux
 
 L'arbre phylogénétique qui suit est dit "adultocentrique", condition ancestrale sans palme, les palmes apparaissent à plusieurs reprises au cours de l’évolution.
 
-![Arbre phylog&#xE9;n&#xE9;tique adultocentrique](../.gitbook/assets/arbre-phylogenetique-adultocentrique.png)
+![Arbre phylog&#xE9;n&#xE9;tique adultocentrique](../.gitbook/assets/arbre-phylogenetique-aldutocentrique.jpg)
 
 L'ontogenèse dans ce cas va montrer que la phylogénie plus le développement rend le pied palmé "condition par défaut"  à l'état embryonnaire qui perdure ou disparait à l'état adulte à plusieurs reprise au cours de l'évolution
 
-![Arbre phylog&#xE9;n&#xE9;tique embryonnaire](../.gitbook/assets/arbre-phylogenetique-embryon.png)
+![Arbre phylog&#xE9;n&#xE9;tique embryonnaire](../.gitbook/assets/arbre-phylogenetique-embryonaire.jpg)
 
 ### Bricolage évolutif
 
@@ -739,7 +739,7 @@ Les gènes induisant le développement de doigts multiples sont toujours pré
 
 #### Organes vestigiaux
 
-![Yeux des animaux cavernicoles](../.gitbook/assets/yeux-des-animaux-cavernicoles.png)
+![Yeux des animaux cavernicoles](../.gitbook/assets/yeux-cavernicole.jpg)
 
 #### Chez le python
 
@@ -767,7 +767,7 @@ Nouvelle fonction d'un organe anciennement non fonctionnelle \(Aile des autruche
 2. Fonction originelle des plume, qui est l'isolation thermique deviens un outil qui sert pour l'envol et qui garde sa fonction d'isolation thermique
 {% endhint %}
 
-![Evolutions des plumes dans le temps](../.gitbook/assets/exaptation-plumes-exemple.png)
+![Evolutions des plumes dans le temps](../.gitbook/assets/exaptation-plume.jpg)
 
 ### Conclusion
 
@@ -780,7 +780,7 @@ Nouvelle fonction d'un organe anciennement non fonctionnelle \(Aile des autruche
 
 Concept mis en place part D'Arcy Thompson, il publie en 1917 : « On Growth and Form » ou il explique la théorie des coordonnées transformées
 
-![Allom&#xE9;trie de croissance](../.gitbook/assets/allometrie-de-croissance-schem.png)
+![Allom&#xE9;trie de croissance](../.gitbook/assets/allometrie-croissance-schema.jpg)
 
 {% hint style="info" %}
 **Allométrie :** Changement de proportion associés à des changements de taille
@@ -790,7 +790,7 @@ Concept mis en place part D'Arcy Thompson, il publie en 1917 : « On Growth and 
 * Isométrie : Changement de taille mais qui conserve ses proportions
 {% endhint %}
 
-![Allom&#xE9;trie positive / n&#xE9;gative / Isom&#xE9;rie](../.gitbook/assets/differente-allometrie.png)
+![Allom&#xE9;trie positive / n&#xE9;gative / Isom&#xE9;rie](../.gitbook/assets/differentes-allometries.jpg)
 
 #### Allométrie ontogénétiques
 
@@ -800,7 +800,7 @@ Concept mis en place part D'Arcy Thompson, il publie en 1917 : « On Growth and 
 * Ontogenèse du chimpanzé allométrie positive des maxillaire et dentaire
 {% endhint %}
 
-![Allom&#xE9;trie Ontog&#xE9;n&#xE9;tique Homme Crabe et Chimpanz&#xE9;](../.gitbook/assets/allometrieonogene-se.png)
+![Allom&#xE9;trie Ontog&#xE9;n&#xE9;tique Homme Crabe et Chimpanz&#xE9;](../.gitbook/assets/allometrie-ontogenese.jpg)
 
 #### Allométrie phylogénétique
 
@@ -810,7 +810,7 @@ Concept mis en place part D'Arcy Thompson, il publie en 1917 : « On Growth and 
   * chez l’embryon de Cétacé, l’évent a la position classique des mammifères terrestres \(l’ontogenèse récapitule la phylogenèse\)
 {% endhint %}
 
-![Allom&#xE9;trie phylog&#xE9;n&#xE9;tique f&#xE9;lid&#xE9; et c&#xE9;tac&#xE9; et ontogen&#xE8;se c&#xE9;tac&#xE9;](../.gitbook/assets/exemple-allometrie-phylogenetique.png)
+![Allom&#xE9;trie phylog&#xE9;n&#xE9;tique f&#xE9;lid&#xE9; et c&#xE9;tac&#xE9; et ontogen&#xE8;se c&#xE9;tac&#xE9;](../.gitbook/assets/allometrie-phylogenetique-exemple.jpg)
 
 ### Hétérochronie du développement
 
@@ -836,7 +836,7 @@ Pourquoi les races de chiens diffèrent-elles fortement les unes des autres, et 
 * Chats : croissance ±isométrique de tous les os crâniens.
 {% endhint %}
 
-![](../.gitbook/assets/images-crane-chien-et-chat-allometrie.png)
+![](../.gitbook/assets/crane-allometrie-chien-chat.jpg)
 
 ### Les paedomorphoses
 
@@ -852,16 +852,16 @@ Il existe deux type fondamentaux de paedomorphose
 **Néotenie :** affecte le rythme du développement est donc le ralentissement du développement de l’organisme **\(taille et maturité sexuelles non modifiées\)**. les adultes néoténiques ont une taille normale mais conservent des caractères juvéniles
 {% endhint %}
 
-![H&#xE9;t&#xE9;rochronies phase paedomorphose](../.gitbook/assets/eterochronie-phase-paedomorphose.png)
+![H&#xE9;t&#xE9;rochronies phase paedomorphose](../.gitbook/assets/heterochronie-phase-paedomorphose.jpg)
 
 #### Exemple néoténie
 
 Exemple de néoténie : Axolotl des lacs froids du Mexique. Axolotl est amphibien strictement aquatique, resté au stade larvaire, mais qui se reproduit !  
 Expérimentalement : possible \(injection d’hormone thyroïdienne de croissance\) de provoquer la métamorphose !
 
-![Axolotl albinos](../.gitbook/assets/axolotl-albinos.png)
+![Axolotl albinos](../.gitbook/assets/axolot-albinos.jpg)
 
-![N&#xE9;ot&#xE9;nie crane humain par rapport au chimpanz&#xE9;](../.gitbook/assets/neotenie-crane-humain-par-rapport-au-chimpanze.png)
+![N&#xE9;ot&#xE9;nie crane humain par rapport au chimpanz&#xE9;](../.gitbook/assets/neotenie-crane-humain-vs-chimpanze.jpg)
 
 #### Les péramorphoses
 
@@ -881,18 +881,18 @@ Il existe deux types fondamentaux de péramorphoses
 
 Ancêtre adulte ressemble au juvénile du descendant, sans différenciation de taille adulte : descendant accéléré !
 
-![acc&#xE9;l&#xE9;ration : lign&#xE9;e d&#x2019;ammono&#xEF;des du Cr&#xE9;tac&#xE9;](../.gitbook/assets/acceleration-lignee-ammonoides-du-cretace.png)
+![acc&#xE9;l&#xE9;ration : lign&#xE9;e d&#x2019;ammono&#xEF;des du Cr&#xE9;tac&#xE9;](../.gitbook/assets/acceleration-ligne-ammonoide-cretace.jpg)
 
 #### Exemple hypermorphose
 
-![hypermorphose : 2 esp&#xE8;ces de Cardium](../.gitbook/assets/hypermorphose-2-especes-de-cardium.png)
+![hypermorphose : 2 esp&#xE8;ces de Cardium](../.gitbook/assets/hypermorphose-2-espece-cordium.jpg)
 
 {% hint style="info" %}
 Hypermorphose lignée humaine.  
 **H. sapiens : néoténie crânienne** par rapport à Pan troglodytes \(chimpanzé\) et Australopithecus africanus. Mais augmentation de la taille globale de l’homme, due à une **croissance prolongée** et un **retard de la maturité sexuelle** \(i.e. allongement de la durée de vie\). L’homme est dès lors également **hypermorphique** **par rapport** au chimpanzé et à l’Australopithèque...
 {% endhint %}
 
-![Hypermorphose lign&#xE9;e humaine](../.gitbook/assets/hypermorphose-lignee-humaine.png)
+![Hypermorphose lign&#xE9;e humaine](../.gitbook/assets/hypermorphose-lignee-humaine.jpg)
 
 ### Conclusion
 
