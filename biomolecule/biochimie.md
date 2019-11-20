@@ -209,6 +209,57 @@ Liste des cétohexoses, D- et L-Psicose, **D- et L-Fructose**, D- et L-Sorbose, 
 
 ![](../.gitbook/assets/cetohexoses-fructose.png)
 
+### Structure cyclique
+
+#### Objection à la structure linéaire des oses
+
+{% hint style="warning" %}
+Aldose contrairement aux aldéhydes, ne recolorent pas la fuchsine décolorée par le biulfite de sodium, NaHSO3
+{% endhint %}
+
+![](../.gitbook/assets/objection-a-la-structure-lineaire-des-oses.jpg)
+
+#### Cyclisation des oses
+
+{% hint style="warning" %}
+La cyclisation des aldoses s'explique par la formation d'un **hémi**_**a**_**cétal** intra-moléculaire
+{% endhint %}
+
+![](../.gitbook/assets/cyclisation-des-oses.jpg)
+
+#### Cyclisation des cétoses
+
+{% hint style="warning" %}
+La cyclisation des cétoses s'explique par la formation d'un **hémicétal** intra-moléculaire
+{% endhint %}
+
+![](../.gitbook/assets/cyclisation-cetoses.jpg)
+
+#### Deux formes cycliques
+
+{% hint style="warning" %}
+Il existe deux formes cyclique, l'une dérivée de l'hétérocycle **Pyrane** et **Furane**
+{% endhint %}
+
+![](../.gitbook/assets/formes-cycliques-oses.jpg)
+
+#### Règles de cyclisation
+
+![Carbone impliqu&#xE9; dans le pont oxydique](../.gitbook/assets/carbones-implique-pont-oxydique.jpg)
+
+{% hint style="warning" %}
+* Le pont oxydique est écrit du coté où se trouve le OH alcoolique qui sert à faire ce pont
+* Si le OH anomérique est $$\alpha$$ , il s'écrit du même coté que le OH qui définit la série
+* Un substituant écrit à droite dans la formule linéaire est placé au dessus du plan dans la forme cyclique
+* Si le pont oxydique est écrit à droite dans la formule linéaire, le reste de la chaîne \(Après le pont\) bascule sur la gauche et est donc situé au dessus du plan. Inversement si le pont est à gauche
+{% endhint %}
+
+![](../.gitbook/assets/cyclisation-alpha-beta.png)
+
+#### Exemple D-Glucose sous forme pyranique
+
+![](../.gitbook/assets/cyclisation-dglucose-forme-pyranique.jpg)
+
 ## Définition
 
 {% hint style="info" %}
