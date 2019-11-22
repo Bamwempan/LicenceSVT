@@ -1012,14 +1012,57 @@ Concept fondamentalement typologique puisque seuls les caractères morphologique
 {% hint style="warning" %}
 La spéciation est un mécanisme dynamique qui est l'ensemble des processus par lesquels de nouvelles espèces se forment. Venant d'une source commune, la variabilité. La variabilité phénotypique est due à la variabilité génétique qui a 3 causes principales
 
-* Mutations
-* Flux génique
-* Brassage génétique lié à la sexualité
+* Mutations \(Lié a la modification de la molécule d'ADN\)
+  * L’ADN n’est pas recopié correctement lors de la division cellulaire
+  * Des agents mutagènes brisent la molécule d’ADN qui n’est pas ensuite réparée correctement
+* Flux génique \(transfert de gènes d’une population à une autre\)
+  * Le transfert de gènes résulte généralement de la migration de certains individus.
+* Brassage génétique lié à la sexualité \(Nouvelles combinaisons de gènes, qui peuvent être favorables, défavorables ou neutres\)
+* Transfert horizontaux des gènes entre taxa différents \(Ex: le gène de la syncytine et le développement du placenta\)
+  * De 5 à 10% de l’ADN des mammifères est d’origine virale.
 {% endhint %}
 
-#### Mutations
+### Modalités de la spéciation
 
+{% hint style="warning" %}
+Ensemble des processus par lesquels de nouvelles espèces se forment. L’isolement reproductif est primordial. On distingue deux processus différents
 
+* La spéciation allopatrique
+* La spéciation sympatrique
+{% endhint %}
+
+#### Isolement reproductif
+
+{% hint style="warning" %}
+* Fécondation impossible \(barrière prézygotique ou pré- copulatoire\)
+  * Niches écologiques différentes / Lieux de reproduction différents
+  * Changements dans les organes reproducteurs
+  * Changements dans l’éthologie
+  * Décalage dans la maturité sexuelle
+* Fécondation possible mais barrière postzygotique ou post- copulatoire
+  * Désordres lors de la fécondation
+  * Désordres lors du développement
+  * Hybrides stériles
+{% endhint %}
+
+#### Spéciation allopatrique
+
+{% hint style="warning" %}
+Apparition d’espèces nouvelles par isolement géographique suite à l'apparition d'une barrière géographique \(Cours d'eau, Montagnes, Océan etc\). La population d’origine est alors scindée en populations disjointes et isolées. La spéciation allopatrique est lente ! Cette spéciation s'effectue en 3 phases étroitement liées
+
+1. Interruption du flux génique
+2. Apparition des mécanismes d’isolement reproductif
+3. Accumulation de différences génétiques, morphologiques, écologiques & éthologiques
+
+Il existe 2 modèles différents de spéciation allopatrique:
+
+* Modèle symétrique ou en haltères
+  * L’espèce ancestrale est scindée en 2 ensembles d’effectifs +/- équivalents et chaque population évolue ensuite séparément pour former une nouvelle espèce différente de l’espèce souche.
+* Modèle asymétrique ou péripatrique \(support de la théorie des équilibres ponctués\)
+  * L’espèce ancestrale est scindée en 2 ensembles d’effectifs très différents \(population isolée = «effet fondateur»\).Chute de sa variabilité génétique, certains allèles rares dans la population souche peuvent devenir prédominants
+{% endhint %}
+
+![Allopatrique sym&#xE9;trique](../.gitbook/assets/allopatrique-symetrique.jpg)
 
 ## Catégories taxinomiques
 
