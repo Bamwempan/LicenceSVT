@@ -898,6 +898,8 @@ Hypermorphose lignée humaine.
 
 {% hint style="warning" %}
 L’évolution doit être envisagée comme un processus de modification des **développements morphologiques** plutôt que comme une simple accumulation de différences entre adultes. 
+
+L’évolution est un **compromis** entre ce que propose le **développement** et ce que retient la **sélection** !
 {% endhint %}
 
 #### Evo-devo
@@ -919,6 +921,45 @@ Que nous dit l’EVO-DEVO ? L’évolution :
 
   éleveurs !\)
 {% endhint %}
+
+## Espèces
+
+{% hint style="info" %}
+L’espèce est l’unité de base de la classification systématique.C’est aussi l’unité de base des peuplements, des points de vue reproductif, génétique, écologique et évolutif.
+{% endhint %}
+
+### L'espèce en biologie
+
+#### Concept de l'espèce
+
+{% hint style="warning" %}
+**Concept morphologique :** A la base un concept strictement morphologique basé sur les ressemblances. L’espèce est définie par référence à un type \(holotype\), décrit sous la forme d’une diagnose.
+
+**Concept biologique :** Donne la primauté au critères d’interfécondité et d’isolement reproductif
+
+L'idée moderne d'une espèces est le fait de partager un **même patrimoine génétique**, **interféconde**, suivi du partage de **caractère phénotypique communs** à **distribution** **gaussienne**
+
+Pour des raisons d’inventaire, une espèce est toujours représentée par un **individu type** \(**holotype**\) selon un **caractère** **moyen**.
+{% endhint %}
+
+| Concept | Critère d'identification | Avantage | Désavantage |
+| :--- | :--- | :--- | :--- |
+| Biologique | Isolement reproductif | L’isolement reproductif implique une évolution indépendante | Ne s’applique pas aux espèces asexués et aux fossiles; Difficile à utiliser si des populations sont séparées géographiquement. |
+| Morphologique | Populations morphologiquement distinctes | S’applique facilement à toutes sortes d’organismes | Approche subjective: les chercheurs peuvent ne pas être d’accord sur l’importance des variations morphologiques pour définir une nouvelle espèce. |
+
+#### Les critères de l’espèce et les difficultés
+
+{% hint style="warning" %}
+**Polymorphisme :** Coexistence, au sein d’une **même population**, d’individus **interféconds** mais **morphologiquement différents**. Du fait de la variabilité, les populations sont très polymorphes. Certaines variations **ne répondent plus** à une **distribution gaussienne**. \(Il existe aussi du polymorphisme saisonnier\)
+
+Dimorphisme sexuel : Différence morphologique entre les mâle et les femelles \(Ex : canard col vert\)
+
+Espèces jumelles : 
+{% endhint %}
+
+![Polymorphisme](../.gitbook/assets/exemple-polymorphisme.jpg)
+
+
 
 ## Définitions
 
