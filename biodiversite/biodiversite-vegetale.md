@@ -877,18 +877,126 @@ Le **bourgeon** ne fais pas partie de la **Feuille**
 
 Il existe 4 grandes phyllotaxie
 
-{% hint style="warning" %}
-* Alterne spiralée
-* Alterne distique
-* Opposée décussée
-* Verticillée
-{% endhint %}
-
 ![Phyllotaxie](../.gitbook/assets/phyllotaxie.png)
 
 ![Compos&#xE9; de stipules ou non ? ](../.gitbook/assets/compose-de-stipules.png)
 
+#### Type de feuilles 
+
+{% hint style="warning" %}
+* Feuilles persistantes \(sempervirens\) – les feuilles sont progressivement remplacées, il n’y a pas de chute périodique de toutes les feuilles.
+* Feuilles marcescentes – feuilles meurent mais restent sur l’arbre.
+* Feuilles caduques – toutes les feuilles tombent à l’automne.
+{% endhint %}
+
 ## Adaptation aux condition environnemental
+
+Grande variabilité des paysages terrestres → liée à leur végétation Variabilité des formations végétales à différentes échelles :
+
+* Mondiale \(Différentes biomes\) en lien avec le climat
+* Au sein d'un pays \(Topographie, composition des sols, et climat\)
+* Au sein d'une région \(à l’échelle de quelques km voire quelques m\) En lien avec le micro-relief, le micro-climat
+
+Le mode de vie fixé d'une plante lui oblige à faire face aux conditions locales de son habitat
+
+### Passage de la mauvaise saison
+
+{% hint style="warning" %}
+Selon les régions, la mauvaise saison peut être la saison chaude ou la saison froide.
+{% endhint %}
+
+* [ ] REFAIRE ET VITE !
+
+#### Saison froide
+
+{% hint style="warning" %}
+La saison froide est problématique pour la plante car il y a une **impossibilité des réactions enzymatiques du métabolisme \(photosynthèse\)**, et une **déshydratation**
+
+Pour se faire la plante peut mettre en place différentes adaptations : 
+
+* Cycles de vie
+  * **Plante annuelles** \(Mauvaise saison se passe sous forme de graine, le système de protection s'effectue sur les graines\) Ex: Coquelicot
+  * **Plantes bisannuelles** cycle de vie dure 2 ans \(Le passage de la mauvaise saison se fait sous forme d’organe de réserve par exemple le bulbe ou tubercule\) Ex. : oignon, carotte, navet, betterave
+  * **Plantes pérennes/vivaces** vivent plusieurs années. Le système de protection dépend du type de plante
+    * Plante herbacée : résistance par rhizome, bulbe, tubercule 
+    * Plante ligneuse : résistance par adaptation des bourgeons.
+* Formes de vie
+  * **Phanérophytes :** tous les bourgeons sont au-dessus de la couche de neige hypothétique \(25cm\). La plante présente donc des adaptations lui permettant de protéger ses bourgeons.
+  * **Chamaephytes :** bourgeons protégés par la couche de neige.
+  * **Hémicryptophytes :** bourgeon au niveau du sol \(ex. carotte\). La protection du bourgeon est assurée par la litière \(reste de feuilles tombées\) qui le recouvre.
+  * **Thérophytes :** pas de bourgeons caulinaires. La plante passe la mauvaise saison sous forme de graines \(= plantes annuelles\) sur ou dans le sol.
+* Différent système de protection contre le froid et la déshydratation
+  * Tégument autour de la graine
+  * Bourgeon écailleux chez les plantes ligneuse pérennes
+  * Organes modifiés 
+    * Feuilles modifiées tunique sèche autour du bulbe, feuilles non photosynthétiques souterraines et charnues \(réserves\) insérées sur une tige souterraine courte \(plateau\) 
+    * Tiges modifiées, réserve dans le parenchymes
+      * Rhizomes chez le muguet
+      * Tubercule caulinaire \(Pomme de terre\)
+      * Corme \(Crocus\)
+    * Racine tubérisées \(réserve dans les parenchymes des tissus conducteurs secondaire\)
+      * Dahlia : stockage dans xylème secondaire
+      * Carotte : stockage dans phloème secondaire
+    * Organes mixtes partie de la tige + racine Mise en réserve dans les parenchymes du xylème secondaire
+  * Suber
+  * Mécanisme des feuilles
+    * Feuille persistante
+    * Feuille marcescentes \(Morte mais rester sur l'arbre\)
+    * Feuille caduque
+* Mise en réserve avant la saison froide
+  * Parenchymes des tissus conducteurs secondaires des espèces ligneuses : Réserves d’amidon dans les amyloplastes mises en place à la fin de l’été mobilisables pour la reprise de la végétation.
+  * Dans des graines, il y a présences différents tissus qui permettent d’accumuler des réserves \(amidon, lipides, protéines\) que l’embryon pourra utiliser au moment de la germination de la graine pour son développement.
+{% endhint %}
+
+![Forme de vie \(C.Raunkiaer\)](../.gitbook/assets/forme-vie-raunkiaer.png)
+
+#### Synthèse mauvaise saison
+
+![](../.gitbook/assets/synthese-passage-mauvaise-saison.png)
+
+### Compétition pour la lumière
+
+La lumière est primordiale pour la photosynthèse, les plantes ont donc développé différentes stratégies pour accéder à cette ressources, il y a une forte compétitions.
+
+#### Être plus haut que les autres
+
+{% hint style="warning" %}
+Les arbres les plus grand émerge de la canopée et ont ainsi accès à la lumière, **l'utilisation de cette stratégie est très coûteuse et très longue**
+
+* Caractéristique morphologique
+  * Ramification uniquement à l’extrémité \(haute\) du tronc
+  * Base du tronc fortement élargie \(croissance secondaire en épaisseur\) pour servir de contreforts et solidifier toute la structure.
+* Caractéristique histologique
+  * Xylème secondaire très dense
+{% endhint %}
+
+#### Avoir un port lianescent
+
+{% hint style="warning" %}
+Les lianes sont des plantes grimpantes herbacées ou ligneuses à la tige souple qui permet l’enroulement autour d’un support. Cette stratégie est moins coûteuse et beaucoup plus rapides.
+
+* Caractéristique morphologique
+  * tiges longues, de faible diamètre, ondulées, torsadées, irrégulières
+  * systèmes de fixation au support
+* Caractéristique histologique
+  * Pachyte discontinu \(cambium uniquement intrafasciculaire\) → tige souple.
+  * Vaisseaux du xylème très larges \(0.5-0.7 mm\)
+  * conduction sève brute sur de grandes distances
+{% endhint %}
+
+#### Être épiphytes
+
+{% hint style="warning" %}
+Les épiphytes représentes 10% des trachéophytes, vivent sur troncs, branches, parfois feuilles d’un arbre hôte appelé phorophyte, non enracinés dans sol et non parasitant. Stratégie peu coûteuse et croissance rapide
+{% endhint %}
+
+#### Synthèse
+
+![](../.gitbook/assets/synthese-competition-lumiere.png)
+
+### Prédation
+
+### Nutrition
 
 ## Travaux pratique
 
@@ -1092,6 +1200,10 @@ Les embryophytes sont définies par la présence d'un embryon végétal.
 **Rhizome :** Tige souterraine, portant des feuilles écailleuses et des racines adventives qui produits de nouvelles pousses aérienne à partir de bourgeons
 
 **Rachis :** Continuité du pétiole sur une feuille composée à nervation pénée
+
+**Adaptation :** ensemble de caractères héritables permettant à l’organisme de vivre et de se reproduire dans un environnement particulier. Le mode de vie du végétal dans cet environnement est possible parce que le végétal présentait préalablement ces caractères, avant qu’il ne soit soumis au crible de la sélection naturelle.
+
+**Accomodation :** plasticité phénotypique. Ajustement réversible de l’organisation et de la physiologie du végétal à son environnement. Ces ajustements sont uniquement phénotypiques.
 {% endhint %}
 
 ## Ressources
