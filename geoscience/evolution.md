@@ -1060,9 +1060,32 @@ Il existe 2 modèles différents de spéciation allopatrique:
   * L’espèce ancestrale est scindée en 2 ensembles d’effectifs +/- équivalents et chaque population évolue ensuite séparément pour former une nouvelle espèce différente de l’espèce souche.
 * Modèle asymétrique ou péripatrique \(support de la théorie des équilibres ponctués\)
   * L’espèce ancestrale est scindée en 2 ensembles d’effectifs très différents \(population isolée = «effet fondateur»\).Chute de sa variabilité génétique, certains allèles rares dans la population souche peuvent devenir prédominants
+  * Modifications des fréquences alléliques, d'autant plus importantes que l’effectif de la population est faible, Effet fondateur suivi de dérive génique dans la nouvelle colonie, du fait des faibles effectifs.
+  * Certains allèles auront pu se fixer, même s’ils étaient rares au départ.
 {% endhint %}
 
 ![Allopatrique sym&#xE9;trique](../.gitbook/assets/allopatrique-symetrique.jpg)
+
+![Allopatrique asym&#xE9;trique](../.gitbook/assets/bottleneck-effet-fondateur-allopatrique-asymetrique.jpg)
+
+#### Spéciation sympatrique
+
+{% hint style="warning" %}
+Apparition d’espèces nouvelles par isolement reproductif au sein d’une population occupant le même territoire.**La spéciation sympatrique est habituellement rapide.** Les causes principales sont :
+
+* modifications de l’écologie
+* Changements de l’éthologie
+* Remaniements chromosomiques ou l’apparition de la polyploïdie.
+  * Inversion: les séquences de gènes sont modifiées sur le même chromosome
+  * Translocation: échange de matériel génétique entre des chromosomes non-homologues
+  * Conséquence: appariement des chromosomes homologues impossible pendant la fertilisation et la méiose
+{% endhint %}
+
+![](../.gitbook/assets/speciation-sympatrique.jpg)
+
+#### Conclusion
+
+![](../.gitbook/assets/modele-speciation.jpg)
 
 ## Catégories taxinomiques
 
