@@ -950,16 +950,108 @@ Pour des raisons d’inventaire, une espèce est toujours représentée par un *
 #### Les critères de l’espèce et les difficultés
 
 {% hint style="warning" %}
-**Polymorphisme :** Coexistence, au sein d’une **même population**, d’individus **interféconds** mais **morphologiquement différents**. Du fait de la variabilité, les populations sont très polymorphes. Certaines variations **ne répondent plus** à une **distribution gaussienne**. \(Il existe aussi du polymorphisme saisonnier\)
-
-Dimorphisme sexuel : Différence morphologique entre les mâle et les femelles \(Ex : canard col vert\)
-
-Espèces jumelles : 
+* **Polymorphisme :** Coexistence, au sein d’une **même population**, d’individus **interféconds** mais **morphologiquement différents**. Du fait de la variabilité, les populations sont très polymorphes. Certaines variations **ne répondent plus** à une **distribution gaussienne**. \(Il existe aussi du polymorphisme saisonnier\)
+* **Dimorphisme sexuel :** Différence morphologique entre les mâle et les femelles \(Ex : canard col vert\)
+* **Espèces jumelles :** Morphologiquement identique mais non interféconde
+* **Polytypisme :** Existence, au sein d’une même espèce, de populations séparées géographiquement et morphologiquement différentes
 {% endhint %}
 
 ![Polymorphisme](../.gitbook/assets/exemple-polymorphisme.jpg)
 
+{% hint style="warning" %}
+L'interfécondité ne permet pas de caractériser les espèces à reproduction asexuée. Il y a possibilités de croisement inter spécifique mais la descendance est fertile \(Croisement majoritairement artificiel\). L'hybridation naturel est possible avec l'exemple du Grolar \(Ours polaire et Grizzly\) et peut aussi donner des descendant fertile avec le Triton européen.
+{% endhint %}
 
+![](../.gitbook/assets/descendance-fertile-triton-europen.jpg)
+
+{% hint style="info" %}
+Espèce : ensemble de populations interfécondes et produisant des descendants eux-mêmes féconds et viables
+{% endhint %}
+
+### Espèces paléontologique
+
+Concept fondamentalement typologique puisque seuls les caractères morphologiques peuvent être utilisés.
+
+#### Difficultés
+
+{% hint style="warning" %}
+* Caractère morphologiques partiellement conservés \(squelettes, fragments, traces...\)
+* Nombre d’individus souvent limité \(cas extrême: 1 seul spécimen\)
+* Polymorphisme, dimorphisme sexuel, espèces jumelles
+  * Qui provoque une multiplication artificiel des espèces
+* Stage ontogénétique
+{% endhint %}
+
+![Ontog&#xE9;nique trilobite](../.gitbook/assets/ontogenique-trilobite.jpg)
+
+#### Solution possible
+
+{% hint style="warning" %}
+* **Actualisme :** La connaissance de la structure des espèces actuels permet d’identifier les différentes parties, des formes fossiles qui leurs sont apparentés
+* **Analyse statistique :** Méthodes quantitatives permettant de séparer ou de regrouper les individus en espèces, en fonction de discontinuités morphologiques \(Analyses univariées, bivariées, multivariées\). Nécessite la découverte d’un grand nombre de **spécimens** **synchrones** au **même endroit**. Permet de déduire si il y a interfécondité ou non
+{% endhint %}
+
+#### Chrono espèce
+
+{% hint style="warning" %}
+**Définition de l’espèce paléontologique** intègre 2 dimensions : **l’espace et le temps.** Populations naturelles, qui à chaque instant de ce continuum sont interfécondes entre elles et isolées sur le plan reproductif de tout autre analogue.
+
+* **Fossile panchronique** \(Fossile vivant\)
+* **Fossiles stratigraphiques :** espèces fossiles ayant une très courte durée de vie, permettant de dater les roches qui les contiennent.
+* Modalité du changement évolutif 
+  * **Anagenèse :** évolution temporelle d’une lignée unique. Dans ce cas, une espèce descendante remplace une espèce ancestrale dans la continuité, formant une lignée evolutive.
+  * **Cladogenèse :** Scission d’une lignée ancestrale en au moins 2 lignées descendantes. Dans ce cas, une espèce descendante coexiste avec son espèce ancestrale
+* **Radiation adaptative :** multiplication rapide du nombre d’espèces \(de cladogenèses\) dans un court intervalle de temps \(Exemple des mammifères\)
+  * Peut être étroitement liée aux périodes de crises biologiques qui libèrent des niches écologiques.
+{% endhint %}
+
+![](../.gitbook/assets/homo-chrono-espece.png)
+
+### Causes de la spéciations
+
+{% hint style="warning" %}
+La spéciation est un mécanisme dynamique qui est l'ensemble des processus par lesquels de nouvelles espèces se forment. Venant d'une source commune, la variabilité. La variabilité phénotypique est due à la variabilité génétique qui a 3 causes principales
+
+* Mutations
+* Flux génique
+* Brassage génétique lié à la sexualité
+{% endhint %}
+
+#### Mutations
+
+
+
+## Catégories taxinomiques
+
+### Règle taxinomique
+
+{% hint style="warning" %}
+**Carl von Linné** met au point \(1758\) un système qui permet de dénommer précisément toute espèce animale ou végétale grâce à deux noms: le genre et l'espèce. Cette classification binominale est encore en vigueur 
+
+* Binôme écrit en **caractères italiques \(ou soulignés\)**
+* Nom de genre avec **initiale Majuscule**
+* Nom d’espèce avec **initiale minuscule \(+ nom de sous-espèce\)**
+* Nom **d’auteur** et **date de publication**
+
+Ex : Homo sapiens Linné, 1758
+
+Liste des catégories taxinomiques : Domaine / Règne / Embranchement \(Phylum\) / Classe / Ordre / Famille / Genre / Espèce
+{% endhint %}
+
+![](../.gitbook/assets/taxinomies.jpg)
+
+### Règnes
+
+{% hint style="warning" %}
+Il existe 6 règne en taxinomie 
+
+* **Bactéries** \(procaryotes unicellulaires sans **histone**\)
+* **Archées** \(procaryotes unicellulaires à **histones**\)
+* **Protistes** \(eucaryotes unicellulaires\) **\(problématique d’un point de vue phylogénétique\)**
+* **Mycètes** \(champignons\) \(eucaryotes multicellulaires, **hétérotrophes** et **osmotrophes** \)
+* **Végétaux** \(eucaryotes multicellulaires\)
+* **Animaux** \(eucaryotes multicellulaires\)
+{% endhint %}
 
 ## Définitions
 
@@ -997,5 +1089,9 @@ Apomorphe :
 Paraphylétique : 
 
 Polyphylétique : 
+
+**Histones :** protéines normalement présentes dans le noyau des eucaryotes 
+
+**Osmotrophe :** organisme ne se nourrissant que de matière dissoute par échange transmembranaires
 {% endhint %}
 
