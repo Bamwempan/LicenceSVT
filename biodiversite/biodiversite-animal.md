@@ -599,7 +599,7 @@ Mais par-contre à un effet important sur le **système** **nerveux** et **excr�
   * Animaux prédateurs ou hématophages \(ectoparasites\)
 {% endhint %}
 
-![Coupe transversale ann&#xE9;lide clitellate](../.gitbook/assets/coupe-transversale-annelides-clitellates.png)
+![Coupe transversale annelide citellate](../.gitbook/assets/coupe-transversale-annelides-citelates.jpg)
 
 {% hint style="info" %}
 Le tube digestif possède une invagination **médio-dorsale le typhlosolis** permet une augmentation de la surface d'échange. Possède des tissus chloragogène
@@ -699,13 +699,13 @@ Principales innovations
 * ‘véritable’ encéphale \(fusion des ggl. nervx. en un complexe supra-oesophagien\)
 {% endhint %}
 
-![](../.gitbook/assets/schemaannotercephalopdes.png)
+![](../.gitbook/assets/schema-annote-cephalopode.jpg)
 
 ### Ecdysozoaires
 
 ## Cœlome
 
-![Origine du c&#x153;lome](../.gitbook/assets/origine-du-coelome.png)
+![Origine du c&#x153;lome](../.gitbook/assets/origine-coelome.jpg)
 
 {% hint style="warning" %}
 Le cœlome le regroupement des cavités secondaire d'un animal. C'est une cavité creusé dans le mésoderme, délimité par une couche de cellules appelé péritoine ou mésothélium
@@ -738,9 +738,9 @@ Il existes différents système chez un métazoaire
 Les acœlomates sont les animaux qui n'ont pas de cavité interne
 {% endhint %}
 
-![](../.gitbook/assets/coupe-transversale-dun-planaire.png)
+![](../.gitbook/assets/coupe-transversale-planaire.jpg)
 
-![Vu longitudinale d&apos;un planaire](../.gitbook/assets/vue-longitidunale-dun-planaire.png)
+![](../.gitbook/assets/vue-longitudinale-planaire.jpg)
 
 ### Pseudocœlomates et Cœlomates
 
@@ -754,7 +754,7 @@ La formation du pseudocœlome est différente de celle du cœlome puisqu’il s
 
 ![Pseudoc&#x153;lomate](../.gitbook/assets/pseudocoelomate.png)
 
-![Pseudoc&#x153;lomate](../.gitbook/assets/pseudocoelomate%20%281%29.png)
+![Pseudoc&#x153;lomate](../.gitbook/assets/pseudocoelomate.jpg)
 
 #### Cœlomates
 
@@ -764,13 +764,13 @@ Cavité formé dans le mésoderme
 
 ![C&#x153;lomate](../.gitbook/assets/coelomate.png)
 
-![C&#x153;lomate](../.gitbook/assets/coelomates.png)
+![](../.gitbook/assets/exemple-coelomate.jpg)
 
 {% hint style="info" %}
 Cavité générale d'un organisme triploblastique délimitée de toute part par un feuillet mésodermique appelé péritoine.
 {% endhint %}
 
-![](../.gitbook/assets/coupe-transversale-dun-lombric.png)
+![](../.gitbook/assets/schema-coupe-trasnversal-lombric.jpg)
 
 #### Avantages
 
@@ -850,16 +850,4 @@ Epineurien :
 
 Bioturbation :
 {% endhint %}
-
-#### Prairie
-
-![Taxonomie des esp&#xE8;ces pr&#xE9;sentes dans le milieu Praire](../.gitbook/assets/taxonomie.jpg)
-
-#### Aquatique
-
-![Taxonomie des esp&#xE8;ces pr&#xE9;sentes dans le milieu aquatique &quot;&#xC9;tang&quot;](../.gitbook/assets/taxonomieaquatiqueetang.jpg)
-
-#### Foret
-
-![Taxonomie des esp&#xE8;ces pr&#xE9;sentes dans le milieu for&#xEA;t](../.gitbook/assets/taxonomieforet.jpg)
 
