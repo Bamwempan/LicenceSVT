@@ -7,22 +7,12 @@ description: Cours de biodiversité Animal
 ## Les métazoaires
 
 {% hint style="info" %}
-#### Définition
-
 Animaux constitués de plusieurs cellules formant des tissus bien individualisés aux fonctionnement coordonnées Les principaux groupes de métazoaire sont
 
-* Les vers nématodes
-* Les annélides
-* Les mollusques
-* Les arthropodes
-* Les vertébrés
+Le nombre d'espèces des **métazoaire** **connus** est environ **1,25 millions**, on estime à **10 millions la totalité**
 {% endhint %}
 
-### Diversité animale
-
-Le nombre d'espèces des **métazoaire** **connus** est environ **1,25 millions**, on estime à **10 millions la totalité**
-
-### Métazoaire dans l'arbre du vivant
+#### Métazoaire dans l'arbre du vivant
 
 Les métazoaires font parties de la branche de l'arbre des vivants, celle des eucaryotes. Ce sont tous des **unicontes** \(Cellule mobile avec un flagelle propulseur\)
 
@@ -85,31 +75,23 @@ Les porifères sont porteurs de pores. C'est une branche des métazoaire, leur m
 
 #### Caractéristique des porifères
 
+{% hint style="warning" %}
 * Pas de système nerveux central avec neurotransmetteurs
 * Organisme **aquatique** **sessiles**, simple, **criblés de pores**
 * Cellules spécialisé, présence de _**choanocytes**_
 * Cellules faiblement attachées, **pas de tissus**
+{% endhint %}
 
 #### Organisation des porifères
 
 Malgré leur différents formes et organisation, leur différences ne permet pas de les classés dans différentes branche phylogénétique. Grace à l'eau qui passe dans l'atrium par les pores inhalants \(ostiole\), les nutriments et l'oxygène circules au sein du porifère
 
-* Ascon
-* Sycon
-* Leucon
-
 ![Types d&apos;organisation des porif&#xE8;res](../.gitbook/assets/organisation-porifere.jpg)
 
 #### Choanocytes
 
-Les choanocytes sont des cellules spécialisé pour pomper l'eau et capturer les particules en suspension. Elle pratique la phagocytose et permette donc à nourrir le porifère
-
 {% hint style="warning" %}
-Constitution d'une cellule choanocyte
-
-* Flagelle
-* Collerette
-* Vacuole digestive
+Les choanocytes sont des cellules spécialisé pour pomper l'eau et capturer les particules en suspension. Elle pratique la phagocytose et permette donc à nourrir le porifère. Elles sont constituées d'une **flagelle**, **collerette** et des **vacuoles digestives**
 {% endhint %}
 
 ![Choanocyte](../.gitbook/assets/choanocyte.jpg)
@@ -138,7 +120,7 @@ Les cellules amibocytes sont totipotente
 
 #### Fonctionnement des porifères
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Les porifères ne possèdent pas de cavité interne
 {% endhint %}
 
@@ -167,17 +149,17 @@ Les porifères ne possèdent pas de cavité interne
 #### Grande lignée de porifères
 
 {% hint style="warning" %}
-* Les Demosponges
+* Les **Demosponges**
   * 8000 espèces environs soit 80% total
   * Présentes  dans tous les environnements
-* Les Hexactinellides ou éponges de verre
+* Les **Hexactinellides** ou éponges de verre
   * 1000 espèces, qui sont toutes constituées de spicules de silices à 6 pointes
   * Milieu marin profond, environ 200m, et froid
   * Pas de choanoderme \(Un choanosyncytium - syncytium : cellules à plusieurs noyaux\)
-* Les Calciponges ou éponges de calcaire
+* Les **Calciponges** ou éponges de calcaire
   * Milieu marin en eaux peu profondes et chaudes
   * Récifs coralliens
-* Les Homoscléromorphes
+* Les **Homoscléromorphes**
   * Eaux marines peu profondes
   * Eponges encroûtantes 
   * Pas ou peu de spicules \( $$CaCO_3$$ ou $$SiO_2$$ \)
@@ -189,10 +171,11 @@ Les porifères ne possèdent pas de cavité interne
 {% hint style="warning" %}
 * Différenciation cellulaire poussé
   * Cellules musculaires
-  * Cellules nerveuse et sensorielle, il y a existence de synapse chimiques et donc de système nerveux
-* Cavité digestive bien différenciée
+  * **Cellules nerveuse et sensorielle**, il y a existence de **synapse chimiques** et donc de **système nerveux**
+* **Cavité digestive** bien différenciée
   * Bouche
   * Cellules sécrétrices d'exoenzymes
+* **Gène Hox** contrôlant le développement
 * Lame basale complexe
   * Diversité des molécules de structure
 * **Epithélium**
@@ -201,21 +184,6 @@ Les porifères ne possèdent pas de cavité interne
     * lamina lucida
     * lamina densa
   * Complexe de jonction
-{% endhint %}
-
-### A savoir impérativement
-
-{% hint style="success" %}
-* Métazoaires et Eumétazoaires
-* Porifères \(Spongiaires\) - Choanocytes
-  * Pinacoderme / Mésoglée / Choanoderme
-  * Porocyte / Sclérocyte / Amibocyte
-  * Diversité des porifère
-    * Démosponges
-    * Hexactinellides
-    * Calciponges
-    * Homoscléromorphes
-* Savoir refaire les schémas principaux
 {% endhint %}
 
 ## Cnidaires et Bilatériens
@@ -463,22 +431,16 @@ Les protostomiens spiraliens se différencies grâce à différent caractère
 * **Clivage spiral** lors de embryogenèse précoce  ![](../.gitbook/assets/clivage-spirale-embryogenese-precose.png) 
 {% endhint %}
 
-### Plathelminthes
+#### Plathelminthes
 
 {% hint style="warning" %}
-Il existe deux grande forme de plathelminthes
-
-* Forme libre
-  * Planaires \(Ou Turbellariés\)
-* Forme "parasite"
-  * Cestodes
-  * Trématodes
+Il existe deux grande forme de plathelminthes, forme libre **planaire** \(ou Turbellariés\) et **forme** "**parasite**" **Cestodes** et **Trématodes**
 {% endhint %}
 
 #### Planaires
 
 {% hint style="warning" %}
-Les plathelminthe sont des **acœlomate**, **prédateur**. Malgré que la bouche soit au niveau du ventre, leur tête est bien à l'avant de l'animal. \(Tête  = concentration système nerveux\)  
+Les plathelminthes turbellariés sont des **acœlomate**, **prédateur**. Malgré que la bouche soit au niveau du ventre, leur tête est bien à l'avant de l'animal. \(Tête  = concentration système nerveux\)  
 **Système excréteur** \(protonéphridie formée de **cellules flammes**\)  
 L'animal est remplie de **mésenchyme** d'origine mésodermique et de liquide, c'est un hydrosquelette qui transporte des gaz et les aliments.
 
@@ -558,7 +520,7 @@ Les cestodes ont des **ventouses** et des **crochets**, sont constitué d'une **
 * Excrétion : Protonéphridie \(Cellules flammes\)
 {% endhint %}
 
-### Trochozoaires
+#### Trochozoaires
 
 ![](../.gitbook/assets/arbra-phylogenetique-des-protostomiens-focus-trochozoaires.png)
 
@@ -594,7 +556,7 @@ Il y a une croissance ventro-dorsale et les bandelettes mésodermiques ne se seg
 #### Annélides
 
 {% hint style="warning" %}
-Les annélides représentent environ **15000 espèces**. Ce sont des **vers annelés**, **triploblastique,** **protostomiens, hyponeuriens**, **cœlomates** et **métamérisés**.
+Les annélides représentent environ **15000 espèces**. Ce sont des **vers annelés**, **triploblastique,** **protostomiens, hyponeuriens**, **cœlomates, métamérisés et possédant un système circulatoire clos**.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -624,14 +586,14 @@ Mais par-contre à un effet important sur le **système** **nerveux** et **excr�
 #### 3 Grand type d'annélides
 
 {% hint style="warning" %}
-* Polychètes
+* **Polychètes**
   * Animaux marin vagile ou sédentaire
   * Chaque métamère porte des expansion latérales, les parapodes. d'une multitudes de **soies** \(d'ou le polychètes\)
   * Ils ont des sexes séparés
-* Clitellates
+* **Clitellates**
   * Annélides hermaphrodites qui possèdent un épaississement de l'épiderme à maturité sexuelle; le clitellum, qui permet la sécrétion d'un cocon reproducteur
   * Ils sont oligochètes et comporte peu de soies et pas de parapodes
-* Achètes
+* **Achètes**
   * Aussi appelé sangsue, ne possèdent ni parapodes ni soies
   * Métamérie peu visible, possède une ventouse anal et parfois buccale
   * Animaux prédateurs ou hématophages \(ectoparasites\)
@@ -662,6 +624,8 @@ Bioturbation des sédiments marins
 * Homogénéisation de la matière organique
 * Oxygénation des niveaux profonds
 * Stimulation des communautés microbiennes
+
+2 tonnes de vers de terres à l'hectare en 1950, à moins de 100 kilos de nos jours
 {% endhint %}
 
 #### Mollusques
@@ -671,14 +635,9 @@ Il existe environ 80 000 espèces de mollusque, ils sont proche des annélides m
 
 Composé de trois grandes parties
 
-* Tête
-  * Yeux
-  * Tentacules sensoriels
-  * Bouche \(Radula\)
-* Pied
-  * Locomotion, très musculeux
-* Masse viscérale
-  * un **manteau** qui sécrète la **coquille** qui limite une **cavité palléale** contenant les **branchies**
+* Tête : Yeux, Tentacules sensoriels, Bouche **\(Radula\)**
+* **Pied** : Locomotion, très musculeux
+* Masse viscérale : un **manteau** qui sécrète la **coquille** qui limite une **cavité palléale** contenant les **branchies**
 {% endhint %}
 
 * [ ] AJOUTER SCHEMA MOLLUSQUE ANNOTER PROPREMENT
@@ -741,6 +700,8 @@ Principales innovations
 {% endhint %}
 
 ![](../.gitbook/assets/schemaannotercephalopdes.png)
+
+### Ecdysozoaires
 
 ## Cœlome
 
