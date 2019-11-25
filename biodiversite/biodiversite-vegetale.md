@@ -901,51 +901,54 @@ Le mode de vie fixé d'une plante lui oblige à faire face aux conditions locale
 
 ### Passage de la mauvaise saison
 
+Selon les régions, la mauvaise saison peut être la saison chaude ou la saison froide. La saison froide est problématique pour la plante car il y a une **impossibilité des réactions enzymatiques du métabolisme \(photosynthèse\)**, et une **déshydratation.**
+
+#### Cycles de vie des plantes
+
 {% hint style="warning" %}
-Selon les régions, la mauvaise saison peut être la saison chaude ou la saison froide.
+* **Plante annuelles** \(Mauvaise saison se passe sous forme de graine, le système de protection s'effectue sur les graines\) Ex: Coquelicot
+* **Plantes bisannuelles** cycle de vie dure 2 ans \(Le passage de la mauvaise saison se fait sous forme d’organe de réserve par exemple le bulbe ou tubercule\) Ex. : oignon, carotte, navet, betterave
+* **Plantes pérennes/vivaces** vivent plusieurs années. Le système de protection dépend du type de plante
+  * Plante herbacée : résistance par rhizome, bulbe, tubercule 
+  * Plante ligneuse : résistance par adaptation des bourgeons.
 {% endhint %}
 
-* [ ] REFAIRE ET VITE !
-
-#### Saison froide
+Ces cycles de vies ont était répertorier et classé par Christen Raunkiær voici la liste
 
 {% hint style="warning" %}
-La saison froide est problématique pour la plante car il y a une **impossibilité des réactions enzymatiques du métabolisme \(photosynthèse\)**, et une **déshydratation**
+* **Phanérophytes :** tous les bourgeons sont au-dessus de la couche de neige hypothétique \(25cm\). La plante présente donc des adaptations lui permettant de protéger ses bourgeons.
+* **Chamaephytes :** bourgeons protégés par la couche de neige.
+* **Hémicryptophytes :** bourgeon au niveau du sol \(ex. carotte\). La protection du bourgeon est assurée par la litière \(reste de feuilles tombées\) qui le recouvre.
+* **Thérophytes :** pas de bourgeons caulinaires. La plante passe la mauvaise saison sous forme de graines \(= plantes annuelles\) sur ou dans le sol.
+{% endhint %}
 
-Pour se faire la plante peut mettre en place différentes adaptations : 
+#### Système de protection contre le froid et la déshydratation
 
-* Cycles de vie
-  * **Plante annuelles** \(Mauvaise saison se passe sous forme de graine, le système de protection s'effectue sur les graines\) Ex: Coquelicot
-  * **Plantes bisannuelles** cycle de vie dure 2 ans \(Le passage de la mauvaise saison se fait sous forme d’organe de réserve par exemple le bulbe ou tubercule\) Ex. : oignon, carotte, navet, betterave
-  * **Plantes pérennes/vivaces** vivent plusieurs années. Le système de protection dépend du type de plante
-    * Plante herbacée : résistance par rhizome, bulbe, tubercule 
-    * Plante ligneuse : résistance par adaptation des bourgeons.
-* Formes de vie
-  * **Phanérophytes :** tous les bourgeons sont au-dessus de la couche de neige hypothétique \(25cm\). La plante présente donc des adaptations lui permettant de protéger ses bourgeons.
-  * **Chamaephytes :** bourgeons protégés par la couche de neige.
-  * **Hémicryptophytes :** bourgeon au niveau du sol \(ex. carotte\). La protection du bourgeon est assurée par la litière \(reste de feuilles tombées\) qui le recouvre.
-  * **Thérophytes :** pas de bourgeons caulinaires. La plante passe la mauvaise saison sous forme de graines \(= plantes annuelles\) sur ou dans le sol.
-* Différent système de protection contre le froid et la déshydratation
-  * Tégument autour de la graine
-  * Bourgeon écailleux chez les plantes ligneuse pérennes
-  * Organes modifiés 
-    * Feuilles modifiées tunique sèche autour du bulbe, feuilles non photosynthétiques souterraines et charnues \(réserves\) insérées sur une tige souterraine courte \(plateau\) 
-    * Tiges modifiées, réserve dans le parenchymes
-      * Rhizomes chez le muguet
-      * Tubercule caulinaire \(Pomme de terre\)
-      * Corme \(Crocus\)
-    * Racine tubérisées \(réserve dans les parenchymes des tissus conducteurs secondaire\)
-      * Dahlia : stockage dans xylème secondaire
-      * Carotte : stockage dans phloème secondaire
-    * Organes mixtes partie de la tige + racine Mise en réserve dans les parenchymes du xylème secondaire
-  * Suber
-  * Mécanisme des feuilles
-    * Feuille persistante
-    * Feuille marcescentes \(Morte mais rester sur l'arbre\)
-    * Feuille caduque
-* Mise en réserve avant la saison froide
-  * Parenchymes des tissus conducteurs secondaires des espèces ligneuses : Réserves d’amidon dans les amyloplastes mises en place à la fin de l’été mobilisables pour la reprise de la végétation.
-  * Dans des graines, il y a présences différents tissus qui permettent d’accumuler des réserves \(amidon, lipides, protéines\) que l’embryon pourra utiliser au moment de la germination de la graine pour son développement.
+{% hint style="warning" %}
+* Tégument autour de la graine
+* Bourgeon écailleux chez les plantes ligneuse pérennes
+* Organes modifiés
+  * Feuilles modifiées tunique sèche autour du bulbe, feuilles non photosynthétiques souterraines et charnues \(réserves\) insérées sur une tige souterraine courte \(plateau\) 
+  * Tiges modifiées, réserve dans le parenchymes
+    * Rhizomes chez le muguet
+    * Tubercule caulinaire \(Pomme de terre\)
+    * Corme \(Crocus\)
+  * Racine tubérisées \(réserve dans les parenchymes des tissus conducteurs secondaire\) 
+    * Dahlia : stockage dans xylème secondaire 
+    * Carotte : stockage dans phloème secondaire
+  * Organes mixtes partie de la tige + racine Mise en réserve dans les parenchymes du xylème secondaire
+* Suber
+* Mécanisme des feuilles
+  * Feuille persistante
+  * Feuille marcescentes \(Morte mais rester sur l'arbre\)
+  * Feuille caduque
+{% endhint %}
+
+#### Mise en réserve pour la saison froide
+
+{% hint style="warning" %}
+* Parenchymes des tissus conducteurs secondaires des espèces ligneuses : Réserves d’amidon dans les amyloplastes mises en place à la fin de l’été mobilisables pour la reprise de la végétation.
+* Dans des graines, il y a présences différents tissus qui permettent d’accumuler des réserves \(amidon, lipides, protéines\) que l’embryon pourra utiliser au moment de la germination de la graine pour son développement.
 {% endhint %}
 
 ![Forme de vie \(C.Raunkiaer\)](../.gitbook/assets/forme-vie-raunkiaer.png)
