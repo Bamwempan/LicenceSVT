@@ -999,6 +999,49 @@ Les épiphytes représentes 10% des trachéophytes, vivent sur troncs, branches,
 
 ### Prédation
 
+#### Eviter les prédateurs
+
+{% hint style="warning" %}
+Pour éviter les prédateurs il y a différentes techniques
+
+* Plantes mimétiques \(Ex. Lamier blanc mimétique de l’ortie urticante\)
+* Se cacher à la vue des prédateurs \(Ex. Philodendron\)
+{% endhint %}
+
+#### Protection physique par une morphologie adaptée
+
+{% hint style="warning" %}
+* Suber protecteur
+* Feuille coupantes
+* Poils urticants
+* Aiguillons
+* Épines
+{% endhint %}
+
+#### Protection chimiques
+
+{% hint style="warning" %}
+Production de composés chimiques désagréables ou toxiques
+
+* Métabolites secondaires \(tannins \(antilope/acacia\)\)
+* Canavanine \(acide aminé proche de l’arginine\)
+
+Communication chez les plantes \( émission de composés volatiles par les plantes attaquées \) =&gt; production de composés chimiques de défenses.
+{% endhint %}
+
+#### Interaction de symbiose avec d’autres organismes
+
+{% hint style="warning" %}
+Certaines plantes attirent animaux prédateurs afin qu’ils les aident à se défendre contre les herbivores. 
+
+* Via les fourmis, plantes myrmécophile \(Myrmé = Fourmis\)
+* Guêpes parasitoïdes \(Qui pondent dans le corps des chenilles\)
+{% endhint %}
+
+#### Synthèse
+
+![](../.gitbook/assets/synthese-predation.png)
+
 ### Nutrition
 
 ## Travaux pratique
