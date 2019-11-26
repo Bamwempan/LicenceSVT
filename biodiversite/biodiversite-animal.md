@@ -705,7 +705,31 @@ Principales innovations
 
 #### Bivalve
 
+{% hint style="warning" %}
+* Coquille formée de 2 valves calcaires + charnière
+* Pas de flexion du corps
+* Pied ventral en "hache"
+* Cavité palléale de grande taille avec lames branchiales
+* Bouche avec 4 palpes labiaux
 
+Evolution : Nutrition par filtration, Acéphale, Pertes secondaires de radula
+{% endhint %}
+
+![](../.gitbook/assets/schema-mollusque-bivalve.jpg)
+
+![](../.gitbook/assets/schema-fonctionel-bivalve.jpg)
+
+#### Fonctionnement et écologie des mollusques
+
+{% hint style="warning" %}
+* Respiration et circulation : Cténidies \(branchies\) ou poumons, système circulatoire ouvert \(Sauf les céphalopodes\)
+* Alimentation et digestion : Radula \(Sauf les bivalves\)
+* Reproduction sexuée \(parfois Hermaphrodite\), larve trochophore \(Nommée Véligère\)
+* Ecologie 
+  * Herbivores, filtreurs, prédateurs et proies Vecteur de parasites
+
+    Espèces invasives
+{% endhint %}
 
 ### Ecdysozoaires
 
