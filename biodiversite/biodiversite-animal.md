@@ -640,7 +640,9 @@ Composé de trois grandes parties
 * Masse viscérale : un **manteau** qui sécrète la **coquille** qui limite une **cavité palléale** contenant les **branchies**
 {% endhint %}
 
-* [ ] AJOUTER SCHEMA MOLLUSQUE ANNOTER PROPREMENT
+![](../.gitbook/assets/schema-mollusque-sn-masse-viscerale.png)
+
+![](../.gitbook/assets/schema-mollusque-appareil-circulatoire-sn.jpg)
 
 {% hint style="warning" %}
 Le tube digestif d'une larve véligère subis trois modification
@@ -701,6 +703,10 @@ Principales innovations
 
 ![](../.gitbook/assets/schema-annote-cephalopode.jpg)
 
+#### Bivalve
+
+
+
 ### Ecdysozoaires
 
 ## Cœlome
@@ -721,7 +727,7 @@ La cavité primaire est l'archentéron, qui est l'intestin primitif au stade emb
 
 Le **blastopore** est **l'orifice** de la **blastula** faisant communiquer **l’archentéron** avec **l’extérieur**. Il résulte de l’invagination du matériel superficiel **lors** de la **gastrulation** et constituera **l’anus** chez les **deutérostomiens** et la **bouche** chez les **protostomiens**.
 
-![C&#x153;lome](../.gitbook/assets/difference-des-coelome.png)
+![](../.gitbook/assets/difference-coelome.jpg)
 
 Il existes différents système chez un métazoaire
 
