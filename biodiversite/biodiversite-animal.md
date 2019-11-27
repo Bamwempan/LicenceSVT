@@ -400,7 +400,7 @@ Il y a deux mode de mise en place de cœlome, **schizocœlie** et **entérocœli
 Le cœlome n'est pas un caractère phylogénétique
 {% endhint %}
 
-## Protostomiens
+## Protostomiens spiraliens
 
 ![Arbre phylog&#xE9;n&#xE9;tique protostomiens](../.gitbook/assets/arbre-phylogenetique-protostomien.jpg)
 
@@ -410,15 +410,9 @@ Le cœlome n'est pas un caractère phylogénétique
 Lors de l'évolution de l'embryon, le blastopore peut devenir, soit la bouche et l'être est alors un protostomien, ou alors l'anus, la bouche est une ouverture secondaire du tube digestif et l'être est alors un deutérostomien
 {% endhint %}
 
-#### Protostomiens
+![Protostomiens Blastopore devient la bouche](../.gitbook/assets/blastopore-bouche.png)
 
-![Blastopore devient la bouche](../.gitbook/assets/blastopore-bouche.png)
-
-#### Deutérostomiens
-
-![Blastopore devient l&apos;anus](../.gitbook/assets/blastopore-anus.png)
-
-### Spiraliens
+![Deuterostomiens Blastopore devient l&apos;anus](../.gitbook/assets/blastopore-anus.png)
 
 ![](../.gitbook/assets/arbre-phylogenetique-protostomiens.png)
 
@@ -431,7 +425,7 @@ Les protostomiens spiraliens se différencies grâce à différent caractère
 * **Clivage spiral** lors de embryogenèse précoce  ![](../.gitbook/assets/clivage-spirale-embryogenese-precose.png) 
 {% endhint %}
 
-#### Plathelminthes
+### Plathelminthes
 
 {% hint style="warning" %}
 Il existe deux grande forme de plathelminthes, forme libre **planaire** \(ou Turbellariés\) et **forme** "**parasite**" **Cestodes** et **Trématodes**
@@ -520,7 +514,7 @@ Les cestodes ont des **ventouses** et des **crochets**, sont constitué d'une **
 * Excrétion : Protonéphridie \(Cellules flammes\)
 {% endhint %}
 
-#### Trochozoaires
+### Trochozoaires
 
 ![](../.gitbook/assets/arbra-phylogenetique-des-protostomiens-focus-trochozoaires.png)
 
@@ -731,7 +725,7 @@ Evolution : Nutrition par filtration, Acéphale, Pertes secondaires de radula
     Espèces invasives
 {% endhint %}
 
-### Ecdysozoaires
+## Protostomiens Ecdysozoaires
 
 ## Cœlome
 
