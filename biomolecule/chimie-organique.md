@@ -561,3 +561,19 @@ $$
 * Et donc $$2^{n-1}$$ **couple d'énantiomères au maximum**
 {% endhint %}
 
+## Effets électroniques - Acidité / Basicité
+
+![](../.gitbook/assets/tableau-electronegativite.jpg)
+
+### Effet inductif
+
+L’effet de polarisation des liaisons s par des atomes ou des groupes d’atomes est appelé **effet inductif**. Cet effet peut se transmettre de proche en proche sur le squelette s mais s’atténue très rapidement et est pratiquement nul au-delà de 3 ou 4 liaisons
+
+![](../.gitbook/assets/effet-inductif-example.png)
+
+Les effets inductifs sont classés **par comparaison à la polarisation de la liaison s carbone-hydrogène prise comme référence.** Deux cas peuvent se présenter  
+Si atome ou groupe d’atomes **plus** électronégatif que H =&gt; **Effet inductif attracteur \(-I\)**  
+Si atome ou groupe d’atomes **moins** électronégatif que H =&gt; **Effet inductif donneur \(+I\)**
+
+### **Acidité Basicité**
+
