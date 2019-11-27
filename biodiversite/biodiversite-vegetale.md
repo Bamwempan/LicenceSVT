@@ -199,11 +199,11 @@ La lignée verte est une partie des algues \(Produise de la chlorophylle a ou a/
 
 ### Focus Angiosperme
 
-#### 
-
 #### Monocotylédone
 
 #### Dicotylédone
+
+### Différents types de plantes
 
 ## Plan organisation Histologique
 
@@ -1043,6 +1043,54 @@ Certaines plantes attirent animaux prédateurs afin qu’ils les aident à se d�
 ![](../.gitbook/assets/synthese-predation.png)
 
 ### Nutrition
+
+#### Nutrition hydrique
+
+{% hint style="warning" %}
+* Absorption par les poils au niveaux des racines via la zone pilifère \(pour les plantes qui en possèdent\)
+  * Pour les arbres, pas assez de poils, mise en place d'une **symbiose mycorhize**, formée par des mycéliums
+  * Pour les mousses, toute la surface de la plante peut absorber l'eau, ont dit qu'elle est **poïkilohydre** 
+* **Pneumatophore**, Syst Racinaire aérienne, permettant l’échange d'oxygène \(Lenticelles\) améliore la fixation de la plante.
+* **Racine contreforts**, Système racinaire adventives permettant de s'ancrer sur les sols peu profond
+* **Épiphyte**, racine adventive qui absorbe l’humidité atmosphérique part le **velamen.** Disposition des feuille en rosette pour attirer l'eau vers le centre. Chez les broméliacée épiphyte il y a absorption via des poils épidermiques protecteurs : **Trichomes**
+
+Pour les plantes aquatique \(**Hydrophyte**, **Hélophyte**\), le facteur **limitant** n'est plus l'eau mais **l'oxygène**. Il y a donc présence d'un **aérenchyme**, composé de **parenchyme et de lacune aérifère**. L'aérenchyme à 3 rôles important, "**squelette**" hydrodynamique souple \(élastique\), assure la **flottaison**, **réserve de CO2 et O2.** 
+{% endhint %}
+
+#### Nutrition azotée
+
+{% hint style="warning" %}
+* Symbiose plante / bactérie via symbiose Rhizobium-Légumineuse, apparition de protubérance \(nodule, nodosités\), qui correspond au cellules infecter par les bactéries.
+  * Confère un abri pour la bactérie et de la nutrition carbonée et la bactérie permet la nutrition azotée pour la plante
+* Plante carnivore avec différents types de pièges
+{% endhint %}
+
+![Symbiose rhizobium](../.gitbook/assets/nodules-rhizobium.jpg)
+
+#### Nutrition carbonée
+
+{% hint style="warning" %}
+Transformation morphologique avec :   
+**Phyllode** \(pétiole aplati ayant l'apparence d'un limbe et assurant les mêmes fonctions \(photosynthèse et respiration\)\)  
+**Cladode** rameau \(tige\) ayant l'apparence d'une feuille et assurant les mêmes fonctions \(photosynthèse et respiration, réserves\).
+{% endhint %}
+
+#### Nutrition par parasitisme
+
+{% hint style="warning" %}
+**Hémiparasite** : chlorophyllien \(capable d’assurer sa nutrition carbonée\), prélève eau et substances minérales dans l’hôte. \(Gui en exemple\)  
+**Holoparasite :** évolution secondaire avec une perte équipement pigmentaire photosynthétique \(non chlorophyllien\) dépend complètement du métabolisme carboné de l’hôte. \(Orobanches en exemple\)
+{% endhint %}
+
+### Adaptation sécheresse
+
+{% hint style="warning" %}
+Adaptation à la sécheresse par **évitement**, les plantes annuels \(thérophytes\) sous forme de graine dans le sol, plantes pérennes sous formes de bulbes, rhizomes, tubercules ou feuillage caduc chez les ligneux.  
+Par **tolérance**, arrêt du métabolisme suite à la perte de l’essentiel de l’eau par la plante, réversible quand les conditions sont de nouveau favorables **reviviscence** \(Cas des plantes poïkilohydres\)  
+Par **résistance,** maintien en vie même en période d'indisponibilité en eau \(Plantes Xérophytes\), via deux stratégies différentes, **résistance au contrainte** \(**malacophytes**\), **stratégie d'endurance face aux contrainte** \(**sclérophytes**\)
+{% endhint %}
+
+![](../.gitbook/assets/synthese-nutrition.png)
 
 ## Travaux pratique
 
