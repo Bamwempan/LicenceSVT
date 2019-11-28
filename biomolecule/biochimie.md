@@ -52,8 +52,6 @@ Les glucides on plusieurs utilités
 Les **oses** sont **polyalcools** et contenant un **carbonyle** \(**Aldéhyde** ou **Cétone**\) 
 {% endhint %}
 
-![Fonction mol&#xE9;culaire](../.gitbook/assets/fonction-moleculaire.png)
-
 #### Exemple glucose
 
 La formule brut du glucose est $$C_6H_{12}O_6$$ et sa masse moléculaire est de   

@@ -8,7 +8,7 @@ description: Semestre Automne année 1
 
 #### Règle Klechkwoski
 
-![R&#xE8;gle Klechkwoski](../.gitbook/assets/re-gle-de-klechowski.png)
+![](../.gitbook/assets/regle-klechowski.jpg)
 
 #### Structures électroniques des atomes principaux de chimie organique
 
@@ -30,7 +30,7 @@ description: Semestre Automne année 1
 C'est grâce à l'état excité de l'atome qui peut y avoir des orbitale hybride
 {% endhint %}
 
-![](../.gitbook/assets/hybridation-sp%20%281%29.png)
+![](../.gitbook/assets/hybridation-sp%20%281%29.jpg)
 
 #### Hybridation Sp3 $$Sp_3$$ \(Tétragonal\)
 
@@ -42,7 +42,7 @@ Les 4 orbitales hybride sont orientés suivant 4 directions d'un **tétraèdre r
 Chaque orbitale hybride fait un angle de **109.28°** avec ses voisines et **contient 1 électron**.  
 Les 4 électrons seront engagés dans **4 liaisons** $$\sigma$$\(sigma\)\(Recouvrement axial\)
 
-![Hybridation Sp3](../.gitbook/assets/carbone-sp3.png)
+![](../.gitbook/assets/hybridation-sp3.png)
 
 #### Hybridation Sp2 $$Sp_2$$ \(Trigonal\)
 
@@ -50,7 +50,7 @@ Les 4 électrons seront engagés dans **4 liaisons** $$\sigma$$\(sigma\)\(Recouv
 $$Csp_2$$ = 3 Liaisons $$\sigma$$ et une liaison $$\pi$$ / Une hybridation Sp2 est constitué d'au moins une liaison double 
 {% endhint %}
 
-![Forme de l&apos;orbitale pour une hybridation Sp2 / Hybridation Sp2 avec la mol&#xE9;cule C2H4](../.gitbook/assets/sans-titre.jpg)
+![](../.gitbook/assets/hybridation-sp2.jpg)
 
 #### Hybridation Sp $$Sp$$ \(Linéaire\)
 
@@ -60,7 +60,7 @@ $$Csp_2$$ =  2 Liaisons $$\sigma$$ et 2 liaisons $$\pi$$
 
 ![Hybridation Sp carbone](../.gitbook/assets/hybridation-sp-exemple.png)
 
-![Hybridation sp](../.gitbook/assets/hybridation-sp.png)
+![](../.gitbook/assets/schema-hybridation-sp.png)
 
 ### Etat fondamentale et excité de l'azote et de l'oxygène
 
@@ -112,7 +112,7 @@ _**Règle du duet :**_ l'Atome d'Hydrogène se lie de manière à a ce que sa co
 _**Règles de l'octet :**_ Tous les autres atomes se lient entre eux de manière à ce que leur couche de valence comporte, si possible, un octet d'électrons
 {% endhint %}
 
-![Formule de lewis](../.gitbook/assets/formuledelewis.jpg)
+![](../.gitbook/assets/formule-lewis-example.jpg)
 
 * Atomes avec couche de valence à 1 au extrémité
 * Atome avec couche de valence plus élevé au centre
@@ -124,7 +124,7 @@ Si la formule est + alors on retire 1 à $$\nu$$ si la formule est - alors on aj
 $$NH_4^+$$ Ou $$C_2H_3O_2^-$$ 
 {% endhint %}
 
-![Charge Formelle Lewis C2H3O2- et NH4+](../.gitbook/assets/chargeformellelewis.png)
+![](../.gitbook/assets/charge-formelle-lewis-example.png)
 
 ### Ecriture sous forme brut
 
@@ -147,11 +147,11 @@ Il existe 3 principales géométries en chimie organique
 * $$AX_2$$ \(Diagonale / linéaire\)
 {% endhint %}
 
-![VSEPR en Hybridation A](../.gitbook/assets/mode-le-vsper.jpg)
+![VSEPR en Hybridation A](../.gitbook/assets/modele-vspr.jpg)
 
 ### Tableau récapitulatif des forme géométrique
 
-![Tableau r&#xE9;capitulatif des formes g&#xE9;om&#xE9;trique de la th&#xE9;orie de VESPR](../.gitbook/assets/capture-du-2019-09-20-14-58-09.png)
+![Tableau r&#xE9;capitulatif des formes g&#xE9;om&#xE9;trique de la th&#xE9;orie de VESPR](../.gitbook/assets/example-vsepr.jpg)
 
 ## Représentation plane \(Topologique\)
 
@@ -223,11 +223,11 @@ Une liaison double correspond à $$n=1$$ et une liaison triple à $$n = 2$$
 La **valence** d'une fonction **correspond** au **nombre** **d'atome** **d'hydrogène** qui ont été **substitués** par un **hétéro-atome** en se référant à **l'alcane** **saturé** **correspondant**
 {% endhint %}
 
-![Liste des principales fonctions mol&#xE9;culaire de Chimie organique](../.gitbook/assets/fonction-moleculaire.png)
+![](../.gitbook/assets/fonction-moleculaire-chimie-organique.jpg)
 
 ## Nomenclature
 
-![Nomenclature chimie organique](../.gitbook/assets/bch1a05lcmchimieorganique-009.jpg)
+![](../.gitbook/assets/nomenclature-chimie-organique.jpg)
 
 ### Exemple nomenclature
 
@@ -274,7 +274,7 @@ La **valence** d'une fonction **correspond** au **nombre** **d'atome** **d'hydro
 
 #### Molécule F
 
-![Mol&#xE9;cule F](../.gitbook/assets/molecule-f.jpeg)
+![](../.gitbook/assets/molecule-f.jpeg)
 
 ## Isomérie de constitution
 
@@ -296,7 +296,7 @@ Il est alors représenté au moyen d ’une formule plane.
 
 #### Mise en place de l'isomérie
 
-![Isom&#xE9;rie](../.gitbook/assets/isomerie.png)
+![](../.gitbook/assets/isomerie-schema-explication.jpg)
 
 ## Représentation
 
@@ -304,11 +304,11 @@ La Stéréoisomérie est la différence de disposition des atomes dans l'espace,
 
 ### Représentation Cram
 
-![Repr&#xE9;sentation de cram](../.gitbook/assets/representation-de-cram.png)
+![](../.gitbook/assets/representation-cram-example.jpg)
 
 ### Représentation  Perspective Cavalière
 
-![Perspective Cavali&#xE8;re](../.gitbook/assets/perspective-cavaliere.png)
+![](../.gitbook/assets/representation-perspective-cavaliere-example.jpg)
 
 ### Projection de Fischer
 
@@ -322,9 +322,9 @@ Ce mode de représentation est utilisé essentiellement dans la chimie des suc
 2. Fonction la plus oxydée en haut \( $$CO_2H>CHO>CH_2OH>CH_3$$ \)
 3. Carbone extrémité en arrière
 
-![Projection Fisher, Repr&#xE9;sentation Cram et repr&#xE9;sentation cavali&#xE8;re](../.gitbook/assets/fisher-cram-cavalie-re.png)
+![](../.gitbook/assets/representation-fischer-glucose.jpg)
 
-![Fisher Glucose](../.gitbook/assets/fisher-glucose.png)
+![](../.gitbook/assets/fischer-cram-cavaliere-example.png)
 
 ### Projection de Newman
 
@@ -335,7 +335,7 @@ Ce mode de représentation est utilisé essentiellement dans la chimie des suc
   masqué par celui de devant.
 {% endhint %}
 
-![](../.gitbook/assets/representation-de-newman.png)
+![](../.gitbook/assets/representation-newman-example.jpg)
 
 ### Conformation cyclohexane
 
@@ -344,13 +344,13 @@ Il existe deux conformations, conformation "chaise" et conformation "bateau". Du
 * 6 liaisons axiales \(Ax\) perpendiculaires au "plan moyen du cycle" et disposées de part et d'autre de ce plan, respectivement vers le haut et vers le bas
 * 6 liaisons équatoriales \(Eq\) faisant un angle faible \(15°\) avec ce plan moyen, également alternées par rapport à lui
 
-![Conformation Chaise](../.gitbook/assets/coformation-chaise.png)
+![](../.gitbook/assets/conformation-chaise-example.jpg)
 
 Le **conformère** **chaise** le plus **stable** est celui qui met tous les **substituants** \(atome ou groupe d'atome qui substitue l'hydrogène\) en position **équatorial**. S'il n'est pas possible d'avoir tous les **substituants** en position **équatoriale**, le **plus** **stable** est celui qui a le regroupement le plus **volumineux** en position **équatoriale** afin **d'éviter les interactions di-axiale 1-3**
 
 Si un **cycle** porte **deux** **substituants** sur **deux** **atomes** **différents**, alors il existe une isomérie cyclanique en fonction de leur position relative. On parlera d’isomérie **cis** si les deux substituants sont du même **côté** du **plan** moyen du **cycle**, et d’isomérie **trans** s’ils sont de **part** et **d’autre** du **plan** moyen du **cycle**.
 
-![Cis et Trans](../.gitbook/assets/cis-et-trans.png)
+![](../.gitbook/assets/cis-trans-chaise-example.jpg)
 
 ## Stéréoisomérie de conformation
 
@@ -361,7 +361,7 @@ Des **stéréoisomères** sont des composés ayant **même formule de const
 Les différents arrangements des atomes qui résultent de la rotation autour d’une liaison simple sont appelés **conformations** et une conformation particulière est appelée **conformère**.
 {% endhint %}
 
-![St&#xE9;r&#xE9;oisom&#xE9;rie](../.gitbook/assets/stereoisemirie.png)
+![](../.gitbook/assets/stereosimerie-explication.jpg)
 
 ### Cas de l'éthane
 
@@ -380,7 +380,7 @@ Il existe **deux** **conformation** **particulières**
 On passe d'une conformation à l'autre par des rotations de 60 degrés
 {% endhint %}
 
-![](../.gitbook/assets/conformation-decale-et-eclipse.png)
+![](../.gitbook/assets/conformation-eclipse-decale.png)
 
 {% hint style="success" %}
 On dit que 2 conformations décalées successives sont séparées par une **barrière d’énergie** \(ou **barrière de potentiel**\) qui vaut dans l’éthane 12,5 KJ.mol-1.  
@@ -395,7 +395,7 @@ A tout moment elle se modifie, et cela **exclut d’ailleurs que l’on puisse i
 Le cyclohexane peut prendre deux conformations principales dénommées « **forme chaise** » et « **forme bateau** ».
 {% endhint %}
 
-![Conformation chaise](../.gitbook/assets/conformation-chaise.png)
+![](../.gitbook/assets/conformation-chaise-example-second.png)
 
 ### Isomérie cis trans dans les cyclohexane
 
@@ -484,7 +484,7 @@ On dit qu'une molécule est **achirale** si :
 
 #### Exemple exercice 8-1
 
-![Exercice 8-1](../.gitbook/assets/exercice-8-1.jpeg)
+![](../.gitbook/assets/exercice-8-1.jpg)
 
 1. Achirale car il y a aucun carbone stéréogène
 2. Chirale car il y a un carbone stéréogène
@@ -507,7 +507,7 @@ Stéréoisomères qui sont images l’un de l’autre dans un miroir \(par ra
 
 Des énantiomères ont les mêmes propriétés chimiques sauf vis-à-vis des autres molécules \(récepteurs\) chiraux.
 
-![Exemple activit&#xE9; optique](../.gitbook/assets/activite-optique-exemple.png)
+![](../.gitbook/assets/activite-optique-example.png)
 
 {% hint style="info" %}
 Elles possèdent ce que l’on appelle un **pouvoir rotatoire**. Lorsque le plan de la lumière polarisée tournera vers la droite \(sens des aiguilles d’une montre\), on dira que la molécule est **dextrogyre** \(on note \(d\) ou \(+\)\), alors que dans le cas contraire \(vers la gauche\) elle sera **lévogyre** \(on note \(l\) ou \(-\)\).
@@ -541,7 +541,7 @@ On ne fais **jamais** la **somme** des **numéros** **atomiques** !
 
 2. La séquence décroissante \(1 à 4\) ayant été établie, on regarde la molécule selon l’axe qui relie le centre stéréogène \(C\*\) à l’atome ou au substituant classé en dernier, l’œil étant placé du côté opposé à ce dernier. Puis on examine le « trajet » reliant les trois substituants pris dans l’ordre décroissant de priorité \(1 -&gt; 2 -&gt; 3\):  Si la décroissance de la priorité 1 vers 3 se fait dans le sens d'une aiguille d'une montre, le centre stéréogène est de configuration R \(provenant de rectus en latin\). Si c'est l'inverse, il est de configuration S \(du latin sinister\)
 
-![Exemple configuration absolu](../.gitbook/assets/exemple-config-absolu.png)
+![](../.gitbook/assets/config-absolu-example.png)
 
 ### Diastéréoisomérie
 
@@ -554,7 +554,7 @@ $$
 * Les molécules R,R et S,S sont image l'une de l'autre dans un miroir, de plus non superposable, ce sont donc des **énantiomères.** Il en est de même pour les deux molécule R,S et S,R
 * Par contre les couples de molécule R,R - S,R ou S,S - R,S ne sont pas image l'une de l'autre et sont non superposable, on dit que ce sont des **diastéréoisomères.**
 
-![Diast&#xE9;r&#xE9;oisom&#xE8;res](../.gitbook/assets/diastereosime-rie.png)
+![](../.gitbook/assets/diastereosiomere-enantiomere.png)
 
 {% hint style="info" %}
 * Si on à $$n$$ **carbones** **stéréogènes** alors il y a $$2^n$$ **stéréoisomères** au maximum
@@ -572,8 +572,16 @@ L’effet de polarisation des liaisons s par des atomes ou des groupes d’atome
 ![](../.gitbook/assets/effet-inductif-example.png)
 
 Les effets inductifs sont classés **par comparaison à la polarisation de la liaison s carbone-hydrogène prise comme référence.** Deux cas peuvent se présenter  
-Si atome ou groupe d’atomes **plus** électronégatif que H =&gt; **Effet inductif attracteur \(-I\)**  
-Si atome ou groupe d’atomes **moins** électronégatif que H =&gt; **Effet inductif donneur \(+I\)**
+Si atome ou groupe d’atomes **plus** électronégatif que H =&gt; **Effet inductif attracteur \(-I\) l'atome est alors accepteur d'électron**  
+Si atome ou groupe d’atomes **moins** électronégatif que H =&gt; **Effet inductif donneur \(+I\) l'atome est alors donneur d'électron**
+
+![](../.gitbook/assets/mesomere.jpg)
+
+{% hint style="danger" %}
+L’effet mésomère étant plus important que l’effet inductif, des groupements peuvent présenter un effet mésomère contraire à l’effet inductif, et dans ce cas, seul l’effet mésomère sera considéré.
+{% endhint %}
 
 ### **Acidité Basicité**
+
+![](../.gitbook/assets/pka-acid-basic.jpg)
 
