@@ -109,12 +109,16 @@ Entre les deux parois il y a le **mésoglé** \(Gel\), composés de **Porocytes 
 
 #### Amibocytes
 
+{% hint style="info" %}
+Chez les éponges ou Porifères, les amibocytes sont des cellules qui ont une grande variété de fonctions et qui sont mobiles utilisant des pseudopodes.  
 Les cellules amibocytes sont totipotente
+{% endhint %}
 
-* Reproduction sexuée
-* Reproduction asexuée
+{% hint style="warning" %}
+* Reproduction sexuée et asexuée
 * Régénération
 * Digestion et transfert de nutriments
+{% endhint %}
 
 ![Amibocytes](../.gitbook/assets/amibocytes.jpg)
 
@@ -138,7 +142,7 @@ Les porifères ne possèdent pas de cavité interne
 
 {% hint style="success" %}
 * Situés dans les zones littorales et sub-littorales 
-* Filtration : réduction de turbidité de l'eau
+* Filtration : réduction de turbidité de l'eau \(eaux troubles\)
 * Abris pour de nombreux animaux
 * Nourriture pour certains poissons 
 * Utilisé pour la biotechnologies et pour les antibiotiques
@@ -267,6 +271,10 @@ Voici une listes de caractères pour les cnidaires
 
 #### Larve planula
 
+{% hint style="info" %}
+La larve planula, est une larve ciliée, aplatie, à symétrie radiale et nageant librement, qui résulte de la fécondation d'un gamète femelle par un gamète mâle chez diverses variétés de cnidaires Scyphozoa et Hydrozoa, mais aussi qui se génère directement à partir d'un polype chez les Anthozoa.
+{% endhint %}
+
 ![](../.gitbook/assets/photo-larve-planula.jpg)
 
 #### Polype
@@ -276,6 +284,14 @@ Voici une listes de caractères pour les cnidaires
 #### Méduse
 
 ![](../.gitbook/assets/shema-meduse.jpg)
+
+#### Cnidocytes
+
+{% hint style="info" %}
+Les cnidocytes, synapomorphie des cnidaires, sont des cellules urticantes regroupées sur l'ectoderme \(Tentacules\), qui permet de tuer / capturer les proies, et faire fuir les prédateurs
+{% endhint %}
+
+![](../.gitbook/assets/schema-cnidocyte.jpg)
 
 #### Trois groupes principaux de cnidaires
 
@@ -810,68 +826,48 @@ L'avantage des cœlomates et pseudocœlomates sont les suivants
 ## Définitions
 
 {% hint style="info" %}
-Unicontes :
+**Unicontes :** Organismes ayant à au moins un stade de son évolution un flagelle propulseur, ils se différencies en deux groupe monophylétique, Amoebozoaires et Opistochontes
 
-Bicontes :
+**Bicontes :** Organisme ayant à au moins un stade de son évolution deux flagelles tracteurs
 
-Eucaryotes :
+**Eucaryotes :** Organismes dont la ou les cellules possèdent un noyaux
 
-Opisthocontes : 
+**Opisthocontes :** Organismes qui possèdent des mitochondries à crêtes aplaties et un flagelle postérieur propulseur
 
-Cellules somatique :
+**Cellules somatique :** L'ensemble des cellules somatiques, appelé soma, sont toutes les cellules formant le corps d'un organisme multicellulaire, c'est-à-dire toutes les cellules n'appartenant pas à la lignée germinale, telles que les gamètes, ou les cellules germinales.
 
-Cellules germinales :
+**Cellules germinales :** L'ensemble des cellules germinales, ou germen \(qui sont issues des cellules souches\), d'un animal ou d'un végétal sont les cellules qui sont susceptibles de former les gamètes : spermatozoïdes et ovocytes \(chez les animaux\) qui proviennent des spermatogonies et ovogonies, qui par mitose donnent des ovocytes et des spermatocytes et par méiose donnent les spermatozoïdes et les ovules, ou des oosphères et des grains de pollen \(chez les végétaux\). Elles constituent avec les cellules somatiques l'une des deux lignées cellulaires obtenues à partir d'une cellule-œuf.Collagène :
 
-Collagène :
+**Vagile :** Qualifie un organisme capable de se déplacer dans son environnement
 
-Porifères :
+**Sessile :** Se dit d’un animal fixé au sol de manière permanente
 
-Choanocytes :
+**Phagocytose :** Capacité pour une cellule d'ingérer un élément du non-soi ou pour certaines cellules de consommer des bactéries
 
-Vagile :
+**Totipotence :** La totipotence est, en biologie, la propriété d’une cellule de se différencier en n’importe quelle cellule spécialisée et de se structurer en formant un être vivant multicellulaire 
 
-Sessile :
+**Bilatériens :** Appelé aussi Triploblastique, ce sont des organisme ayant une symétrie bilatérale et un développement en trois feuillet embryonnaires, ectoderme, endoderme et mésoderme
 
-Phagocytose :
+**Feuillet embryonnaire :** Tissus de l'embryon formé au cours de la gastrulation et dont les cellules ne sont pas encore différenciées mais déterminées.
 
-Amibocytes : 
+**Épithélium :** Tissu formé de cellules jointives et fortement liées entre elles par des desmosomes et ancré sur la lame basale. Les tissus épithéliaux recouvrent les surfaces internes \(cavités\) et externes des organismes pluricellulaires. Ils interviennent dans des fonctions de protection \(épiderme\), de sécrétions \(épithélium glandulaire\), d'absorption \(épithélium digestif\)
 
-Totipotente : 
+**Ectoderme :** Feuillet embryonnaire qui donne, au cours du développement embryonnaire, l'épiderme et ses dérivés \(poils, glandes cutanées\) et le système nerveux
 
-Asexuée :
+**Mésoderme :** Feuillet embryonnaire qui se forme après l'ectoblaste et l'endoblaste entre lesquels il s'insinue au cours de la gastrulation
 
-Turbidité :
+**Endoderme :** Feuillet embryonnaire qui donne, au cours du développement, le tube digestif et ses dérivés , ainsi que les poumons
 
-Cnidaires :
+**Pharynx :** Partie antérieur du tube digestif des Cordé conduisant à l'œsophage
 
-Bilatériens :
+**Hyponeuriens :** Animal ayant un système nerveux ventrale
 
-Blastomère :
+**Epineurien :** Animal ayant un sytème  nerveux dorsale \(Au-dessus du tube digestif\)
 
-Feuillet embryonnaire : 
+**Bioturbation :** Perturbation provoquée dans un sédiment par l'activité des différents organismes qui l'habitent \(pistes d'organismes rampants,  terriers d'organismes fouisseurs\)
 
-Épithélium : 
+**Métamérisation :** processus de découpage du mésoblaste le long de l'axe antéro-postérieur de l'animal qui naissance à des unités répétitives, les métamères
 
-Larve planula :
-
-Ectoderme :
-
-Mésoderme :
-
-Endoderme :
-
-Épithélium :
-
-Cnidocytes :
-
-Pharynx :
-
-Larve :
-
-Hyponeurien : 
-
-Epineurien :
-
-Bioturbation :
+**Métamères :** Unité élémentaire des animaux métamérisé \(annélides, arthropodes, vertébrés\), fondamentalement creusée d'une paire de vésicules cœlomiques \(cœlome\) formée, au cours du développement embryonnaire, par métamérisation
 {% endhint %}
 
