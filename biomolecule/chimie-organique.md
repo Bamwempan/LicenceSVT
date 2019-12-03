@@ -583,5 +583,15 @@ L’effet mésomère étant plus important que l’effet inductif, des groupemen
 
 ### **Acidité Basicité**
 
+{% hint style="info" %}
+**Acide :** Toute espèces chimique susceptible de donner un proton $$H^+$$
+
+**Base :** Toute espèces chimique susceptible d'accepter un proton $$H^-$$ 
+
+**Cation :** Ion qui, ayant perdu un ou plusieurs électrons, porte une ou plusieurs charges électriques positives, noté $$R^+$$ 
+
+**Anion :** ion qui, ayant gagné un ou plusieurs électrons, porte une ou plusieurs charges électriques élémentaires négatives, noté $$R^-$$ 
+{% endhint %}
+
 ![](../.gitbook/assets/pka-acid-basic.jpg)
 
