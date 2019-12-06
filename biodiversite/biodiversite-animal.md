@@ -743,6 +743,100 @@ Evolution : Nutrition par filtration, Acéphale, Pertes secondaires de radula
 
 ## Protostomiens Ecdysozoaires
 
+{% hint style="warning" %}
+Deux synapomorphies, **la cuticule \(chitine\)** recouvrant le corps et **la mue cuticulaire ou ecdysis**
+{% endhint %}
+
+#### Structure de la cuticule
+
+Couche externe secrété par l'épiderme, formant un exosquelette \(Squelette interne\), qui contient de la chitine, dépôt de calcite chez les pancrustacés, la mue cuticulaire implique une croissance discontinu.
+
+* Robuste et efficace et permet la limitation de la diffusion
+* Couteux à produire, augmente le poids et implique une mue
+
+![](../.gitbook/assets/croissance-discontinu-exdisozoaire.jpg)
+
+La cuticule se créer sur la lame basale et l'épithélium et est constitué de 3 parties
+
+{% hint style="warning" %}
+* Endocuticule
+  * Epaisse et solide, chitine + protéine, non tannée et donc souple
+* Exocuticule
+  * Couche dure de scléroprotéine, tannage de protéines, dépôt de sel minéraux
+* Epicuticule
+  * Couche la plus externe, très fine, cément surface, cire en dessous, couche de cuticuline \(lipides\)
+{% endhint %}
+
+#### Ecdysis ou mue cuticulaire
+
+L'ecdysis est le rejet de la cuticule, c'est un renouvellement de l'exosquelette extensible : nécessaire à la croissance. L'ancienne cuticule est appelée exuvie
+
+{% hint style="warning" %}
+1. **Mitoses des cellules de l'épiderme** : accroître sa surface
+2. **Décollement de l'ancienne cuticule** : apolyse sécrétion d'un liquide exuvial \(enzyme de lyse\)
+3. **Synthèse d'une nouvelle cuticule deux cuticules** incomplètes + liquide exuvial
+4. **Exuviation** : rejet de l'ancienne cuticule ou exuvie Durcissement de la nouvelle cuticule
+{% endhint %}
+
+![](../.gitbook/assets/ecdysis-etapes.png)
+
+### Nématodes
+
+Les nématodes, sont des vers ronds, parasites ou libres de petite taille, avec un nombre d'espèces d'environ 25000
+
+{% hint style="warning" %}
+* Epiderme : secrète une cuticule riche en collagène
+* Nombre fixe de cellules : croissance par augmentation du volume cellulaire
+* Pseudocœlomate : cavité interne remplie de plasma, pas de système circulatoire et respiratoire, hydrosquelette
+* Ensemble d'organes tubulaires : digestif, reproducteur, nerveux
+
+Cycle de base de vie des nématodes, 4 stades larvaires, un stade juvénile et un stade adulte
+{% endhint %}
+
+![Coupe Ascaris](../.gitbook/assets/coupe-ascaris-annoter.jpg)
+
+#### Fonctionnement nématodes
+
+{% hint style="success" %}
+* Respiration - Circulation : diffusion
+* Nutrition - digestion : très souvent parasites, quelques formes libres \(présent dans le sol\)
+* Excrétion \(Osmorégulation\) : cellule de rénette
+* Reproduction : Hermaphrodite ou Gonochorique – très prolifique
+* Cryptobiose : arrêt du métabolisme
+{% endhint %}
+
+### Arthropodes
+
+Les arthropodes sont des triploblastiques protostomiens, avec un plan d'organisation métamérie et présence d'un cœlome, qui représente 80% de la diversité animale, qui ont colonisés tous les milieux terrestres, aériens et aquatiques.
+
+{% hint style="warning" %}
+* La métamérisation conduisant à une "tagmatisation"
+* Des appendices articulés
+* Un système respiratoire complexe
+{% endhint %}
+
+#### Tagmatisation
+
+La tagmatisation est la spécialisation des parties du corps, l'extrémité avant est appelé Prostomium ou Acron et l'extrémité arrière est appelée Pygidium ou Telson non métamérisés
+
+![](../.gitbook/assets/tagmatisation-arthropodes.jpg)
+
+#### Métamérisation
+
+Chaque métamère porte une paire d'appendices \(primitivement\),un appendices est une série de tubes rigides articulés implantés dans les pleurites
+
+![](../.gitbook/assets/metamerisation-harthropodes.jpg)
+
+#### Appendice arthropodien
+
+Appendice formé d'articles rigides reliés par des membranes articulaires souples mis en mouvement par des muscles internes fixés à la cuticule par des apodèmes
+
+![](../.gitbook/assets/appendices-annoter.jpg)
+
+#### Système respiratoire
+
+Selon les tailles et les environnement il existe différents systèmes respiratoires, pour les petits organismes, il y a respiration cutanée à travers la cuticule. Pour les plus grand organismes, il y a des organes spécialisés, branchies, poumons, trachées \(stigmates\)
+
 ## Cœlome
 
 ![Origine du c&#x153;lome](../.gitbook/assets/origine-coelome.jpg)
