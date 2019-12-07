@@ -837,6 +837,47 @@ Appendice formé d'articles rigides reliés par des membranes articulaires sou
 
 Selon les tailles et les environnement il existe différents systèmes respiratoires, pour les petits organismes, il y a respiration cutanée à travers la cuticule. Pour les plus grand organismes, il y a des organes spécialisés, branchies, poumons, trachées \(stigmates\)
 
+![](../.gitbook/assets/differents-respiration-arthropodes.jpg)
+
+#### Diversité chez les arthropodes
+
+![](../.gitbook/assets/phylogenie-arthropodes.png)
+
+{% hint style="warning" %}
+Les arthropodes représentes 80% de la biodiversité et sont présents partout autour de nous
+
+* Chelicériformes
+  * Pygnogonides
+  * Chelicerate \(Munis de chélicère\)
+    * Arachnides \(4 Paires de pattes, 2 tagme\) Aranéides, Scorpions, Opilions, Pseudoscorpion, Amblypyges, Acariens \(Tique\)
+* Antennates \(Mandibulates\)
+  * Myriapodes
+  * Pancrustacés \(Larve Nauplius\)
+    * Malacostracé \(3 Paires de pattes mâchoires, 1 paire de pince ravisseuse, 4 paires de pattes locomotrices\)
+    * Hexapodes \(Respiration trachéenne, une seule paire d'antennes, 3 tagmes, thorax porte 3 paires d'appendices locomoteurs, certaines espèces ailées\)
+
+Cette diversité est notamment du à leur succès en terme de résistance et développement au cours de l'évolution, grâce à un exosquelette solide et imperméable, la métamorphose et coévolution avec les plantes à fleurs, leur yeux composés
+{% endhint %}
+
+{% hint style="success" %}
+Il existe 3 grands types de développement chez les hexapodes
+
+* Holométaboles : La larve passe par un stade nymphal pour devenir adulte
+* Hétérométaboles : La larve se développe directement en adulte
+* Amétaboles : La larve ressemble déjà à l'adulte
+{% endhint %}
+
+#### Point de vue fonctionnel
+
+{% hint style="warning" %}
+* Respiration - Circulation : Circulation ouverte, respiration par branchies, trachées, poumons
+* Nutrition - digestion : Très diversifié
+* Excrétion : Organes spécialisés
+* Reproduction : Sexuée
+{% endhint %}
+
+## Deutérostomiens
+
 ## Cœlome
 
 ![Origine du c&#x153;lome](../.gitbook/assets/origine-coelome.jpg)
