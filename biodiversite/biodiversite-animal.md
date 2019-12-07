@@ -919,6 +919,17 @@ Il y à présence de deux structure importantes
 
 ### Chordés
 
+Les chordés sont représentée par 3 grand groupes, céphalochordés et les vertébrés et urochordé
+
+#### Synapomorphie
+
+{% hint style="warning" %}
+* Chorde \(ou notochorde\): axe rigide dorsal \(situé sous le tube nerveux, servant de soutien à l'organisme Constitué de tissus fibreux non osseux\)
+* Tube nerveux dorsal
+* Pharynx percé de fentes pharyngiennes \(fentes branchiales\)
+* Queue post-anale
+{% endhint %}
+
 ## Cœlome
 
 ![Origine du c&#x153;lome](../.gitbook/assets/origine-coelome.jpg)
