@@ -878,6 +878,47 @@ Il existe 3 grands types de développement chez les hexapodes
 
 ## Deutérostomiens
 
+Au niveaux embryologie, les deutérostomiens sont caractérisés par un clivage radial, **Coeloblastula** et la gastrulation avec la présence d'un mésoderme et le blastopore deviens l'anus. Constitué de deux grands clades, les échinodermes et les chordés.
+
+### Échinodermes
+
+Les échinodermes se développent en deux stades larvaires, une phase larve dipleurula et une phase larve **Pluteus**
+
+#### Morphologie
+
+{% hint style="warning" %}
+Il y à présence de deux structure importantes
+
+* Endosquelette mésodermique
+* Système aquifère \(Ambulacraire\) constitué de podia \(Pied\) et d'un anneau centrale et permet la mobilité de l'animal \(Vérin hydraulique\)
+* Présence d'une symétrie pentaradiée
+* Présence de 5 paires de gonades
+{% endhint %}
+
+![](../.gitbook/assets/schema-podia-annoter.png)
+
+#### Diversité
+
+{% hint style="warning" %}
+* Crinoïdes composé d'un pied, pédoncule, calice, couronne
+* Astérides \(Etoile de mer\)
+* Échinides \(oursin\)
+* Holothuries \(Concombre de mer\)
+* Ophiures \(Etoile de mer avec cercle centrale\)
+{% endhint %}
+
+#### Point de vue fonctionnel
+
+{% hint style="warning" %}
+* Respiration - Circulation : Diffusion à travers papules \(Branchie dermiques ciliées\) et podia, Système ambulacraire
+* Excrétion \(osmorégulation\) : Diffusion de $$NH_4^+$$ 
+* Nutrition et digestion : Prédateur \(Etoile de mer\), Brouteur \(Oursin\), Suspensivore \(holoturies\)
+* Système nerveux : Epithélioneurien, sn dans l'ectoderme
+* Reproduction : Sexe séparés et sexuée, grand pouvoir de régénération
+{% endhint %}
+
+### Chordés
+
 ## Cœlome
 
 ![Origine du c&#x153;lome](../.gitbook/assets/origine-coelome.jpg)
@@ -1004,5 +1045,7 @@ L'avantage des cœlomates et pseudocœlomates sont les suivants
 **Métamérisation :** processus de découpage du mésoblaste le long de l'axe antéro-postérieur de l'animal qui naissance à des unités répétitives, les métamères
 
 **Métamères :** Unité élémentaire des animaux métamérisé \(annélides, arthropodes, vertébrés\), fondamentalement creusée d'une paire de vésicules cœlomiques \(cœlome\) formée, au cours du développement embryonnaire, par métamérisation
+
+Gonade :
 {% endhint %}
 
