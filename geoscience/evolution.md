@@ -787,7 +787,7 @@ Concept mis en place part D'Arcy Thompson, il publie en 1917 : « On Growth and 
 
 * Allométrie positive : Organe visée grandi plus vite que le corps \(Phylogenèse\)
 * Allométrie négative : Organe visée grandi peu voir diminue par rapport au corps \(Ontogenèse\)
-* Isométrie : Changement de taille mais qui conserve ses proportions
+* Isométrie : Changement de taille mais qui conserve ses proportions, on peut dire aussi que l'animal est plus allométrique ou moins allométrique.
 {% endhint %}
 
 ![Allom&#xE9;trie positive / n&#xE9;gative / Isom&#xE9;rie](../.gitbook/assets/differentes-allometries.jpg)
