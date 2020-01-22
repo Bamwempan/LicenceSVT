@@ -10,5 +10,6 @@
 * [Géoscience](geoscience/README.md)
   * [Cartographie](geoscience/evolution-et-cartographie.md)
   * [Evolution](geoscience/evolution.md)
+* [Math](math.md)
 * [Transversale](transversale.md)
 
