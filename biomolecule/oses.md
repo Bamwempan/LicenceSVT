@@ -2,7 +2,7 @@
 description: Biochimie sur les Oses
 ---
 
-# Biochimie
+# Oses
 
 ## Introduction
 

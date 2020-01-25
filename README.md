@@ -4,15 +4,13 @@ description: Portail licences SVT
 
 # Accueil
 
-{% page-ref page="biomolecule/chimie-organique.md" %}
+{% page-ref page="biomolecule/" %}
 
-{% page-ref page="biomolecule/biochimie.md" %}
+{% page-ref page="biodiversite/" %}
 
-{% page-ref page="biodiversite/biodiversite-vegetale.md" %}
+{% page-ref page="geoscience/" %}
 
-{% page-ref page="biodiversite/biodiversite-animal.md" %}
-
-{% page-ref page="geoscience/evolution.md" %}
+{% page-ref page="math.md" %}
 
 | Paramètres | Nom de serveur | Port | Méthode de chiffrement |
 | :---: | :--- | :--- | :--- |

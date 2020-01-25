@@ -4,6 +4,16 @@ description: UE Biomolécule
 
 # Biomolécule
 
+## Plan cours
+
+{% page-ref page="chimie-organique.md" %}
+
+{% page-ref page="oses.md" %}
+
+{% page-ref page="glucides.md" %}
+
+{% page-ref page="lipides.md" %}
+
 ## Bien commencer
 
 ### Atome
