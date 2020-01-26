@@ -30,9 +30,9 @@ $$y = ax+b$$ avec $$a = \frac{y_B-y_A}{x_B-x_A}$$ et $$b=y_A - ax_A$$
 #### Trois identité remarquable
 
 {% hint style="warning" %}
-* $$(a+b)^2=a^2+b^2+2ab$$ 
-* $$(a-b)^2=a^2+b^2-2ab$$ 
-* $$(a+b)(a-b)=a^2-b^2$$ 
+$$(a+b)^2=a^2+b^2+2ab$$   
+$$(a-b)^2=a^2+b^2-2ab$$   
+$$(a+b)(a-b)=a^2-b^2$$ 
 {% endhint %}
 
 #### Résolution
@@ -42,9 +42,9 @@ Une équation du second degré est de la forme $$ax^2+bx+c=o$$ avec $$a \neq 0$$
 {% hint style="warning" %}
 On recherche les valeurs de $$x$$ qui annulent l'équation. Pour ce faire, on calcule le discriminant $$\Delta = b^2-4ac$$ 
 
-* Si $$\Delta < 0$$ , pas de solution
-* Si $$\Delta = 0$$ , une solution unique : $$x= \frac{-b}{2a}$$ 
-* Si $$\Delta > 0$$ , deux solutions : $$x_1=\frac{-b+\sqrt\Delta}{2a}$$ et $$x_2=\frac{-b-\sqrt\Delta}{2a}$$ 
+Si $$\Delta < 0$$ , pas de solution  
+Si $$\Delta = 0$$ , une solution unique : $$x= \frac{-b}{2a}$$   
+Si $$\Delta > 0$$ , deux solutions : $$x_1=\frac{-b+\sqrt\Delta}{2a}$$ et $$x_2=\frac{-b-\sqrt\Delta}{2a}$$ 
 
 Suite à ce discriminant la forme factorisé est donc $$(x-x_1)(x-x_2)$$ 
 {% endhint %}
@@ -58,6 +58,75 @@ Suite à ce discriminant la forme factorisé est donc $$(x-x_1)(x-x_2)$$
 #### Opérations sur les dérivées
 
 ![](.gitbook/assets/operation-sur-les-derivees.jpeg)
+
+## Etudes de fonctions
+
+### Définition
+
+{% hint style="info" %}
+**Fonction réelle d’une variable réelle :** Une fonction réelle d'une variable réelle est une transformation qui à tout élément de $$x$$ d'une partie \(domaine\) $$D \subset \mathbb{R}$$ fait correspondre **un unique** élément de $$\mathbb {R}$$, noté $$f(x)$$ est appelé **image de x**
+
+**Domaine de définition :** Le domaine de définition $$D_f$$ d'une fonction $$f$$ est l'ensemble des réels $$x$$ pour lesquels il existe une image unique de $$x$$ par la fonction $$f$$  
+ $$Df = \{x ∈R|∃!y ∈R,y = f (x)\}$$ 
+
+**Image du domaine de définition :** L'image du domaine de définition $$D_f$$d'une fonction $$f$$, notée $$f(D_f)$$, est l'ensemble des réels $$y$$ pour lesquels il existe **au moins** un antécédent $$x$$ par la fonction $$f$$
+
+**Graphique d'une fonction :** Le graphe d'une fonction $$f$$ dans un repère cartésien \($$O_x$$,$$O_y$$\) est l'ensemble des points de coordonnées \($$x$$,$$f(x)$$\) avec $$x\in D_f$$ 
+{% endhint %}
+
+#### Étapes indispensables pour étudier une fonction
+
+{% hint style="warning" %}
+* Domaine de définition
+* Parité / Périodicité
+* Etudes des variations sur un intervalle approprié
+  * Dérivation
+  * Etudes des limites aux bornes de l'intervalle
+  * Tableau de variation \(avec limite et extrema\)
+* Point d'inflexion \(éventuellement\)
+* Asymptotes obliques \(éventuellement\)
+* Représentation graphique
+{% endhint %}
+
+### Opération sur les fonctions
+
+$$f$$ et $$g$$ deux fonctions réelles définies sur $$D_f$$ et $$D_g$$
+
+**Produit :** $$(fg)(x) = f (x)g(x)$$  
+$$D_fg = D_f ∩D_g$$
+
+**Somme :** $$(f + g)(x) = f (x) + g(x)$$  
+$$D_{f+g} = D_f ∩D_g$$
+
+**Inverse :** $$\frac1f (x) = \frac{1}{f(x)}$$  
+$$D_\frac1f = \{x ∈ D_f |f (x) \neq 0\}$$
+
+**Quotient :** $$\frac fg (x) = \frac{f(x)}{g(x)}$$  
+$$D_\frac fg = {x ∈ (D_f ∩D_g) |g(x) \neq 0}$$
+
+**Multiplication par un réel :** $$∀α ∈R, (αf )(x) = α×f (x)$$   
+$$D_αf = D_f$$
+
+**Opposé :** $$(−f )(x) = −f (x)$$   
+$$D_{-f} = D_f$$
+
+### Composition de fonctions
+
+$$f$$ et $$g$$ deux fonction réelles définies sur $$D_g$$ et $$D_f$$ ---&gt; $$(f◦g)(x) = f (g(x))$$  
+Avec $$D_{f◦g} = {x ∈ D_g |g(x) ∈ D_f}$$  
+Et donc $$D_{g◦f} = {x ∈ D_f |f (x) ∈ D_g}$$
+
+### Fonction réciproque
+
+$$f$$ une fonction réelle déﬁnie sur $$I$$ telle que $$f(I) = J$$ $$f : I → J$$
+
+{% hint style="warning" %}
+* $$f$$ admet une fonction réciproque s’il existe une fonction $$g : J → I$$ telle que $$f ◦g = Id_J$$ **et** $$g ◦f = Id_I$$
+* $$g$$ est notée $$f^{−1}$$
+* Les graphes de $$f$$ et $$f^{−1}$$ sont **symétriques** par rapport à la première bissectrice d’équation $$y = x$$
+{% endhint %}
+
+![](.gitbook/assets/exemple-fonction-reciproque.png)
 
 ## Définition
 
