@@ -59,6 +59,18 @@ Suite à ce discriminant la forme factorisé est donc $$(x-x_1)(x-x_2)$$
 
 ![](.gitbook/assets/operation-sur-les-derivees.jpeg)
 
+### Dénombrement
+
+{% hint style="info" %}
+Le nombre de permutation $$n$$ éléments est appelé **factoriel** $$n$$ ou $$n \ factoriel$$est défini par : 
+
+$$n!=n\times(n-1)\times(n-2)\times...\times2\times1$$ 
+
+**Remarque :** $$0!=1$$\*\*\*\*
+{% endhint %}
+
+$$(nk)=\frac{n!}{k!(n-k)!}$$
+
 ## Etudes de fonctions
 
 ### Définition
@@ -127,6 +139,90 @@ $$f$$ une fonction réelle déﬁnie sur $$I$$ telle que $$f(I) = J$$ $$f : I �
 {% endhint %}
 
 ![](.gitbook/assets/exemple-fonction-reciproque.png)
+
+### Fonction logarithme et exponentielle
+
+![](.gitbook/assets/fonction-logarithme-exponentielle.png)
+
+### Parité, périodicité
+
+#### Parité : fonction paire
+
+Soit $$f : D f → R$$ une fonction réelle d’une variable réelle.  
+$$f$$ est **paire** si et seulement si :  
+- $$∀x ∈ D f , (−x ) ∈ D f$$  
+- $$∀x ∈ D f , f (−x ) = f (x )$$
+
+Le graphe est symétrique par rapport à l'axe des ordonnées. $$D_f$$ est symétrique par rapport à 0.  
+Exemple : $$f(x)=x^2$$
+
+![](.gitbook/assets/fonction-paire-x2.png)
+
+#### Fonction impaire
+
+Soit $$f : D f → R$$ une fonction réelle d’une variable réelle.  
+$$f$$ est **impaire** si et seulement si :  
+- $$∀x ∈ D f , (−x ) ∈ D f$$  
+- $$∀x ∈ D f , f (−x ) = −f (x )$$
+
+Le graphe est symétrique par rapport à l’origine du repère. $$D_f$$ est symétrique par rapport à 0.  
+Exemple : $$f(x)=x^3$$
+
+![](.gitbook/assets/fonction-impaire-x3.png)
+
+#### Périodicité
+
+Soit $$f : D f → R$$ une fonction réelle d’une variable réelle.
+
+$$f$$ est **périodique de période p** si et seulement si  
+- $$∀x ∈ D f , (x + p) ∈ D f$$  
+- $$∀x ∈ D f , f (x + p) = f (x )$$
+
+Exemple : $$f (x ) = cos x$$ est paire et périodique de période $$2π$$   
+$$∀x ∈ R, cos(x + 2π) = cos x$$
+
+![](.gitbook/assets/fonction-periodique.png)
+
+### Variation d'une fonction
+
+#### Fonction croissante
+
+Soit $$f : D_f → R$$ une fonction réelle d’une variable réelle.  
+$$f$$ est croissante sur $$I ⊂ D_f$$ si et seulement si  
+- $$∀(a, b) ∈ I 2 , a < b ⇒ f (a) 6 f (b)$$  
+$$f$$ est strictement croissante sur $$I ⊂ D_f$$ si et seulement si  
+- $$∀(a, b) ∈ I 2 , a < b ⇒ f (a) < f (b)$$  
+Exemple : $$f (x ) = x^2$$ est strictement croissante sur $$[0, 5[$$
+
+![](.gitbook/assets/fonction-croissante.png)
+
+#### Fonction décroissante
+
+Soit $$f : D_f → R $$une fonction réelle d’une variable réelle.   
+$$f$$ est décroissante sur $$I ⊂ D_f$$ si et seulement si  
+- $$∀(a, b) ∈ I 2 , a < b ⇒ f (a) > f (b)$$  
+$$f$$ est strictement décroissante sur $$I ⊂ D_f$$ si et seulement si  
+- $$∀(a, b) ∈ I 2 , a < b ⇒ f (a) > f (b)$$  
+Exemple : $$f (x ) = x^2$$ est strictement décroissante sur $$[−5, 0[$$
+
+![](.gitbook/assets/fonction-decroissante.png)
+
+#### Taux d'accroissement
+
+Soit $$f : D_f → R$$ une fonction réelle d’une variable réelle. Soit $$(a, b) ∈ D^2_f , a < b$$  
+**Le taux d’accroissement de f entre a et b est**
+
+$$
+\frac{∆_f}{∆_x}=\frac{f(b)-f(a)}{b-a}
+$$
+
+Exemple : Le taux d’accroissement de $$f (x ) = x^2$$ entre 1 et 2 vaut 3
+
+$$
+\frac{∆_f}{∆_x}=\frac{f(2)-f(1)}{2-1}=\frac{4-1}{2-1}=3
+$$
+
+![](.gitbook/assets/taux-accroissement.png)
 
 ## Définition
 
