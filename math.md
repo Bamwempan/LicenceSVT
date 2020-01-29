@@ -224,6 +224,31 @@ $$
 
 ![](.gitbook/assets/taux-accroissement.png)
 
+### Limite
+
+#### Limite finie en $$a^-$$ \( $$a⁺$$ \)
+
+Soit $$f$$ une fonction définie sur un domaine $$D_f ⊂ R$$, et $$a ∈ R$$.  
+$$f $$admet une limite finie $$l ∈ R$$ **à gauche** en $$a$$ si et seulement si  
+- $$a ∈ D_f $$ où a borne de $$D_f$$  
+- Lorsque $$x → a − , f (x ) → l$$  
+Mathématiquement, ces conditions s’écrivent : $$∀ε > 0, ∃δ > 0$$,   
+\($$x ∈]a − δ, a[⇒ f (x ) ∈ [l− ε, l+ ε]$$\)  
+On note alors $$ \lim_{x \to 0} f(x) = l$$  
+Par analogie, on a la limite en $$a^+$$
+
+Exemple : $$f (x ) = x^2 sin(100x )$$sur $$[−1, 0] : \lim_{x \to 0^-}f (x ) = 0$$
+
+#### Limite finie en $$a$$ 
+
+#### Limite infinie
+
+#### Opérations sur les limites et formes indéterminées
+
+#### Limites connues
+
+#### Limites par comparaison
+
 ## Définition
 
 {% hint style="info" %}
