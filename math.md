@@ -69,7 +69,22 @@ $$n!=n\times(n-1)\times(n-2)\times...\times2\times1$$
 **Remarque :** $$0!=1$$\*\*\*\*
 {% endhint %}
 
-$$(nk)=\frac{n!}{k!(n-k)!}$$
+$$
+(nk)=\frac{n!}{k!(n-k)!}
+$$
+
+### Probabilités
+
+{% hint style="info" %}
+Dans un univers fini d'événements, une experience aléatoire associe à chaque éventualité notée $$\omega_i$$un nombre réel positif $$p_i$$tel que :
+
+$$p_1+p_2+...p_n=1$$ ou $$\sum_{i=0}^n p_i=1$$
+{% endhint %}
+
+L'ensemble des couples \($$\omega_i , p_i$$\) est la loi de probabilité de l'experience aléatoire  
+Remarque : Lorsque tous les réels $$p_i$$sont égaux \(à p\), on est dans une situation d'equiprobabilité $$p= \frac{1}{n}$$
+
+![](.gitbook/assets/def-probabilite.jpeg)
 
 ## Etudes de fonctions
 
