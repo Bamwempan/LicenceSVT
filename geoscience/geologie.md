@@ -137,6 +137,7 @@ A $$10^{-6}$$s, il y a **confinement \(regroupement par 3\)** des quarks, **hadr
 
 #### **Nucléosynthèse primordiale**
 
+**Ère radiative**  
 Entre 3 min et 30 minutes, se passe la nucléosynthèse primordiale, ou l'association des Protons et Nucléons forment les noyaux des Hydrogènes. Suite à ça 2H + P + N forment 4 Hélium. **Première crise de croissance et l'apparition du gaz noble hélium.**
 
 Vers 300 000 ans il y a naissance des premiers atomes non stable. Vers 380 000 ans =&gt; **Découplage matière-rayonnement**  
@@ -144,9 +145,33 @@ Les électrons n'interagissent plus avec le rayonnement : P + e -&gt; H et Photo
 
 ![](../.gitbook/assets/recap-big-bang.jpg)
 
+**Ère Stellaire  
+Gravité** $$\to$$ La matière se rassemble de place en place. Hiérarchisation : Etoiles, Galaxies. Première galaxie avant 1Ga, l'univers devient hétérogène.  
+L'univers actuel est composé de **nébuleuse + galaxies + étoiles.**
+
+* Nébuleuse -&gt; Vaste nuage de matière interstellaire où la densité est nettement supérieure à celle de l'espace interstellaire
+* Galaxies -&gt; Plusieurs centaines de milliards de galaxies dans l'univers, et dans chacune plusieurs centaines de milliards d'étoiles
+
+#### Nucléosynthèse stellaire
+
+**Les étoiles : Le soleil**  
+Les étoiles sont composées à 70% d'Hydrogène, 28% d'Hélium et 2% d'élément lourds. Au cœur de l'étoile se déroulent la fusion de l'Hydrogène et Hélium et libère de l’énergie lumineuse. On peut parler de **Réacteur Thermonucléaire.** \(Le noyaux est plus léger que l'ensemble de ses constituants pris séparément\)  
+**Classification des étoiles**  
+Le diagramme **Hertzsprung** représente les étoiles en fonction de leur température de surface et de leur luminosité \(Leur luminosité est directement dépendantes de sa masse\)
+
+{% hint style="warning" %}
+Les étoiles commence leur vie au cœur des **nébuleuses** \(Nuage de gaz dense, Hydrogène et molécule de Carbone\)  
+Des fragments de ce nuage vont se condenser et former des protoétoiles  
+C'est l'effondrement gravitationnel du nuage qui fournit l'énergie nécessaire au démarrage et à l'entretien des réactions de fusion \(H-&gt;He\) initiales.  
+Au bout de quelques Ma, une grande partie du disque de gaz a été éjectée par les vents violents que génère la protoétoile \(**jets polaires**\).  
+La jeune étoile au centre du nuage va devenir directement visible -&gt; T-Tauri
+{% endhint %}
+
 ## Définition
 
 {% hint style="info" %}
 **Minéral :** Qualificatif employé pour designer des molécules qui ne contiennent pas de carbone associé à des atomes d'hydrogène
+
+Galaxie : 
 {% endhint %}
 
