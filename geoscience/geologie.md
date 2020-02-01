@@ -167,11 +167,136 @@ Au bout de quelques Ma, une grande partie du disque de gaz a été éjectée par
 La jeune étoile au centre du nuage va devenir directement visible -&gt; T-Tauri
 {% endhint %}
 
+**Vie adulte des étoiles**  
+Une fois l'étoile adulte, il y à un équilibre dynamique et l'étoile devient stable. De ce fait l'étoile se situe sur la séquence principale du diagramme de Hertzsprung-Russel. Elle va y passer environ 90% de sa vie. Pendant le quel l'hydrogène se change en Hélium  
+**Déclin des étoiles**  
+La fusion de l'Hydrogène s'arrête quand 10% de celui-ci à été consommé.  
+- Une coquille d'hydrogène va se mettre en place autour du cœur, augmentant sa température, ce qui déclenche la fusion rapide des molécules d'Hélium en Carbone, Azote, Oxygène. Les couches périphérique augmente en taille.  
+Le diamètre de l'étoile augmente de 100 fois, ce qui diminue sa température, ce qui se traduit vers un changement de rayonnement vers le rouge. Ce sont donc les **Géante Rouge.**
+
+{% hint style="warning" %}
+Lorsqu'une étoile se meure, il y a une contraction gravitationnelle au cœur de l'étoile. La température de 100M K, et provoque la réaction "triple alpha" = **Flash Hélium**. 3He -&gt; C stable. et 2He forme Be instable si la masse de l'étoile est supérieur à 0.5MS.
+{% endhint %}
+
+![](../.gitbook/assets/scenario-etoile-inf-6ms.jpg)
+
+**Scénario pour les étoiles &lt; à 6Ms. \(Nébuleuse planétaire\)**  
+L'arrêt du processus commence quand l'étoile est à court d'Hélium, le noyaux de Carbone devient inerte, l'étoile devient donc une **Naine Blanche \(5000 &lt; Température N &lt; 100 000K\),** le processus de fusion ralentit et l'étoile s'éteint. L'enveloppe externe de l'étoile est arrachée par les vents stellaires il y à donc apparition de **nébuleuse planétaire.**
+
+![](../.gitbook/assets/lifetimesun.jpg)
+
+**Scénario pour les étoiles &gt; à 6Ms. \(Supernova\)**  
+La température au cœur de l'étoile dépasse les 100MK, ce qui entame la fusion du cœur en Carbone en Magnésium etc etc. Les éléments crées se disposent en différentes couche et forme une **structure en pelure d'oignon.**
+
+{% hint style="success" %}
+**Liste des supergéante rouge \(Décroissant\)**  
+Antares - Betelgeuse - Aldebaran - Rigel - Arcturus - Pollux - Sirilus - Sol
+{% endhint %}
+
+![](../.gitbook/assets/creuset-stellaire.jpg)
+
+{% hint style="warning" %}
+Au-delà du Fer, la synthèse des noyaux ne se fait pas dans un processus de fonctionnement « normal » de l’étoile, mais par son explosion, c'est la **supernova**  
+Le Fe est l’élément le plus stable du damier nucléaire. Fusionner des éléments plus lourds que le Fe ferait perdre plus d’énergie que d’en gagner ; une sorte de banqueroute pour l’étoile.
+{% endhint %}
+
+#### Nucléosynthèse
+
+![3 diff&#xE9;rentes origines des &#xE9;l&#xE9;ments chimiques](../.gitbook/assets/origine-element-chimique-diagrame.jpg)
+
+{% hint style="warning" %}
+**Récap origine élément chimique**
+
+Big Bang -&gt; Gaz primordial \(Hydrogène 90% + Hélium 10%\) -&gt; Puis cycle condensation, étoiles, éjection de gaz et poussière enrichi. Ce cycle permet l'enrichissement progressif en élément lourds
+{% endhint %}
+
+### Organisation des éléments chimiques au sein des minéraux et les grands types de roches
+
+{% hint style="warning" %}
+Un minéral est un ensemble d'atomes, et un ensemble de minéraux forment une roche
+{% endhint %}
+
+{% hint style="info" %}
+**Minéral :** Espèce chimique naturelle se présentant le plus souvent sous forme de solide cristallin  
+Composition chimique définie et structure atomique ordonnée. La classification des minéraux est donc basée sur leurs caractères chimiques et cristallographiques.
+
+**Cristal :** Solide dont les divers atomes sont arrangés de manière régulière selon une disposition fondamentale \(la maille élémentaire\) dont la répétition dans l’espace dessine le réseau cristallin
+{% endhint %}
+
+#### Classification des minéraux
+
+**Caractères chimiques**  
+- Minéraux contenant du **Silicium** \(**Silice** et **Silicate**\) = 95% des roches des croûtes continentale et océanique et du manteau.  
+**Famille de la Silice**, essentiellement sous forme de quartz  
+**Famille des Silicates  
+-** Minéraux ne contenant pas de Silicium \(Sulfates, Carbonates et phosphates\) très fréquents dans les sédiments.  
+**Caractères cristallographiques**  
+Le **réseau** est le résultat de la répétition par translation dans les 3 directions de l’espace, d’un motif géométrique = **la maille élémentaire.**  
+La **maille élémentaire** est bâtie sur 3 vecteurs «a, b, c», les plus petits possibles, faisant entre eux 3 angles «alpha, béta, gamma» les plus proches de 90°.
+
+**Notions de cristallochimie**  
+Il existe 4 types de liaisons entres atomes  
+- Liaison covalente : Le Diamant  
+- Liaison Ionique : La Halite  
+- Liaison métallique : Le Fer  
+- Liaison Van Der Walls : Les feuillet de graphite  
+La force de liaison influe sur l'augmentation de la dureté, la température de fusion et la diminution de l'expansion thermique  
+**Les liaisons atomiques sont à l’origine des propriétés physico-chimiques des minéraux !  
+Polyèdre de coordination**  
+Charge et rayons des ions vont conditionner leur présence et leur disposition dans les édifices cristallins.  
+**Polyèdre de coordination** = dans une espèce minérale donnée, les anions se groupent de façon géométrique constante autour des cations.  
+Cet édifice sera un triangle ou un tétraèdre, ou un octaèdre, ou un cube. **Association de polyèdre** =&gt; Dans un cristal, les polyèdres de coordination sont associés.
+
+#### Les silicates
+
+{% hint style="warning" %}
+L’élément commun à tous les silicates est le tétraèdre **\(SiO4\)4-**  
+La **polymérisation** des tétraèdres se fait par les sommets \(**O de coordination**\)  
+Les tétraèdres voisins peuvent avoir en commun 2, 3 ou 4 O. Ceci conduit à un nombre limité d’agencements qui sont -&gt;
+{% endhint %}
+
+* **Nésosilicates :**
+  1. \(SiO4\)4- X2 / Olivine SiO4 \(Fe, Mg\)2 / Péridotites
+* **Sorosilicates :**
+  * \(Si207\)6- \(X3 ou Y2\) / Epidote / Roches métamorphiques
+* **Cyclosilicates \(3, 4 & 6\) :**
+  * \(Si309\)6- \(X3 ou Y2\) / Cordiérite, tourmaline, émeraude / Roches métamorphiques
+* **Inosilicates :**
+  * Si2O6\)4- \(X2\) / Pyroxènes Si2O6 \(Fe, Mg\)2 / Basaltes, gabbros
+  * \(Si4O11\(OH\)\)7- \(Si3AlO11\(OH\)\)8 / Amphiboles Roches / magmatiques et métamorphiques
+* Phyllosilicates :
+  * \(Si4O10\(OH\)2\)6- \(Si3AlO10\(OH\)2\)7 / **Substitution du Si par Al fréquente /** Micas, minéraux argileux / Granite, argiles
+* Tectosilicates :
+  * SiO2 / Pour mettre des cations, il faut substituer au moins 1 Al à 1 Si / \(AlSi3O8\) K Quartz / Feldspath / Granite, gneiss.
+
+#### Les roches \(Association minéralogique\)
+
+Les minéraux résultent de la cristallisation à partir d’un magma ou d’une solution, ou se forment par l’intervention d’un organisme biologique \(squelettes, dents\)  
+Granite exemple =&gt; Composé de Quartz, Feldspaths \(Orthose, plagioclases\), Micas \(Biotite, Muscovite\)  
+**Minéraux \(Grains\)** visible à l'oeil nu, Roche avec **structure grenue**  
+Une roche est composée de minéraux, les enveloppes solides du globe sont composées de roches
+
+![](../.gitbook/assets/cycle-roche.jpg)
+
+![](../.gitbook/assets/cycle-roche-2.jpg)
+
+#### Roche magmatique
+
+{% hint style="success" %}
+Magma solidifié peut donner des gros cristaux \(Texture grenue\) Plutonique, Granite OU Pâte vitreuse petits cristaux \(Microlithique\) Volcanique, Basalte
+{% endhint %}
+
 ## Définition
 
 {% hint style="info" %}
 **Minéral :** Qualificatif employé pour designer des molécules qui ne contiennent pas de carbone associé à des atomes d'hydrogène
 
-Galaxie : 
+**Galaxie :** 
+
+**Creuset stellaire :** 
+
+**Stable :**
+
+**Radioactif :**
 {% endhint %}
 
