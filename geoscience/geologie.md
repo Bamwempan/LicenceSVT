@@ -315,6 +315,92 @@ Classification selon la genèse :
 
 ## Système solaire
 
+### Diversité et unicité
+
+Notre système solaire est composé du Soleil, de 8 planètes \(Mercure, Venus, Terre, Mars, Jupiter, Saturne, Uranus et Neptune\) ainsi que d'autre élément.  
+On peut définir notre système solaire de différentes manières :   
+- Etat de la matière : Plasma \(Soleil\), Roche \(Planète tellurique\), Gaz \(Géante Gazeuse\) et Glace \(Comète\)  
+- Par la masse, $$2\times10^{31}Kg$$sois la masse du soleil.
+
+#### Soleil
+
+Le soleil est une étoile de catégorie G2, sa masse est de $$2\times10^{30}Kg$$, un volume de 1 392 000Km de diamètre \(109x le diamètre de la Terre\). Il est entièrement composé de gaz, Hydrogène à 70% et Hélium à 28%. On peut dire que le soleil est un réacteur Thermonucléaire en son cœur, par la fusion de l'hydrogène en Hélium 
+
+#### Les planètes
+
+{% hint style="info" %}
+Une planète est en orbite autour d'une étoile, suffisamment massive pour que l'effet de sa propre gravité lui confère une forme sphérique, soit une masse &gt; $$5\times10^{20}Kg$$ et un rayon &gt; 800Km. Dominant son environnement en ayant supprimé les différents élément dans son orbite, sinon planète naine
+{% endhint %}
+
+**Planète naine**  
+Découverte en 1930, pluton est depuis 2006 considérée comme une planète naine  
+**9è Planète**  
+Des indices récents semble indiquer la présence d'une nouvelles planète après Neptune, elle serai gazeuse, 10 fois supérieure à la masse de la Terre, peut être 20 fois plus loin que Neptune, avec une orbite de 10/20 000 ans.  
+**Exoplanète**  
+En 2019 on recense 4109 exoplanètes dans 3059 systèmes planétaires.  
+**Système planétaire équivalent au notre : TRAPPIST-1**  
+Situé à environ 40 année lumière du système solaire, présence d'une étoile naine froide, constitué de 7 planètes de taille similaire à la Terre, et au moins 3 d'entres elles pourraient avoir de l'eau liquide à la surface  
+**Planète K2-18b**  
+Distante d'environs 110 année lumières du système solaire, qualifiée comme étant une Super-Terre, se situe dans dans le spectre ou l'eau est disponible. Vapeur d'eau détectée
+
+#### Caractère fondamentaux des planètes
+
+{% hint style="warning" %}
+Les planètes possèdent plusieurs caractère, Taille, Masse, Densité, Composition, Champ magnétique et Orbite. Les plus importants sont la **Taille**, la **Masse** et leur **Orbite**.
+{% endhint %}
+
+Taille et masse sont des caractères liée l'un et l'autre.  
+La masse d'une planète conditionne :   
+- Son champ gravitationnel $$\to$$Capacité à garder les enveloppes fluides  
+- Sa quantité d'énergie interne  
+La dissipation de ce flux, forme la tectonique des plaques et permet la création de relief
+
+![](../.gitbook/assets/comparatif-taille-masse-planetes.jpg)
+
+Quand on connait la masse, on connait la densité.  
+Compression gravitaire :  
+- Pour une même composition, plus une planète est grosse, plus la pression est forte et donc plus la densité est élevée  
+- La porosité des corps à faible champs de gravité : "Vide" et donc faible densité  
+La densité correspond à la composition moyenne.  
+- Pour les planètes telluriques \(Roche et métaux\): Sillicates, O, Si, Al, Mg, Na, Ca, K, Fe, Ni et S  
+- Pour les planètes gazeuse : 80-90 mol% **d'Hydrogène** et 10-20 mol% **d'Hélium** et un peu de méthane, composition très proche du Soleil
+
+#### Relief
+
+A la différence de Mercure, les surface de Venus, Terre et Mars présentent une faible densité de cratères mais des reliefs élevés et des volcans. Venus et Terre sont des planètes actives, Mars est inactive depuis environ 500Ma
+
+#### Orbite
+
+Les planètes sont séparé en deux grands groupes par rapport à leurs orbites, l'orbite de Mercure, Venus, Terre et Mars qui est à une unité astronomique et Jupiter, Saturne, Uranus et Neptune à environ 10 unité astronomique.  
+L'orbite conditionne la quantité d'énergie reçue depuis le soleil \(360 w/m² au toit de l'atmosphère terrestre\)  
+**L’énergie externe** est à l'origine de l’érosion -&gt; destruction des reliefs
+
+#### Champ magnétique
+
+{% hint style="warning" %}
+Mars et Venus n'ont pas de champ magnétique. 
+{% endhint %}
+
+#### Mercure
+
+Mercure n'a pas d'atmosphère, présence d'hydrogène et d'hélium \(Vent solaire\) temporairement gardés par Mercure. Vapeur de Na et K qui corresponde à l’interaction entre vent solaire et minéraux de surface. Pression totale &lt; $$10^{-12}$$ atmosphère, soit le vide. Planète trop proche du soleil \(Température 430°C\) et petite gravité \(Petite Masse\)  
+Présence de lave et de volcans, c'est donc une planète active.  
+Mercure à un noyaux métallique, constitué principalement de Fer, son noyau représente 40% de son volume totale et 2/3 de sa masse. Densité élevé 5,4.
+
+#### Vénus
+
+Planète avec une atmosphère très dense, 95 Bars, épaisse de 50 à 70 Km et constitué de 96% de CO2, cet effet de serre fait monté la température à 460°C.  
+Vénus montre une présence forte en volcans et reliefs. Coulée de lave et impact de cratères
+
+#### Terre
+
+La terre présente une différences notable comparé aux autres planètes, sa biosphère, ainsi que l'atmosphère \(Vapeurs d'eau\), hydrosphère \(Liquide et Solide\) et des reliefs.  
+**Lune**  
+La terre est indissociable de son satellite la Lune  
+**Météorite**  
+Grace à différente méthode de séismologie et tomographie il est possible de détecter les anciens impact de météorite sur Terre, le diamètre de l'impact d'un météorite est égale à 20 fois le diamètre de celui-ci. Le plus gros météorite connus sur terre pèse 60 tonne et à été découvert en Namibie.  
+Les météorite peuvent provenir de différents endroits, la ceinture d’astéroïde située entre Mars et Jupiter, météorite éjectée de la planète Mars par un impact sur celle-ci
+
 ## Définition
 
 {% hint style="info" %}
