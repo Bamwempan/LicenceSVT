@@ -286,6 +286,35 @@ Une roche est composée de minéraux, les enveloppes solides du globe sont compo
 Magma solidifié peut donner des gros cristaux \(Texture grenue\) Plutonique, Granite OU Pâte vitreuse petits cristaux \(Microlithique\) Volcanique, Basalte
 {% endhint %}
 
+#### Roches métamorphiques
+
+{% hint style="warning" %}
+Transformation d'une roche à l'état solide du fait de l'élévation de la température et ou de la pression, avec cristallisation de nouveaux minéraux et acquisition de texture et structure particulière sous l’influence de conditions physiques et/ou chimiques différentes de celles ayant présidé à la formation de la roche originelle.  
+La roche originelle \(**Protolithe**\) peut être sédimentaire, magmatique ou métamorphique  
+Nommé : Para-métamorphique, Ortho-métamorphique et polymétamorphisme
+{% endhint %}
+
+Les roches métamorphique ont plusieurs structurations, **linéation, schistosité et foliation.  
+Degrés de métamorphisme**  
+Argile =&gt; Schiste =&gt; Gneiss =&gt; Migmatite =&gt; Fusion  
+- La fusion partielle des roches métamorphiques forme de la **migmatite**  
+- Fusion totale forme du **magma**
+
+**Roche sédimentaires**
+
+**Classification**  
+Les roches sédimentaires se sépares en 4 catégories principales : **Silicoclastiques \(70%\), Carbonatées \(25%\), Évaporitiques \(4%\), Autres \(Carbonées, Siliceuse, 1%\)**  
+Classification selon la genèse :  
+- **Roches détritiques** terrigènes \(Par érosion de roche en place, ex : grès, silts, argile\) et roche détritique volcanique  
+- **Roches chimiques** \(Par précipitation des sels minéraux\) les évaporites \(Halite, Gypse\), les résiduelle \(Bauxite\)  
+- **Roches biochimiques** \(Par production des êtres vivants\). Les calcaires, les siliceuses, les phosphatées, les organiques \(Charbons, hydrocarbures\)
+
+![](../.gitbook/assets/classification-roche-sedimentaire.jpg)
+
+![](../.gitbook/assets/roche-consolide-vs-non-cosilide.jpg)
+
+## Système solaire
+
 ## Définition
 
 {% hint style="info" %}
@@ -298,5 +327,7 @@ Magma solidifié peut donner des gros cristaux \(Texture grenue\) Plutonique, Gr
 **Stable :**
 
 **Radioactif :**
+
+**Fusion :** Passage directe d'un corps  de l'état solide à l'état liquide
 {% endhint %}
 
