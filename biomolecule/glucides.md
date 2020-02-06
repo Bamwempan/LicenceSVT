@@ -148,3 +148,51 @@ Elle sont spécifiques :
 * De l'anomérie de la liaison osidique a ou B
 {% endhint %}
 
+#### Maltose / Isomaltose
+
+![](../.gitbook/assets/maltose-isomaltose.jpg)
+
+{% hint style="warning" %}
+Fabrication bière \(Malt = Orge germé\)
+
+* **Maltage :** Germination de l'orge \(Trempage + Aération\) grain germé \(Malt vert\) grillé, séché puis broyé
+* **Brassage :** Malt mélangé avec de l'eau puis chauffé par palier de température \(Action des enzymes : protéases, B-amylases et a-amylases\)
+  * Filtration de la partie liquide et extraction des sucres
+  * Cuisson, ajout de houblon \(acides qui stérilisent, conservent et donne l'amertume\)
+* **Fermentation :** 
+  * Ébullition, filtration puis cuve de fermentation \(+Levure\) anaérobie glucose -&gt; alcool \(éthanol\) + CO2
+  * Garde \(Quelques semaine à 0°C\)
+* **Embouteillage :** 
+  * Bière soutirée \(mise en bouteille\), encapsulation et pasteurisation.
+{% endhint %}
+
+#### Lactose et le Cellobiose
+
+![](../.gitbook/assets/lactose-cellobiose.jpg)
+
+Dans l'intestin le lactose est hydrolysée par une lactase, en glucose et galactose qui peuvent être absorbés. Une déficience en lactase peut provoquer une intolérance en lactose, pour pallier le problème on peut remplace le lait par des yaourt
+
+{% hint style="warning" %}
+* Lactobacillus bulgarius : Dégrade en glucose et galactose en acide lactique
+  * Acide lactique à un rôle antiseptique
+  * Acide lactique acidifie le milieu
+  * Précipitation des protéines du lait, particulier de la caséine
+  * Favoriser l'assimilation de calcium
+* Streptococcus thermophilus
+  * Élabore des produits aromatiques, ces bactéries digèrent aussi partiellement les protéines du lait
+* Bifidobacteria et L.acidophilus
+  * Ce sont  des probiotiques présent dans la "Flore intestinale" \(Microbiote\)
+{% endhint %}
+
+#### Saccharose / Tréhalose
+
+{% hint style="warning" %}
+* Raffinage du sucre
+  * Betterave lavées, découpées et plongées dans l'eau chaude, le sucre se diffuse dans l'eau
+  * Solution qui contient 13% de sucre \(g pour 100ml\) et 3% d'impureté
+  * Impureté éliminées par addition de lait de chasse et de CO2
+  * Jus épuré filtré puis concentré $$\to$$solution devient 63% de sucre
+  * Cuisson sous vide : Obtention de cristaux de sucre
+  * Sucre blanc lavé par pulvérisation de vapeur, puis sèche \(Air chaud\)
+{% endhint %}
+
