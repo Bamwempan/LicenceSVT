@@ -272,6 +272,66 @@ Ou numérotation normale : atome de Carbones numérotés à partir du carboxyle 
   * Acide linoléique$$(C_{18:2}) \to -5°C$$
   * Acide a-linolénique$$(C_{18:3}) \to -11°C$$
 
+### Propriété chimique
+
+#### Réaction avec les amines
+
+![](../.gitbook/assets/reaction-amine.jpg)
+
+#### Réaction avec les alcools
+
+![](../.gitbook/assets/reaction-alcools.jpg)
+
+_Formation des cérides \(Acide gras + alcool aliphatique\) :_
+
+![](../.gitbook/assets/reaction-alcools-cerides.jpg)
+
+#### Réaction avec les KOH \(Potasse\)
+
+![](../.gitbook/assets/reaction-potasse.jpg)
+
+#### Indice de saponification \($$I_s$$\)
+
+{% hint style="info" %}
+**Indice de saponification Is :** Quantité de potasse nécessaire pour saponifier 1g de matière grasse \(Ester acide gras\), exprimé en mg  
+Is ne permet pas la détermination de la masse molaire
+{% endhint %}
+
+![](../.gitbook/assets/indice-saponification.jpg)
+
+{% hint style="warning" %}
+Lors de la saponification on peut dire :  
+n mole de KOH pour n mole d'ester $$\to$$Donc $$n_{(KOH)}=n_{(ester)}\to\frac{m_{KOH}}{M_{KOH}}=\frac{m_{Ester}}{M_{Ester}}$$  
+Donc $$m_{KOH}=M_{KOH}\times\frac{m{Ester}}{M{Ester}}$$  
+$$I_s=m_{KOH}\times1000$$
+
+La masse molaire d'acide gras peut être déduite de la valeur de Is  
+$$M_ester=\frac{m_{ester}}{m_{KOH}}\times M_{KOH}$$
+{% endhint %}
+
+#### Indice d'acide \( $$I_A$$ \) : Réaction de neutralisation
+
+{% hint style="info" %}
+Indice d'Acide : Quantité de potasse, exprimé en mg, nécessaire pour neutraliser 1g d'acide dans la matière grasse
+{% endhint %}
+
+La valeur $$I_A$$permet de déterminer la quantité d'acides gras libres présents dans la matière grasse : il s'agit de l'acidité résiduelle
+
+#### Indice d'ester \( $$I_E$$ \)
+
+{% hint style="info" %}
+Indice d'ester : Quantité de potasse, exprimé en mg, nécessaire pour saponifier 1g de matière grasse, l'acidité résiduelle ayant été éliminée  
+$$I_E=I_S-I_A$$
+{% endhint %}
+
+#### Propriétés des acides gras éthyléniques
+
+#### Hydrogénation
+
+![](../.gitbook/assets/hydrogenation.jpg)
+
+#### Oxydation
+
 ## Définition
 
 {% hint style="info" %}
