@@ -264,6 +264,16 @@ Exemple : $$f (x ) = x^2 sin(100x )$$sur $$[−1, 0] : \lim_{x \to 0^-}f (x ) = 
 
 #### Limites par comparaison
 
+## Astuce
+
+{% hint style="warning" %}
+$$\frac{e^u}{e^v}=e^{u-v}$$ 
+
+
+
+$$\log \frac{a}{b} = \log a - \log b = - \log \frac{b}{a}$$
+{% endhint %}
+
 ## Définition
 
 {% hint style="info" %}
