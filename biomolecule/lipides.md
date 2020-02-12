@@ -330,7 +330,40 @@ $$I_E=I_S-I_A$$
 
 ![](../.gitbook/assets/hydrogenation.jpg)
 
+#### Addition d'halogènes
+
+{% hint style="info" %}
+Indice d'iode \($$I_I$$\) : Quantité de d'iode, exprimé en **cg**, nécessaire pour saturer les doubles liaisons contenues dans 1g de matière
+{% endhint %}
+
+![](../.gitbook/assets/indice-iode.jpg)
+
 #### Oxydation
+
+![](../.gitbook/assets/oxydation-lipides.jpg)
+
+## Méthode séparation et de dosage
+
+### Chromatographie sur Couche Mince \(CCM\)
+
+{% hint style="info" %}
+La CCM est principalement une chromatographie d'**Adsorption**.   
+- La phase stationnaire est un adsorbant solide \(Gel de Silice\)  
+- La phase mobile est constituée par un solvant ou un mélange de solvants
+{% endhint %}
+
+### Chromatographie en Phase Gazeuse
+
+{% hint style="info" %}
+Séparation des lipides rendus volatils par formation de dérivés \(ester méthylique\)
+{% endhint %}
+
+![](../.gitbook/assets/cpg-1.jpg)
+
+![](../.gitbook/assets/cpg-2.jpg)
+
+Le Tr augmente avec soit une chaîne carboné plus longue et/ou la présence de double liaisons  
+Caractérisation des composés par le temps de rétention Tr quantification des composé par la surface des pics ou la hauteur \(Si le pic est étroit\)
 
 ## Définition
 
