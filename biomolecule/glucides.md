@@ -196,3 +196,21 @@ Dans l'intestin le lactose est hydrolysée par une lactase, en glucose et galact
   * Sucre blanc lavé par pulvérisation de vapeur, puis sèche \(Air chaud\)
 {% endhint %}
 
+![](../.gitbook/assets/saccharose-trehalose.jpg)
+
+**Le tréhalose** est un diholosides **non réducteur** \(Les deux OH anomériques sont dans la liaison osidique\)  
+- Principale glucides circulant dans l’hémolymphe des insectes, composant de certains champignons et algues  
+- Digestion par le **tréhalase,** très spécifique \(Intestin mammifères, insectes et quelques micro organismes\)  
+- De nombreux organisme l'accumulent en réponse à des chocs thermique \(Froid ou Chaud\). Notamment les **tardigrade** ce qui leur permet de survivre à des conditions extrêmes en supprimant l'eau contenus dans leurs cellules  
+- Stabilisant alimentaire  
+- Cryoprotectant pour la conservation d'organes biologique
+
+### Analyse structurale des oligosaccharides
+
+Combinaison de méthode biochimique pour déterminer la nature de différent oligosaccharides
+
+* Composition globale : Hydrolyse en milieu acide fort \(HCL Acide Chlorhydrique\) concentré à 100-110% pendant plusieurs heures =&gt; Monosaccharides. Puis séparation et identification des oses présent par CCM \(Chromatographie sur Couche Mince\)
+* Détermination d'un éventuel pouvoir réducteur \(Test à la liqueur de fehling\)
+* Position de la liaison osidique, perméthylation \(ICH3/NaH\) puis hydrolyse en milieu acide =&gt; -OH libre engagé dans la liaison osidique
+* Configuration anomérique des liaisons osidique, hydrolyse enzymatique par des glycosidases spécifiques
+
