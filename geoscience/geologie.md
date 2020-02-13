@@ -401,6 +401,77 @@ La terre est indissociable de son satellite la Lune
 Grace à différente méthode de séismologie et tomographie il est possible de détecter les anciens impact de météorite sur Terre, le diamètre de l'impact d'un météorite est égale à 20 fois le diamètre de celui-ci. Le plus gros météorite connus sur terre pèse 60 tonne et à été découvert en Namibie.  
 Les météorite peuvent provenir de différents endroits, la ceinture d’astéroïde située entre Mars et Jupiter, météorite éjectée de la planète Mars par un impact sur celle-ci
 
+#### Mars
+
+Mars est une planète "fossile" , elle à deux satellites **Pheibos et Deimos,** c'est une planète inactive géologiquement.  
+Mars est la planète la plus proche de la Terre avec 55Mkm. Son noyaux est de 1300 à 2000km de rayon, c'est un noyau solide, il n'y à donc pas de champ magnétique, on peut l'observer car mars est criblé de cratères d'impact, le cratère **Schiaparelli** est le plus grand. Ne pas confondre les cratères d'impact avec les cônes volcaniques présent sur la surface, reflétant l'ancienne activité géologique de Mars. Plusieurs faille sont présente sur la surface de Mars, dont le grand canyon de **Valles Marineris.** Le plus gros volcan de mars est le **Mont Olympe.**   
+Hydrosphère =&gt; De par sa position dans le système solaire, Mars aurait du accumuler autant d'eau que la Terre au cours de sa formation. Mais son atmosphère n'a que **0,03% de vapeurs d'eau.** Il y a présence de calottes polaires. L'eau liquide n'existe plus à la surface de Mars. La présence certaines forme géologique prouve que l'eau était présente de façon liquide sur Mars.  
+- Érosion sur mars et écoulement  
+- Accumulation de sédiment comparable à la Terre  
+- Chenal \(Fleuve et rivière\) ?  
+Il y a 35Ma Mars aurai était recouvert d'eau dans l'hémisphère nord. Malgré ça, l'atmosphère de mars est composé à 95% de CO2 avec une pression de 0.01 bar \(Faible gravitation et pas de champs magnétique\)
+
+#### Ceinture d’astéroïde
+
+Contient plusieurs millions d'objets, allant du grain de sable à la protoplanète.  
+**Cérès** est fortement cratérisé \(Surface ancienne donc pas d'activité géologique\)
+
+#### Jupiter
+
+Sur une phot récente, on peut distinguer 4 impact sur Jupiter, un impact à environ la taille de l’océan pacifique. Jupiter à 4 satellites galiléens =&gt; **Io, Europa, Ganymède et Callisto** dont la glace domine leur surface.  
+Sur **IO** on peut distinguer des coulées volcaniques, **Europa** présente des couches de glace fissuré, **Ganymède** cratère d'impact fortement représenté, **Callisto** Cratère d'impact. On constate que de Io à Callisto l'activité géologique va en diminuant, cette activité rajeunis la surface. Ce cycle de satellites est une exception à la règle de dépendance de la taille sur l'activité d'une planète. Leur taille ne devrai pas leur fournir une activité géologique, leur activité géologique provient des **forces de marées**, qui engendre des déformation sur ces différents corps, ce qui provoque des friction et entrain la fusion partiels du noyaux qui s'exprime en surface par du volcanisme. La force de marées et provoqué par Jupiter.
+
+#### Saturne
+
+Saturne est la planète entourée d'un anneau, cet anneau est crée par le dégazage de certains satellites avec une activité volcanique, volcanisme aquatique \(H2O\) qui laisse des particules d'eau sur l'orbite,  l'un de ses satellites, **Mimas**, à inspiré l'étoile Noir de star wars. **Titan** est constitué de méthane, on peut le voir avec une rivière assécher et un lac de méthane en surface \(Température surface de -180°C\)
+
+#### Uranus et Neptune
+
+**Uranus et Neptune** sont deux géantes de glaces, composé essentiellement de méthane, ammoniac et d'eaux, l'ensemble de ces matériaux est appelée glace.
+
+#### Comète
+
+Les comètes proviennent de plusieurs endroit de l'univers, la **ceinture de Kuiper ou du nuage d'Oort.** Composée d'un noyaux de glace et de poussière. La sonde Rosetta rencontre la comète Chury
+
+#### Récap
+
+![](../.gitbook/assets/planete-dimension-masse.jpg)
+
+![](../.gitbook/assets/echelle-logarythme.jpg)
+
+### Formation des planètes
+
+#### De la condensation à la différenciation
+
+Au moment de la **condensation du gaz nébulaire**, la **position orbitale des poussières** détermine la **composition chimique de la future planète**.  
+Cette différence de nature chimique des poussières, associée aux phénomènes **d'accrétion**, expliquent la différence de composition chimique des planètes rocheuses, des satellites de glace, et de leurs environnements atmosphériques. A cela il faut ajouter le phase de **différenciation** \(et de **dégazage**\).
+
+#### Composition des grains de poussière
+
+Les différents grains de poussières vont former les planètes
+
+![](../.gitbook/assets/composition-poussiere.jpg)
+
+La séquence de condensation générale à partir de la nébuleuse solaire \(gaz enrichi en éléments lourds\).C’est le processus qui explique la zonation chimique du système solaire.
+
+#### Séquence condensation partielle
+
+Au moment de la phase T-tauri les régions les plus proches de la source de chaleur sont plus riches en réfractaires, les régions les plus éloignées du Soleil, plus riches en volatils.
+
+![](../.gitbook/assets/condensation-partielle.jpg)
+
+#### Accrétion, des poussières aux planètes
+
+Scénario valable pour les planètes telluriques
+
+1. La nébuleuse proto-solaire voit sa vitesse de **rotation** augmentée
+2. La **gravitation** agglutine les chondres et les poussières de Fe et Ni =&gt; planétisimaux \(I puis II\)
+3. Créations d’anneaux de matières \(phénomènes de résonnance\).
+4. Autour des plus gros **planétisimaux**, les champs de gravité s’amplifièrent et le processus d’accrétion prit de l’accélération =&gt;  naissance des protoplanètes Le phénomène d’accrétion s’accompagne d’une augmentation de la T° =&gt; zonation thermique dans les anneaux.
+5. **Bombardement météoritique intense** pendant 500 à 800 Ma.
+
+Les poussières s’attirent de manière électrostatique. Lorsqu'elles deviennent plus grosse : attraction gravitaire. Problème : petits corps \(&lt; 1km\) détruits facilement par les collisions Comment passer d’une poussière à un corps d’1km ? Les impacts géants peuvent détruire les planètes en formation.
+
 ## Définition
 
 {% hint style="info" %}
