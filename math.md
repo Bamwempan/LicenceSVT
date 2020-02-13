@@ -59,6 +59,10 @@ Suite à ce discriminant la forme factorisé est donc $$(x-x_1)(x-x_2)$$
 
 ![](.gitbook/assets/operation-sur-les-derivees.jpeg)
 
+![](.gitbook/assets/operation-sur-les-derive.jpg)
+
+![](.gitbook/assets/operation-usuelles-derive.jpg)
+
 ### Dénombrement
 
 {% hint style="info" %}
