@@ -472,6 +472,77 @@ Scénario valable pour les planètes telluriques
 
 Les poussières s’attirent de manière électrostatique. Lorsqu'elles deviennent plus grosse : attraction gravitaire. Problème : petits corps \(&lt; 1km\) détruits facilement par les collisions Comment passer d’une poussière à un corps d’1km ? Les impacts géants peuvent détruire les planètes en formation.
 
+## Terre
+
+### Méthode d'exploration de l'intérieur de la Terre
+
+Comment peut ont accéder à l'intérieur de la Terre ? Comment voir l'invisible ?  
+Sismologie -&gt; Structure du globe  
+Minéralogie -&gt; Composition du globe  
+Géodésie -&gt; Forme du globe
+
+#### Sismologie
+
+La structure de la Terre est connue grâce à l'étude de la propagation des ondes sismiques. Près de l'épicentre, la déformation permanente et cassante provoque les failles. Plus loin de l'épicentre, des vibrations, des ondes se propagent. La déformation n'est pas permanente =&gt; Déformation élastique.  
+Lors de la rupture, il y a libération d'énergie **dissipée sous forme de chaleur et d'ondes** qui se propagent au travers du globe.  
+**Enregistrement des séisme**  
+En 132 après JC, les chinois ont fabriqué le premier appareil d'observation des tremblement de terre \(**Sismoscope**\)  
+C'est en 1875 que l'italien Feloppo Cecchi construit le premier sismographe, capable d'enregistrer le mouvement du sol en fonction du temps \(Sismographe Horizontale et Verticale\), le sismographe donne les sismogrammes.  
+Depuis le milieu des années 70, les réseaux globaux de station sismique, le premiers réseaux développés par les USA -&gt; Réseau **IRIS**  
+La France -&gt; Réseau **GEOSCOPE,** initié en 1982.
+
+{% hint style="warning" %}
+**Une onde** est la propagation d'une perturbation produisant sur son passage une variation réversible de propriétés physique locales.  
+Elle transporte de l'énergie sans transporter de la matière, l'émission d'ondes se fait dans toutes les directions depuis la source. Lorsque le milieu traversé est **homogène,** le rai est **rectiligne.** Lorsqu'une onde rencontre une surface de discontinuité, il se produit une **réfraction** et une **réflexion**.
+{% endhint %}
+
+**Les ondes de volumes  
+Ondes P "Première"** sont les plus rapides, elles se propagent dans tous les milieux, **onde compression** = ondes longitudinales déplacement des particules parallèle à la direction de propagation de l'onde.  
+**Ondes S "Secondes"** ne se propagent pas dans les liquides. **Onde de cisaillement** = ondes transversales déplacement des particules perpendiculaire à la direction de propagation de l'onde.  
+**Les ondes de surface  
+Ondes Q = G "Ondes de Love"** . Se propagent seulement dans les solides non homogènes. Ondes transversales, polarisées dans le plan horizontal: résultent d'interférence constructives entres ondes S horizontales  
+**Onde R "Ondes de Raleich".** Se propagent au voisinage de la surface de milieux homogènes et non homogènes. Ondes elliptiques rétrogrades polarisées dans le plan vertical de propagation \(sorte de houle\): résultent d'interférences entre ondes P et S verticales.
+
+{% hint style="info" %}
+**Hodochrones :** Ce sont des courbes de propagation qui représentent les temps d'arrivée des différentes ondes sismiques à la station d'enregistrement, en fonction de la distance épicentrale
+{% endhint %}
+
+Pour **localiser** l'emplacement des **épicentres**, il faut déterminer les temps d'arrivée des ondes au niveau de plusieurs stations grâce à l'utilisation des hodochrones.  
+Magnétique d'un séisme : Richter  
+Les séisme ne libèrent pas tous la même quantité d'énergie. La magnitude sismique peut se référencer à l’échelle de Richter \(1935\) : le séisme est quantifié à partir du logarithme de l'amplitude des ondes de volume.  
+L'echelle de Mercali \(1902\) ou MSK \(1964\) gradué de 1 à 12, basée sur l'observation des dégâts causés par un séisme \(Subjectif\)
+
+{% hint style="warning" %}
+La Terre été pensé à la base comme une sphère homogène, mais suite au enregistrement de plusieurs stations, on arrive à distinguer plusieurs enveloppes à l'intérieur du Globe limitées par des discontinuités.
+{% endhint %}
+
+![](../.gitbook/assets/terre-homogene.jpg)
+
+**PREM =&gt; Preliminary Reference Earth Model** est le plus connu des modèle sismologiques fournissant la distribution radiale des vitesse sismiques et de certaines autres propriétés physiques.
+
+![](../.gitbook/assets/modele-prem.jpg)
+
+La Terre présente donc des discontinuités de vitesse et masse volumiques, ça provient de la chimie et/ou la structures matériaux qui changent en profondeur
+
+![](../.gitbook/assets/discontinuite-terre.jpg)
+
+{% hint style="warning" %}
+Discontinuité de Lehmann  
+Discontinuité de Gutenberg  
+Discontinuité de Mohorovic
+{% endhint %}
+
+**Tomographie sismique**  
+Méthode des année 80 qui a permis le développement de **l'imagerie** de la Terre à partir de l'analyse des variations latérales de propriété sismiques.  
+Une variation positive des vitesses sismiques, par rapport à un modèle de référence, se traduit comme la traversée par les ondes d’un milieu plus froid que celui présumé \(et inversement pour les variations négatives\).  
+Si $$\Delta V>0$$, zone rapide donc plus dense ou relativement plus froide  
+Si $$\Delta V < 0$$, zone lente donc moins dense ou relativement plus chaude  
+La dichotomie de surface entre continents et océans se poursuit sismologiquement en profondeur jusqu'à 300 km. Le manteau sous-continental est en général plus épais et plus froid que celui des océans, du moins dans les zones cratoniques.
+
+#### La minéralogie
+
+
+
 ## Définition
 
 {% hint style="info" %}
