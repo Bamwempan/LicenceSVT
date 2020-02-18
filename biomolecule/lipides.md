@@ -365,6 +365,33 @@ Séparation des lipides rendus volatils par formation de dérivés \(ester méth
 Le Tr augmente avec soit une chaîne carboné plus longue et/ou la présence de double liaisons  
 Caractérisation des composés par le temps de rétention Tr quantification des composé par la surface des pics ou la hauteur \(Si le pic est étroit\)
 
+## Glycérolipides
+
+### Structure
+
+![](../.gitbook/assets/acylglycerols.jpg)
+
+{% hint style="warning" %}
+Si les acides gras sont identiques alors ce sont des **acylglycérols homogènes**   
+Si au moins deux acides gras sont différent alors ce sont des **acylglycérols hétérogènes**
+{% endhint %}
+
+#### **Triglycérides**
+
+![](../.gitbook/assets/triglycerides.jpg)
+
+### **Propriétés chimique**
+
+#### **Hydrolyse alcaline**
+
+![](../.gitbook/assets/hydrolyse-alcaline.jpg)
+
+{% hint style="warning" %}
+Lors d'une réaction de saponification : **1 mole** de triglycérol est saponifié par **3 moles** de KOH  
+Donc :  
+ $$n_{KOH}=3n_{triglycérol}$$ 
+{% endhint %}
+
 ## Définition
 
 {% hint style="info" %}

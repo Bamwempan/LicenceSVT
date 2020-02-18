@@ -214,3 +214,18 @@ Combinaison de méthode biochimique pour déterminer la nature de différent oli
 * Position de la liaison osidique, perméthylation \(ICH3/NaH\) puis hydrolyse en milieu acide =&gt; -OH libre engagé dans la liaison osidique
 * Configuration anomérique des liaisons osidique, hydrolyse enzymatique par des glycosidases spécifiques
 
+### Détermination de la structure d'un diholoside
+
+![](../.gitbook/assets/exemple-determination-structure-diholoside.jpg)
+
+### Triholosides
+
+#### Raffinose
+
+{% hint style="info" %}
+**Raffinose** **:**  α-D-galactopyranosyl-\(1$$\to$$6\)-α-D-glucopyranosyl-\(1$$\to$$2\)-β-D-fructofuranoside  
+Ou α-D-galactopyranosyl-\(1$$\to$$6\)-saccharose
+{% endhint %}
+
+![](../.gitbook/assets/raffinaose.jpg)
+
