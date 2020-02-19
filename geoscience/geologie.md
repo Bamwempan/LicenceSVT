@@ -541,7 +541,88 @@ La dichotomie de surface entre continents et océans se poursuit sismologiquemen
 
 #### La minéralogie
 
+L'étude de certains échantillons terrestres \(et des météorite\) permet de connaître la nature minéralogique, pétrographique et géochimique de certaines enveloppes.   
+**Enclume de diamant**  
+Le minérale étudier est placé entre 2 diamants dans un trou \(environ 200um de diamètre\).Permet de simuler une augmentation de chaleur et de pression  
+La discontinuités sismique du manteau ont associés aux changements de phase de l'olivine.  
+La compression d'une olivine, permet de le changer de phase allant de Olivine $$\alpha$$,Olivine $$\beta$$,Olivine $$\gamma$$=&gt; Pérovskite =&gt; Post-Pérovskite. C'est le composant principales des péridotites.
 
+#### Géodésie
+
+**Ellipsoïde**  
+Science des formes et des dimensions de la Terre d'une part, de la structure interne du globe terrestre d'autre part. Rayon polaire = 6353.77km et Rayon équatorial = 6374.16Km.  
+**Accélération de pesanteur**  
+La gravimétrie a pour objet l'étude du champ de gravité de la Terre. De ce fait la gravité des pôles \(9.83m/ss\) et différentes que celle de l'équateur \(9.78m/ss\)  
+**Surface équipotentielle**  
+La surface des océans peut se concevoir comme une surface de niveau \(= « altitude gravitaire »\) qui est contrôlée essentiellement par g. La surface océanique représente à l'équilibre une partie de surface sur laquelle le potentiel de pesanteur est constant \(même g\) = **surface équipotentielle**  
+Par la pensée, nous pouvons prolonger celle-ci sous les continents =&gt; **géoïde  
+Géoïde**  
+De nombreuses mesures gravimétriques et spatiales indiquent que le niveau zéro, correspondant au niveau moyen des mers, est en réalité une surface présentant d'importants creux et bosses \(entre -105m et +82m\)
+
+![](../.gitbook/assets/geoide-terre.png)
+
+{% hint style="warning" %}
+Le géoïde reflète les anomalies de répartition de masse à l'intérieur de la Terre
+{% endhint %}
+
+### Structure et composition des enveloppes internes
+
+Les indices apportés par la géochimies, pétrologie, minéralogie cumulé à ceux de la sismologie font naître un modèle de la structure de notre planète =&gt; 
+
+![](../.gitbook/assets/composition-chimique-propriete-physique-terre.jpg)
+
+**La lithosphère continentale et océanique**  
+- Enveloppe solide  
+- Composée de roches variées  
+- Lithosphère océanique \(100km\)  
+- Lithosphère continentale \(Jusqu’à 300km d'épaisseur\)  
+2 Parties sur la verticales : La croûte \(Partie supérieure de la lithosphère\) et la partie inférieure \(Partie supérieur et solide du manteau\)  
+**Croûte continentale = Granite et Gneiss**  
+Constitué d'une croûte superficielle \(Roche sédimentaire et volcanique\) suivi d'une croûte supérieure \(Roches métamorphiques + granitoïdes\) suivi d'une croûte inférieure \(Roche métamorphiques, granulites et roches intrusives\) suivi enfin du manteau supérieur \( Péridotites\)  
+**Croûte océanique**  
+Couche inférieur constitué de gabbro et supérieure de basalte
+
+![](../.gitbook/assets/croute-oceanique-croute-continentale.jpg)
+
+**Manteau inférieur et supérieur ?**  
+Distinction déterminée par la discontinuité de la vitesse des ondes sismiques. Discontinuité liée à une transition de phases des minéraux. Zones de transition à **400 km. et 670 km.  
+Manteaux lithosphérique/asthénosphérique**  
+Dans la lithosphère, la chaleur se propage par conduction, alors que dans l'asthénosphère la chaleur est principalement transmise de manière convective.  
+La lithosphère = couche limite thermique supérieure du système convectif mantellique. La limite lithosphère/asthénosphère correspond approximativement à l'isotherme 1300°C. La limite inférieure de l'asthénosphère est à -670 km.  
+**LVZ = Low Velocity Zone**  
+Au sommet de l'asthénosphère \(entre -100 et -200 km\)  =&gt; net ralentissement de la vitesse des ondes sismiques \(4,5 km/s au lieu de 5 km/s pour les ondes S\). Vitesses sismiques plus lentes car les conditions de T° et de P sont voisines de celles nécessaires à la fusion des péridotites du manteau.  
+Il y a donc fusion partielle \(FP = 1% des roches\), donc diminution de la viscosité des matériaux, marque une partie plus ductile de l’asthénosphère. Sommet de LVZ = isotherme 1300°C  
+**Les péridotites**  
+Roche à l'état solide, sauf pour LVZ. Suivant l'échelle de temps que l'on considère, le manteau est :  
+- Solide -&gt; les ondes S se propagent  
+- Fluide -&gt; le manteau peut se déformer sur des échelles de temps longues  
+Viscosité très élevée, mais à cause de sa grande dimension verticale, la convection est développée dans le manteau  
+**Composition noyaux**  
+Alliage métallique de Fer/Nickel, composé de deux parties :  
+- Le noyaux externe, alliage dans un état fondu, les **ondes S** ne se propagent pas. Mouvement de convection donc champ magnétique terrestre  
+- Le noyaux interne, l'alliage fondu se refroidit lentement et cristallise, donnant cette partie solide
+
+#### Différence chimique des enveloppes de la Terre
+
+![](../.gitbook/assets/compose-chimique-terre.jpg)
+
+### Différenciation de la planète
+
+**Accrétions homogène VS hétérogène**  
+Accrétion homogène est le fait que la différenciation est un phénomène géologique \(Après création de la planète\)  
+Accrétion hétérogène est le fait que la différenciation est un phénomène cosmologique \(Création et Différenciation en même temps\)  
+L'argument majeur en faveur de l'accrétion homogène provient des météorite.
+
+#### Apport des météorites
+
+La proportion de métal détermine la classification pétrographique :  
+- Météorites métalliques = 98% de Fer  
+- Les mixtes = 50%  
+- Les pierreuse = 20 à 27% \(93% des météorites découvertes\)  
+Subdivision ensuite en sous-classes selon la composition, la structure et la minéralogie des météorites  
+Deux types de météorite pierreuses : Les **chondrites** et les **achondrites  
+Les Chondrites**  contiennent des chondres, de petites sphères silicatées, **4,55Ga ce sont les objets les plus vieux du système solaire.** Densité de 5.52, abondance des éléments réfractaire semblable à celle du soleil  
+**Les achondrites**, pas de chondres, leurs composition originale à été effacée. Plus jeune de 0.02 à 0.05 Ga que les chondrites, et pas de chondrite de silicates
 
 ## Définition
 
