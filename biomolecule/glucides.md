@@ -229,3 +229,7 @@ Ou α-D-galactopyranosyl-\(1$$\to$$6\)-saccharose
 
 ![](../.gitbook/assets/raffinaose.jpg)
 
+{% hint style="warning" %}
+Présent dans les choux, fermenter pendant la digestion dans l'intestin, accompagnant le saccharose dans les jus de betteraves. Eliminé lors du raffinage
+{% endhint %}
+
