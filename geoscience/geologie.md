@@ -622,7 +622,36 @@ La proportion de métal détermine la classification pétrographique :
 Subdivision ensuite en sous-classes selon la composition, la structure et la minéralogie des météorites  
 Deux types de météorite pierreuses : Les **chondrites** et les **achondrites  
 Les Chondrites**  contiennent des chondres, de petites sphères silicatées, **4,55Ga ce sont les objets les plus vieux du système solaire.** Densité de 5.52, abondance des éléments réfractaire semblable à celle du soleil  
-**Les achondrites**, pas de chondres, leurs composition originale à été effacée. Plus jeune de 0.02 à 0.05 Ga que les chondrites, et pas de chondrite de silicates
+**Les achondrites**, pas de chondres, leurs composition originale à été effacée. Plus jeune de 0.02 à 0.05 Ga que les chondrites, et pas de chondrite de silicates  
+**Formation des météorites**  
+Le mode de formation des météorites détermine la **classification génétique**. Les mêmes classes de météorites se retrouvent dans ce système, mais elles sont distribuée différemment  
+Météorites : Non différenciées \(Chondrites\) et différenciées \(Hexahédrites, Octahédrites, Ataxites Pallasites, Mésosidérites, Achondrites\)  
+ou Météorite : Pierreuse \(Chondrites, Achondrites\), Métalliques \(Hexahédrites, Octahédrites, Ataxites\), Mixtes \(Pallasites, Mésosidérites\)  
+Il y à donc deux type de météorite différenciées : les météorites de Fer = Sidérites et sidérolithes. Et les achondrites = Eucrites \(Basalte\) et aubrites \(péridotite\). Avec un age de 4,5 Ga
+
+#### Différenciation noyaux / manteau
+
+Vers 500 Km de profondeur, transition liquide/solide de la péridotite, le Fer restant liquide. Fer et Nickel sont tombé au fond par percolation, les autres éléments migrants vers la surface -&gt; Ségrégation par différence de densité. L'individualisation du noyau est inférieur à 30 Ma.   
+Actuellement plusieurs millions de tonnes de Fer cristallisent chaque jour et tombent au centre du noyaux pour constituer la graine.  
+**Différenciation Croûte / Manteau**  
+Terre différenciée avec une proto-croûte, une atmosphère et un océan inférieur à 400 Ma. Le manteau appauvri en Fer et Nickel va ensuite se différencier avec les éléments les moins dense \(Silicates légers\) =&gt; Formation de la croûte terrestre  
+**Moteur de différenciation**  
+Il existent plusieurs moteurs de différenciations : Fusion partielle, contraste de densité, affinités chimiques, chaleur d'accrétion, contraction gravitationnelle, radioactivité manteau et effet de marée. Il faut une température supérieur à 2000°C =&gt; état plus ou moins fondu en profondeur.  
+Contraste de densité et affinités chimiques, manteau riche en lithophiles et noyau riche en sidérophiles
+
+#### Magnétosphère
+
+90% du champ magnétique terrestre actuel est un dipôle géocentré, les 10% restant forme un champ non-dipôlaire. Les aurores polaire sont les témoins de ces collisions entre les particules solaire et le champ magnétique terrestre \(émissions de photons\). Le CMT protège la Terre du vent solaire.  
+Les matériaux perdent leur aimantation au dessus de 600-1000°C, la température interne des planètes dépasse 1000°C à partir de 100 Km de profondeur. Il y à alors un **effet dynamo**, champ magnétique produit par les mouvements de convection d'un fluide conducteur. Dans le cas terrestre, le fluide conducteur est le fer liquide situé dans le noyau externe.
+
+#### Convection du noyau
+
+Origine interne -&gt; mouvement de matière dans le noyau liquide  
+**La convection chimique**  
+Gradients de concentration qui résultent de la cristallisation de la graine au dépend du noyau liquide, quand le fer liquide du noyau externe cristallise, le liquide résiduel s'enrichit un éléments légers et remonte.  
+**La convection thermique**  
+Gradients de température entre le bas et le haut du noyau externe génèrent des mouvements  
+**La rotation de la Terre** a pour conséquence de structurer l'écoulement, mais pas de l'entretenir. \(Cf force de Coriolis\)
 
 ## Définition
 
