@@ -651,7 +651,45 @@ Origine interne -&gt; mouvement de matière dans le noyau liquide
 Gradients de concentration qui résultent de la cristallisation de la graine au dépend du noyau liquide, quand le fer liquide du noyau externe cristallise, le liquide résiduel s'enrichit un éléments légers et remonte.  
 **La convection thermique**  
 Gradients de température entre le bas et le haut du noyau externe génèrent des mouvements  
-**La rotation de la Terre** a pour conséquence de structurer l'écoulement, mais pas de l'entretenir. \(Cf force de Coriolis\)
+**La rotation de la Terre** a pour conséquence de structurer l'écoulement, mais pas de l'entretenir. \(Cf force de Coriolis\)  
+**Force de Coriolis et géométrie de la convection dans le noyau  
+Très faible viscosité** du noyau forme la dynamique dominée par la **force de Coriolis.** Etude variation du champ magnétique, modèle quantitatifs montant de grand "tourbillons" à la surface du noyau. Simulation convection dans sphère en rotation rapide, mouvement prolongés dans tout le volume du noyau, formant des **colonnes d'axe parallèle à l'axe de rotation de la Terre.**
+
+#### Dynamo et électroaimant
+
+L'ensemble de ces mouvement crée le C.M.T par combinaison d'un effet dynamo et d'un effet électroaimant  
+**L'effet dynamo** crée un courant électrique par induction au sein d'un conducteur se déplaçant en présence d'un champ magnétique produit par un aimant permanent  
+**Un électroaimant** génère un champ magnétique à partir d'un courant circulant dans un conducteur
+
+{% hint style="warning" %}
+La combinaison des deux effets permet de produire et d'entretenir un champ magnétique terrestre \(Larmor, 1919\)
+{% endhint %}
+
+### De la Terre à la vie
+
+**Le règne d'Hadès**  
+Zircons de Jacks Hills âgée  de 4,4 Ga. Le plus vieil élément terrestre connu. Ils ont des inclusions de Quartz, Biotite etc. Zircons généralement présents dans les granitoïdes. **Granitoïde** sont les principales roches de la croûte continentale, la **croûte continentale** existait bien il y a 4,4 Ga.  
+**Archéen**  
+Gneiss d'Acasta datés par zircons est la preuve de l'existence d'une croûte continentale à 4,06 Ga. **La plus vielle roche date de 4 Ga.** La plus grosse production de croûte continentale se passe après 2 Ga
+
+![](../.gitbook/assets/schema-production-cc.jpg)
+
+1. Elle est initiée vers 100 Ma. La croûte continentale s'est formée sur 400 Ma oour parvenir à 4 Ga à une production de croûte supérieur à sa destruction
+2. A partir de 3.8 Ga, les zones de croûte continentale deviennent plus stable et ne sont plus constamment recyclée, c'est le début enregistrement
+3. Pourquoi l'essentiel de la croûte continentale à été fabriquée vers 2 Ga ?
+
+**Croûte océanique  
+Roche vertes d'Isua =&gt;** Première témoignage, ceinture de roches vertes d'Isua, basaltes en coussins datés à 3,8 Ga  
+**Enveloppes externes  
+Atmosphère et Océan =&gt;** le dégazage de l'atmosphère et la condensation des océans, s'effectue très rapidement, moins de 400 Ma et une température de moins 1300°C.  
+Dégazage =&gt; En 100 Ma, 85% de l'atmosphère était constituée \(95% de CO2\). Gâce à la présence d'océans et à la biosphère, le CO2 à été piégé dans les carbonates et l'atmosphère à été enrichie en O2. L'atmosphère primitive de la Terre ressemble à l'atmosphère actuelle de Mars et de Vénus.  
+**Bombardement météorique**  
+De 4,537 Ga à 3,9 Ga l'impacts des météorites, supérieur à 250 Km, vaporisent tous les océans. De ce fait la vie pérenne est possible qu'a partir de 3,9 Ga.   
+**Biosphère, première trace de vie**  
+Les microbes photosynthétiques présentent une anomalie en Carbone 13 négative de l'ordre de -25%°, alors que les calcaires auront des anomalie d'environ 0%°. =&gt; indice bio/géochimique  
+Indice pétrochimique =&gt; Les plus vieux stromatolites 3,490 Ga. Les plus vieux micro-fossiles, 11 espèces de micro-fossiles décrites. Les plus vieux micro-fossiles sont daté de 3,465 Ga. \(Micro-fossiles se trouvent dans des brèches, à l'intérieur de veines hydrothermales\)  
+**Comment passer de l’inerte à la vie ?  
+La théorie de la soupe primitive :** \(Théorie d'Oparine\) Du monde minéral provient l'obtention des molécules organiques simple \(matière prébiotique\), HCN et HCHO. Expérience de Miller \(1953\), mais cette expérience n'explique pas l'apparition des molécules complexe présentent sur terre, il reste des incertitudes.
 
 ## Définition
 
