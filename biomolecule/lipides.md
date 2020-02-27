@@ -396,5 +396,7 @@ Donc :
 
 {% hint style="info" %}
 **Polaire :** Formation possible de liaison hydrogène
+
+**Monoéthylénique :** Formule brute : CnH2n-2xO2 où n est un nombre pair et x le nombre d'insaturations. Pour x=1 on parle d'acide gras monoéthylénique, x=2 d'acide gras diéthylénique, x=3 d'acide triéthylénique
 {% endhint %}
 
