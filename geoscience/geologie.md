@@ -696,13 +696,11 @@ La théorie de la soupe primitive :** \(Théorie d'Oparine\) Du monde minéral p
 {% hint style="info" %}
 **Minéral :** Qualificatif employé pour designer des molécules qui ne contiennent pas de carbone associé à des atomes d'hydrogène
 
-**Galaxie :** 
+**Galaxie :** Nébuleuse spirale dans laquelle se trouve notre soleil.
 
-**Creuset stellaire :** 
+**Nucléosynthèse :** Formation des éléments chimiques dans l'Univers
 
-**Stable :**
-
-**Radioactif :**
+**Radioactivité :** Propriété que possèdent certains éléments de se transformer  en un autre élément à la suite de la désintégration spontanée du noyau atomique par émission de rayonnement électromagnétiques ou corpusculaires
 
 **Fusion :** Passage directe d'un corps  de l'état solide à l'état liquide
 {% endhint %}
