@@ -703,5 +703,7 @@ La théorie de la soupe primitive :** \(Théorie d'Oparine\) Du monde minéral p
 **Radioactivité :** Propriété que possèdent certains éléments de se transformer  en un autre élément à la suite de la désintégration spontanée du noyau atomique par émission de rayonnement électromagnétiques ou corpusculaires
 
 **Fusion :** Passage directe d'un corps  de l'état solide à l'état liquide
+
+**Système solaire Interne / Externe :** Le Système solaire interne est une division du Système solaire. Il s'étend du Soleil, centre du Système solaire, jusqu'à l'orbite de Jupiter qui constitue sa limite extérieure, il contient donc les planètes Mercure, Vénus, Terre et Mars en planète tellurique. Par opposition, le Système solaire externe est constitué du reste du Système solaire, en particulier les géantes gazeuses, la planète naine Pluton, la ceinture de Kuiper et le nuage d'Oort.
 {% endhint %}
 
