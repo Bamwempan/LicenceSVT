@@ -691,6 +691,22 @@ Indice pétrochimique =&gt; Les plus vieux stromatolites 3,490 Ga. Les plus vieu
 **Comment passer de l’inerte à la vie ?  
 La théorie de la soupe primitive :** \(Théorie d'Oparine\) Du monde minéral provient l'obtention des molécules organiques simple \(matière prébiotique\), HCN et HCHO. Expérience de Miller \(1953\), mais cette expérience n'explique pas l'apparition des molécules complexe présentent sur terre, il reste des incertitudes.
 
+## Continent et océans
+
+### La dérive des continents et les plaques lithosphériques
+
+L'idée d'une dérive des continent est décrite par **Alfred Wegener** en janvier 1912, puis il la développe progressivement jusqu’à sa mort, en 1930. Wegener affirme que les continents, constitués de sial reposent sur un substratum de sima plus dense qui affleure directement au niveau des océans. Les continents, autrefois réunis en une seule masse continentale nommée Pangée, se sont dispersés pour atteindre leur position actuelle en fendant le sima qui les entoure.  
+**Son modèle :** Les continents sont comme des radeaux circulant sur le manteau, fonctionne comme un brise-glace. Force motrices, marées / rotation. Les forces invoquées sont ridiculement faibles.  
+**Reconstitutions**  
+Ce ne sont pas les continents qui dérivent mais des plaques lithosphériques qui bougent.   
+**Caractéristiques des plaques lithosphériques**  
+Présence de la structure verticale, avec une lithosphère continentale et une lithosphère océanique. Xavier Le Pichon \(1968\) divisa la surface du globe en 6 plaques lithosphériques dont il détermina les frontières à partir de l’activité tectonique et calcula les pôles de rotation de leur mouvement relatif depuis 120 Ma  
+En surface, leurs limites sont caractérisées par d'importants changement de reliefs \(Dorsales, Fosse océaniques, arcs insulaires, cordières, chaîne de montagnes etc\) et par la distribution des séismes et volcans actifs. Traduit aussi par le flux de chaleur dégagé par le globe. Avec une énergie dégagé de 0,08W/m2, 1% activité volcanique et sismique et 99% de flux géothermiques diffus.  
+**Ages des croûtes**   
+Les croûtes océaniques sont crées avant 200 Ma alors que les croûtes continentales sont âgées d'environs 2 Ga.
+
+### La tectonique des plaques – les sites géodynamiques : du rift à la chaîne de montagne.
+
 ## Définition
 
 {% hint style="info" %}
