@@ -707,6 +707,85 @@ Les croûtes océaniques sont crées avant 200 Ma alors que les croûtes contine
 
 ### La tectonique des plaques – les sites géodynamiques : du rift à la chaîne de montagne.
 
+**Théorie de la tectonique des plaques**  
+Une théorie c'est un ensemble d'hypothèse testées et "acceptées" qui prédit des faits observables, explique les observations initialement indépendantes à la théorie et qui peut être rejetée. **Dès 1930, Holmes** proposa un modèle prémonitoire au concept moderne, formalisé par Morgan en 1967.  
+**Hypothèse et principes**  
+La surface est composée de plaques rigides \(= lithosphérique environ 100km\). Ces plaques se déforment uniquement à leurs frontières : Rides et subduction : changement de forme. Faille transformantes : conservative. Les continents sont insubmersibles. **Les plaques naissent au niveau des rides et disparaissent au niveau des fosses.**   
+**Les sites géodynamiques**  
+Présent sur les dorsales, fosses, montagnes et points chauds.
+
+#### **Zone de divergence - Du Rift à l'océan**
+
+![](../.gitbook/assets/rift-a-ocean.jpg)
+
+**Modèles d'extension lithosphérique**  
+Le premier modèle est dérivé du modèle d’amincissement homogène de McKenzie \(1972\) : la lithosphère dans son ensemble s’amincit de manière symétrique dans la zone du rift. Ce modèle rend compte de l’évolution thermique mais ne définit pas la géométrie des structures.  
+Le second modèle proposé par Lister & Davis \(1989\) est intermédiaire : la croûte s’amincit de manière asymétrique alors que le manteau supérieur s’amincit de manière symétrique.  
+Le troisième modèle est dérivé des études de terrain de Wernicke \(1981\) dans le Névada : la lithosphère dans son ensemble s’amincit de manière asymétrique. Ce modèle rend compte de l’observation de grandes failles normales à faible pendage.  
+Réponse isostatique asymétrique Le fonctionnement d’une faille de détachement crée une dénudation tectonique dans l’axe du rift. Le décalage du bombement thermique entraîne le soulèvement plus important d’une des marges.  
+**Métamorphisme**  
+Des roches métamorphiques de haute-température car amincissement crustal, granulite et cornéenne.
+
+#### Zones en divergence - Accrétion océanique.
+
+**Les dorsales**  
+Relief sous-marin s'étirant sur 60 000 Km. Il existent 3 types de dorsales :  
+- Lente, seule ce type de dorsale présente une vallée, Rift bien nette.  
+- Intermédiaire \(Est pacifique\)  
+- Rapide \( Vitesse d'accrétion est environ de 8 cm/an Est pacifique\), frontières en subduction, importance de la subduction dans la tectonique des plaques et, plus précisément, dans les mouvements de convection mantellique.  
+**Failles transformantes**  
+C’est l’activité de la dorsale qui est responsable du mouvement des failles. **Il n’y a pas décalage des segments de la dorsale parce qu’il y a des failles. Il y a des failles parce qu’il y a décalage initial des segments de la dorsale**. Une faille transformante ne décale donc pas 2 segments de ride. Elle est l’expression de l’extension d’une plaque dont la dorsale ne suit pas un cercle \(= n’est pas rectiligne\). C’est une faille géométriquement obligatoire dans l’hypothèse de plaques rigides. Deux grand type de faille, Dextre \(transformantes\) ou senestre \(Décrochantes, rides = marqueurs du déplacement\)  
+Elle se trouvent le plus souvent dans la lithosphère océanique, elles permettent d’accommoder des différences dans les vitesses de déplacement des plaques, ou de faire le relais entre des limites divergentes et convergentes \(de là leur nom de failles transformantes\). **Faille de San Andreas.**
+
+{% hint style="warning" %}
+**Théorème d’Euler :** Failles transformantes = Petits cercles dont le centre est sur l’axe du pôle d’Euler
+{% endhint %}
+
+**Magmatisme**  
+Décompression adiabatique -&gt; Fusion partielle des péridotites, formation de magma tholéitique avec une lave de composition basaltique, c'est du volcanisme effusif.  
+**Anomalies magnétiques de la croûte océanique**  
+La cartographie des fonds marins révèle des anomalies magnétiques symétriques par rapport à un axe. En 1963, Vine, Matthews et Morlay ont montré que l'existence de ces bandes d'anomalie magnétique venait supporter l'hypothèse de l’expansion océanique de **Hess**  
+Le renouvellement des fonds océaniques revient à la théorie du tapis roulant de **Hess** en 1962. Ce renouvellement permet de prouver la dérive des continent. Il y à un zebre océanique
+
+![](../.gitbook/assets/zebre-oceanique.jpg)
+
+#### Zones de convergence – Subduction.
+
+**Les Fosses**  
+Répartition des fosses et vitesse de subduction.  
+**Le devenir de la croûte océanique**  
+La ceinture de feu du pacifique  
+**Deux type de subduction**
+
+![](../.gitbook/assets/subductions.jpg)
+
+**Arc insulaires / Magmatisme / Volcanisme**  
+Les foyers sismiques se répartissent le long du plan de Wadati-Benioff. Seisme superficiel \(0 -&gt; 100 km\), Intermédiaire \(100 km -&gt; 300 Km\), profond \(300 -&gt; 700 Km\). Zone de convergence création de relief, avec possibilité de faille oblique, chevauchement.  
+**Géométrie arquée**  
+Les courbures observées en surface ne sont qu'une partie d'un phénomène tri-dimensionnel, relié à la déformation d'une coquille sphérique plongeant vers l'intérieur d'une sphère = la lithosphère océanique subductant dans le manteau. Comparaisons avec la balle de ping-pong pliée. Selon une étude japonaise, la succession d'arcs en surface est le résultat de l'ondulation latérale du panneau plongeant. Bien entendu, chaque zone de subduction est différente et la tectonique des "coquilles sphériques" dépend également de l'épaisseur de la coquille \(= l'âge de la lithosphère\), de la longueur du segment qui plonge, mais aussi de la charge guidant la plongée \(densité de la plaque, ou/et force de traction du panneau plongeant \(slab\) déjà subducté\).  
+**Structure thermique**  
+Dépression des isothermes suite au transport de la lithosphère froide en profondeur \(c’est le courant froid de la convection\).
+
+![](../.gitbook/assets/structure-thermique.jpg)
+
+**Métamorphisme**  
+Des roches métamorphique de haute pression et de faible température. Schiste verts, Schiste bleu et Eclogites. Réactions minérales de déshydratation & augmentation de la densité  
+**Tomographie sismique**  
+C'est par la tomographie sismique au début des années 90 que l'on a pu obtenir des images correspondant aux zones anormalement froides dans le manteau, c'est-à-dire aux plaques océaniques subductées \(Slab\). Des anomalies sismiques dans le manteau qui tracent la plaque froide et dense. Le panneau plongeant \(slab\) semble s'étaler sur la zone de transition pour la zone des Iles Kouriles \(B-B'\) et Izu Bonin \(CC’\), alors qu'il pénètre dans le manteau inférieur pour les autres cas. **La croûte océanique est plus dense que la croûte continentale.**  
+**Subductions forcée vs spontanée**  
+La subduction forcée, dans le cas d'une lithosphère océanique jeune et légère.  
+Subduction spontanée, dans le cas d'une lithosphère océanique âgée et lourde.  
+**Magmatisme**  
+Avec une apport d'eau, il y a fusion partielle \(15 à 20%\) des péridotites avec une "Polution", ce qui créer un magma calco-alcalin. Lave de composition andésitique -&gt; volcanisme éruptif \(principalement émission de produits pyroclastiques, gaz\)  
+**Volcanisme**  
+Volcanisme explosif, mai 1980 explosion du mont St Helens \(USA\), avec 1 milliards de $$m^3$$d'éjectât et une puissance équivalent à 1600 fois Hiroshima. **Les supervolcans sont toujours associés au zones de subduction.**  
+**Marge passive et Marge active**  
+Volcanisme + Séisme = Marge actives. Zone d’accrétion VS zone de subduction. La terre à un volume constant.
+
+#### Zones de convergence - collision
+
+Zone de convergence du mont blanc à l’Everest, Himalaya et Alpes beaucoup étudié. Épaississement du à un raccourcissement, plis peuvent casser, anticlinal chevauche clinal.
+
 ## Définition
 
 {% hint style="info" %}
