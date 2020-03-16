@@ -1,5 +1,9 @@
 # Glucides
 
+{% hint style="danger" %}
+Le cycle le plus stable des cétose est la forme furane, alors que le cycle le plus stable des aldose est la forme pyrane
+{% endhint %}
+
 ## Tautomérie céto-énolique
 
 * Transposition réversible d'une molécule \(qui possède un H sur le C en a du carbonyle\) en un isomère
