@@ -784,7 +784,63 @@ Volcanisme + Séisme = Marge actives. Zone d’accrétion VS zone de subduction.
 
 #### Zones de convergence - collision
 
-Zone de convergence du mont blanc à l’Everest, Himalaya et Alpes beaucoup étudié. Épaississement du à un raccourcissement, plis peuvent casser, anticlinal chevauche clinal.
+Zone de convergence du mont blanc à l’Everest, Himalaya et Alpes beaucoup étudié. Épaississement du à un raccourcissement, plis peuvent casser, anticlinal chevauche clinal.  
+Deux grand ensemble de témoins, soit lier à la subduction soit lié à la collision. Lambeau de collision appelé ophiolite  
+**Remonté de l'inde** et collision à 55Ma \(fin de la subduction océanique = entrée du continent dans la zone de collision\), plan de subduction doublé.  
+**Chaine hymalayenne** magmatisme de marge continentale active  
+**Obduction et Ophiolites** age variable de 2Ga à 2Ma, témoins de la collision sont notamment les granites, les chevauchements suivi d'un épaississement et des décrochements.  
+Chaîne de collision vraiment différente de chaîne de subduction \(cordillères\)
+
+#### Les points chauds
+
+La convection thermique dans le manteau terrestre se manifeste en surface par la tectoniques des plaques mais aussi par le volcanisme de type "Point Chaud" dont l’Islande est un excellent exemple.  
+Données tomographique, cette anomalie topographique est l'expression d'une anomalie de vitesse identifiée par tomographie jusqu’à 2800 km de profondeur. Ce panache qui remonte à l’état solide est plus chaud de quelques centaines de degrés que le manteau environnant. Il provoque le bombement de la surface lithosphère observé en surface sur plus de 1000 Km de diamètre.  
+Dans la mer, comme prés d’Hawaï, cela ce traduit par un alignement d’île \(chapelet\). On retrouve ce genre de disposition d'île appelée chaînons volcaniques.  
+**Le magmatisme,** magma de type alcalin, avec des laves de composition basaltique et avec un volcanisme effusif.  
+Trapps du Deccan il y a 65Ma. Courtillot en 1995 aurai proposé l'hyposthèse qu'un lien existerai entre la mise en place des différent plateau basaltique, aurai changer la température de la terre et perturbé l’équilibre de la biosphère et des phase d'extinction.  
+**Condition de métamorphisme**
+
+![](../.gitbook/assets/metamorphisme.jpg)
+
+**Condition de la fusion**
+
+![](../.gitbook/assets/condition-fusion.jpg)
+
+#### Convection mantellique
+
+La théorie de la tectonique des plaques veut que la lithosphère soit constituée de plaques rigides en déplacement sur un manteau déformable en convection.  
+**La tectonique des plaques est une manifestation en surface de la convection mantellique.** Un système convectif est un déplacement de matière lorsque la densité est plus élevé en haut qu'en bas, le principe de la poussée d'Archimède, le gradient de densité inverse peut intervenir par la salinisation des milieux \(Le sel ajoutant densité et faisant descendre la matière\), mais le plus souvent ce gradient est du à des différence de température, froid et dense descende et chaud est peu dense remonte.   
+L'intensité de la convection dans un corps donné est fonction :   
+- de l'énergie thermique à évacuer, c'est le moteur de la convection  
+- de la capacité des matériaux à se déformer et à s'écouler \(Rhéologie\)  
+La convection s'établit lorsque le rapport des **forces motrices** sur les **forces visqueuse,** rapport appelée nombre de Rayleigh, dépasse une certaine valeur. Si Ra &gt; 2000 alors la convection peut démarrer, sinon il ne se passe rien. **Pour le manteau de la Terre, Ra proche de la valeur critique -&gt; Convection extrêmement lente.**  
+Chaleur initiale \(accrétion\) + radioactivité.  
+L'allure du gradient de température dépend de la source de chaleur   
+Différentes hypothèse de chauffage, en dessous ou interne, ne sont pas correct car non reproductible lors d'observation de terrain, chauffage mixte =&gt; 10% chauffe en dessous et 90% chauffe interne, couche   
+**Tomographie**  
+Convection mantellique, via la tomographique, tend à prouver que le manteau est mono-couche. Certains courants froids semblent s'étaler à la frontière Minf/Msup \(660km\), étape transitoire avant d'atteindre la limite Noyaux-Manteau  
+**Géochimie,** confirme la présence d'un manteau géologique unique pour la planète  
+**Effet des continents,** épais et froids, ils ont un effet de couvercle isolant sur la convection, en raison de sa faible épaisseur, la lithosphère océanique évacue un fort flux de chaleur \(100m&gt;/m2\)  
+Les continents :   
+- Organisent la convection chaotique en cellules convectives de dimensions comparables à celles des continents  
+- peuvent avoir un rôle dans la formation des zones de subduction en bordure des continents  
+- ont un rôle important dans la rupture des continents  
+**Rhéologie** : pour une quantité de chaleur donnée à évacuer, l'intensité de la convection dépend de la capacité du corps à s'écouler \(viscosité\) -&gt; plus le corps est visqueux, plus il va convecter lentement. Malgré l'état solide des roches, à l’échelle du temps et de sa dimension, on considère que le manteau peut se déformer, lentement. L'eau à un effet très important sur la rhéologie. \(Plus une planète est grosse moins elle perd de chaleur en surface\)
+
+{% hint style="warning" %}
+La convection qui agite le manteau est déterminée par :  
+- la quantité de chaleur produite par le manteau \(radioactivité\) -&gt; masse planète  
+- les conditions aux limites, c'est à dire le flux de chaleur interne provenant du noyau à la limite M/N, et les conditions thermiques à la surface des lithosphères  
+- les plaques en subduction \(le courant froid des cellules =&gt; le moteur\)  
+- la capacité des roches à s'écouler =&gt; leur viscosité
+{% endhint %}
+
+La tectonique des plaques une théorie unificatrice  
+Ce n'est qu'a partir de l'hypothèse de l'expansion océanique formulée par Hess \(1930, les fonds océaniques s'étalent de part et d'autre des dorsales\) et des travaux de Vine, Matthews et Morley \(début des année 60\) sur le paléomagnétisme \(anomalies de l'intensité magnétique sur les fond océaniques sont dues aux inversions de polarité magnétique\) qui ont abouti à la formulation de la théorie de la tectonique des plaques par Morgan, MacKenzie et Parker \( 1967-1968\), que la convection mantellique à pu recevoir un large écho dans la communauté scientifique.  
+**Cyle de Wilson** , cycle orogénique \(orogénèse\), ensemble des événements géologique associés à l'ouverture puis à la fermeture d'un domaine océanique.  
+**Les orogénèses en France,** orogenèse cadomienne \(660-540Ma\) Bretagne nord, orogenèse varisque \(400-250Ma\) Massif armoricain, massif central, Vosges et Ardennes, orogenèse Alpine \(100Ma - actuels\), Alpe et Pyréné.
+
+![](../.gitbook/assets/schema-recap.jpg)
 
 ## Définition
 
@@ -800,5 +856,7 @@ Zone de convergence du mont blanc à l’Everest, Himalaya et Alpes beaucoup ét
 **Fusion :** Passage directe d'un corps  de l'état solide à l'état liquide
 
 **Système solaire Interne / Externe :** Le Système solaire interne est une division du Système solaire. Il s'étend du Soleil, centre du Système solaire, jusqu'à l'orbite de Jupiter qui constitue sa limite extérieure, il contient donc les planètes Mercure, Vénus, Terre et Mars en planète tellurique. Par opposition, le Système solaire externe est constitué du reste du Système solaire, en particulier les géantes gazeuses, la planète naine Pluton, la ceinture de Kuiper et le nuage d'Oort.
+
+**Ophiolites :** portions de lithosphère océanique mise en place tectoniquement sur la lithosphère continentale
 {% endhint %}
 
