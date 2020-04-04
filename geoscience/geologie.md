@@ -842,6 +842,60 @@ Ce n'est qu'a partir de l'hypothèse de l'expansion océanique formulée par Hes
 
 ![](../.gitbook/assets/schema-recap.jpg)
 
+## Atmosphère - hydrosphère et climats
+
+### Composition et structure des enveloppes fluides
+
+#### Atmosphère
+
+L'atmosphère est composé principalement d'azote et d'oxygène, de 0,04% de CO2 et 0,9% d'autre gaz. L'atmosphère contient également de la vapeur d'eau en provenance de la surface du globe par évaporation de l'eau, sublimation de la glace et évapotranspiration des végétaux. Cette quantité de vapeur d'eau décroît avec l’attitude, quantité plus grande vers l’équateur qu'aux pôles. L'atmosphère contient aussi des impuretés d'origine très variées.  
+L'atmosphère est constitué de plusieurs structure : **Troposphère**, **stratosphère**, **mésosphère**, **thermosphère** et **exosphère**, structure résultante de **deux facteurs**, la **gravité** et la **température**.  
+La température dépend de la distance terre soleil et est donc indépendant de la Terre. Les 9/10 de la masse de l'atmosphère sont situés dans les 16 premiers km, cette enveloppe ne forme donc qu'une mince pellicule gazeuse en comparaison des 6367 km du rayon terrestre, ce qui correspond à une fine pellicule. La pression est donc environ 1 kg pour 1 cm2, cette valeur diminue de moitié en haut du mont blanc et environ du tiers en haut de l’Everest.  
+Les limites des différentes couches atmosphériques sont déterminées par les variations de températures qui sont liées à la composition chimique de cette enveloppe et de différents sources de chaleur entre le sol et les hautes altitudes.  
+**Troposphère**  
+La température de l'air y décroit de 6,5 degrés par km jusqu’à la tropopause. Ce gradient de température est lié au faut que cette partie de l'atmosphère est chauffée par le bas, c'est à dire par le rayonnement infrarouge terrestre émis par le sol et absorbé par le CO2 et la vapeur d'eau atmosphérique, absorption transformée en partie en chaleur. Avec l'altitude d'une part on s’éloigne de la source de rayonnement infra rouge et d'autre part l'air est moins concentré est donc moins absorbant aux IR. Vu le gradient de la température de la troposphère, l'air chaud peu dense est situé sous un air froid plus dense, ce gradient de densité inverse va entraîner une convection.  
+**Stratosphère**  
+La température est stable autour de -55°C puis augmente pour atteindre un maximum autour de 10°C vers 50Km d'altidude. Dans la stratosphère l'air est chauffé par le Soleil via l’absorption des UV. La stratosphère est donc plus **chaude dans sa partie supérieur** que dans sa partie inférieur où le rayonnement solaire UV est moindre \(car filtré par l'ozone\). L'air étant moins dense dans la partie supérieur, il n'y alors pas d gradient de densité inverse, ce qui rend cette enveloppe stable, stratifié \(d'ou son nom\), sans convection.  
+**Mésosphère**  
+Au niveau de la mésophère, les molécules sont rares, ce qui rend l'atmosphère quasi-transparente au rayonnement solaire, UV compris. L'absorbtion des rayons est donc faible et la T° de l'air diminue  
+**Thermosphère**  
+Au niveau de la thermosphère, le rayonnement solaire provoque la photo-dissociation et photo-ionisation des molécules d'oxygène qui dégage de la chaleur.
+
+![](../.gitbook/assets/structure-atmosphere.jpg)
+
+#### Hydrosphère
+
+L'hydrosphère est essentiellement composé d'eaux salée, et 2,5% d'eau douce. Les **2/3 de l'eau douce est sous forme de glace**, **1/3 restant sont dans les sous sol** \(nappe phréatique\) et **0,39%** est sous forme de lac, vapeur d'eau etc etc.  
+L'eaux salées recouvre 71% la surface de la terre sous forme d'océan.  
+L'ocean =&gt; mince pellicule, l'eau de mer est à 96,5% pure + 3,5% d'autre substance comme les sels, les gaz dissous, les substances organiques et des particules solides.  
+**Les sels dissous,** en moyenne la mer à une salinité de 35g/kg, principalement le Cl, le sulfate et le sodium. La concentration totale des sels dissous varie en fonction du lieu. Mais la proportion des composants les plus importants reste à peu près constante, ce qui permet de prouver un mélange des eaux océaniques. Il y a un équilibre entre les sels amenés par les cours d'eau et ceux extraits.  
+50% des eaux océaniques ont une salinités compris entre 34,6 et 34,7. Les eaux sont plus salées dans les zone intertropicales \(37\) et moins salées aux hautes latitudes \(33\).   
+Il y à 3 couche différentes dans l'océan :   
+- **La couche de surface** \(couche de mélange\) de 50 à 200m d'épaisseur ou les température sont à peu près celle de la surface  
+- **La couche thermocline** de 200 à 1000 m d'épaisseur, dans laquelle la température décroit rapidement avec la profondeur \(Sauf haute latitudes ou la T° de surface avoisine de celle du fond\)  
+- **La zone profonde**, qui s'étend jusqu'au fond, caractérisé par des température faible et homogène
+
+### Dynamique de surface et climats : Bilan radiatif
+
+#### Le flux solaire \(Bilan radiatif\)
+
+Le flux solaire reçu au niveau d'une planète dépend :   
+- de la puissance intrinsèque de l'étoile  
+- de la distance planète-Soleil \(1/d²\)  
+à 1 unité Astronomique \(d = Terre-Soleil\), l'éclairement énergétique est de **1360 W/m²**. C'est la puissance reçue par une unité de surface.  
+Le rayonnement solaire incident reçu au toit de l'atmosphère terrestre est seulement de 340 w/m² , qui correspond a la surface d'un cercle \( soit 1/4 de la sphère\).  
+**Le soleil est donc la source d'énergie** principale qui règle les mouvement de l'océan et de l'atmosphère et donc notre climat. Les conditions de la vie sur terre dépendent aussi essentiellement de l'énergie reçue du soleil.  
+Une partie du rayonnement solaire incident est réfléchie vers l'espace \(**environ** 110 W/m²\) à cause de l’albédo. L’absorption de la partie non réfléchie du rayonnement solaire **\(230 W/m²\)** réchauffe le système Terre.  
+**Spectres du rayonnement solaire vs terrestre**  
+Tout corps émet un rayonnement électromagnétique dont le spectre dépend  de la température de ce corps. Le rayonnement du soleil est émis par sa surface dont la température st environ 5800°K. A cette température, la puissance spectrale est maximale entre 0,3 um \(Violet\) à 0,7 um \(Rouge\), c'est à dire que le spectre du rayonnement solaire est centré sur le domaine de la lumière visible. La terre absorbe puis restitue l’énergie solaire en partie sous forme de rayonnement lumineux, puis que la température de la Terre au sol est environ de 255°K, notre planète émet de l'énergie dans le domaine infra rouge.  
+**Mais la terre à une atmosphère avec une certaine composition chimique, notamment des gaz à effet de serre.** L'équilibre climatique de la Terre est assuré car l'ensemble Terre-atmosphère renvoie vers l'espace une énergie égale à celle reçue du soleil.  
+**La terre possède une atmosphère,** dont la composition chimique définition spectre d’absorption. Les gaz de l'atmosphère sont transparents au rayonnement solaire et absorbent partiellement le rayonnement infra-rouge terrestre.
+
+![](../.gitbook/assets/atmoshpere-equilibre.jpg)
+
+Les radiations émise vers la Terre la réchauffe et augmente la température de la surface terrestre de 33°C -&gt; C'est l'effet de serre.  
+Ne pas confondre effet de serre naturel et l'effet de serre anthropique, qui pourrais aggraver l'équilibre des température et augmenter les températures de la terre.
+
 ## Définition
 
 {% hint style="info" %}
@@ -858,5 +912,7 @@ Ce n'est qu'a partir de l'hypothèse de l'expansion océanique formulée par Hes
 **Système solaire Interne / Externe :** Le Système solaire interne est une division du Système solaire. Il s'étend du Soleil, centre du Système solaire, jusqu'à l'orbite de Jupiter qui constitue sa limite extérieure, il contient donc les planètes Mercure, Vénus, Terre et Mars en planète tellurique. Par opposition, le Système solaire externe est constitué du reste du Système solaire, en particulier les géantes gazeuses, la planète naine Pluton, la ceinture de Kuiper et le nuage d'Oort.
 
 **Ophiolites :** portions de lithosphère océanique mise en place tectoniquement sur la lithosphère continentale
+
+Albédo : pouvoir réfléchissant d'une surface
 {% endhint %}
 
