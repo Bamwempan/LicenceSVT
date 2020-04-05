@@ -896,6 +896,48 @@ Tout corps émet un rayonnement électromagnétique dont le spectre dépend  de 
 Les radiations émise vers la Terre la réchauffe et augmente la température de la surface terrestre de 33°C -&gt; C'est l'effet de serre.  
 Ne pas confondre effet de serre naturel et l'effet de serre anthropique, qui pourrais aggraver l'équilibre des température et augmenter les températures de la terre.
 
+###  Déséquilibre de température et circulations des masses fluides
+
+L'ensoleillement est plus élevée aux tropiques qu'aux hautes latitudes. La terre n'est pas uniformément chauffée, il y a un déséquilibre thermique. La quantité totale d'énergie reçue en un jours et en un lieu dépend de 2 facteurs : l'angle d'incidence des rayons solaires et la durée d'insolation/jour  
+**Effet de la rotondité  de la Terre :**   
+- plus l'inclinaison des rayons solaires est importante, plus la surface balayée par la même quantité d'énergie est grande  
+- Plus faible ensoleillement  
+**Effet de l'inclinaison de l'axe de rotation de la Terre,** le phénomène des saisons détermine aussi la quantité d'énergie reçue à la surface de la Terre à chaque latitude. \(équinoxe de septembre, solstice de juin, équinoxe de mars, solstice de décembre\)Détermine aussi la durée du jour.  
+La différence de quantité d'énergie solaire reçue entre les hémisphères boréale et australe sont liées aux variations de la distance terre-soleil au cours d'une révolution \(Périhélie vs Aphélie\)  
+**Déséquilibre thermique**  
+La variation latitudinale d'ensoleillement se traduit en un rayonnement solaire \(longueurs d'onde dans le domaine du visible\) qui excède le rayonnement infra-rouge tellurique émis par la terre dans la bande tropicale.  
+L’excès de chaleur reçu par la ceinture tropicale est à l'origine des grands traits de la circulation de l'atmosphère \(les vents, les régions de hautes et basses pression, les vastes mouvement nuageux\) et les océans. Par ces mouvements, l'atmosphère et l'océan transportent d'énormes quantités de chaleur "nécessaires" à équilibrer en latitude le bilan radiatif terrestre.  
+**Circulation méridienne**  
+Si la vitesse de rotation de la terre était nulle, la cellule de Hadley serai parfaitement symétrique et s'étendrait au pôles, avec un système convectif qui ferai des courant chaud ascendant vers les pôles et courant descendant froid vers l’équateur =&gt; **Cependant la terre est en rotation !**  
+Avec la vitesse réelle de rotation de la Terre, il y a l'effet de **Coriolis** qui va modifier la trajectoire des masses fluides.  
+La force de Coriolis est une force inertielle agissant perpendiculairement à la direction du mouvement d'un corps en déplacement dans un milieu \(un référentiel\) lui-même en rotation uniforme, vu par un observateur partageant le même révérenciel.
+
+{% embed url="https://www.youtube.com/watch?v=8\_qQ9QK9gEE" %}
+
+**L'effet Coriolis**
+
+Le trajet initial est bien suivi, mais comme la Terre à tourné l'objectif n'est pas atteint
+
+![](../.gitbook/assets/effet-coriolis.jpg)
+
+Déviation apparente des vents causée par la rotation de la Terre, vers la droite dans l’hémisphère nord et vers la gauche dans l’hémisphère sud. La force de Coriolis augmente avec la latitude \(Quasiment nulle à l'équateur\)  
+L'effet de Coriolis fragmente le système convectif atmosphérique équateur-pôle en 3 cellules majeures -&gt; **Circulation Tricelluaire méridienne.** Cette circulation tri cellulaire méridienne définit les grandes zones climatiques. La présence de cellules est au Nord et au Sud de l'équateur, elle forment une zone de convergence au niveau de l'équateur, appelée **ZCIT, zone de convergence Inter-Tropicale** \(Equateur météorologique\), cette zone subis des mouvement au cours de l'année est peut donc être décalé par rapport à l'équateur, elle dépend de la quantité d'ensoleillement, donc des saisons. Cette graduation influe sur les chaleurs au zone impliqué et donc la végétation.  
+**Les alizés**  
+La forte rotation planétaire explique les composantes zonale \(= Vent Est et Alizés\), C'est à cause de la Force de Coriolis que les mouvement d'air de retour à basse altitude dévient vers l'Ouest.  
+**Les dépressions,** influé par la force de Coriolis.  
+**Circulation océanique de surface**  
+Rôles des vents :   
+- l'action des vents se fait sentir jusqu’à 800 m de profondeur  
+- Alizés, vents ouest, vitesse moyenne courant de surface. En générale quelques cm/s ou dcm/s  
+Rôle de la force de Coriolis : Gyres anticyclonique et cycloniques : les courants décrivent de grands mouvements tournants "Gyre"  
+Rôle des continents : effet de la topographie, des bordures continentales  
+**Circulation thermohaline \(Circulation profonde des océan\)**  
+Température et salinité, paramètres permettant de déterminer la densité des eaux océaniques, densité, paramètre fondamental dans la dynamique des océans. Circulation océanique globale, profonde, liée à la température et à la salinité des masse d'eau. Vitesse moyenne courants profonds : ~mm/s  
+Une molécule d'eau fait le circuit entier en environ 1000 ans, lorsque les eaux denses du Gulf Stream \(car salinité très élevée\) arrivent en mers de Norvège et du Groenland, elle subissent un brusque refroidissement qui augmente encore leur densité -&gt; plongée des eaux.  
+Un courant d'eau caractérisée par une forte salinité, entre 2000 et 3500 m de profondeur, parcours tout l'océan Atlantique.
+
+### Interactions entre enveloppe
+
 ## Définition
 
 {% hint style="info" %}
