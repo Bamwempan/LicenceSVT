@@ -938,6 +938,76 @@ Un courant d'eau caractérisée par une forte salinité, entre 2000 et 3500 m de
 
 ### Interactions entre enveloppe
 
+Les enveloppes fluides sont différentes en termes de dimension physique, composition chimique mais aussi en capacité énergétique.  
+Les océans ont 1200 fois la capacité de stockage de chaleur de l’atmosphère. ll faut donc 1200 fois plus d'énergie pour chauffer de 1°C l'océan que l'atmosphère.   
+**Cyclone tropical**  
+Le cyclone est une machine thermique dont l'énergie provient de la chaleur lente libérée par la condensation de la vapeur d'eau. Cette chaleur réchauffe l'air, il se produit une dépression près de la surface océanique à l'origine d'un flux d'air rapide vers le cœur de la dépression. En pénétrant sur terre, son énergie tend à décroître rapidement. Une forte humidité es indispensable. Les cyclones se forment au dessus des eaux tropicales entre 5° et 20° de latitude, à l'exception des régions du sud-est pacifique et de l'atlantique sud. Etre suffisamment éloigné de l'équateur de façon à ce que la force de Coriolis ne soit pas nulle.  
+**Salinité élevée du Golf Stream**  
+Les eaux qui s'évaporent de l'atlantique, essentiellement dans la mer des caraïbes, sont entraînée vers l'est par les Alizés, passent l'isthme de panama et retombent sous forme de pluie dans le pacifique équatorial est, perte d'eau pour l'atlantique, forte salinité des eaux du golf stream qui ont pour origine la mer des caraïbe. Il y a alors migration vers le nord, l'évaporation est importante.
+
+#### Interactions atmosphère hydrosphère et lithosphère
+
+Les reliefs de la lithosphère issus de la tectonique des plaques subissent une érosion liée à des processus physico-chimique de surface. LA dynamique interne de la terre fabrique des reliefs \(Orogenèse\) et la dynamique externe de la planète les détruit.  
+Deux facteurs déterminant, l'énergie solaire et l'énergie gravitationnel, dans l'érosion, le transport et la sédimentation des particules arrachées aux continents.  
+Dynamique interne -&gt; Tectonique -&gt; Pente -&gt; gravi té -&gt; transport et sédimentation  
+Dynamique externe -&gt; Climat -&gt; Eau, vent -&gt; Processus physique-Chimique -&gt; érosion et transport  
+**Cycle des roches**   
+L'érosion \(altération chimique et mécanique, rôle du climat\), le transport \(eau, glacier, vent, pente, bilan des flux sédimentaire\), la sédimentation \(océanique détritique et biogène\), la diagénèse \(des sédiment à la roche\), Roche \(carbonaté et silicatées\) et climats.  
+**Érosion des roches**  
+L'érosion des roches comprend deux processus qui interagissent, l'altération chimique \(hydrolyse et dissolution\) et la désagrégation mécanique \(fracture, cryoclastie, thermoclastie, abrasion\), **l'eau est le principale agent de l’érosion.** Le climat est probablement le facteur le plus important dans le contrôle de l'altération chimique. Si l'on considère en effet l'aspect cinétique des réactions chimiques, une température élevée va les favoriser.  
+Hydrolyse -&gt; échange de cations \(les plus solubles\) entre l'eau et les silicates. Il y a une altérabilité différentielle des silicates.  
+**Arénisation** -&gt; formation du sable à partir d'une roche magmatique plutonique sous l'effet de l'hydrolyse. En climat tempéré humide, quartz et muscovite sont inaltérable.  
+**Latérisation** -&gt; En climat tropical, dans les condition optimales de drainage, les minéraux sont fortement détruit, la silice peut être presque totalement éliminée de la zone superficielle où dominent par concentration relative les oxydes de Fe et Al formant des **cuirasses latéritiques**.
+
+![](../.gitbook/assets/laterisation.jpg)
+
+**Désagrégation mécanique**  
+Elle prépare et amplifie le processus d'altération chimique. Les granites sont imperméable en tant que **roche** mais perméables en tant que **formation** par le réseau de fracture/cassures \(**faille, diaclases, fentes**\) qui les découpe \(perméabilité de fissures\)  
+**Cryoclastie -&gt;** en devenant de la glace l'eau provoque des fissures dans les blocs de roches qui provoque leur chute.  
+**Dissolution -&gt;** Le CO2 joue un rôle en déplaçant l'équilibre de dissociation de l'eau vers la production H+. La solubilité des minéraux croît avec la temérature sauf pour les carbonates  
+**Karstification -&gt;** Aptitude des calcaire à la dissolution, modèle karstique ou **karst**. Les Karts se forment dans les zone de **fortes précipitations annuelles**. L’Europe est le continent le plus karstique \(13,5% de la surface\). L'Asie à le plus vaste Karst \(1,6 M de Km²\). **Lapiez** \(Couloir de dissolution\), **Dolines** \(Cuvertte de dissolution avec argiles de décalcification\), **Avens** \(Gouffre s'ouvrant sur cavité souterraine\), **Reliefs ruiniformes** \(Dissolution différentielle de calcaire dolomitiques\)
+
+#### Transport
+
+**Transport fluviatile**  
+L'eau \(liquide\) est un agent de transport majeur. Fonction de la granulométrie des matériaux, sous 3 formes :   
+- Charge de fond \(&gt;0.5mm, galets, graviers, par traction, saltation ou roulement\)  
+- Suspension \(0.5mm - 0.5 um, sables moyen et fins, silts argiles\)  
+- Dissoute \(en solution &lt; 0.5 um : ions\)  
+Le flux solide \(80%\) domine largement le flux dissous \(20%\), zone de production &gt; 500t/km²/an \( Sud Est Asie\), les moins productrice &lt; 10t/km²/an, boucliers arctiques, région semi arides. Bonne corrélation entre transport sédimentaire et l’attitude moyenne des continents.  
+Le transport des sédiments se fait aussi grâce aux glaciers \(Capable de déplacer de gros blocs\)  
+**Formation péri-glaciaires**  
+Les moraines sont des sédiments meubles, hétérométriques et non granoclassés, constitués de fragments de roches d'origine variés et de sables, souvent avec une composante argileuse importante. Le cordons morainiques indiquent l'avancée maximale du glacier à un moment donné.  
+Les dépôts fluvio-glaciaires sont des accumulations de galets et de sables plus ou mins argileuses, issus du démantèlement de moraines par les eaux de fontes des glaciers. Déplacement de bloc erratiques.  
+**Transport éolien** , le vent est aussi un agent de transport, celui-ci de petite particule et petite taille \(sable, argile\)  
+**Le loess,** est un dépôt argilo-calcaire et silteux \(particule très fine\), souvent de couleur jaune, c'est un dépôt continentale et d'origine éolien. On parle souvent de limon des plateaux. Ces dépôts sont de nature périglaciaires. Leur présence témoigne de l'existence de glaciers. Trouvable même dans les zone périphérique.  
+**Mouvement de pentes,** déplacement via la gravité.
+
+#### **Sédimentation océanique**
+
+**Fraction détritique**  
+Vidéo Chap 5 Part 4.5  
+**Fraction biogène**  
+Sécrétion squelette carbonaté via la biosphère. Produit ainsi une boue carbonaté volatile et permet le déplacement. Production aussi de silice, par la création de té siliceuse.  
+**Distribution des sédiments océaniques**  
+La distributions des sédiments marins dépend principalement de 3 paramètre :  
+- **La distance aux continent :** L'épaisseur des sédiments est généralement plus importante sur les PTF continentales, car celle-ci sont proches des continents que ne le sont les fonds marins. Ces endroits correspondent donc en générales aux taux d'accumulation sédimentaires les plus élevés. La contribution des particules détritiques diminue avec l'éloignement aux continent et correspond alors aux particule argileuse.  
+- **La productivité primaire :** elle est représentée principalement par le phytoplancton et donc la chlorophylle. C'est une des plus grandes sources de sédiments. Cet apport sédimentaire biogène est donc localisé aux régions de plus grande productivité primaire, qu'elle soit carbonatée ou siliceuse. La distribution de la chlorophylle à la surface des océans dépend surtout de la disponibilité en nutriments et se développe donc dans les zone upwellings, dans les eaux de hautes latitudes et dans les contre-courants équatoriaux qui s'écoulent, d'est en ouest.  
+- **La colonne d'eau :** La bathymétrie influence directement la nature des sédiment car elle co-varie avec la profondeur de compensation des carbonate \(CCD\), c'est à dire la profondeur à partir de laquelle les particules carbonatées sont toutes dissoutes. Cette profondeur varie pour chaque océan en fonction de la ventilation des eaux profondes atteignant les plus grandes profondeurs dans l'océan Atlantique.  
+Les régions proches des continents sont caractérisées par des sédiments détritique. Les régions de productivité primaire élevée sont caractérisées par des sédiments biogénétique carbonatés ou siliceux. Les régions les plus profondes, qui se situent en dessous de la CCD, sont caractérisées par des dépôts de type argiles rouge.  
+**Diagénèse**  
+Processus chimiques et mécaniques qui affectent un sédiment après son dépôt. Après un dépôt, un sédiment subit une diagénèse et devient une roche sédimentaire. Elle se rapporte à l'ensemble des modifications physico-chimique que subit un sédiment après un dépôt, dans les conditions de pression et températures "faibles" qui règnent en environnement sub-surface. Phase de compactions puis une phase de lithification.
+
+#### Roches et climats
+
+Il y a une relation entre le CO2 et la variation de températures. Tous les modèles indiquent qu'une augmentation de CO2 atmosphérique induit un réchauffement climatique.  
+**Roche carbonatées et teneur en CO2**  
+La précipitation des carbonates pièges du carbone sous forme de roche calcaire, cette réaction libère une mole de CO2. La reaction d'altération des carbonates sur les continent est l'inverse de celle précipitation du carbonate océanique. A longue échelle de temps, le CO2 atmosphérique qui est prélevé de l'atmosphère par l'altération des carbonates est  libéré dans l'oc"an par la réaction de précipitation des carbonates. **A l'échelle géologique, la réaction d'altération des calcaires ne sert à rien pour la régulation du CO2 atmosphérique.**  
+**Roche silicatées et teneur en CO2**  
+L'altération des calciques et sodique consomment 2 moles de CO2. Mécanisme capable à très long terme de pomper efficacement du CO2 atmosphérique et précipité d'importante quantités de calcaires dans les océans. Autrement dit du CO2 atmosphérique à été transformé en CO2 lithosphérique \(calcaire\)  
+**Tectonique et glaciation**  
+Les variation de la teneur en CO2, via la théorie de Raymo \(1988\), suite à une orogenèse, il y aurai une altération des reliefs -&gt; consommation de CO2 atmosphérique -&gt; qui diminue l'effet de serre et la température atmosphérique -&gt; engendre des glaciation. A certaine période de la terre il y a eu une grande activité volcanique qui entraîne l'augmentation de l'effet de serre.
+
 ## Définition
 
 {% hint style="info" %}
