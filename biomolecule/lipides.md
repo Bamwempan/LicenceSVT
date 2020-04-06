@@ -392,6 +392,37 @@ Donc :
  $$n_{KOH}=3n_{triglycérol}$$ 
 {% endhint %}
 
+### Hydrolyse enzymatique
+
+{% hint style="danger" %}
+Les enzyme sont spécifique à la liaison ciblé
+{% endhint %}
+
+![](../.gitbook/assets/triglycerol-exemple-enzyme.jpg)
+
+La lipase pancréatique est régio-sélective
+
+## Glycérophospholipides
+
+### Structure
+
+![](../.gitbook/assets/structure-glycerophospholipides.jpg)
+
+### Propriétés physiques
+
+#### Solubilité
+
+La partie riche en oxygène, le glycérols et l'acide phosphorique va se positionner dans la phase aqueuse, On peut donc dire que la partie Hydrophile polaire.   
+Les chaîne acyle des acide gras \(carbonée\) vont interagir avec la phase lipidique \(Phase huileuse\). On peut donc dire que c'est la partie apolaire
+
+#### Formation de micelles et liposomes
+
+![](../.gitbook/assets/liposome-micelle.jpg)
+
+### Propriétés chimiques
+
+#### Hydrolyse acide
+
 ## Définition
 
 {% hint style="info" %}
