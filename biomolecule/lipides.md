@@ -384,7 +384,7 @@ Si au moins deux acides gras sont différent alors ce sont des **acylglycérols 
 
 #### **Hydrolyse alcaline**
 
-![](../.gitbook/assets/hydrolyse-alcaline.jpg)
+![](../.gitbook/assets/hydrolyse-alcaline%20%281%29.jpg)
 
 {% hint style="warning" %}
 Lors d'une réaction de saponification : **1 mole** de triglycérol est saponifié par **3 moles** de KOH  
@@ -422,6 +422,32 @@ Les chaîne acyle des acide gras \(carbonée\) vont interagir avec la phase lipi
 ### Propriétés chimiques
 
 #### Hydrolyse acide
+
+![](../.gitbook/assets/hydrolyse-acide-peu-concentre.jpg)
+
+{% hint style="warning" %}
+Ici le HCL est **peu** concentré !
+{% endhint %}
+
+![](../.gitbook/assets/hydrolyse-acide-concentre.jpg)
+
+Suite à une hydrolyse acide concentré, on récupère du glycérols, de l'acide phosphorique et 2 acide gras ainsi que de la Choline.
+
+#### Hydrolyse alcaline
+
+![](../.gitbook/assets/hydrolyse-alcaline.jpg)
+
+#### Hydrolyse enzymatique
+
+Les enzymes attaques que certaines liaison, préciser par leur nom communs.
+
+![](../.gitbook/assets/hydrolyse-enzymatique.jpg)
+
+## Sphingolipides
+
+### Sphingosine
+
+
 
 ## Définition
 
