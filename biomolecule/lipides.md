@@ -447,7 +447,39 @@ Les enzymes attaques que certaines liaison, préciser par leur nom communs.
 
 ### Sphingosine
 
+La sphingosine est le squelette des sphingolipides
 
+![](../.gitbook/assets/sphingosine.jpg)
+
+### Céramide \(Amide de sphingosine\)
+
+![](../.gitbook/assets/ceramide.jpg)
+
+### Sphingophospholipide
+
+![](../.gitbook/assets/sphingophospholipides.jpg)
+
+R= 24:1$$\Delta^{15}$$,$$\omega$$-9 est l'acide nervonique, Lipides présent dans les poumons, la rate, les tissus nerveux \(gaine myéline\)
+
+## Stérols
+
+Dans ce chapitre sera vu que le cholestérol, si la partie polaire du stérols \(ici l'aclool\) est remplacé par un acide gras, alors la molécule devient un **Ester de Cholestérol**
+
+![](../.gitbook/assets/sterols.jpg)
+
+### Membranes biologiques
+
+![](../.gitbook/assets/membranes_biologique.jpg)
+
+![](../.gitbook/assets/membrane_systeme_disymetrique.jpg)
+
+#### Mouvement des constituants membranaires
+
+![](../.gitbook/assets/mouvement_constituants_membranaires.jpg)
+
+### Fluidité membranaire et composition lipidique
+
+Plus la longueur des chaines carbonées est grande plus c'est rigide. Et plus il y a d'insaturation sur la chaîne carbonée moins c'est rigide.
 
 ## Définition
 
