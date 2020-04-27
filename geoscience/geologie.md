@@ -1025,6 +1025,8 @@ Les variation de la teneur en CO2, via la théorie de Raymo \(1988\), suite à u
 
 **Ophiolites :** portions de lithosphère océanique mise en place tectoniquement sur la lithosphère continentale
 
-Albédo : pouvoir réfléchissant d'une surface
+**Albédo :** pouvoir réfléchissant d'une surface
+
+**Crustal :** qui se rapport à la croûte terrestre
 {% endhint %}
 
