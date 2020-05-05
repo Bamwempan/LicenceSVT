@@ -1028,5 +1028,7 @@ Les variation de la teneur en CO2, via la théorie de Raymo \(1988\), suite à u
 **Albédo :** pouvoir réfléchissant d'une surface
 
 **Crustal :** qui se rapport à la croûte terrestre
+
+**Décrochement dextre** : lorsque l'observateur faisant face à la faille voit l'autre compartiment glisser vers sa droite
 {% endhint %}
 
