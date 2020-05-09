@@ -237,3 +237,72 @@ Ou α-D-galactopyranosyl-\(1$$\to$$6\)-saccharose
 Présent dans les choux, fermenter pendant la digestion dans l'intestin, accompagnant le saccharose dans les jus de betteraves. Eliminé lors du raffinage
 {% endhint %}
 
+## Polyosides \(Polysaccharides\)
+
+Il existent les homopolyosides et les hétéropolyosides, il peuvent avoir une structure linéaire ou ramifié.   
+Les homopolyosides trouvable dans la nature sont :   
+- Homopolyosides de réserve : Amidon, Glycogène  
+- Homopolyosides de structure : Cellulose
+
+### Amidon
+
+On trouve de forme de structure, **Amylopectine** à 70% et **Amylose** à 30%. 
+
+**Amylose :** Homopolyoside linéaire, formée de D-Glucopyranose relié par des liaison $$\alpha (1 \to 4)$$, quelque centaine à quelques milliers de glucoses. Structure linéaire, 6 résidus de glucose par tour d'hélice. L'hélice est stabilisée par des liaison hydrogène entre les groupement hydroxyles et les molécules d'eau.  
+En présence **d'iiode, l'amidon donne une coloration bleu foncée,** plus ou moins intense selon sa concentration  
+**Amylopectine :** Homopolyosides ramifié, formée de D-Glucopyranoses liés par des liaisons $$\alpha (1 \to 4)$$, des dizaines de milliers de glucoses. Ramification par des liaisons $$\alpha (1 \to 6)$$tous les 20 à 25 résidus de glucose environ.  
+Extrémité réductrice la ou se situe l'hydroxyle du polymère, et l'extrémité non réductrice représente par le carbone 4 au bout de la molécule.
+
+### Glycogène
+
+Polyosides de réserve des animaux, présent dans le foie et dans les muscles.   
+- Structure similaire à celle de l'amylopectine, homopolyoside ramifié de D-Glucopyranose liés par des liaisons $$\alpha (1 \to 4)$$  
+- Ramification par des liaisons $$\alpha (1 \to 6)$$toutes les 8 à 12 unités de glucose, structure en buisson.   
+- Dégradation par phosphorylase \(Foie et muscle\) : $$(glucose)_n+P_i\to(Glucose)_{n-1}+glucose-1-phosphate$$  
+- Dégradation par des amylases alimentaires qui libèrent principalement du maltose
+
+![](../.gitbook/assets/glycogene.jpg)
+
+### Cellulose
+
+Homopolyosides de structure, en masse, c'est la biomolécule la plus importante à la surface de la terre. Elle constituerait la moitié du Carbone organique disponible sur la planète.  
+- Homopolyosides majeur des végétaux  
+- Principal constituant des parois cellulaires végétales  
+- Présent chez certaines bactéries  
+- Polymère de D-Glucose linéaire dont les unités glucoses sont reliées par des liaions $$\beta (1\to4)$$  
+- Structure plate  
+- Hydrolyse de cellulose par des cellulases libère du cellobiose, lui-même hydrolysé par des cellobiases en glucose.
+
+![](../.gitbook/assets/cellulose.jpg)
+
+Orientation "tête-bêche" de résidus consécutifs de glucose \(les oses sont retournés d'un angle de 180 degré l'un par rapport à l'autre\) stabilisée par des liaisons hydrogène  
+La rotation des oses autour de la liaison osidique est bloquée, la molécule est étirée sous forme d'un ruban.
+
+![](../.gitbook/assets/cellulose-ruban.jpg)
+
+## Hétérosides
+
+#### **O-hétérosides**
+
+Réaction des oses avec les alcools, un oses qui établit une liaison osidique n'est plus réducteur et la mutarotation n'est plus possible. Les liaisons osidiques peuvent être hydrolysées par HLC 0,1 M ou en présence d'une glycosidase spécifique
+
+![](../.gitbook/assets/oheterosides.jpg)
+
+#### N-hétérosides
+
+Réaction des oses avec les amines, exemple : Nucléoside \(base azotée + ribose ou désoxyribose\)
+
+![](../.gitbook/assets/nheteroside.jpg)
+
+#### S-hétérosides
+
+Réaction des oses avec les mercaptans \(thiols\)
+
+![](../.gitbook/assets/sheterosides.jpg)
+
+#### Hétérosides-phosphate
+
+Condensation des oses avec l'acide phosphorique
+
+![](../.gitbook/assets/heterosides-phosphates.jpg)
+
