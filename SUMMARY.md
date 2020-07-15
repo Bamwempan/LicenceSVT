@@ -6,6 +6,8 @@
   * [Oses](biomolecule/oses.md)
   * [Glucides](biomolecule/glucides.md)
   * [Lipides](biomolecule/lipides.md)
+  * [Protéine](biomolecule/proteine.md)
+  * [Acide nucléique](biomolecule/acide-nucleique.md)
 * [Biodiversité](biodiversite/README.md)
   * [Biodiversité Végétale](biodiversite/biodiversite-vegetale.md)
   * [Biodiversité Animal](biodiversite/biodiversite-animal.md)
