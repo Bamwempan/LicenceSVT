@@ -8,5 +8,9 @@ Définition
 **Désoxyribonucléotide :** Espèce chimique constituée d'un acide phosphorique, d'un sucre en carbone 5 \(Désoxyribose\), d'une base azotée, soit purique : adénine \(A\) ou guanine \(G\), soit pyrimidique : cytosine \(C\) ou thymine \(T\)
 
 **Désoxyribose:** Ribose qui a subi une désoxygénation réductrice du carbone 2
+
+**ARN :** Acide ribonucléique. Polymère de ribonucléotides. Il existe des ARNpm, ARNm, ARNt, ARNr et des petits ARN \(ARNsn, ARNsno\)
+
+**Mutation :** Modification de la séquence des nucléotides de l'ADN, ou d'une manière plus générale, toute modification héréditaire du matériel génétique. Dans un organisme pluricellulaire, seules se transmettent à la descendances les **mutation germinales**. Les **mutations somatiques** ne se transmette qu'aux cellules issues par mitose de la cellule mutée, ces cellules forment alors un clone. On distingue les mutations qui apparaissent à la suite d'erreurs de l'ADN polymérase au cours  de la réplication, des mutations qui apparaissent durant les phases G1 et G2 de l'interphase à la suite de l'action d'agents mutagènes et qui sont pas réparées.
 {% endhint %}
 
