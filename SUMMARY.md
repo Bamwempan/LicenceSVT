@@ -15,9 +15,11 @@
   * [Cartographie](geoscience/evolution-et-cartographie.md)
   * [Evolution](geoscience/evolution.md)
   * [Géologie](geoscience/geologie.md)
-* [Physique](physique.md)
+* [Physique](physique/README.md)
+  * [Optique](physique/optique.md)
+  * [Electricité et Radioactivité](physique/electricite-et-radioactivite.md)
 * [Math](math.md)
-* [De la cellule à l'organisme](de-la-cellule-a-lorganisme.md)
+* [Cellule à l'organisme](cellule-a-lorganisme.md)
 * [Génétique](genetique.md)
 * [Transversale](transversale.md)
 

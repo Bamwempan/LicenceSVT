@@ -108,7 +108,9 @@ Et le nom commun rappelant l'origine de l'acide gras
       <td style="text-align:left">Graisse Animal</td>
     </tr>
   </tbody>
-</table>### Acide gras insaturés
+</table>
+
+### Acide gras insaturés
 
 Les acides gras insaturés sont composé de 1 ou plusieurs liaison non conjuguée \(Non collé les une aux autres\)
 
@@ -226,7 +228,9 @@ Ou numérotation normale : atome de Carbones numérotés à partir du carboxyle 
       <td style="text-align:left">Huile de poisson</td>
     </tr>
   </tbody>
-</table>### Propriété physique
+</table>
+
+### Propriété physique
 
 #### Solubilité
 
