@@ -1,5 +1,28 @@
 # Génétique
 
+## Transmission héréditaire
+
+Qu'est ce que la génétique : C'est la science de l'hérédité.
+
+* Cellule germinale qui transmette, soma / germen
+* Hérédité possible du marquage extérieur, chromatine / Épigénétique
+
+#### Hérédité
+
+Pour travailler sur l'hérédité il faut un croisement entre un mâle et une femelle à reproduction séxué -&gt; Espèce modèle, à génération rapide. Choix de caractère qui s'hérite \(Forme, couleur\), et un milieu constant \(Environnement\)
+
+#### Caractère héréditaire
+
+Propriété spécifique d'un organisme qui permet de distinguer deux individus à l'intérieur d'une espèce ou entre espèces.  
+**Qualitatif :** \(Discret\) Génétique mendélienne, description, absence / présence  
+**Quantitatif :** Se mesure -&gt; Pas en L1
+
+### Loi de Mendel
+
+Comme le petit poids peut s'auto-féconder, il y a eu castration \(couper les étamines\) des sujet pour choisir une femelle et un mâle de chaque espèces. Puis reproduction manuelle, hybridation.  
+Pour partir sur de bonne base et observer le croisement entre chaque variété, il à eu recours à des lignées pure \(Consanguinité pour réduire la variation de la descendance\)  
+Avant croisement il y à donc **isogénisation** des variétés : **Lignées pures.**
+
 ## Définition
 
 {% hint style="info" %}

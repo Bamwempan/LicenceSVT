@@ -43,7 +43,7 @@ Dans un matériau d'indice n : $$V=\frac{C}{n}$$ avec C vitesse de la lumière e
 
 ![](../.gitbook/assets/rayon_optique.jpg)
 
-**Rayon réfracté :** rayon qui subit un changement de direction en traversant l’interface \(= surface de séparation\) entre deux milieux transparents d’indices de réfraction n 1 et n 2 différents
+**Rayon réfracté :** rayon qui subit un changement de direction en traversant l’interface \(= surface de séparation\) entre deux milieux transparents d’indices de réfraction $$n_1$$ et $$n_2$$ différents
 
 ## Lois de Descartes et dispersion
 
@@ -60,5 +60,58 @@ Phénomène régis par les lois de Descartes
 * L’angle de réflexion est égal et opposé à l’angle d’incidence
 * Pour deux milieux transparents donnés, d’indices de réfraction $$n_1$$ et $$n_2$$ , séparés par une interface de type dioptre plan, le rapport du sinus de l’angle d’incidence $$i_1$$ au sinus de l’angle de réfraction $$i_2$$est constant
 
+#### Deuxième loi de Descartes \(relative à la réflexion\)
 
+![](../.gitbook/assets/loi_descartes_2.jpg)
+
+Mais on ne tient pas compte du signe des angles donc on écrira : i = i  
+Les angles se définissent toujours par rapport à la **normale N \(**Perpendiculaire à la surface de séparation de l'interface\)
+
+#### Troisième loi de Descartes \(relative à la réfraction\)
+
+{% hint style="warning" %}
+Pour deux milieux transparents donnés, d’indices de réfraction $$n_1$$ et $$n_2$$ , séparés par une interface de type dioptre plan, le rapport du sinus de l’angle d’incidence $$i_1$$ au sinus de l’angle de réfraction $$i_2$$ est constant
+
+$$n_1\times \sin1=n_2\times \sin2$$
+
+**Les angles se définissent entre les rayons et la normale N et pas entre les rayons et la surface de séparation**
+{% endhint %}
+
+![](../.gitbook/assets/loi_descartes_3.jpg)
+
+* Le rayon qui arrive perpendiculaire à l’interface ressort sans être dévié, pour $$i_1 = 0$$ et  $$i_2 = 0$$
+* Pour $$i_1=90$$, incidence rasante, $$i_2$$est appelé **angle limite de réfraction**
+* Angle limite $$i_l=\arcsin(\frac{n_-}{n_+})$$
+
+![](../.gitbook/assets/loi_descartes_4.jpg)
+
+{% hint style="warning" %}
+Il y à **réflexion** que dans le milieu d'**incidence le plus grand**
+
+L'angle est **toujours plus petit** dans le milieu d'**indice le plus grand**
+
+L'**angle limite** est **toujours** dans le milieu d'**indice le plus grand**
+{% endhint %}
+
+### **Prisme**
+
+**Définition**
+
+{% hint style="info" %}
+Milieu homogène et transparent d'indice n qui est limité par 2 dioptres plans qui sont non parallèle + une base \(triangle\) avec un angle A \(angle au sommet, arrête du prisme\)  
+Objectif :  étaler les couleurs et dévier la lumière
+{% endhint %}
+
+![](../.gitbook/assets/prisme.jpg)
+
+Dans le prisme l'angle **A = r + r'**
+
+Si on prolonge le rayon incident vers l’avant et le rayon émergent vers l’arrière par rapport au sens de propagation de la lumière, les deux rayons se coupent au point K et définissent l’angle de déviation D.  
+**D est l’angle de déviation du rayon incident après sa traversée du prisme**
+
+![](../.gitbook/assets/angle_deviation.jpg)
+
+$$
+D=i+i'-A
+$$
 

@@ -168,5 +168,51 @@ Convention \(très important\): le signe du produit R.I dépend des sens choisis
 
 ![](../.gitbook/assets/loi_ohm_elec.jpg)
 
+## Générateur et moteur
 
+### Générateur idéale \(parfait\) sans résistance interne
+
+#### Définition
+
+{% hint style="info" %}
+**Dipôle** capable de délivrer une **tension constante** quelque soit la charge reliée à ses bornes
+{% endhint %}
+
+#### Représentation et convention
+
+Le générateur est caractérisé par une force électromotrice \(f.e.m.\) dont l’unité est le volt. C’est une tension \(donc une flèche sur le circuit\). La f.e.m. est une tension orientée **de la borne moins \(petite barre\) vers la borne plus \(grande barre\)**. Fem = tension constante = ddp  
+Si dans un circuit on voit une f.e.m., on met directement une flèche dans le sens de la convention et cette **tension** est directement égale à **e**.   
+Le générateur donne le sens du courant I si il n’y a qu’un seul générateur dans le circuit.
+
+![](../.gitbook/assets/generateur_ideale.jpg)
+
+$$U_{BA}=e$$, donc $$U_{BA} = V_B-V_A>0$$et $$V_B>V_A$$
+
+### Générateur réelle
+
+{% hint style="info" %}
+Dipôle composé d'un générateur idéale F.e.m et d'une résistance interne r
+{% endhint %}
+
+#### Représentation
+
+Pour un générateur réel, **la tension n’est pas constante** quelle que soit la charge \(la pente de la droite vaut –r\)  
+**Loi de Pouillet :** $$U_{BA}=e-r\times I$$
+
+![](../.gitbook/assets/generateur.png)
+
+### Moteur
+
+#### Définition
+
+{% hint style="info" %}
+Le moteur transforme l'énergie électrique en énergie mécanique. Il est caractérisé par sa force contre électromotrice e' \(F.c.e.m\), en Volts \(V\) et avec une résistance interne r'.
+{% endhint %}
+
+#### Représentation et convention
+
+La f.c.e.m. e’ est une tension orientée de la borne moins \(petite barre\) vers la borne plus \(grande barre\). Même convention et représentation que pour le générateur. **Attention : la f.c.e.m. ne donne pas le sens du courant.**  
+$$U_{BA}=e'+r'\times I$$
+
+![](../.gitbook/assets/moteur_convetniob.png)
 
