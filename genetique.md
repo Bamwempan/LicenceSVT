@@ -20,8 +20,27 @@ Propriété spécifique d'un organisme qui permet de distinguer deux individus �
 ### Loi de Mendel
 
 Comme le petit poids peut s'auto-féconder, il y a eu castration \(couper les étamines\) des sujet pour choisir une femelle et un mâle de chaque espèces. Puis reproduction manuelle, hybridation.  
-Pour partir sur de bonne base et observer le croisement entre chaque variété, il à eu recours à des lignées pure \(Consanguinité pour réduire la variation de la descendance\)  
+Pour partir sur de bonne base et observer le croisement entre chaque variété, il à eu recours à des lignées pure \(Consanguinité pour réduire la variation de la descendance\)
+
+{% hint style="warning" %}
 Avant croisement il y à donc **isogénisation** des variétés : **Lignées pures.**
+{% endhint %}
+
+On peut mettre en place les mots génotype et phénotype. \(William johannsen \(Danois\) met en terme les mots Génotype, Phénotype et gène\)
+
+#### Mis en place de l'expérience de Mendel
+
+Si on connais la Dominance / Récession alors le **phénotype** doit être écris en **majuscule** pour le **dominant** et **minuscule** et **récession**.  
+Le génotype s'écris P/p \(qui représente les deux allèles présent sur les deux chromosomes\) alors que le phénotype s'écrit \[P\]
+
+* Pure : Pure \[Pourpre\] x Pure \[Blanche\]
+* Filliale 1 \(F1\) : Hypothèse possible
+  * Pourpre 100% -&gt; Dominance \[Pourpre\] &gt; \[Blanc\] \(Homozygote\)
+  * Blanc 100% -&gt; Dominance \[Blanc\] &gt; \[Pourpre\] \(Homozygote\)
+  * Rose \(Mélange\) -&gt; Pseudo-Dominance \(Hétérozygote\)
+* Uniformité des hybride -&gt;
+
+![](.gitbook/assets/mendel_tableau_croisement.png)
 
 ## Définition
 
@@ -36,9 +55,15 @@ Avant croisement il y à donc **isogénisation** des variétés : **Lignées pur
 
 **Mutation :** Modification de la séquence des nucléotides de l'ADN, ou d'une manière plus générale, toute modification héréditaire du matériel génétique. Dans un organisme pluricellulaire, seules se transmettent à la descendances les **mutation germinales**. Les **mutations somatiques** ne se transmette qu'aux cellules issues par mitose de la cellule mutée, ces cellules forment alors un clone. On distingue les mutations qui apparaissent à la suite d'erreurs de l'ADN polymérase au cours  de la réplication, des mutations qui apparaissent durant les phases G1 et G2 de l'interphase à la suite de l'action d'agents mutagènes et qui sont pas réparées.
 
+**Homozygote :**
+
+**Hétérozygote :**
+
 Dominance :
 
 Récessivité :
+
+**Pseudo-dominance :**
 
 Gène :
 
@@ -59,6 +84,10 @@ Hypostatique :
 Haploïde :
 
 Diploïde :
+
+**Phénotype :** Caractère **héréditaire** étudié en génétique
+
+**Génotype :** _Information **génétique**_ déterminant un phénotype
 {% endhint %}
 
 #### Source
