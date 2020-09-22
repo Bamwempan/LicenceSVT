@@ -45,3 +45,60 @@ Composé apolaire -&gt; Hydrophobe
 - Séparation des molécules de solvant  
 - Formation d'interaction soluté-solvant
 
+## Force intermoléculaire
+
+### Introduction
+
+#### Il existe 3 états de la matière :
+
+* Gazeux : Molécule éloignée, pas de volume, pas de forme propre
+* Solide : Contact ainsi que **forme et volume propre**
+* Liquide : Contact entre molécules, **Volume propre** sans forme propre
+
+Liquide et solide : état condensé de la matière \(contact entre molécule\)
+
+#### Changement d'état
+
+Transformation avec température qui diminue : Gaz -&gt; Liquide -&gt; Solide  
+Il y a rapprochement des molécules et perte d’énergie cinétique \(vitesse diminue\)  
+Ce changement d'état est liée aux force attraction entre les molécule liées à des interaction électrostatique.  
+Cohésion des liquides et des solides.  
+Plus la force d'attraction augmente =&gt; plus la cohésion augmente
+
+#### 3 Types de liaisons
+
+* **Liaison forte**, mise en commun de deux électrons entre deux atomes :  Liaison covalente $$N_2$$ / Liaison dative $$^+NH_4$$ / Liaison ionique $$NaCl$$ Energie : quelque centaine de $$kJ/mol$$, **C'est le squelette des molécules**
+* **Liaison hydrogène** : Solution aqueuse, Acide aminés, Biomolécules Energie : quelque dizaine \(10-30\) $$kJ/mol$$
+* **Liaison faible :** Cohésion liquide, solides / Interaction en phase gaz Energie : quelque \(1-10\) $$kJ/mol$$
+
+{% hint style="warning" %}
+Force d'interaction électrostatique entre les molécules : Force de Van Der Waals
+{% endhint %}
+
+### Liaison hydrogène
+
+Nature
+
+Liaison H entre un atome H lié par covalence à un atome électronégatif \(A\) ET un atome électronégatif \(B\), dit accepteur de liaison H
+
+![](../../.gitbook/assets/liaison_hydrogene.png)
+
+Liaison H plus faible, donc plus longue que covalente  
+Liaison H = $$12-30kJ/mol$$alors que liaison covalente = $$100kJ/mol$$  
+La liaison H est essentiellement directionnelle Si les atomes impliqués sont alignés alors il y a Interactions électrostatiques maximales
+
+![](../../.gitbook/assets/longueur_liaison_hydrogene_coude.png)
+
+#### Liaison hydrogène dans les peptides
+
+Les liaison hydrogène permette la création de structure en 3D
+
+#### Conséquence
+
+**1 \) Liaison hydrogène intermoléculaire**  
+Evolution des températures d’ébullition et de fusion avec la masse molaire : Pour une colonne de molécule du tableau périodique , le point d’ébullition et de fusion augmente
+
+![](../../.gitbook/assets/meme_serie_liaison_hydrogene_fusion_ebulition.png)
+
+Avec un cas particulier ici l'H2O car il y a beaucoup de liaisons hydrogène intermoléculaire, donc le PEb réel &gt;&gt; PE attendu
+
