@@ -216,3 +216,44 @@ $$U_{BA}=e'+r'\times I$$
 
 ![](../.gitbook/assets/moteur_convetniob.png)
 
+## Lois de Kirchhoff
+
+### Lois des nœuds
+
+{% hint style="info" %}
+La somme des courants arrivant à un nœud du circuit est égale à la somme des courants sortant de ce nœud.
+{% endhint %}
+
+![](../.gitbook/assets/lois_des_noeuds.png)
+
+### Lois des mailles
+
+{% hint style="info" %}
+La somme des variations de potentiel rencontrées en parcourant une maille dans un sens donné est nulle.
+{% endhint %}
+
+![](../.gitbook/assets/loi_des_mailles.png)
+
+![](../.gitbook/assets/loi_de_pouillet.png)
+
+## Puissance électrique
+
+Pour un dipôle en convention récepteur, la puissance reçue par celui-ci vaut :  
+1 W = 1 J/s : c’est donc une énergie par unité de temps
+
+![](../.gitbook/assets/definition_puissance_electrique.png)
+
+#### Résistance
+
+Puissance reçue \(et dissipée\) par effet Joule par la résistance \(chaleur\)
+
+![](../.gitbook/assets/puissance_electrique_resistance.png)
+
+#### Générateur réel
+
+![](../.gitbook/assets/puissance_electrique_generateur_reel.png)
+
+#### Moteur
+
+![](../.gitbook/assets/puissance_electrique_moteur.png)
+
