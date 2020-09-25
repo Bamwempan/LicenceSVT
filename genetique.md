@@ -9,7 +9,7 @@ Qu'est ce que la génétique : C'est la science de l'hérédité.
 
 #### Hérédité
 
-Pour travailler sur l'hérédité il faut un croisement entre un mâle et une femelle à reproduction séxué -&gt; Espèce modèle, à génération rapide. Choix de caractère qui s'hérite \(Forme, couleur\), et un milieu constant \(Environnement\)
+Pour travailler sur l'hérédité il faut un croisement entre un mâle et une femelle à reproduction séxué -&gt; **Espèce modèle**, à génération rapide. Choix de caractère qui s'hérite \(Forme, couleur\), et un milieu constant \(Environnement\)
 
 #### Caractère héréditaire
 
@@ -42,6 +42,81 @@ Le génotype s'écris P/p \(qui représente les deux allèles présent sur les d
 
 ![](.gitbook/assets/mendel_tableau_croisement.png)
 
+Mendel à aussi étudié des pois aux phénotype ridé ou lisse, l'hypothèse possible de ce phénotype est une mutation sur un gène qui produit les enzymes liés à l'amidon \(dans le cas des pois ridés, il y à carence d'amidon\)
+
+### Outils statistique
+
+#### Test du khi-deux
+
+$$\chi^2 = \sum \frac{(Observé - Théorique)^2}{Théorique}$$   
+avec comme degrés de liberté d.d.l le nombre de catégorie phénotypique -1
+
+![](.gitbook/assets/tableau_chi_carrer.png)
+
+Si khi-carrer est inférieur à la valeur seuil alors on peut accepter l'hypothèse H0 entre les effectif théoriques et les effectifs observés.
+
+### Mutation et caractère héréditaire
+
+#### Origine des différence de caractère héréditaire
+
+{% hint style="warning" %}
+Les différences de caractère héréditaire proviennent des **mutations génétiques** effectuées sur ces gènes. Un gène existe sous différente forme
+{% endhint %}
+
+#### Qu'est ce qu'une mutation ? 
+
+{% hint style="warning" %}
+* Un changement de **l'information génétique**
+* Un changement dans **la séquence d'un génome**
+{% endhint %}
+
+Mutation spontané \(naturelle\), germinale, somatique et induite \(artificielle\)
+
+#### Germinal et Somatique \(Soma/Germen\)
+
+{% hint style="info" %}
+**Somatique :** Lié à l'ensemble du corps sauf les gamètes  
+Soma : Corps
+
+**Division de base :** La mitose
+
+**Méiose :** Production de gamète \(cellule haploïde\)
+{% endhint %}
+
+![](.gitbook/assets/mutation_somatique_germinale.png)
+
+La biologie du développement, la génétique et l'évolution -&gt; sont basés sur le même principe mais pas avec la même échelle de temps.
+
+**Quelles sont les différences entre maladie génétique et maladie héréditaire ?**
+
+* Une **maladie héréditaire** est forcément une **maladie génétique**
+* **Maladie génétique** peut se produire à **différents moments d'expression** et **peut ou ne pas être héréditaire**
+
+![](.gitbook/assets/maladie_hereditaire_genetique.png)
+
+### A savoir
+
+L'homme compte à peut prêt 30,000 gènes. Ainsi que 23 paires de chromosomes soit 46 chromosomes au total.  
+Gonosome ou hétérochromosome XX ou YY
+
+![](.gitbook/assets/homoeygote_heterozygote_hemizygote.png)
+
+![](.gitbook/assets/locus_gene_erreur.png)
+
+Différent allèle d'un même gène -&gt; souvent phénotype différents. Prouvé par la mutation du gène white 1 trouvé par Thomas Hunt Morgan en 1909
+
+la **variabilité allélique d'un gène** dans la **nature** amène le **polymorphisme**
+
+#### Convention
+
+Lors d'un démarrage d'une expérience ont part sur un phénotype \(ou allèle\) sauvage, qui correspond au phénotype de référence. Pour ce faire il suffis de prendre au moins 1 individus femelle  fécondée et faire reproduire sa descendance par consanguinité pour obtenir une **lignée pure**.  
+Allèle sauvage noté : $$a^+$$ou +  
+Allèle mutant noté : $$a^-$$ou - puis \($$a^1-a^2-a^3 \ etc)$$
+
+#### Relation génotype et phénotype
+
+![](.gitbook/assets/relation_genotype_phenotype.png)
+
 ## Définition
 
 {% hint style="info" %}
@@ -59,35 +134,47 @@ Le génotype s'écris P/p \(qui représente les deux allèles présent sur les d
 
 **Hétérozygote :**
 
-Dominance :
+**Hémizygote :**
 
-Récessivité :
+**Dominance :**
+
+**Récessivité :**
 
 **Pseudo-dominance :**
 
-Gène :
+**Gène :**
 
-**Génome :** Constitué le lot de gène reçu du père \(génome paternel\) et le lot de gênes reçu de la mère \(génome maternel\). Donc le génome est l’ensemble de tous les gènes que porte un organisme.
+**Génome :** 
 
-Allèle :
+**Allèle :** Plusieurs formes d'un gène **à un locus donné**
 
 **Locus :** Emplacement d’un gène sur le chromosome
 
-Ségrégation égale :
+**Ségrégation égale :**
 
-Co-dominance : 
+**Co-dominance :** 
 
 Epistasie :
 
 Hypostatique :
 
-Haploïde :
+**Haploïde :**
 
-Diploïde :
+**Diploïde :**
 
 **Phénotype :** Caractère **héréditaire** étudié en génétique
 
 **Génotype :** _Information **génétique**_ déterminant un phénotype
+
+Autosome :
+
+Gonosome :
+
+Série allélique :
+
+Pléïotropie :
+
+Multigénisme :
 {% endhint %}
 
 #### Source
