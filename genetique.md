@@ -169,6 +169,8 @@ Allèle mutant noté : $$a^-$$ou - puis \($$a^1-a^2-a^3 \ etc)$$
 **Pléïotropie :** Effet multiple d'un gène qui n'agit pas que sur un seul caractère phénotypique
 
 **Multigénisme :** Aussi appelée polygénique, se dit d'un caractère du phénotype qui est déterminé par l'action de plusieurs gènes. \(Syn, Multifactoriel\)
+
+**Zygote :**  Cellule diploïde résultant de la fusion de deux gamètes haploïdes
 {% endhint %}
 
 #### Source
