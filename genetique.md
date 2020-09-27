@@ -130,51 +130,45 @@ Allèle mutant noté : $$a^-$$ou - puis \($$a^1-a^2-a^3 \ etc)$$
 
 **Mutation :** Modification de la séquence des nucléotides de l'ADN, ou d'une manière plus générale, toute modification héréditaire du matériel génétique. Dans un organisme pluricellulaire, seules se transmettent à la descendances les **mutation germinales**. Les **mutations somatiques** ne se transmette qu'aux cellules issues par mitose de la cellule mutée, ces cellules forment alors un clone. On distingue les mutations qui apparaissent à la suite d'erreurs de l'ADN polymérase au cours  de la réplication, des mutations qui apparaissent durant les phases G1 et G2 de l'interphase à la suite de l'action d'agents mutagènes et qui sont pas réparées.
 
-**Homozygote :**
+**Homozygote :** Individu qui possède pour un même gène le même allèle sur les deux chromosome homologue de la paire
 
-**Hétérozygote :**
+**Hétérozygote :** Individu qui possède sur chaque chromosome homologue de la même paire un allèle différent d'un même gène
 
-**Hémizygote :**
+**Hémizygote :** Un organisme est dit **hémizygote** pour un gène particulier si ce dernier n'est présent qu'à une seule copie \(et donc présent qu'à un seul allèle\) à un locus donné dans un organisme diploïde.
 
-**Dominance :**
+**Dominance :** Caractéristique d'un allèle d'un gène qui, **chez un hétérozygote**, masque au niveau du phénotype, l'effet d'un allèle du même gène
 
-**Récessivité :**
+**Récessivité :** Caractéristique d'un allèle d'un gène qui, **chez un hétérozygote**, ne s'exprime pas dans le phénotype
 
-**Pseudo-dominance :**
+**Co-dominance :** Allèle d'un gène, **présent chez un hétérozygote**, à l'origine d'un phénotype en général intermédiaire entre ceux des deux homozygote respectifs
 
-**Gène :**
+**Gène :** Le gène est situé à un endroit bien précis du chromosome \(**locus**\) et **porte l'information génétique.**
 
-**Génome :** 
+**Génome :** Ensemble de toutes les séquence ADN d'un être vivant 
 
 **Allèle :** Plusieurs formes d'un gène **à un locus donné**
 
 **Locus :** Emplacement d’un gène sur le chromosome
 
-**Ségrégation égale :**
+**Ségrégation :** Processus qui produit la séparation de deux éléments
 
-**Co-dominance :** 
+**Épistasie :** Situation dans laquelle le phénotype d'un individu dépend d'une part du génotype à un locus donné et d'autre part du génotype à un autre locus
 
-Epistasie :
+**Haploïde :** Ce dit d'un **organisme ou d'une cellule eucaryote** qui ne possède **qu'un seul lot de chromosome homologues.** \(Les gamètes, les champignons comme les levures ou les Neurospora sont des organisme Haploïde\)
 
-Hypostatique :
-
-**Haploïde :**
-
-**Diploïde :**
+**Diploïde :** Etat d'une cellule ou d'un organisme \(diplonte\) qui possède deux lots de chromosome homologues
 
 **Phénotype :** Caractère **héréditaire** étudié en génétique
 
 **Génotype :** _Information **génétique**_ déterminant un phénotype
 
-Autosome :
+**Autosome :** N'importe quel chromosome autre que les chromosome sexuels
 
-Gonosome :
+**Gonosome :** Appelé aussi Hétérochromosome, chromosome appartenant à une paire responsable de la détermination du sexe : XX pour la femme et XY pour l'homme.
 
-Série allélique :
+**Pléïotropie :** Effet multiple d'un gène qui n'agit pas que sur un seul caractère phénotypique
 
-Pléïotropie :
-
-Multigénisme :
+**Multigénisme :** Aussi appelée polygénique, se dit d'un caractère du phénotype qui est déterminé par l'action de plusieurs gènes. \(Syn, Multifactoriel\)
 {% endhint %}
 
 #### Source
