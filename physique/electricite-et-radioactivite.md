@@ -371,3 +371,46 @@ Lorsque la charge est terminée on a **q = qMax et i = 0 de nouveau.**
 
 #### Schéma du circuit et principe
 
+Cette fois l’échelon de tension passe à 0 \(on enlève E de la maille\). Le schéma équivalent devient :
+
+![](../.gitbook/assets/condensateur_decharge_schema.png)
+
+#### Équation différentielle de la décharge
+
+![](../.gitbook/assets/equation_diff_decharge.png)
+
+#### Solution de l’équation différentielle
+
+![](../.gitbook/assets/solution_equa_diff.png)
+
+#### Intensité du courant
+
+![](../.gitbook/assets/intensite_decharge.png)
+
+### Constante de temps $$\tau$$ du circuit RC
+
+#### Définition et propriété
+
+{% hint style="info" %}
+* $$\tau$$ est le temps tel que $$\tau = RC$$
+* Caractérise le temps de charge ou de décharge du circuit RC
+* Plus $$\tau = RC$$ est grand, plus le temps de charge/décharge est important
+* $$\tau$$est indépendant de E
+{% endhint %}
+
+#### Détermination arithmétique
+
+#### Pendant la charge
+
+![](../.gitbook/assets/determination_charge.png)
+
+#### Pendant la décharge
+
+![](../.gitbook/assets/determination_decharge.png)
+
+### Neurone et axone
+
+* Le neurone est un système de communication qui met l’organisme en relation avec le monde extérieur. 
+* Les entrées d’informations se font au niveau de récepteurs sensoriels qui transforment les infos des diverses sources d’énergie en signaux électriques, qui gagnent ensuite les centres nerveux \(encéphale, moelle épinière\) où ils sont traités et codés.
+* Le neurone est capable d’émettre un potentiel électrique correspondant à une variation du potentiel membranaire. Il peut être partiel \(variation limitée d’un potentiel local\), ou au contraire maximal et donner un potentiel d'action : l’influx nerveux est donc le support de l’information. Ces variations de potentiel sont dues à des mouvements ioniques au travers de la membrane plasmique.
+
