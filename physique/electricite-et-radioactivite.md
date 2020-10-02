@@ -257,3 +257,117 @@ Puissance reçue \(et dissipée\) par effet Joule par la résistance \(chaleur\)
 
 ![](../.gitbook/assets/puissance_electrique_moteur.png)
 
+## Condensateur
+
+{% hint style="info" %}
+Un condensateur est un dipôle formé de deux conducteurs métalliques \(armatures en vert\) séparés par un matériau isolant \(souvent un diélectrique, en blanc\).
+{% endhint %}
+
+![](../.gitbook/assets/condensateur_schema.png)
+
+Lorsque les armatures du condensateur, initialement neutres \(q1 = q2 = 0\), sont soumises aux tensions V1 et V2 , elles se chargent.  
+Les armatures portent des charges électriques de même valeur q, mais de signes opposés. Elles ont même valeur absolue. La charge q du condensateur est positive et égale à cette valeur absolue.  
+**Ici, pour V1 &gt; V2 on a q = +q1 = –q2 avec q = C \(V1 – V2\)**  
+Pendant la charge le courant i\(t\) varie. Quand elle est **terminée, le courant est de nouveau nul i = 0.**
+
+Les condensateur sont utilisés pour stoker l'énergie, créer un champ électrique uniforme, Redresseur de tension, Déplace géographiquement une tension
+
+#### **Notation et symbole**
+
+![](../.gitbook/assets/condensateur_notation.png)
+
+#### **Loi et comportement  du condensateur**
+
+{% hint style="warning" %}
+La charge du condensateur est proportionnelle à la tension à ses bornes.
+
+$$q(t) = C\times u_{AB}(t)$$ avec q\(t\) en coulomb, C en farad et uAB en volt.
+{% endhint %}
+
+**Capacité C**   
+Représente la capacité du condensateur à condenser les charges électriques sur ses armatures. Dépend uniquement de la géométrie du condensateur. S’exprime en Farad \(F\).   
+**Convention**   
+Un condensateur doit toujours être branché en mode récepteur. La tension $$u_{AB}(t)=u_C(t)$$ à ses bornes doit toujours être opposée au sens du courant i\(t\)
+
+### Condensateur plan
+
+C’est un cas particulier pour lequel les armatures sont deux plans parallèles chargés. On note S la surface, et d la distance entre les deux plans.
+
+![](../.gitbook/assets/condensateur_plan_schema.png)
+
+Il existe un champ électrique uniforme $$\vec{E}$$ entre les bornes du condensateur, dirigé vers les \) 5 potentiels décroissants \(du + vers le -\) et de norme $$\vec{E}=\frac{u_{AB}}{d}$$ en V/m
+
+#### **Energie stocker dans un condensateur**
+
+Si ****$$u_{AB}$$ ****est la tension aux bornes du condensateur, q est sa charge et C sa capacité, l’énergie E stockée dans le condensateur est égale à :
+
+![](../.gitbook/assets/energie_stocker_condensateur.png)
+
+### Association de condensateur
+
+#### En série
+
+![](../.gitbook/assets/association_condensateur_serie.png)
+
+Lorsque les condensateurs sont en série, la charge portée par chaque condensateur est identique.   
+**Donc q1 = q2 = q**  
+Or $$q_1=C_1.u_{C1}$$et $$q_2=C_2.u_{C2}$$ donc $$C_1.u_{C1}=C_2.u_{C2}$$  
+De plus on à la loi des mailles donc $$e = u_{C1}+u_{C2}=\frac{q_1}{C_1}+\frac{q_2}{C_2}=\frac{q}{C_1}+\frac{q}{C_2}$$
+
+![](../.gitbook/assets/condensateur_serie_relatio.png)
+
+{% hint style="warning" %}
+L’inverse de la capacité équivalente à plusieurs capacités en parallèle est la somme des inverses des capacités \(comme résistances en parallèle\)
+{% endhint %}
+
+#### En parallèle
+
+![](../.gitbook/assets/condensateur_parallele_schema.png)
+
+Lorsque les condensateurs sont en parallèle, la tension est la même aux bornes de chaque condensateur. Donc uC1 = uC2 = e  
+Donc $$q_1= C_1.e$$ et $$q_2=C_2.e$$  
+La charge totale est $$q=q_1+q_2$$donc $$q=C_1.e+C_2.e$$
+
+![](../.gitbook/assets/relation_condensateur_parallele.png)
+
+{% hint style="warning" %}
+Des capacités en parallèle s’additionnent \(comme les résistances en série\).
+{% endhint %}
+
+## Circuit RC
+
+### Charge de condensateur
+
+#### Schéma du circuit et principe
+
+On dispose d’un générateur idéal, de type GBF, qui délivre un signal créneau \(u G \(t\) = 0 ou E, en volts\), de fréquence f et période T, d’un condensateur de capacité C et d’un résistance R.   
+Avec l’échelon de tension, c’est comme si on disposait d’un interrupteur k permettant de couper \(0 V\) ou d’allumer la tension délivrée par le générateur \(fournir la tension E en volts\).
+
+![](../.gitbook/assets/charge_condensateur_circuit_rc.png)
+
+Initialement \(t = 0\), échelon de tension à 0, donc E = 0, uC\(0\) = 0, uR\(0\) = 0   
+Echelon passe à E : le condensateur se charge ;   
+Echelon repasse à 0 : le condensateur se décharge.... etc  
+A t = 0, l’échelon passe à E, comme si on fermait un interrupteur, un courant i va circuler.
+
+![](../.gitbook/assets/schema_circuit_rc_generateur.png)
+
+La charge q du condensateur augmente jusqu’à ce que le condensateur soit chargé entièrement.   
+Lorsque la charge est terminée on a **q = qMax et i = 0 de nouveau.**
+
+#### **Équation différentielle de la charge**
+
+![](../.gitbook/assets/equation_diff_charge.png)
+
+#### Solution de l’équation différentielle
+
+![](../.gitbook/assets/solution_equation_diff_charge.png)
+
+#### Intensité du courant i\(t\)
+
+![](../.gitbook/assets/intensite_condensateur_circuit_rc_charge.png)
+
+### Décharge du condensateur
+
+#### Schéma du circuit et principe
+
