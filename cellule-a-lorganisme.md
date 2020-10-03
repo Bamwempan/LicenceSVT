@@ -162,6 +162,27 @@ Manteau cellulaire \(Cell Coat\) : ajout du sucre, **glycocalix,** l'ajour des s
 Membrane organite n'a pas de couche extracellulaire \(car dans la cellule\)
 {% endhint %}
 
+### Noyau
+
+Le noyau est composé d'une enveloppe nucléaire, elle même composée d'une membrane externe avec des ribosome, ribosome qui permettent la traduction des Arn en protéine, une membrane interne et un espace membranaire. Collé à la membrane interne on trouve généralement de l'hétérochromatine, dans le noyau des eu chromatine. Enveloppe nucléaire espacé de pore nucléaire d'environs 120nm mais tellement bouché, laissant passer les élément d'environ 9nm.  
+Le pore nucléaire à comme caractéristique de permettre les échanges de molécules entre le cytoplasme et le nucléoplasme dans les deux sens.
+
+#### Euchromatine et hétérochromatine
+
+Hétérochromatine dense et donc fort visible au microscope électronique à transmission, a l'inverse euchromatine est moins condensé est donc plus claire \(blanche\) au microscope électronique à transmission.  
+**Nucléole**  
+Zone composé du centre fibrillaire composé de **l'ADN qui code pour les ARN ribosomique**, la zone fibrillaire ADN qui transcrit en ARN ribosomique et la zone granulaire ou il y a assemblage des ARN ribosomique avec des protéines ribosomiques \(ADN dans mitochondrie\)
+
+### Ultrastructure
+
+#### Le hyaloplasme ou cytosol
+
+#### Le réticulum endoplasmique granuleux/rugeux
+
+#### Le réticulum endoplasmique lisse
+
+#### Appareil de Golgi
+
 ## Définition
 
 {% hint style="info" %}

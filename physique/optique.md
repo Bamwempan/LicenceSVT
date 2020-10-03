@@ -214,7 +214,7 @@ Trajet optique : Objet A dans n qui donne A' dans n'
 Nature objet image, toujours opposé dans un dioptre plan et l'axe optique. L'image fait la même taille que objet
 {% endhint %}
 
-#### Relation conjugaison du dioptre plan :
+### Relation conjugaison du dioptre plan :
 
 ![](../.gitbook/assets/relation_conjugaison_dioptre_plan.png)
 
@@ -227,4 +227,82 @@ Dans un dioptre plan, uniquement !
 $$
 \gamma = \frac{\overline{A'B'}}{\overline{AB}}=1
 $$
+
+## Dioptre sphérique
+
+#### Définition
+
+{% hint style="info" %}
+Un dioptre sphérique est une interface sphérique qui sépare 2 milieux transparent d'indice différent n et n'
+{% endhint %}
+
+#### Généralité
+
+{% hint style="warning" %}
+Des rayons parallèles arrivant sur un système optique sont considérés comme issus d’un point objet situé à l’infini.
+
+Des rayons parallèles sortant d’un système optique sont considérés comme donnant un point image situé à l’infini.
+
+En particulier, tous les rayons parallèles à l’axe optique peuvent être considérés comme provenant d’un point objet situé à l’infini sur l’axe optique.
+{% endhint %}
+
+Les points important dans le dioptre sphérique sont le centre C, son sommet S. La valeur absolue de SC est appelée le rayon de courbure du dioptre.
+
+![](../.gitbook/assets/dioptre_convexe_concave.png)
+
+{% hint style="warning" %}
+* La valeur absolue SC est appelée rayon de **courbure R du dioptre** : **ce nombre est positif.** 
+* Toutes les distances seront données en mesures algébriques avec l’origine au **sommet S**. 
+* Les termes **« concave » et « convexe »** sont utilisés seulement par rapport au signe de **SC.** 
+* On a vu que le DS n’est pas rigoureusement stigmatique. En pratique, on se place dans les conditions de Gauss pour avoir un stigmatisme approché.
+{% endhint %}
+
+#### Représentation schématique
+
+![](../.gitbook/assets/representation_graphique_ds.png)
+
+Les rayons qui arrivent sur l’interface en passant par le centre de la sphère ne seront pas déviés par le DS =&gt; **Tout rayon passant par le centre optique C est non dévié !**
+
+### **Relation de conjugaison du dioptre sphérique**
+
+Pour un objet AB associé à un milieu incident d’indice $$n_1$$et donnant par un DS de sommet S et de centre C une image A′B′ associée à un milieu émergent d’indice $$n_2$$ on écrit :
+
+![](../.gitbook/assets/relation_conjugaison_dioptre_spherique.png)
+
+{% hint style="warning" %}
+* à bien associer la position de l’image SA′ avec $$n_2$$ 
+* à bien associer la position de l’objet SA avec $$n_1$$
+* à l’ordre des indices de réfraction entre les deux membres de l’égalité suivant l’égalité choisie
+* Toute reltion pour le D.S seront exprimé par rapport à son sommet S
+{% endhint %}
+
+#### Distances focales objet et image du DS – DS convergence ou divergent
+
+![](../.gitbook/assets/distance_focale_image_objet.png)
+
+#### Relations remarquables du DS
+
+La position respective des 4 points : **S, C, F et F′** n’est pas quelconque.
+
+![](../.gitbook/assets/relation_remarquable_dioptre_spherique.png)
+
+{% hint style="warning" %}
+Les foyers objet et image sont toujours symétriques par rapport au milieu du segment SC Cette propriété est à utiliser pour la cohérence du tracé des images.
+{% endhint %}
+
+#### Grandissement du dioptre sphérique
+
+Pour le dioptre sphérique, le grandissement se calcule comme le rapport de la position de l’image à celle de l’objet, multiplié par le rapport des indices. Attention à l’ordre
+
+![](../.gitbook/assets/relation_grandissement_ds.png)
+
+### Construction de l’image d’un objet AB perpendiculaire à l’axe optique et grandissement
+
+#### Dioptre sphérique convergent
+
+![](../.gitbook/assets/schema_exemple_convergent.png)
+
+#### Dioptre sphérique divergent
+
+![](../.gitbook/assets/schema_exemple_divergent.png)
 
