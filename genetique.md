@@ -117,6 +117,69 @@ Allèle mutant noté : $$a^-$$ou - puis \($$a^1-a^2-a^3 \ etc)$$
 
 ![](.gitbook/assets/relation_genotype_phenotype.png)
 
+## Cytogénétique
+
+Histoire
+
+* 1831 : Robert Brown - Botaniste  qui identifie des structures dans les cellules végétales qu'il nomme noyau
+* 1839 : Jacob Schleiden et Théodore Schaun théorie de la division cellulaire
+* 1865 : Gregor Mendel, hérédité et héritage
+* 1877 : Walter Flemming - Fondateur de la biologie cellulaire : découvre la chromatine
+* 1887 : Boveri persistance chromosomes \(appelé filament\), loi de réduction chromatine au cours de la méiose
+* 1888 : Waldeyer, les filaments dans la chromatine, appelée chromosome
+* 1903 : Walter Sutton et Boveri : théorie chromosomique de l'hérédité, chromosome sont partit de l'information
+* 1910 : Morgan valide l'hypothèse de Sutton par ses études de la couleur de l'oeil de la drosophile \(chromosome sexuel\)
+
+### Organisation de l'information génétique
+
+Les procaryotes ont l'adn dans le cytoplasme, capsule pour protéger les chromosomes  
+Les eucaryotes ont l'adn dans le noyau, génome et chromosome protégé par le noyau  
+Mouvement broumien, pollen bouge dans le cytoplasme  
+Il y a 2 metres de molécules d'ADN dans un noyau d'environ 1um
+
+#### Taille chez les eucaryote
+
+L'homme à environs 3000 Mb \(méga base\), le reccord est détenue par une plante verte avec 80,000 Mb 
+
+Comment faire tenir une chaine de molécule de 2m dans 1um ?   
+L'ADN est une molécule fragile : comment la protéger des agression physique ?
+
+### Compactions de la chromatine
+
+{% hint style="info" %}
+Chromatine viens de Chroma, coleur avec laquelle on à trouvé la chromatine.  
+Chromatine est le double brin d'ADN associé à des protéines d'histone
+
+Histone : Protéine basique interagissent avec l'ADN, il y a 9 protéine histone par nucléosome
+
+Nucléosome : Unité de base de la chromatine
+{% endhint %}
+
+L'ADN s'enroule autour de H1,H2A,H2B,H3,H4, double hélice d'adn de 2nm de large sur 2m de long. 
+
+Etape de compaction :   
+- Repliement en ressort du nucléofilament \(solénoïde\)  
+- Repliement en boucle : filament de 300nm d'épaisseur  
+- Chromatine condensé en spirale  
+- Chromosome métaphasique \(Période courte de la vie d'une cellule\)
+
+### Condensation de la chromatine au cours du cycle cellulaire
+
+{% hint style="warning" %}
+Certains neurone ne se divise pas
+{% endhint %}
+
+Interphase : Mitose, G1, Phase S réplication, Phase G2  
+Il y a deux état de la chromatine : hétérochromatine condensé, pas d'expression de gènes  
+Et l'euchromatine peu condensé, expression des gènes
+
+Phase M de mitose \(division cellulaire\) état maximal de condensation sous forme de chromosome métaphasique  
+Les corps de Barr, face interne de l'enveloppe nucléaire
+
+Coordination du chromosome métaphasique  
+Chromosome est la chromatine à l'état visible  
+2 Chromatides sœurs de même séquence \(voir réplication ADN\), télomère et centromère. Le chromosome à 1 chromatide se décondense
+
 ## Définition
 
 {% hint style="info" %}
