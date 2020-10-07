@@ -173,15 +173,92 @@ Hétérochromatine dense et donc fort visible au microscope électronique à tra
 **Nucléole**  
 Zone composé du centre fibrillaire composé de **l'ADN qui code pour les ARN ribosomique**, la zone fibrillaire ADN qui transcrit en ARN ribosomique et la zone granulaire ou il y a assemblage des ARN ribosomique avec des protéines ribosomiques \(ADN dans mitochondrie\)
 
-### Ultrastructure
+### Le hyaloplasme ou cytosol
 
-#### Le hyaloplasme ou cytosol
+{% hint style="info" %}
+Phase plus ou moins liquide d'une cellule comprise entre la membrane plasmique et l’extérieur de la membrane des organites, alors que l'on appelle cytoplasme, le contenue de la cellule, c'est à dire, le hyaloplasme et les organites.
+{% endhint %}
+
+### Ultrastructure membrané
 
 #### Le réticulum endoplasmique granuleux/rugeux
 
+Sur l’extérieur du REG il y à des ribosomes. Ce sont des sac empilé et connecté. Le REG est en lien direct avec le noyau \(par son enveloppe\), Il permet la synthèse des protéines.  
+Des vésicules se forment au bord du REG en se détachant de celui-ci.
+
 #### Le réticulum endoplasmique lisse
 
+Absence de ribosome, tube empilé et connecté, il est en continuité avec le REG \(lien direct\), le REL synthétise des lipides et permet le stockage du calcium.
+
 #### Appareil de Golgi
+
+{% hint style="warning" %}
+Composé de tous les dictyosomes d'une cellule !
+{% endhint %}
+
+L'appareil de golgi est au moins composé de 3 zones \(3 sacs\) cis, médian, trans. Les vésicules se déplace de sac en sac.  
+L'appareil de golgi permet la maturation des protéines \(Ajout de sucre notamment\) et lipides du REL, ensuite il envoi les protéines vers leur destination finale \(centrifuge\)  
+La taille de l'appareil de golgi dépend de l'activité cellulaire, les saccules sont en relations d'un coté avec le REL
+
+#### Les vésicules enzymatiques : Lysosomes et peroxysome
+
+**Les lysosomes** contiennent mélange d'enzymes digestives.  
+Elles permettent la dégradation intracellulaire :   
+- Digestion des substances étrangères \(Bactérie\)  
+- Digestion des composants endommagé de la cellule
+
+Cette mise en évidence du trafic intracellulaire à été observé par l'ajout de radioactivité puis le suivi des protéines.
+
+**Les peroxysomes** sont présent chez tous les eucaryote et permettent l'élimination des molécule toxique part une oxydation et donc élimination des molécules toxiques \(acide gras, alcool etc\)  
+Ne provient pas des membranes intracellulaire mais se forment par incorporation des protéines et lipides du cytosol. **Pas de membranes**
+
+**Mitochondrie**
+
+Forme varié, toujours d'un diamètre d'environ 1 um, entouré de deux membranes externe régulière et interne replié en crêtes avec espace intermembranaire entre les deux, matrice et crête.  
+Fonction :   
+Dans mitochondrie qu'est puisé l’énergie par les molécules organique. Cette énergie est l'ATP. Intervient dans l’apoptose/ Contient son propre ADN.  
+Respiration cellulaire, le signal de mort cellulaire vient des mitochondrie, apoptose \(mort cellulaire\). Protéine synthétisé par la mitochondrie.  
+ADN mithocondrial, est transmi uniquement par la mère, est circulaire sans introns chez l'homme, 73 gènes \(22 ARNm, 2ARNr et 13 protéines\) 2000 mitochondrie par cellule
+
+### Ultrastructure non membrané
+
+#### Cytosquelette
+
+{% hint style="warning" %}
+Tous les éléments du cytosquelette sont des protéines allongées résultant de la polymérisation d'éléments monomériques.   
+Le cytosquelette forme un réseau complexe qui s'étend dans tout le cytoplasme. Le cytosquelette est une structure très dynamique qui se réorganise continuellement au cours des différents évènements cellulaires \(maintien de la forme, migration, division, mouvements cellulaires et intracellulaires, ...\)
+{% endhint %}
+
+#### Actine
+
+Microfilament d'actine, protéine la plus abondante avec 5% au moins de la masse protéique.  
+- Codée par 6 gènes au moins, homologue à 90% au niveau protéique.  
+- Liée à l'ATP et à des protéines de liaison
+
+Fonction de l'actine + myosine :   
+- Contraction cellulaire  
+- Migration cellulaire  
+- Maintien de l'intégrité tissulaire  
+- Endocytose
+
+#### Filament intermédiaire
+
+Chaque type cellulaire à un nom différent. Taille variable de 10 à 15nm, présent dans le cytoplasme et noyaux. Il n'y à pas de présence de myosine !  
+Neurone -&gt; Neurofilament dans les maladies humaines. Epithélium -&gt; chératine / Noyau toute cellule -&gt; Lamine  
+Soutient de l'enveloppe nucléaire
+
+#### Microtubule
+
+Les microtubules ne sont pas synthétisés par le centrosome, il partent du centrosomes !
+
+Fonction des microtubules :   
+- Déplacement des constituants cellulaires Dynéine / Kinésines  
+- Mouvement de cils / flagelle : 9 doublé de cestale  
+- Intervient dans la division cellulaire \(attache chromosome et après réplication sépare l'ADN\)
+
+#### Ribosomes
+
+Traduction d'ARNm lors de la synthèse des protéines
 
 ## Définition
 
