@@ -180,6 +180,50 @@ Coordination du chromosome métaphasique
 Chromosome est la chromatine à l'état visible  
 2 Chromatides sœurs de même séquence \(voir réplication ADN\), télomère et centromère. Le chromosome à 1 chromatide se décondense
 
+### Organisation du chromosome métaphasique
+
+Le chromosome = état chromatine visible  
+2 Chromatide soeurs de même séquence  
+Télomère et Centromère, quand le chromosome à une chromatide il se décondense
+
+### Caryotype : mise en évidence des chromosomes métaphasiques et anomalies
+
+L'analyse du caryotype d'un individu permet d'identifier les anomalies de nombres ou de structures des chromosome  
+Prélèvement -&gt; Centrifugation -&gt; Culture -&gt; Stimulation de la mitose -&gt; Blocage du fuseau -&gt; Choc hypotonique \(rompre membrane plasmique\), Éclatement, étalement, fixation, coloration  
+Chez l'homme : 46 chromosomes = 23 paires de chromosomes homologues \(même taille, mêmes bandes\) sauf si cellules mâles &gt; une paire de chromosomes X et Y
+
+![](.gitbook/assets/caryotype.png)
+
+Les chromosomes X et Y sont appelés **gonosomes** ou **hétérosomes** \(liés au sexe\). Les chromosomes non sexuels sont appelés autosomes.  
+Il existe donc un duplicat de chromosomes dans la cellule animale somatique: nombre total = 2 n  
+Dans un gamète \(ovule ou spermatozoïde\), un seul exemplaire: nombre total = n  
+**La ploïdie** caractérise le nombre d’exemplaire de chromosomes dans la cellule
+
+* n chromosomes est haploïde \(ex : gamètes\)
+* 2n chromosomes est diploïde \(ex : cellule somatique\)
+* xn chromosomes est polyploïde
+
+#### Nomenclature des caryotype
+
+![](.gitbook/assets/nomenclature_caryotype.png)
+
+Carte cytogénétique   
+Les bandes et sous-bandes visibles après coloration en microscopie à haute résolution sont nommées p1, p2, p3, p11, p12; q1, q2, q3, q11, q12 etc., en allant du centromère vers le télomère.
+
+#### Anomalie de nombres de chromosomes
+
+Euploïdie : diploïdie \(2n\) peut amener à triploïde \(3n\) et monoploïdie \(n\)  
+Aneuploïdie : diploïdie \(2n\) peut amener à trisomie \(2n+1\) et tétrasomie \(2n +2\) ou monosomie \(2n-1\) nullisomie \(2n -2\)
+
+#### Anomalie de structure des chromosomes
+
+Délétion : fomation d'un anneau  
+Insertion  
+Duplication  
+inversion paracentrique  
+Inversion péricentrique  
+Translocation réciproque \(équilibrée\)
+
 ## Définition
 
 {% hint style="info" %}
