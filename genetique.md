@@ -224,6 +224,63 @@ inversion paracentrique
 Inversion péricentrique  
 Translocation réciproque \(équilibrée\)
 
+## Cycle cellulaire
+
+{% hint style="info" %}
+Ensemble des phases par lesquelles une cellule passe entre 2 divisions successives.
+{% endhint %}
+
+Les phases S et M : deux évènements fondamentaux :  
+- réplication de l’ADN au cours de la phase S \(synthèse\)  
+- partage égal des chromosomes entre les 2 cellules filles  
+Les phases G1 et G2 : deux intervalles \(gap=trou, vide\) qui préparent la cellule aux phases S et M  
+Les phases G1, S et G2 constituent l’interphase  
+La durée du cycle cellulaire varie en fonction du type cellulaire
+
+### Contrôle du cycle cellulaire
+
+Système de régulation hautement perfectionné, pas de réplication ou de mitose si anomalie \(cellule somatique\)  
+Couple CDK - Cycline -&gt; Protéine qui régule cycle cellulaire grâce au kénase \(enryme\)
+
+### Différentes phases
+
+![](.gitbook/assets/phase_cycle_cellulaire.png)
+
+#### Phase G1
+
+La plus longue, la plus variable en durée  
+Augmentation du volume de la cellule  
+Transcription et traduction de protéines cytoplasmiques
+
+#### Phase S et réplication de l'ADN
+
+Elle dure 6h environ, il y a deux événement majeurs : Réplication de l'ADN et Duplication du centrosome  
+Réplication de l'ADN selon un mécanisme semi conservatif : les deux brins se séparent et servent chacun à la synthèse d'un nouveau brin  
+On peut l'imager par les chromosome à 1 chromatide qui forme un chromosome à 2 chromatide identique
+
+#### Phase G2
+
+La cellule se prépare à se diviser en synthétisant les protéines nécessaires à la mitose   
+La cellule vérifie que la réplication de l’ADN a été effectuée correctement
+
+#### Phase M mitose
+
+Deux événement majeur :   
+- La mitose : division nucléaire  
+- La cytokinèse : division cytoplasmique
+
+La phase de mitose se divise en 6 phase différente :  
+Prophase - Prométaphase - Métaphase - Anaphase - Télophase \(Chromosome visible durant ces phases\) - Cytokinèse
+
+Prophase : Condensation des chromosomes répliqués, migration du centrosomes \(2 aster\)  
+Prométaphase : Fragmentation de l'enveloppe nucléaire, les microtubules du cytosquelette interagissent avec les chromosomes  
+Métaphase : Alignement des chromosomes sur la plaque métaphasique ou équatoriale, structure bipolaire du fuseau mitotique.  
+Anaphase : Ségrégation des chromatides sœurs vers les pôles du fuseau mitotique  
+Télophase : Réformation de l'enveloppe nucléaire de chacun des noyaux  
+Cytokinèse : Partager et séparation des cytoplasme
+
+### Méiose, division particulière
+
 ## Définition
 
 {% hint style="info" %}
