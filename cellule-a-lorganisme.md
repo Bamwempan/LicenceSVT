@@ -105,6 +105,10 @@ Un organisme pluricellulaire est une structure complexe qui exige des processus 
 Signal aller / retour pour permettre l’arrêt ou la prolongation du signal.
 {% endhint %}
 
+## Protéine
+
+Synthèse d'une protéine nécessite la présence d'ARN de transfert
+
 ## Cellule Eucaryote
 
 #### Les ultra structures cellulaires fondamentales
@@ -164,14 +168,22 @@ Membrane organite n'a pas de couche extracellulaire \(car dans la cellule\)
 
 ### Noyau
 
+{% hint style="warning" %}
+Le noyau est le lieu de la réplication de l'ADN et de la maturation de l'ARN 
+{% endhint %}
+
 Le noyau est composé d'une enveloppe nucléaire, elle même composée d'une membrane externe avec des ribosome, ribosome qui permettent la traduction des Arn en protéine, une membrane interne et un espace membranaire. Collé à la membrane interne on trouve généralement de l'hétérochromatine, dans le noyau des eu chromatine. Enveloppe nucléaire espacé de pore nucléaire d'environs 120nm mais tellement bouché, laissant passer les élément d'environ 9nm.  
-Le pore nucléaire à comme caractéristique de permettre les échanges de molécules entre le cytoplasme et le nucléoplasme dans les deux sens.
+Le pore nucléaire à comme caractéristique de permettre les échanges de molécules entre le cytoplasme et le nucléoplasme dans les deux sens.  
+La chromatine s'enroule autour des protéines d'histones
 
 #### Euchromatine et hétérochromatine
 
 Hétérochromatine dense et donc fort visible au microscope électronique à transmission, a l'inverse euchromatine est moins condensé est donc plus claire \(blanche\) au microscope électronique à transmission.  
 **Nucléole**  
-Zone composé du centre fibrillaire composé de **l'ADN qui code pour les ARN ribosomique**, la zone fibrillaire ADN qui transcrit en ARN ribosomique et la zone granulaire ou il y a assemblage des ARN ribosomique avec des protéines ribosomiques \(ADN dans mitochondrie\)
+Zone composé du centre fibrillaire composé de **l'ADN qui code pour les ARN ribosomique**  
+La zone fibrillaire, l'ADN qui transcrit en ARN ribosomique \(maturation des ARN ribosomiques\)  
+La zone granulaire ou il y a assemblage des ARN ribosomique avec des protéines ribosomiques \(ADN dans mitochondrie\)  
+Dans les nucléole il y a transcription de l'ADNr en ARNr et formation des sous unités du ribosome
 
 ### Le hyaloplasme ou cytosol
 
@@ -184,20 +196,22 @@ Phase plus ou moins liquide d'une cellule comprise entre la membrane plasmique e
 #### Le réticulum endoplasmique granuleux/rugeux
 
 Sur l’extérieur du REG il y à des ribosomes. Ce sont des sac empilé et connecté. Le REG est en lien direct avec le noyau \(par son enveloppe\), Il permet la synthèse des protéines.  
-Des vésicules se forment au bord du REG en se détachant de celui-ci.
+Des vésicules se forment au bord du REG en se détachant de celui-ci.  
+L’ARNm sort du noyau, est pris en charge par les polysomes \(Plusieurs ribosomes sur un même ARN\)
 
 #### Le réticulum endoplasmique lisse
 
 Absence de ribosome, tube empilé et connecté, il est en continuité avec le REG \(lien direct\), le REL synthétise des lipides et permet le stockage du calcium.
 
-#### Appareil de Golgi
+#### Appareil de Golgi \(Dictyosomes\)
 
 {% hint style="warning" %}
-Composé de tous les dictyosomes d'une cellule !
+Composé de tous les dictyosomes d'une cellule ! Il sert à la formation des lysosomes  
+Les protéines qui sortent du dictyosome vont à l’extérieur de la cellule
 {% endhint %}
 
 L'appareil de golgi est au moins composé de 3 zones \(3 sacs\) cis, médian, trans. Les vésicules se déplace de sac en sac.  
-L'appareil de golgi permet la maturation des protéines \(Ajout de sucre notamment\) et lipides du REL, ensuite il envoi les protéines vers leur destination finale \(centrifuge\)  
+L'appareil de golgi permet la **maturation des protéines** \(Ajout de sucre notamment, glycolyser\) et **lipides du REL**, ensuite il envoi les protéines vers leur destination finale \(centrifuge\)  
 La taille de l'appareil de golgi dépend de l'activité cellulaire, les saccules sont en relations d'un coté avec le REL
 
 #### Les vésicules enzymatiques : Lysosomes et peroxysome
@@ -206,6 +220,10 @@ La taille de l'appareil de golgi dépend de l'activité cellulaire, les saccules
 Elles permettent la dégradation intracellulaire :   
 - Digestion des substances étrangères \(Bactérie\)  
 - Digestion des composants endommagé de la cellule
+
+{% hint style="warning" %}
+Les lysosomes sont denses au électrons, proviennent d'un dictyosomes, déversent leur contenu dans d'autre vésicules
+{% endhint %}
 
 Cette mise en évidence du trafic intracellulaire à été observé par l'ajout de radioactivité puis le suivi des protéines.
 
@@ -238,27 +256,28 @@ Microfilament d'actine, protéine la plus abondante avec 5% au moins de la masse
 Fonction de l'actine + myosine :   
 - Contraction cellulaire  
 - Migration cellulaire  
-- Maintien de l'intégrité tissulaire  
+- Maintien de l'intégrité tissulaire \(la forme cellulaire\)  
 - Endocytose
 
 #### Filament intermédiaire
 
-Chaque type cellulaire à un nom différent. Taille variable de 10 à 15nm, présent dans le cytoplasme et noyaux. Il n'y à pas de présence de myosine !  
+Chaque type cellulaire à un nom différent. Taille variable de 10 à 15nm, présent dans le **cytoplasme** et **noyau**. Il n'y à pas de présence de myosine ! Ils ont un rôle de structure  
 Neurone -&gt; Neurofilament dans les maladies humaines. Epithélium -&gt; chératine / Noyau toute cellule -&gt; Lamine  
-Soutient de l'enveloppe nucléaire
+Soutient de l'enveloppe nucléaire \(rôle de structure\)
 
 #### Microtubule
 
-Les microtubules ne sont pas synthétisés par le centrosome, il partent du centrosomes !
+Les microtubules ne sont pas synthétisés par le centrosome, il partent du centrosomes ! Constitué de tubes dont la paroi est formé de **13** **protofilaments** de dimères de **tubuline alpha et beta.** Ont un diamètre de 20nm ****
 
 Fonction des microtubules :   
 - Déplacement des constituants cellulaires Dynéine / Kinésines  
 - Mouvement de cils / flagelle : 9 doublé de cestale  
-- Intervient dans la division cellulaire \(attache chromosome et après réplication sépare l'ADN\)
+- Intervient dans la division cellulaire, mitose \(attache chromosome et après réplication sépare l'ADN\)
 
 #### Ribosomes
 
-Traduction d'ARNm lors de la synthèse des protéines
+Les ribosomes peuvent être libres dans le cytoplasme ou associés au réticulum endoplasmique rugueux/granuleux  
+Traduction d'ARNm lors de la synthèse des protéines, 
 
 ## Définition
 
@@ -271,7 +290,7 @@ Traduction d'ARNm lors de la synthèse des protéines
 
 **Cytosol :** Phase liquide dans laquelle baigne les organites cytoplasmique présent à l'intérieur d'une cellule. Le cytosol, constitue avec le cytosquelette, le hyaloplasme.
 
-**Cytoplasme :**
+**Cytoplasme :** Intérieur de la cellule qui comprend le hyaloplasme et les organites à l'exception du noyau
 
 **Endocytose :**
 
@@ -282,5 +301,7 @@ Traduction d'ARNm lors de la synthèse des protéines
 **Pluripotente :**
 
 **Hormone :** 
+
+**Thylakoïde :** Compartiment contenu dans les chloroplastes et constitué par un petit sac aplati limité par une membrane contenant des chaînes d'oxydoréduction et des ATP-synthases tournées vers le stroma
 {% endhint %}
 
