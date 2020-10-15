@@ -1,4 +1,4 @@
-# Electricité et Radioactivité
+# Electricité
 
 ## Électrostatique \(intro\)
 

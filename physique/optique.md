@@ -306,3 +306,52 @@ Pour le dioptre sphérique, le grandissement se calcule comme le rapport de la p
 
 ![](../.gitbook/assets/schema_exemple_divergent.png)
 
+## Lentille mince
+
+{% hint style="info" %}
+Une lentille mince est un système optique \(dioptrique\) centrée constitué d'un milieu transparent homogène et isotrope d'indice n et délimité par deux dioptre dont au moins 1 est sphérique.
+{% endhint %}
+
+#### Schéma principe
+
+#### Point remarquable des lentilles
+
+* Centre O sur l'axe optique
+* Foyer objet F
+* Foyer objet F'
+
+$$\overline{OF'}=-\overline{OF}$$, les foyers F et F' sont symétrique par rapport au centre O
+
+#### Nature d'une lentille
+
+{% hint style="warning" %}
+$$OF'>0$$alors présence d'une lentille convergente
+
+$$OF'<0$$alors présence d'une lentille divergente
+{% endhint %}
+
+#### Relation de conjugaison d'une lentille
+
+$$\frac{1}{\overline{OA'}}-\frac{1}{\overline{OA}}=\frac{1}{\overline{OF'}}$$
+
+#### Vergence d'une lentille
+
+$$V=\frac{1}{\overline{OF'}}$$Si V&gt;0 alors la lentille est convergente. Si V&lt;0 alors lentille divergent.  
+Unité de base en **mètre** 
+
+#### Grandissement lentille
+
+$$\gamma = \frac{\overline{A'B'}}{AB} = \frac{OA'}{OA}$$
+
+#### Lentille accolées
+
+La lentille équivalente à un ensemble de lentilles minces accolées de même centre optique O est la somme des vergences individuelles.
+
+$$Veq=\sum V_i$$et $$\frac{1}{\overline{OF'_{eq}}} = \frac{1}{\overline{OF'_i}}$$unité en **mètre**
+
+#### **Tracé de rayon**
+
+-Le noyau qui passe par le centre O du système optique n'est pas dévier  
+-Le noyau incident parallèle à l'axe optique qui passe par B, il passe par le foyer image F' après traversé de la lentille  
+-Le rayon passant par B et le foyer objet F, il sort de la lentille parallèle à l'axe optique est vers l'infini
+

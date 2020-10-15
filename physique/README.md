@@ -2,7 +2,7 @@
 
 {% page-ref page="optique.md" %}
 
-{% page-ref page="electricite-et-radioactivite.md" %}
+{% page-ref page="electricite.md" %}
 
 ## Base de math pour physique
 
