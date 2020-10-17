@@ -279,7 +279,165 @@ Anaphase : Ségrégation des chromatides sœurs vers les pôles du fuseau mitoti
 Télophase : Réformation de l'enveloppe nucléaire de chacun des noyaux  
 Cytokinèse : Partager et séparation des cytoplasme
 
-### Méiose, division particulière
+## Méiose, division particulière
+
+{% hint style="info" %}
+Division cellulaire particulière qui aboutit à la production de cellules sexuelles ou gamètes pour la reproduction.  
+Cellule identique en terme de patrimoine génétique  
+Spermatozoïde et ovocyte n=23, deux fois moins de patrimoine génétique.
+{% endhint %}
+
+### Schéma méiose théorique
+
+![](.gitbook/assets/schema_theorique_meiose.png)
+
+#### Différente phases de la méiose
+
+Méiose 1 :   
+- Prophase  
+- Métaphase  
+- Anaphase  
+- Télophase  
+Méiose 2 :   
+- Prophase  
+- Métaphase  
+- Anaphase  
+- Télophase
+
+#### Prophase de méiose 1 : Brassage intrachromosomique
+
+* Condensation des chromosomes
+* Appariement des chromosomes homologues : formation de bivalent
+* Echange possible de matériel entre 2 chromosomes homologues : recombinaison \(ou crossing over\) au niveau des chiasmas
+* Rupture de l'enveloppe nucléaire
+
+![](.gitbook/assets/schema_chromosomes_prophase_meiose_1.png)
+
+#### **Appariement des chromosomes homologues au niveau du complexe synaptonémal**
+
+{% hint style="warning" %}
+La cellule a subi une réplication, chaque chromosome contient 2 chromatides sœurs rattachées par leurs centromères  
+**-** condensation partielle des chromosomes \(= leptotène\)  
+- les chromosomes homologues s’associent en alignant leurs gènes grâce au complexe synaptonémal \(« échelle » de protéines\) Cette association est un bivalent ou une tétrade \(= zygotène\)
+{% endhint %}
+
+![](.gitbook/assets/schema_chromosome_2_chromatide.png)
+
+**Métaphase de méiose 1 :**  
+- Alignement des chromosomes sur la plaque équatorial  
+**Anaphase méiose 1 :**  
+- Séparation de chacun des chromosomes d'une même paire et traction vers les pôles \(les chromatides sœurs restent attachées et migrent ensemble\)  
+**Télophase de méiose 1 :**  
+- Partage du cytoplasme entre les deux cellules filles
+
+![](.gitbook/assets/schema_meiose_metaphase_anaphase_telophase.png)
+
+**Prophase de méiose 2 :**  
+- Mise en place du fuseau  
+**Métaphase de méiose 2 :**  
+- alignement des chromosome sur la plaque équatorial  
+**Anaphase de méiose 2 :**  
+- Partage des chromatides sœurs tractées au pôles opposés  
+**Télophase de méiose 2 :**  
+- Partage du cytoplasme  
+- 4 cellules haploïdes : gamètes !
+
+![](.gitbook/assets/schema_prophase_metaphase_anaphase_telophase_2.png)
+
+{% hint style="warning" %}
+La 2ème division de méiose n’est pas une mitose !!! La méiose a lieu au cours de la formation des gamètes : gamétogenèse
+
+* gamétogenèse mâle = spermatogenèse
+* gamétogenèse femelle = ovogenèse
+{% endhint %}
+
+### Spermatogenèse
+
+![](.gitbook/assets/spermatogenese.png)
+
+1 spermatocyte primaire donne 4 spermatozoïdes
+
+### Ovogenèse
+
+![](.gitbook/assets/schema_ovogenese.png)
+
+1 ovocyte primaire donne 1 seul ovule
+
+![](.gitbook/assets/meiose.png)
+
+![](.gitbook/assets/tableau_generale_ovogenese_spermatogenese.png)
+
+### Brassage génétique
+
+* Diversité génétique entre individus Petites différences de séquences, avec ou sans conséquences : polymorphisme D’où différents allèles pour un même gène à un locus donné : a1, a2, a3...
+* Dans une cellule diploïde : 50% des chromosomes paternels 50% des chromosomes maternels
+* 2 types de chromosomique: brassage brassage intra-chromosomique en prophase de méiose I : recombinaison brassage inter-chromosomique en anaphase de méiose I : répartition aléatoire des chromosomes
+
+![](.gitbook/assets/tableau_recap_mitose_meiose.png)
+
+### Hérédité liée à l'X
+
+#### Rappel loi de Mendel
+
+* Première loi : loi de l'uniformité des hybrides de première génération Lorsque les 2 parents sont de souche pure, les hybrides F1 sont de même génotype et phénotype.
+* Deuxième loi : loi de pureté des gamètes Les facteurs héréditaires \(gènes\) se séparent dans les gamètes en proportions égales \(50/50\). Un gamète ne contient qu'un facteur correspondant à un seul caractère.
+* Troisième loi : Ségrégation indépendante des caractères héréditaires La ségrégation est aléatoire et obéit aux règles statistique.
+
+Les gènes portés par les chromosomes sexuels obéissent exactement au mêmes lois que ceux  portés par les autosomes.  
+En 1910 Thomas Morgan montre que certains gènes sont "liés", c'est à dire transmis ensemble, en particulier certains gènes déterminant le sexe.
+
+
+
+![](.gitbook/assets/gene_chromosomes_x.png)
+
+## ADN
+
+### Les acides nucléiques: support de l’information génétique
+
+#### Contexte historique des découvertes sur l’hérédité
+
+* 1865 Gregor Mendel découvre les principes de l'hérédité :  «Facteurs héréditaires « indépendants »  -gardent leur identité de génération en génération »  -relèvent de lois de transmission
+* 1910 Thomas Morgan montre que certains facteurs de l'hérédité sont "liés" : \(Travaux sur la mouche drosophile\) - c’est à dire: transmis ensemble - en particulier certains facteurs liés au sexe
+
+Découverte aussi chimique avec :
+
+* 1875-1900 Des cytologistes parviennent à colorer des particules cellulaires, les chromosomes. Il observent leur devenir au cours des divisions cellulaire \(mitose et méiose -&gt; gamète pour reproduction sexué\)
+* 1900 Composition chimique simple des acides nucléiques glucide, phosphate et base azotée
+* 1920 2 Grandes familles d'acide nucléiques ADN et ARN
+
+Pas encore de lien avec les facteurs Mendel.
+
+Fred Griffith découvre que l'ADN est le support de l'information avec son expérience sur les souris et des bactérie pathogène.  
+Interprétation de l'expérience : Un facteur conférant le caractère « virulence » aux bactéries S a été transféré à la souche R lors du mélange et les a rendu pathogènes. Ce principe transformant résiste à la chaleur.
+
+En 1944 il y a purification du principe transformant de Griffith avec une démonstration chimique que l'ADN constitue le matériel génétique \(Oswal Avery, Collin Mac Leod, Maclyn McCarty\)
+
+![](.gitbook/assets/experience_verif_griffith.png)
+
+{% hint style="warning" %}
+Depuis cette découverte :  
+- Confirmation que l'ADN est le support de l'information génétique chez tous :  
+   - Les procaryote \(bactérie, arché\)  
+   - Les eucaryote \(Plante,Champignon,Métazoaire\)  
+   - Et chez certaines famille de virus  
+- Chez des virus comme le VIH, le virus de la grippe, l'information génétique est portée par l'ARN
+{% endhint %}
+
+#### Composition chimique des acides nucléiques
+
+{% hint style="info" %}
+Acide nucléique : polymère de nucléotides ou chaine polynucléotidique  
+2 types : Acide Ribonucléiques \(ARN\) et Acide désoxyribonucléique \(ADN\)
+{% endhint %}
+
+3 élément fondamentaux des nucléotides :   
+- Un glucide \(le ribose \(ADN\) ou désoxyribose \(ARN\)\)  
+- Une base azoté \(Purine : Adénine et Guanine // Pyrimidine : Cytosine et Thymine\)  
+- Groupement phosphate
+
+#### La structure en double hélice d’ADN
+
+### Organisation de l’information génétique dans la cellule
 
 ## Définition
 
