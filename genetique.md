@@ -435,9 +435,150 @@ Acide nucléique : polymère de nucléotides ou chaine polynucléotidique
 - Une base azoté \(Purine : Adénine et Guanine // Pyrimidine : Cytosine et Thymine\)  
 - Groupement phosphate
 
+{% hint style="warning" %}
+Phosphate + ribose \(C5\) + base = ribonucléotide  
+Phosphate + désoxyribose \(C5\) + base = désoxyribonucléotide
+{% endhint %}
+
+Une chaîne polynucléotidique = 1 brin Nucléotides reliés entre eux par l’intermédiaire d’un groupement phosphate   
+Liaison covalente \(phosphodiester\) entre les carbones 3’ et 5’ de deux glucides voisins  
+Chaîne polynucléotidique   
+Très important: Pour des raisons thermodynamiques, la polymérisation de l’ADN ou de l’ARN se fait toujours dans le sens 5’ -&gt;3’
+
 #### La structure en double hélice d’ADN
 
+1950 Erwin Chargaff détermine les proportions de bases A,T,C,G dans l’ADN de plusieurs espèces et constate que %A=%T et %C=%G.  
+Règle de Chargaff : A=T et C = G ou \(A+G\)/\(C+T\) =1
+
+![](.gitbook/assets/purine_pyrimidines.png)
+
+1953 Watson et Crick élucident la structure de la double hélice d'ADN, grâce au découverte de son étudiante Rosalind Franklin  
+1962 Crick, Watson et Wilkins ont le prix nobel de médecine.
+
+{% hint style="warning" %}
+La structure de l'ADN en double hélice  
+Deux chaines s'associent :   
+- De façon anti-parallèle  
+- De manière complémentaire : Purine avec Pyrimidine \(C avec G et A avec T\)  
+- Grâce à des liaisons hydrogènes : 2 liaisons entre A et T // 3 liaisons entre C et G
+{% endhint %}
+
+![](.gitbook/assets/schema_adn_double_helice.png)
+
+**Configuration spatiale en double hélice**  
+Un tour d’hélice = 10 plateaux de bases  
+La distance entre 2 plateaux de bases  
+Le diamètre axial de l’hélice  
+Sens de l’hélice \(variable\)
+
 ### Organisation de l’information génétique dans la cellule
+
+{% hint style="info" %}
+Génome : ensemble de l'information génétique d'une cellule ou d'un virus
+{% endhint %}
+
+#### L’organisation de l’information génétique chez les Procaryotes
+
+![](.gitbook/assets/procaryote.png)
+
+{% hint style="warning" %}
+ADN double brin **circulaire**  
+Plusieurs configuration spatiales : Superenroulé // relaché  
+ADN enrobé de protéines
+{% endhint %}
+
+#### L'organisation du génome nucléaire chez les eucaryote
+
+Le noyau est isolé du cytoplasme par une membrane, ADN localisé dans un compartiment spécialisé \(le noyau\); L'ADN est découpé en plusieurs segments linéaire, les chromosomes.  
+Le génome est fragmenté en longs ADN linéaires = chromosomes  
+L’ADN est associée à des protéines = la chromatine
+
+Taille des cellules et de leur noyau :   
+- Oursin 100um ; Souris 50um ; Algue 50um  
+Taille des génomes\(de l’ADN\) de quelques eucaryotes:  
+- Souris 2700MegaBase; Insecte 150mégabase et l'homme avec 3.4x10^9pb  
+Sur tout le génome, seul 5% chez l'homme code des gènes, et peut être exprimé en protéine.  
+L'homme à 22000 gènes et 3.4x10^9pb  
+La taille du génome n’est donc pas forcément relié à la complexité de l’organisme et aux nombres de gènes compris dans ce génome
+
+#### Le chromosome: chromatine et nucléosome
+
+1 mètre d'ADN dans un noyau de 6um, il faut donc le compacter.  
+**Nucléosome**  
+Chromosome : 1 molécule en double brin et des protéine. Protéine acide et protéine basique, les histones.  
+L'ADN s'enroule autour de 4 histone puis s'accroche à un 5é.
+
+#### Les chromosomes dans le noyau interphasique
+
+Pendant l'interphase, l'ADN est condensée partiellement. Il y a 2 états de la chromatines :   
+- Hétérochromatine, chromatine condensée, expression de gènes inactives.  
+- Euchromatine, chromatine peu condensée, expression des gènes active  
+Nucléole : site de synthèse des ribosomes.
+
+#### Condensation de la chromatine pendant la division cellulaire
+
+Pendant la phase M il y a condensation maximale de la chromatine  
+Structure complexe composée d'ADN et de protéine  
+Structure : Chromatine
+
+#### Les divers degrés de condensation de la chromatine
+
+**La fibre de 11nm**  
+- L'ADN est enroulé en 2 tours \(146pb\) autour d'un nucléosome  
+- Un autre histone relie 2 nucléosome  
+- Ressemble à un collier de perle de 2nm  
+**Le filament de chromatine de 30nm**  
+- La fibre de 10nm peut prendre une forme solénoïde autour d ’ histone H1  
+- Chromatine = filament d ’ ADN + protéines nucléaires \(Histones et protéines HMG \(high Mobility Group\) \)  
+**Échafaudage du chromosome**   
+Chromosome scaffold = Échafaudage du chromosome Echafaudage protéique  
+**La chromatine dilatée et condensée  
+Le chromosome métaphasique**  
+Chromosome le plus représenté, il correspond à l'état de condensation maximale.
+
+![](.gitbook/assets/etape_condensation_chromatine.png)
+
+### Les modifications des histones
+
+{% hint style="warning" %}
+Toutes les histones sont susceptibles d’être acétylées sur des lysines spécifiques.
+{% endhint %}
+
+### Structure des chromosomes
+
+Organisation du chromosome « métaphasique »: une image caricaturale  
+- 2 chromatides: séquences identiques \(cf. réplication\) attachées par le centromère bras long/court  
+- centromère: ADN non répliqué ;  -ADN riche en motifs répétés -pas de gènes -point d’attachement des microtubules  
+- télomères: extrémités de la chromatide -ADN riche en motifs répétés -pas de gènes -important pour l’intégrité du chromosome
+
+#### Récap
+
+{% hint style="warning" %}
+* ADN présent dans le noyau \(mais quelques exceptions cf III\)
+* découpés en plusieurs segments linéaires = chromosomes \(chez l’homme
+
+  2n=46\)
+
+* repliés avec différents degrés de condensation en fonction du cycle cellulaire
+* l’ADN n’est pas nu: il est emballé par des protéines.
+{% endhint %}
+
+#### Le génome extra-nucléaire chez les Eucaryotes
+
+**De l’information génétique dans les mitochondries**  
+Des ADN circulaires sont présents dans la matrice mitochondriale, transmis uniquement par la mère. ADN très petit / ADN nucléaire.  
+ADN double-brin circulaire de petite taille 16 000 pb transmis uniquement par la mère  
+ADN très petit par rapport aux 3.10 9 pb de l'ADN nucléaire  
+1 ¢ : de 300 à 500 mitochondries contenant chacune de 2 à 4 molécules d'ADN mt  
+Système génétique exprimant ; quelques protéines essentielles // des ARN de transfert //des ARN ribosomaux  
+Réplication  
+**Les chloroplastes possèdent aussi un système génétique**  
+ADN circulaire plus long ;   
+- nombreux gènes essentiels au métabolisme   
+-gènes d’ARNt, ARNr   
+ -réplication  
+**Les virus**  
+Dans la nucléocapside virale; Dans la nucléotide au niveau du chromosomes bactérien; des plasmides
 
 ## Définition
 
