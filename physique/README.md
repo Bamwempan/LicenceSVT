@@ -4,6 +4,8 @@
 
 {% page-ref page="electricite.md" %}
 
+{% page-ref page="radioactivite.md" %}
+
 ## Base de math pour physique
 
 ### Fonction affine
