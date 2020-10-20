@@ -277,7 +277,48 @@ Fonction des microtubules :
 #### Ribosomes
 
 Les ribosomes peuvent être libres dans le cytoplasme ou associés au réticulum endoplasmique rugueux/granuleux  
-Traduction d'ARNm lors de la synthèse des protéines, 
+Traduction d'ARNm lors de la synthèse des protéines
+
+## Cellule végétale
+
+#### Différence entre cellule animal et cellule végétale
+
+La cellule végétale est composé d'une vacuole, de plasmodesme, d'une paroi cellulaire et de chloroplaste. Est n'à pas de centrosome !
+
+#### Paroi cellulosique
+
+{% hint style="warning" %}
+La paroi est composé de :
+
+* Fibre de cellulose \(glucide constitué d'une chaine linéaire de molécules de 200 à 14000 D-Glucose
+* Un ciment complexe de pectines et d'éléments associés
+* De l'eau \(à 80% de la masse de la paroi\)
+* Protéine \(Glycoprotéine et enzyme\)
+* ions \(associé à l'eau et aux microfibrilles de cellulose\)
+* Protéine riche en hydroxyproline qui la rendent moins extensible
+{% endhint %}
+
+#### Plasmodesme
+
+Structure : Canal traversant la paroi végétale, s'ouvre grâce à l'action de l'actine et la tubuline. D'environ 20 à 40nm   
+Rôle : Echange via le réticulum endoplasmique lisse de l'eau, les solutés, les protéines et certains virus.
+
+#### Chloroplaste
+
+Lieu de la photosynthèse constitué d'une membrane de thykaloïde, capture l'énergie de la lumière. Organisme autotrophe, car ils produisent de l’énergie de la matière organique \(glucose\) à partir d’éléments inorganiques \(eau\)
+
+#### Mitochondries dans les cellules végétales
+
+La photosynthèse des chloroplaste et la respiration cellulaire des mitochondries sont des réactions inverses. 
+
+#### Appareil vacuolaire
+
+Les cellules des végétaux ont constamment la même taille, c'est grâce à la vacuole que ce contrôle de taille s'effectue. Turgescence et plasmolyse. Le volume du cytosol est constant durant la durée de vie de la cellule.  
+La vacuole est délimité par le tonoplaste, elle contient de l'eau, des glucides, protéines, acide aminés, des ions et des pigments.  
+Rôle :   
+- Homéostasie \(bonne concentration des constituants cellulaire\)  
+- Turgescence \(entrée d'eau dans la cellule\)  
+- Plasmolyse \(Sortie de l'eau de la cellule\)
 
 ## Définition
 
