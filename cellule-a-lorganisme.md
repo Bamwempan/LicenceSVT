@@ -279,7 +279,7 @@ Fonction des microtubules :
 Les ribosomes peuvent être libres dans le cytoplasme ou associés au réticulum endoplasmique rugueux/granuleux  
 Traduction d'ARNm lors de la synthèse des protéines
 
-## Cellule végétale
+### Cellule végétale
 
 #### Différence entre cellule animal et cellule végétale
 
@@ -319,6 +319,36 @@ Rôle :
 - Homéostasie \(bonne concentration des constituants cellulaire\)  
 - Turgescence \(entrée d'eau dans la cellule\)  
 - Plasmolyse \(Sortie de l'eau de la cellule\)
+
+## Tissus
+
+### Tissu conjonctif
+
+#### Caractéristique
+
+Synthèse des collagène, les fibres de collagène son organiser de différentes manière, lâche \(mésentère\) et dense \(Derme\)  
+Pour les fibres dense elles peuvent être orienté parallèle \(tendon\) ou orienté contreplaqué \(cornée\)  
+La matrice extracellulaire est composé de :  
+- matériel fibrillaire \(dense au électrons\); collagène et élastine.  
+- matériel amorphe ; protéoglycannes \(coeur protéique + glycoaminoglycanes\)
+
+#### Rôle
+
+Matériel amorphe : glycoprotéines \(ex : fibronectine, laminine, tesnacine, intégrine\)  
+Strucutre de laminine / Structure de la fibronectine  
+Les intégrines :   
+La lame basale : composant majeurs, structure se décompose en deux feuillets  
+Fonction ; 
+
+#### Les différents types de tissus conjonctifs
+
+Cartilage  
+Recouvre les pièces osseuses du squelette au niveau des articulations mais constitue également la charpente du nez, de l’oreille et des voies aériennes supérieures. Il s’agit d’un tissu conjonctif dur et résistant à la compression.  
+Tissus osseux  
+Les ostéoblastes – ostéocytes - ostéoclastes  
+Sang  
+Tissus adipeux  
+Graisse blanche / Graisse brune
 
 ## Définition
 
