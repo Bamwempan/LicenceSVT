@@ -580,6 +580,88 @@ ADN circulaire plus long ;
 **Les virus**  
 Dans la nucléocapside virale; Dans la nucléotide au niveau du chromosomes bactérien; des plasmides
 
+### Liaison de l'ADN - Mutation - Réparation
+
+{% hint style="info" %}
+**Mutation :** Une mutation est une modification accidentelle de l'information génétique \(lésion\). Selon la partie du génome touchée, les conséquences d'une mutation peuvent varier.   
+Une mutation est héréditaire si la séquence génétique mutée est transmise à la génération suivante \(mutation germinale\).   
+Elle favorise la biodiversité et participe à l'évolution des espèces.
+{% endhint %}
+
+#### Mutation induite \(artificielle\)
+
+{% hint style="info" %}
+**Mutagène :** un mutagène est un agent naturel ou anthropique, physique ou chimique qui peut altérer la structure de l'ADN  
+Chaque mutagène a une spécificité de mutation et d’efficacité
+{% endhint %}
+
+**Les analogues de bases**
+
+![](.gitbook/assets/matugene_analogue_base.png)
+
+**Les agents alkylants** \(Le gaz moutarde\) **\(Site abasiques\)**  
+- Différents groupement de base peuvent être ciblés par l'alkylation  
+- La taille des flèches est proportionnelle à la fréquence de l'alkylation
+
+![](.gitbook/assets/agent_alkylant.png)
+
+**Les agents intercalant \(Déformation par étirement de l'ADN\)**
+
+![](.gitbook/assets/agent-intercallant.png)
+
+**Les rayonnement UV \(Dimère de Thymine ou Cytosine\)**  
+- Les UV sont absorbés par les Thymines et Cytosines adjacent \(TT ou CC\)  
+- Création de pont entre TT et CC  
+- Déforme l'ADN et perturbe l'activité de l'ADN pool
+
+![](.gitbook/assets/rayonnement_uv.png)
+
+**Les radiations ionisantes \(Cassure simple et double brin\)**  
+- Les rayons X et gamma sont assez énergétiques pour produire des radicaux libres \(ions possédant électrons non appariés\) chimiquement très réactifs, notamment avec l’ADN.  
+- Cela entraîne des altérations ou pertes de bases, cassures simple brin \(CSB\) ou double brin \(CBD\).  
+**Les radiations non ionisantes**
+
+#### Les mutations spontanées \(Naturelle\)
+
+**Dépurination / Démination oxydative**  
+- ****Dépurination/déamination oxydative ; - Hydrolyse spontanée de la liaison N-glycosidique \(37°C\) : 10 000 purines et 500 pyrimidines / cellule / 24h = insertion d’une base aléatoire face à un site abasique  
+- Déamination oxydative fréquente de la cytosine \(radicaux libres, produits du métabolisme\) : 500 bases / cellule / 24h = transition CG → TA
+
+![](.gitbook/assets/depurination_deamination.png)
+
+**Erreur de réplication**
+
+* Erreurs de fidélité de l’ADN polymérase lors de la réplication \(vitesse de polymérisation : 500 b/sec\)
+* Ces mésappariements engendrent des modifications de bases \(et donc de la séquence initiale\) lors de la réplication suivante.
+
+![](.gitbook/assets/erreur_replication.png)
+
+![](.gitbook/assets/transition_transversion.png)
+
+Les transitions représentent 60-70% des mutations dans le génome nucléaire animal.  
+Les transitions sont deux fois plus fréquentes que les transversions dans le génome nucléaire et 20 fois plus dans le génome mitochondrial
+
+**Taux de mutation spontanée**
+
+{% hint style="info" %}
+La mutation est un événement **rare,** probabilité qu'il se produise une mutation dans une unité génétique \(base; gène, génome\) pendant une génération cellulaire \(cycle de division \(réplication ; mitose et méiose\)**. Car car système de réparation**
+{% endhint %}
+
+**Chez un procaryote ou un eucaryote unicellulaire**   
+L’obtention d’un mutant dépendra du nombre de gène qu’il faut muter pour observer le phénotype:
+
+* mutation d’un gène en particulier : $$10^{-8}$$
+* mutation d'un gène parmi plusieurs :$$10^{-6}$$
+* Mutation d'un codon particulier d'un gène particulier :$$10^{-10}$$
+
+**Chez un eucaryote pluricellulaire :**
+
+![](.gitbook/assets/mutation_eucaryote.png)
+
+{% hint style="warning" %}
+La notion de somatique et germinales n'est valables que chez les organismes pluricellulaire
+{% endhint %}
+
 ## Définition
 
 {% hint style="info" %}
