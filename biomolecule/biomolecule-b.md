@@ -316,7 +316,7 @@ Vérifications des hypothèses :
 1 ère approximation : vraie si pH &gt; 7,5   
 2 ème approximation : vraie si \[OH - \] &lt; c/10
 
-Exemples : RCOO- , F- , NH3
+Exemples : RCOO- , F- , $$NH^+_3$$\(NH2\)
 {% endhint %}
 
 ### Acides aminés et espèces amphotères
