@@ -7,7 +7,7 @@
   * [Glucides](biomolecule/glucides.md)
   * [Lipides](biomolecule/lipides.md)
   * [Protéine](biomolecule/proteine.md)
-  * [Acide nucléique](biomolecule/acide-nucleique.md)
+  * [Acides aminés](biomolecule/acides-amines.md)
   * [Concentration et PH](biomolecule/biomolecule-b.md)
 * [Biodiversité](biodiversite/README.md)
   * [Biodiversité Végétale](biodiversite/biodiversite-vegetale.md)
