@@ -321,3 +321,7 @@ Exemples : RCOO- , F- , $$NH^+_3$$\(NH2\)
 
 ### Acides aminés et espèces amphotères
 
+Les acides aminés possèdent un acide et une base il y a donc deux réactions dans l'eau.
+
+![](../.gitbook/assets/equation_ph_ampholyte.png)
+
