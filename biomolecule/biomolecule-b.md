@@ -325,3 +325,77 @@ Les acides aminés possèdent un acide et une base il y a donc deux réactions d
 
 ![](../.gitbook/assets/equation_ph_ampholyte.png)
 
+## Réaction acide base
+
+![](../.gitbook/assets/reaction_acide_base.png)
+
+{% hint style="warning" %}
+$$Kr=Ka_1/Ka_2=10^{pKa_1-pKa_2}$$
+{% endhint %}
+
+![](../.gitbook/assets/retenir_reaction.png)
+
+{% hint style="warning" %}
+On remarque donc que acide 1 et et base 2 sont conjugués. Le système est à équilibre.
+{% endhint %}
+
+## Solution tampon
+
+### Définition
+
+{% hint style="info" %}
+Une solution tampon vérifie pH indépendant de la dilution et faible variation de pH par addition d'une faible quantité d'acide fort ou de base forte.
+{% endhint %}
+
+### Composition
+
+Mélange d'un acide faible \(nA\) et de sa base faible conjuguée \(nB\) dans les proportions telles que : 0,1 &lt; $$\frac{nB}{nA}$$&lt; 10
+
+### Calcul du pH
+
+Soient nA le nombre de moles d'un acide faible et nB le nombre de moles de sa base faible conjuguée, à l'équilibre dans un mélange.
+
+![](../.gitbook/assets/formule_tampon.png)
+
+![](../.gitbook/assets/au_borne_tampon.png)
+
+On pourra donc faire une solution tampon de pH donné avec un couple acide faible / base faible de pKa vérifiant :  
+$$pKa - 1<pH<pKa+1$$
+
+### Pouvoir tampon
+
+{% hint style="info" %}
+Aptitude à maintenir le pH constant
+
+* Proportionel à la concentration C du tampon avec C = \(nA + nB\)/V
+* Maximal quand nA = nB =&gt; pH = pKa
+{% endhint %}
+
+### Préparation \(3 méthodes\)
+
+#### Dissolution
+
+Dissolution de l'aice faible CH3COOH \(nA\) et de sa base faible conjuguée CH3COONa \(nB\) dans l'eau \(=&gt; peu de variation entre état initiale et état finale\)
+
+![](../.gitbook/assets/solution_tampon_methode_dissolution.png)
+
+#### Réaction acide faible / base forte
+
+![](../.gitbook/assets/reaction_acidefaible_baseforte.png)
+
+#### Réaction base faible / Acide fort
+
+![](../.gitbook/assets/reaction_acideforte_basefaible.png)
+
+### Ajout de base forte dans un tampon
+
+Réaction entre l'acide faible et la base forte
+
+![](../.gitbook/assets/reaction_acide_faible_base_forte.png)
+
+### Ajout d'un acide fort dans un tampon
+
+Réaction entre base faible et acide fort
+
+![](../.gitbook/assets/reaction_acide_fort_base_faible.png)
+
