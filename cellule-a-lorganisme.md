@@ -330,7 +330,8 @@ Synthèse des collagène, les fibres de collagène son organiser de différentes
 Pour les fibres dense elles peuvent être orienté parallèle \(tendon\) ou orienté contreplaqué \(cornée\)  
 La matrice extracellulaire est composé de :  
 - matériel fibrillaire \(dense au électrons\); collagène et élastine.  
-- matériel amorphe ; protéoglycannes \(coeur protéique + glycoaminoglycanes\)
+- matériel amorphe ; protéoglycannes \(coeur protéique + glycoaminoglycanes\)  
+les granulocytes éosinophiles ont un noyau bilobé et interviennent dans l'allergie et la lutte contre les parasites
 
 #### Rôle
 
@@ -349,6 +350,12 @@ Les ostéoblastes – ostéocytes - ostéoclastes
 Sang  
 Tissus adipeux  
 Graisse blanche / Graisse brune
+
+#### Coloration
+
+Le noyau est basophile car il contient de l'ADN \(Acide qui réagis avec colorant basique\)  
+May-Grünwald Giemsa ****aussi appelée Pappenheim  
+Granulocyte basophile coloration bleuté
 
 ## Définition
 
@@ -374,5 +381,11 @@ Graisse blanche / Graisse brune
 **Hormone :** 
 
 **Thylakoïde :** Compartiment contenu dans les chloroplastes et constitué par un petit sac aplati limité par une membrane contenant des chaînes d'oxydoréduction et des ATP-synthases tournées vers le stroma
+
+**Granulocyte :** Globule blanc non-spécifique
+
+**Fibroblaste :** cellules présentes dans le tissus conjonctifs, aussi appelée cellule de soutien. \(Synthétise la matrice extra cellulaire\)
+
+**Neutrophile :** cellules sanguines appartenant à la lignée blanche. Globule blanc qui ont un rôle important dans le système immunitaire.
 {% endhint %}
 
