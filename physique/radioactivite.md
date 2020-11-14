@@ -169,11 +169,178 @@ Remarque importante : ne pas oublier ν dans la réaction de c. e. sinon elle es
 
 ## Loi de décroissance radioactive et activité
 
+### Loi de désintégration radioactive
+
+{% hint style="info" %}
+Soit un échantillon radioactif, contenant à l'instant initial $$N_0$$noyaux : c'est le nombre de noyaux radioactif présent dans l’échantillon à $$t=0$$
+{% endhint %}
+
+On cherche le nombre $$N(t)$$de noyaux radioactifs présent à un instant t&gt;0 dans l'échantillon.  
+La probabilité pour que ces noyaux radioactifs se désintègrent par unité de temps est $$\lambda$$, en $$s^{-1}$$, aussi appelée constante radioactive de l'élément
+
+![](../.gitbook/assets/loi_desintegration.png)
+
+### Période radioactive
+
+{% hint style="info" %}
+La période radioactive d’un échantillon de noyaux radioactifs, appelée T \(ou $$T_{1/2}$$ \), est le temps au bout duquel il ne reste que la moitié des noyaux présents initialement. Elle est aussi appelée demi-vie.
+{% endhint %}
+
+#### Lien entre la période radioactive T et la constante radioactive $$\lambda$$
+
+![](../.gitbook/assets/periode_radioactive.png)
+
+### Activité
+
+{% hint style="info" %}
+L’activité A\(t\) d’un échantillon de noyaux radioactifs caractérise les noyaux qui se désintègrent à un instant t. C’est le nombre de désintégrations par unité de temps.
+{% endhint %}
+
+#### Lien entre activité A\(t\) et nombre de noyaux présents N\(t\)
+
+![](../.gitbook/assets/activite_radioactive.png)
+
+Unité d'activité en SI : le Becquerel \(Bq\), avec 1Bq  = 1 désintégration / seconde
+
 ## Datation absolue par mesure de la radioactivité
+
+### Généralité
+
+* Plusieurs méthodes utilisent la radioactivité pour déterminer l’âge d’une matière.
+* Roches, fossiles ou produits de l’activité humaine portent une dose naturelle de radioactivité : avec le temps ces atomes radioactifs se désintègrent en formant d’autres noyaux.
+* Le processus de « désintégration-formation » se produit de manière régulière et mesurable. On peut donc mesurer l’activité A t d’un objet pour déterminer son âge.
+* Plusieurs méthodes vont être présentées ici : la plus connue est la datation au carbone 14, mais limitée à des objets âgés de moins de 50000 ans.
+* Pour dater les roches beaucoup plus anciennes on utilise la datation uranium- plomb, la datation potassium-argon ou la datation rubidium-strontium.
+
+### Datation au carbone 14
+
+Le carbone 14 à une période T = 5730 ans  
+Le taux de carbone 14 est $$\frac{N(^{14}C)}{N(^{12}C)}=1.5\times 10^{-12}$$  
+Après la mort d'un organisme, le carbone 14 radioactif n'est plus produit, il va seulement se désintégrer avec la période T, et la quantité de carbone 14 est de plus en plus faible au cours du temps : On peut donc dater un objet jusqu’à 35000 ans \(=6T\). \(Jusqu’à 5000 ans, 10T avec méthode très précise\)
+
+{% hint style="warning" %}
+A noter que pour les organismes vivants \(végétaux, animaux, êtres humains\), la datation par le processus de transformation du $$^{14}C$$ en $$^{14}N$$ ne peut être mesurée qu’à partir de la mort du sujet quand il n'y a plus de renouvellement du $$^{14}C$$
+
+C'est une méthode destructive !! **At &lt; A0**
+{% endhint %}
+
+#### **Data Uranium-plomb \(**$$^{238}U - ^{206}Pb$$\)
+
+La chaîne radioactive de l’uranium 238 \(T\($$^{238}U$$\) = 4,5$$\times 10^9$$ans\) conduit, après plusieurs désintégrations α et β ! , au plomb 206 stable \( $$^{206}Pb$$\)  
+En mesurant la quantité de $$^{206}Pb$$ dans un échantillon de roche ancienne $$N_{Pb}(t_{ech})$$ et en considérant qu'il n'y en avait pas initialement $$N_{Pb}(0)=0$$ , on peut donc déterminer l'âge de la roche à partir de la courbe de décroissance radioactive du nombre de noyaux de $$^{238}U$$
+
+![](../.gitbook/assets/uranium_plomb.png)
+
+#### Datation potassium-argon
+
+#### Datation rubidium-strontium
 
 ## Traceurs radioactifs
 
+### Définition, principe d’utilisation et caractéristiques
+
+{% hint style="info" %}
+Un traceur radioactif \(ou radiotraceur\) est l’association :   
+- d’un traceur, qui va se localiser de façon sélective sur une structure particulière de l’organisme.   
+- d’un marqueur radioactif, qui sert d’émetteur de gammas \(désintégration radioactive donc émission de particules qu’il est possible de détecter par un détecteur externe\) et renseigne sur la localisation. 
+{% endhint %}
+
+La méthode des traceurs radioactifs consiste à suivre l’élément radiotraceur, identifiable grâce à la désintégration d’un de ses radioisotopes, le long de transformations physiques ou chimiques  
+En médecine, il faut bien choisir son marqueur avec deux caractéristiques principales :   
+- l'énergie des gammas émis, qui ne doit être ni trop faible, sinon tous les photons sont absorbés avant de sortir de l'organisme, ni être trop élevée pour que les détecteurs soient efficaces. En gamma caméra, 20 à 400 keV. En TEP les les 2 photons d’annihilation font 511 keV.   
+- la période radioactive du marqueur, qui ne doit être ni trop courte, pour laisser à l'opérateur le temps d'effectuer la mesure avec une statistique suffisante, ni trop longue, pour des raisons de radioprotection. Une fois la mesure effectuée, inutile que le patient conserve de l'activité dans ses organes.
+
+### Période effective
+
+Elle caractérise le temps de présence effective du radiotraceur dans l’organisme : en pratique après quelques périodes effectives le radiotraceur n’a plus d’effet nocif car il a disparu par désintégration ou été éliminé biologiquement. La période effective dépend donc de 2 mécanismes indépendants :  
+- la décroissance radioactive, caractéristique physique liée au radioisotope choisi \(période radioactive T\)  
+- l’élimination biologique, liée au taux de renouvellement de l’élément \(période biologique Tb\).
+
+{% hint style="warning" %}
+C’est la plus petite des deux périodes qui domine le phénomène de durée effective d’élimination \(au sens où si T ≪ T R alors on aura Teff ~T\)  
+- Si l'organisme élimine très rapidement \(Tb ≪ T\), alors Teff ~Tb  
+- Si au contraire l'organisme élimine tres peu \(Tb ≫ T\), on aura Teff ~T
+{% endhint %}
+
+![](../.gitbook/assets/periode_effective.png)
+
+### Détection des traceurs radioactifs
+
+**Gamma-Caméra :** la « gamma-caméra » détecte les scintillations produites par les rayons gamma émis par le traceur radioactif qui peut-être un émetteur beta moins ou c.e. A partir de l’observation d’un grand nombre de scintillations, permet de localiser le point d’émission des molécules radioactives et de réaliser du diagnostic médical.  
+**Caméra TEP \(tomographie à émission de positrons\) :** dans ce cas le traceur radioactif est un émetteur beta plus. Le positron émis s’annihile avec un électron du milieu en produisant deux gammas de 0,511 MeV émis dos-à-dos, donc la localisation du point d’émission est beaucoup plus précise.
+
 ## Interaction rayonnement-matière et radioprotection
 
+### Définition : les rayonnements ionisants
+
+{% hint style="info" %}
+On appelle **rayonnement ionisant un rayonnement dont l’énergie est suffisante pour arracher un électron du cortège électronique d’un atome** \(il faut une énergie supérieure à 13,6 eV pour l’hydrogène, 115 keV pour l’uranium...\) **ou d’une molécule** \(énergie de liaison de l’ordre de quelques eV pour les molécules des tissus biologiques\).  
+Une particule ionisante expulse un électron d’un atome rencontré sur son chemin. **L’atome qui a perdu un électron est devenu un ion, d’où le terme ionisation.** Les atomes ionisés se réorganisent en émettant des photons, parmi lesquels des rayons X caractéristiques.
+{% endhint %}
+
+Le phénomène d’ionisation dépend de la nature de la particule, de sa charge électrique, et aussi de sa masse :   
+- Les rayonnements directement ionisants sont les particules chargées \(électrons, protons, alpha, ions\)  
+- Les rayonnements indirectement ionisants sont les particules neutres \(photons ou gammas, neutrons\)
+
+### Atténuation des photons et rayons X et radioprotection
+
+#### Atténuation des photons et rayons X et radioprotection
+
+{% hint style="warning" %}
+On considère en général que **l’émission des rayonnements par une source ponctuelle est isotrope et homogène** \(c’est-à-dire que l’émission est la même dans toutes les directions de l’espace\).
+{% endhint %}
+
+A une distance **d** de cette source, le rayonnement émis est réparti sur une sphère de surface **4πd 2** . Si on s’intéresse au rayonnement reçu sur une petite surface **S** de cette sphère, donc à la distance d, on a le nombre de photons reçus **N** qui dépend du nombre initial de photons émis par la source **N0** et qui vaut :
+
+![](../.gitbook/assets/emission_ponctuelle.png)
+
+#### Atténuation des photons et des rayons X dans la matière
+
+On part d’une source ponctuelle de gammas et avec un collimateur, on obtient un faisceau monoénergétique et monodirectionnel. Soit un faisceau de **N0** photons traversant une épaisseur de matière **dx**. Après la traversée de cette épaisseur **dx**, il ne reste que **N** photons. La **loi d’atténuation** s’écrit :
+
+![](../.gitbook/assets/loi_attenuation.png)
+
+#### Protection contre les rayonnements ionisants : exemple des gammas
+
+
+
 ## Mesure des rayonnements : les doses
+
+### Dose absorbée
+
+{% hint style="info" %}
+Au cours d’une interaction rayonnement-matière, les les rayonnements perturbent les atomes en arrachant des électrons, brisent des molécules, électrisent et échauffent le milieu, ce qui peut provoquer des dégâts, transitoires ou permanents. Pour les organismes vivants, les effets de l’ionisation peuvent être **bénéfiques** quand l’irradiation touche des **cellules malades** \(traitement de cancers par radiothérapie\), mais les effets sont **nocifs** si l’ionisation touche des **cellules saines**.
+{% endhint %}
+
+Pour mesurer l’effet des rayonnements sur la matière vivante, on calcule la dose **D d’énergie absorbée par le milieu** et on la compare à des doses « autorisées » en radioprotection. La dose **D** est l’énergie **E** des rayonnements absorbés par un milieu homogène ayant une masse **m** :
+
+![](../.gitbook/assets/dose_d_energie.png)
+
+{% hint style="warning" %}
+Son unité SI est le Gray \(symbole Gy\), qui correspond à la dose d’énergie absorbée par un milieu homogène ayant une masse de 1 kg, lorsqu’il est exposé à un rayonnement ionisant apportant une énergie de 1 J. On a donc $$1 Gy = 1 J/kg = 1 m^{-2}.s^{-2}$$
+{% endhint %}
+
+### Dose effective \(Dose efficace\)
+
+La dangerosité dépend aussi de la **nature de la particule rayonnée.** On applique un **facteur de pondération FQ** aux doses d’énergie absorbée D pour en tenir compte. On peut ainsi définir une **dose effective Deff** \(aussi appelée dose efficace\), qui tient compte de la nature du rayonnement, telle que :
+
+![](../.gitbook/assets/dose_effective.png)
+
+avec **Deff en Sievert** \(Sv\), donc 1 Sv = F X × 1 Gy et $$F_Q$$ en Sv/Gy
+
+### Les effets biologique
+
+L’énergie déposée dans un organisme vivant produit aussi des effets très différents suivant le type de tissu ou d’organe touché. Certains sont plus « fragiles » que d’autres.   
+On voit ici par exemple que les poumons ou l’estomac sont 10 fois plus sensibles que la peau.
+
+### Ordre de grandeur
+
+Au niveaux des rayonnements naturels que nous subissons par an :  
+- le rayonnement cosmique correspond à ≈ 0.3 mSv  
+- la radioactivité naturelle correspond à ≈ 0.2 mSv  
+- les sources radioactives internes au corps humain \( 14C, 40K,...\) correspondent à ≈ 0.2 mSv.
+
+{% hint style="warning" %}
+Actuellement la dose légale admise par an pour la population est de 1 mSv en France \(en plus des rayonnements naturels\) et ces limites d’exposition sont à la baisse. En 1992 elles étaient de 50 mSv aux USA, à comparer aux 4 mSv autorisés aujourd’hui.
+{% endhint %}
 
