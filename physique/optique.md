@@ -314,6 +314,8 @@ Une lentille mince est un système optique \(dioptrique\) centrée constitué d'
 
 #### Schéma principe
 
+![](../.gitbook/assets/schema_principe.png)
+
 #### Point remarquable des lentilles
 
 * Centre O sur l'axe optique
@@ -354,4 +356,94 @@ $$Veq=\sum V_i$$et $$\frac{1}{\overline{OF'_{eq}}} = \frac{1}{\overline{OF'_i}}$
 -Le noyau qui passe par le centre O du système optique n'est pas dévier  
 -Le noyau incident parallèle à l'axe optique qui passe par B, il passe par le foyer image F' après traversé de la lentille  
 -Le rayon passant par B et le foyer objet F, il sort de la lentille parallèle à l'axe optique est vers l'infini
+
+## Loupe
+
+### Grandeur caractéristique
+
+Puissance P en δ dioptrie $$m^{-1}$$
+
+![](../.gitbook/assets/puissance_loupe.png)
+
+Le grossissement G sans unité
+
+![](../.gitbook/assets/grossissement_loupe.png)
+
+![](../.gitbook/assets/grandeurs.png)
+
+### Définition
+
+{% hint style="info" %}
+La loupe est une **lentille convergente** avec en distance focale entre 2 et 20 cm
+{% endhint %}
+
+#### Propriété de la loupe
+
+L'objet AB doit être situé entre le centre optique O de la lentille et le foyer objet F =&gt; Forme une image virtuelle
+
+![](../.gitbook/assets/schema_associe_loupe.png)
+
+### Latitude de mise au point
+
+{% hint style="info" %}
+La latitude de mise au point \(ou profondeur de champ\) est la distance $$\overline{A_R A_P}$$ entre les positions extrêmes des objets qui donnent des images observables nettes par l’oeil, donc des images situées entre R et P de l’œil.
+{% endhint %}
+
+![](../.gitbook/assets/lattitude_def.png)
+
+$$\frac{1}{\overline{OR}} - \frac{1}{\overline{OA_R}} = \frac{1}{\overline{OF'}}$$=&gt; $$l=\overline{A_R A_P}$$
+
+Latitude de mise au point pour l'oeil normal  
+P = 25 cm   
+R = infini  
+Sommet de l'oeil = $$\Omega$$  
+$$\overline{\Omega P} = -25 cm$$  
+$$\overline{\Omega R} = - \infty$$
+
+### Puissance et grossissement d'une loupe
+
+{% hint style="info" %}
+La puissance de la loupe dépend :   
+- Sa distance focale  
+- La position de l'objet AB  
+- La position de l'oeil $$\Omega$$par rapport à la loupe
+{% endhint %}
+
+Deux cas particulier : Objet au foyer objet F \(A'B' est à l'infini\) et oeil en F'
+
+![](../.gitbook/assets/objet_ab_f.png)
+
+Oeil en F'
+
+![](../.gitbook/assets/particulier_oeil_f_image.png)
+
+#### Puissance intrinsèque de la loupe
+
+{% hint style="info" %}
+Pour les deux cas particulier, objet en F et Oeil en F', la puissance de la loupe ne dépend que de la distance focale
+{% endhint %}
+
+$$P_i = \frac{1}{OF'}$$
+
+Pour une loupe de focale entre 2 cm et 20 cm =&gt; 5δ &lt; $$P_i$$&lt; 50δ
+
+### Grossissement
+
+$$G=\frac{\alpha '}{\alpha}$$ avec $$\alpha$$angle sous lequel l'objet est vu à l'oeil nu =&gt; Objet est au proximum de l'oeil.
+
+![](../.gitbook/assets/puissance_condition_goss.png)
+
+#### Grossissement commercial
+
+Si l’observation se fait dans un des 2 cas particuliers, objet en F de la loupe ou œil au foyer image F′ de la loupe, on utilise la puissance intrinsèque : $$P_i= \frac{1}{OF'}$$
+
+Le grossissement devient alors $$G=\frac{d}{OF'}$$  
+Si de plus l’œil est normal \(emmétrope\) alors la distance minimale de vision distincte est d = 25 cm = 0,25 m   
+On définit alors le grossissement commercial G C comme la puissance intrinsèque divisée par 4, avec P \) en d et G + sans unité.
+
+![](../.gitbook/assets/grossissement_commercial.png)
+
+### Pouvoir séparateur du système \(Oeil + Loupe\)
+
+![](../.gitbook/assets/pouvoir_separataeur.png)
 
