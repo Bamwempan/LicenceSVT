@@ -447,3 +447,155 @@ On définit alors le grossissement commercial G C comme la puissance intrinsèqu
 
 ![](../.gitbook/assets/pouvoir_separataeur.png)
 
+## Généralité sur l’œiL
+
+## Association de système optique
+
+#### Principe
+
+On considère deux systèmes optiques S1 et S2. On cherche l’image finale \(ou définitive\) A'B' d’un objet initial AB , donnée par le système global \(S1 , S2 \).
+
+1 - On considère d’abord l’image intermédiaire A1 B1 de l’objet initial AB donnée par S1  
+2 - Ensuite, on oublie le système S1 , et on considère A1 B1 comme un objet intermédiaire pour le système S2  
+3 - Enfin, on détermine l’image finale A'B' de l’objet intermédiaire A1B1 donnée par S2
+
+![](../.gitbook/assets/association_lentille.png)
+
+#### Notion de grandissement total
+
+On peut travailler sur chacun des systèmes indépendamment. On applique les formules de conjugaison à chacun des systèmes l’un après l’autre
+
+* on déduit les positions de l’image intermédiaire puis de l’image finale
+* on déduit le grandissement de chaque système
+
+Pour un système global comprenant N systèmes optiques, le grandissement s’écrit comme le produit des grandissements de chaque système optique
+
+![](../.gitbook/assets/grandissement_totale.png)
+
+Pour un système global comprenant seulement deux systèmes optiques S1 et S2 , le grandissement du système \(S1 , S2 \) s’écrit
+
+![](../.gitbook/assets/grandissement_totale_deux_systeme.png)
+
+#### Exemple d'utilisation
+
+* Principe d’une lentille liquide : association d’un dioptre sphérique et de deux dioptres plans
+*  Microscope, lunette astronomique, lunette de Galilée, association d’au moins deux lentilles minces, convergentes ou divergentes
+* Correction des défauts de l’œil par lentille correctrice, association d’une lentille mince \(lunettes ou lentilles correctrices\) et d’un dioptre sphérique \(modèle de l’œil\)
+
+### Application au microscope
+
+#### Principe 
+
+Permet l’observation d’objets très petits  
+Dans un microscope, on examine avec un oculaire l’image agrandie d’un objet fournie par un objectif  
+Oculaire : correspond à l’endroit où on place l'œil donc on veut créer une image finale à l'infini par le microscope, qui sera considérée comme un objet à l’infini pour l’œil.
+
+{% hint style="info" %}
+**objectif :** système très convergent. Distance focale de quelques mm. Assimilé à une lentille mince L 1 .  
+**oculaire :** loupe formée de 2 lentilles non accolées. Distance focale de 2 cm environ. Assimilé ici à une lentille mince L 2 .
+{% endhint %}
+
+Le microscope = Objectif L1 + Oculaire L2  
+- L'objectif L1 crée une **image réelle** A1B1 d'un objet AB  
+- L'image réelle A1B1 est examinée comme un **objet intermédiaire réel** A1B1 par une loupe \(l'oculaire\) crée une **image final A'B' virtuelle**  
+- Enfin l’œil regarde cette image virtuelle A'B' à travers l'oculaire
+
+![](../.gitbook/assets/association_so_exemple.png)
+
+#### Intervalle optique Δ
+
+![](../.gitbook/assets/schema_association_so.png)
+
+{% hint style="warning" %}
+L’intervalle optique D est la distance entre le foyer image de l’objectif et le foyer objet de l’oculaire.
+{% endhint %}
+
+![](../.gitbook/assets/intervalle_optique.png)
+
+#### Construction de l’image d’un objet AB
+
+![](../.gitbook/assets/schema_microscope.png)
+
+L’objectif L1 donne d'un objet réel AB, une image réelle A1B1 renversée plus grande que l’objet AB. L’oculaire L2 est une loupe qui examine cette image réelle A1B1 \(qui joue pour elle le rôle d’objet réel\) et en donne une image virtuelle A′B′ observable par l’œil à travers l’instrument
+
+**Propriété**  
+Noter la position de l’objet AB, devant l’objectif et très proche de L1   
+Noter la position de l’image intermédiaire A1B1 par rapport à l’oculaire L2 : elle est située entre F2 et O2 afin d’obtenir une image finale virtuelle A′B′  
+Noter que A1B1 est réelle, renversée par rapport à AB  
+Noter que A′B′ est virtuelle, droite par rapport à A1B1
+
+{% hint style="warning" %}
+**Cas particulier**   
+Si l’image intermédiaire A1B1 est située au foyer objet F2 de l’oculaire L2 alors l’image finale virtuelle A′B′ est à l’infini.   
+Dans ce cas, un œil normal \(ou avec défaut mais corrigé\) pourra observer A′B′ à l’infini sans accommoder \(œil au repos\) : c’est la position idéale d’observation pour un œil, sans fatigue oculaire.
+{% endhint %}
+
+#### Cercle oculaire
+
+Le cercle oculaire est l’image C'D' de la lentille d’entrée \(objectif L1 \), donc objet CD, donnée par l’oculaire L2 . Tous les rayons émis par l’objet et collectés par l’objectif passent par le cercle oculaire.
+
+![](../.gitbook/assets/cercle-oculaire.png)
+
+{% hint style="warning" %}
+Une observation confortable suppose la coïncidence de la pupille de l’œil et du cercle oculaire.
+{% endhint %}
+
+#### Latitude de mise au point
+
+Comme pour la loupe, on définit la latitude de mise au point ou profondeur de champ, qui est toujours la distance $$\overline{A_R A_P}$$ entre les positions extrêmes des objets qui donnent des images observables nettes par l’oeil, donc des images situées entre R et P de l’œil.
+
+![](../.gitbook/assets/latitude_mise_point.png)
+
+{% hint style="warning" %}
+La latitude de mise au point du microscope, aussi appelée profondeur de champ, est $$ l = \overline{A_R A_P}$$ et vaut de l’ordre du millimètre.
+{% endhint %}
+
+#### Puissance de grossissement
+
+**Puissance P \(en δ\)**  
+Expression générale \(voir la loupe\) : $$P=\frac{\alpha '}{AB}$$  
+Avec α′ l’angle sous lequel l’œil voit l’image A′B′ à travers l’instrument, en radians, et AB la dimension de l’objet, en mètres
+
+![](../.gitbook/assets/puissance_microscope.png)
+
+{% hint style="warning" %}
+C’est aussi une expression générale : la puissance du microscope est égale au produit de la puissance de l’oculaire par la valeur absolue du grandissement de l’objectif.
+{% endhint %}
+
+On peut aussi définir la puissance intrinsèque P \( , pour une vision à l’infini \(image donnée par le microscope à l’infini et qui sera vue par l’œil emmétrope \(ou à défaut mais corrigé\) au repos \(sans accommodation\).
+
+#### Puissance intrinsèque Pi
+
+![](../.gitbook/assets/puissance_intrinseque.png)
+
+#### Puissance intrinsèque du microscope
+
+![](../.gitbook/assets/puissance_intrinseque_microscope.png)
+
+Pi puissance intrinsèque ou nominale, ne dépend que de l’instrument, avec les longueur en mètres et Pi en dioptries. Typiquement 100 ≤ Pi ≤ 10000 δ
+
+#### Grossissement du microscope
+
+$$
+G= \frac{\alpha '}{\alpha}
+$$
+
+Avec α′ l’angle sous lequel l’œil voit l’image A′B′ à travers l’instrument, en radians, et α l’angle sous lequel est vu l’objet à l’œil nu à la distance minimale de vision distincte de l’œil, en radians.
+
+![](../.gitbook/assets/grossissement_microscope.png)
+
+On définit le grossissement commercial Gc pour un œil normal qui observe un objet à l’infini à travers le microscope, donc pour d = 0, 25 m et P = Pi
+
+![](../.gitbook/assets/grossissement_commercial%20%281%29.png)
+
+#### Pouvoir séparateur du microscope
+
+On considère deux cas limites :  
+- Pour un microscope de puissance moyenne \(P i ≈ 1000 δ\) alors la limite de résolution est imposée par l’œil, avec $$ε = 3 × 10^{-4} $$ rad le pouvoir séparateur de l’œil seul \(sans instrument\)  
+- Pour un microscope de puissance élevée \(P i &gt; 10000 δ\) alors la limite de résolution est imposée par les caractéristiques de la lumière   
+→ le pouvoir séparateur est limité par le phénomène de diffraction
+
+![](../.gitbook/assets/exemple_pouvoir_separateur_microscope.png)
+
+### Application au correction des défauts de l’œil
+
