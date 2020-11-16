@@ -190,6 +190,12 @@ La période radioactive d’un échantillon de noyaux radioactifs, appelée T \(
 
 ![](../.gitbook/assets/periode_radioactive.png)
 
+{% hint style="warning" %}
+Bien penser à diviser $$N_0$$des deux coté  
+- $$ln(\frac{1}{2}) = -ln(2)$$  
+- $$ln(e^{-\lambda t} = -\lambda t$$
+{% endhint %}
+
 ### Activité
 
 {% hint style="info" %}
