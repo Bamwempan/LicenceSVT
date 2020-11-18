@@ -327,9 +327,9 @@ $$\overline{OF'}=-\overline{OF}$$, les foyers F et F' sont symétrique par rappo
 #### Nature d'une lentille
 
 {% hint style="warning" %}
-$$OF'>0$$alors présence d'une lentille convergente
+$$\overline{OF'}>0$$alors présence d'une lentille convergente
 
-$$OF'<0$$alors présence d'une lentille divergente
+$$\overline{OF'}<0$$alors présence d'une lentille divergente
 {% endhint %}
 
 #### Relation de conjugaison d'une lentille
@@ -344,6 +344,13 @@ Unité de base en **mètre**
 #### Grandissement lentille
 
 $$\gamma = \frac{\overline{A'B'}}{AB} = \frac{OA'}{OA}$$
+
+{% hint style="warning" %}
+$$\gamma$$&gt;1 image est plus grande que l'objet  
+$$\gamma$$&lt; 1 image est plus petite que l'objet  
+$$\gamma$$ &gt; image droite par rapport à l'objet  
+$$\gamma$$ &lt; image renverser par rapport à l'objet
+{% endhint %}
 
 #### Lentille accolées
 
