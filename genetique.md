@@ -662,6 +662,171 @@ L’obtention d’un mutant dépendra du nombre de gène qu’il faut muter pour
 La notion de somatique et germinales n'est valables que chez les organismes pluricellulaire
 {% endhint %}
 
+## Réplication ADN
+
+![](.gitbook/assets/replication_adn_biologie_cellulaire.png)
+
+La réplication correspond à la synthèse de l’ADN, chez les Procaryotes, les Eucaryotes
+
+### Modèle de réplication semi-conservateur
+
+{% hint style="warning" %}
+Il existe 3 types de modèles de réplication de l'ADN :   
+- Modèle conservatif  
+- Modèle semi-conservatif  
+- Modèle dispersif
+{% endhint %}
+
+#### La réplication de l’ADN est semi-conservative
+
+Lors de la réplication il y a un brin ADN ancien, dit parental, et un brin fils nouvellement synthétisé
+
+#### Expérience de Meselson et Stahl
+
+![](.gitbook/assets/experience_adn_lourd.png)
+
+#### les chromosomes arlequins
+
+### La machinerie de réplication de l’ADN
+
+Les composants impliqués dans la réplication de l’ADN  
+Séquences d’initiation :
+
+* Les origines \(ori\) et les fourches de réplication
+
+  Protéines
+
+* Protéine initiatrice \(dnaA\)
+* Hélicases \(dnaB, dnaC\)
+* Topoisomérase \(gyrase\)
+* Protéines SSB \(single strand binding protein\)
+* Primase \(RNA pol\)
+* DNA pol III
+* DNA pol I
+* Ligase
+
+Les hélicases sont des enzymes qui romptent les liaisons hydrogènes et donc séparent les 2 brins d’ADN  
+les protéines SSB maintiennent les deux brins d’ADN simples brins
+
+La réplication est bidiréctionelle  
+- 2 Fourches de réplication  
+- Ouverture de l’ADN au niveau de l’origine de réplication \(Ori\)  
+- Elongation bidirectionnelle ADN néosynthétisé  
+- La réplication est terminée. On obtient 2 molécules filles circulaires
+
+#### Les origines et fourches de réplication
+
+![](.gitbook/assets/origine_fourche_replication.png)
+
+Chez les eucaryotes : plusieurs origines de réplication   
+- Levure : ARS \(Autonome Replication sequence\) : environ 400 ARS  
+- Drosophile : environ 1 000 séquences de réplication   
+- Homme : environ 10 000 séquences de réplication \(chaque zone répliquée fait ~ 100 à 200 kb\)
+
+![](.gitbook/assets/replication_adn.png)
+
+
+
+#### les topoisomérases et hélicases
+
+Topoisomérase I : coupe 1 brin, passe un brin par-dessus l’autre et ligue   
+Topoisomérase II \(gyrase\) : coupe les 2 brins, détord et ligue \(pour séparer les 2 molécules à la fin de la réplication\)
+
+![](.gitbook/assets/topoisimerase.png)
+
+#### les ADN polymérases
+
+Activité d'élongation et polymérisation, l'élongation à toujours lieu dans le sens 5' -&gt; 3'
+
+![](.gitbook/assets/adn_polymerase.png)
+
+Activité exo 3’-&gt;5’  
+Activité de correction 3’-&gt;5’ des erreurs de polymérisation  
+Activité exo 5’-&gt;3’  
+Dégrade les amorces ARN Dégrade l’ADN double brin
+
+#### Les ADN pol chez les procaryotes 3 DNA pol : I, II et III
+
+![](.gitbook/assets/adn_pol_procaryote.png)
+
+DNA pol III : gros complexe avec plus de 20 sous unités différentes
+
+La ligase et la RNase  
+Ligase : lie 2 fragments entre eux  
+RNAse : dégrade les amorces d’ARN
+
+### Le mécanisme de réplication chez les procaryotes
+
+#### Initiation de la réplication
+
+Le primosome = dnaA + helicases + primase
+
+![](.gitbook/assets/initiation_replication.png)
+
+#### Elongation de la réplication
+
+Elongation dans le sens 5’-&gt;3’ par la DNA polIII
+
+![](.gitbook/assets/elongation_replication.png)
+
+![](.gitbook/assets/recapitulatif_elongation.png)
+
+**Le brin continu, le brin discontinu, les fragments d’Okasaki**
+
+![](.gitbook/assets/brin_continu_discontinu.png)
+
+#### Terminaison de la réplication
+
+La DNA pol I dégrade les amorces ARN et comble les lacunes La ligase colle deux fragments entre-eux
+
+![](.gitbook/assets/terminaison_replication.png)
+
+#### Récap
+
+{% hint style="warning" %}
+* La protéine initiatrice \(dnaA\) ouvre les 2 brins au niveau de l’origine de réplication 
+* Les hélicases \(dnaB, C\) séparent les 2 brins 
+* Les protéines SSB maintiennent l’ADNss La gyrase enlève les supertours 
+* La primase synthétise l’amorce ARN 
+* La DNA pol III élongue l’ADN 
+* La DNA pol I \(activité RNAse H\) détruit les amorces ARN 
+* La DNA pol I \(activité DNA polymérisation\) comble les lacunes laissées par les amorces
+* La ligase lie les fragments d’ADN entres eux
+{% endhint %}
+
+### Autres modèles
+
+#### Le cercle roulant
+
+Réplication des plasmides F chez les bactéries  
+Amplification des gènes d'ARNr dans les ovocyte de grenouilles
+
+![](.gitbook/assets/cercle_roulant.png)
+
+#### La transcription inverse
+
+![](.gitbook/assets/transcription_reverse.png)
+
+### Réplication chez les eucaryotes
+
+#### Les ADN pol chez les eucaryotes
+
+![](.gitbook/assets/5_dna_pol.png)
+
+#### Modèle établi pour le virus SV40
+
+* L’antigène Large T reconnaît l’Ori et ouvre les 2 brins d’ADN
+* Les protéines RPA maintiennent l’ADN SS
+* Sur le brin discontinu, la DNA pol delta \( $$\delta$$ \) élongue l’ADN à partir de l’amorce ARN
+* La DNA pol alpha \( $$\alpha$$ \) grâce au facteur RFA Synthétise l’amorce ARN
+* La DNA pol $$\delta$$ grâce aux facteurs PCNA et RFC élongue l’ADN à partir de l’amorce ARN
+
+![](.gitbook/assets/modele_sv40.png)
+
+#### Le problème des extrémités chez les eucaryotes
+
+![](.gitbook/assets/extremite_eucaryote.png)
+
 ## Définition
 
 {% hint style="info" %}
