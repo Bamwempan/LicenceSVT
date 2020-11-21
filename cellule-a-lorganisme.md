@@ -326,12 +326,17 @@ Rôle :
 
 #### Caractéristique
 
+C’est un tissu de soutien qui emballe les 3 autres tissus. Il s’agit d’un tissu avec des cellules isolées \(fibroblastes\) responsables de la synthèse et de l’organisation de la matrice extracellulaire.  
 Synthèse des collagène, les fibres de collagène son organiser de différentes manière, lâche \(mésentère\) et dense \(Derme\)  
 Pour les fibres dense elles peuvent être orienté parallèle \(tendon\) ou orienté contreplaqué \(cornée\)  
 La matrice extracellulaire est composé de :  
 - matériel fibrillaire \(dense au électrons\); collagène et élastine.  
-- matériel amorphe ; protéoglycannes \(coeur protéique + glycoaminoglycanes\)  
+- matériel amorphe ; protéoglycannes \(coeur protéique + glycoaminoglycanes\) // Glycoprotéine \(fibronectine, laminine, tesnacine, intégrine\)  
 les granulocytes éosinophiles ont un noyau bilobé et interviennent dans l'allergie et la lutte contre les parasites
+
+La lame basale Composants majeurs   
+Structure se décompose deux feuillets   
+Fonctions : ???
 
 #### Rôle
 
@@ -351,11 +356,106 @@ Sang
 Tissus adipeux  
 Graisse blanche / Graisse brune
 
+![](.gitbook/assets/tissus_conjonctif_cellules_sang.png)
+
+Tissus adipeux  
+Graisse blanche et Graisse brune
+
 #### Coloration
 
 Le noyau est basophile car il contient de l'ADN \(Acide qui réagis avec colorant basique\)  
 May-Grünwald Giemsa ****aussi appelée Pappenheim  
 Granulocyte basophile coloration bleuté
+
+### Tissus epithéliaux
+
+#### Caractéristique
+
+Caractéristiques du pôle apical : Microvillosités, Les cils  
+Caractéristiques du pôle latéral : Interdigitations membranaires
+
+#### Différentes catégories
+
+* Les épithélia à fonction de revêtement 
+  * Ce sont des épithélia qui doivent protéger :  pluristratifiés : épiderme  pseudostratifié : trachée  monostratifié: vaisseau, poumon
+* Les épithélia à fonction de Sécrétion
+  * cellules isolées : cellules caliciformes ou cellules à mucus : intestin ou trachée  La cellule caliciforme Coloration histologique en organisation tubulaire Intestin \(côlon\) en organisation glandulaire : unité = acinus :pancréas ou glande salivaire
+  * Différents modes de sécrétions : merocrine, apocrine et holocrine
+  * Rétrocontrôle positif et négatif
+  * Les glandes endocrine : hypophyse / glande thyroïde
+* Les épithélia à fonction d’absorption
+
+#### Les jonctions cellulaires du tissu épithélial
+
+**D’étanchéité**  
+Synonymes : Jonction serrée, Jonction occlusive, fonctiond de barrière   
+**D’adhérence \(**d’ancrage au pôle latéral des cellules\)  
+****Deux catégories selon la protéine du cytosquelette :   
+- jonction intermédiaire : Actine \(Synonyme jonction d’adhérence\)  
+- Desmosome : filament intermédiaires \(Synonyme : spot desmosome, jonction sous forme de disque\)  
+**Intermédiaire**  
+Fait intervenir 3 protéine : protéines trans-membranaires \(cadhérines\), protéines de plaque, protéines du cytosquelette : actine  
+**Hémidesmosomes**  
+Fait intervenir 3 partenaire : protéine cytosquelette, la kératine, protéine plaque, protéine trans-membranaire \(intégrines\)  
+Fonction des jonctions d'adhérence,   
+**Jonction communicante**  
+jonctions gap, jonctions à trous ou lacunaires, jamais au pôle apical
+
+### Tissus nerveux
+
+#### Caractéristiques
+
+Système Nerveux / Neurones / Cellules gliales  
+rétrocontrôle positif et négatif  
+Synapse axo-dendritique  
+Les cellules gliales : L’oligodendrocyte ou la cellule de schwann  
+L’oligodendrocyte ou la cellule de schwann  
+La myéline  
+L’astrocyte
+
+### Tissus musculaire
+
+#### Le tissu musculaire strié squelettique volontaire
+
+Le développement du muscle strié squelettique est appelée la myogenèse  
+Type I \(aérobie\), muscle rouge lente  
+Type II \(anaérobie\), muscle blanc, rapide fatigable  
+Composé de myosine, filament fin d'actine et Tropomyosine-Troponine  
+La jonction neuro-musculaire ou plaque motrice \(Synapse\)  
+Tubule T  
+Le Ca++ se fixe sur la Troponine C. Changement de conformation
+
+#### Le tissu musculaire strié cardiaque involontaire
+
+cellule mononuclée, noyau central, myofibrilles plus organisées, nombreux vaisseaux sanguins  
+**Les jonctions cellulaires du tissu musculaire strié cardiaque**  
+La strie scalariforme   
+Il existe 3 types de jonction : d’adhérence / jonction intermédiaire desmosome \(100F\) de communication  
+La strie scaliriforme
+
+#### Le tissu musculaire lisse involontaire
+
+**Les jonctions communicantes :** Impliquée dans le couplage métabolique \(hormonal\) et électrique de deux cellules en permettant le passage de petites molécules ou ions entre leurs cytoplasmes.  
+Contraction muscle lisse :   
+- Entrée calcium stocké dans cavéoles   
+- Activation de la myosine   
+- Interaction avec actine  
+- Raccourcissement de la cellule
+
+#### Les maladies neuromusculaires 
+
+Les myasthénies  
+faiblesse musculaire s’aggravant à l’effort \(4 à 6 cas/ 1 0 0 0 0 0 habitants\)  
+**Myasthénies autoimmunes:**  
+le recepteur de l’acetylcholine est la cible principale de l’attaque autoimmune \( 8 0 % des patients\)  
+myasthénies séropositives  
+- Myasthénies séronégatives: anticorps dirigés contre d’autre protéines de la jonction neuromusculaire: acétylcholine est érase, MuSK  
+Myasthénies congénitales:  
+- maladie rare  
+Mutations de gènes codant pour des constituants de la jonction neuromusculaire:  
+- Syndrome “canal lent” : mutation du RACh  
+- temps d’ouverture du canal trop long  
+- Deficit en synthèse AChR ou ACh Est érase
 
 ## Définition
 
