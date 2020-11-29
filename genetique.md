@@ -28,6 +28,8 @@ Avant croisement il y à donc **isogénisation** des variétés : **Lignées pur
 
 On peut mettre en place les mots génotype et phénotype. \(William johannsen \(Danois\) met en terme les mots Génotype, Phénotype et gène\)
 
+![](.gitbook/assets/analogie_espece_sauvage_espece_consanguine-ligne_pure-.png)
+
 #### Mis en place de l'expérience de Mendel
 
 Si on connais la Dominance / Récession alors le **phénotype** doit être écris en **majuscule** pour le **dominant** et **minuscule** et **récession**.  
