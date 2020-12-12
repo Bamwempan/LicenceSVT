@@ -356,12 +356,12 @@ $$\gamma$$ &lt; image renverser par rapport à l'objet
 
 La lentille équivalente à un ensemble de lentilles minces accolées de même centre optique O est la somme des vergences individuelles.
 
-$$Veq=\sum V_i$$et $$\frac{1}{\overline{OF'_{eq}}} = \frac{1}{\overline{OF'_i}}$$unité en **mètre**
+$$Veq=\sum V_i$$et $$\frac{1}{\overline{OF'_{eq}}} = \sum \frac{1}{\overline{OF'_i}}$$unité en **mètre**
 
 #### **Tracé de rayon**
 
--Le noyau qui passe par le centre O du système optique n'est pas dévier  
--Le noyau incident parallèle à l'axe optique qui passe par B, il passe par le foyer image F' après traversé de la lentille  
+-Le rayon qui passe par le centre O du système optique n'est pas dévier  
+-Le rayon incident parallèle à l'axe optique qui passe par B, il passe par le foyer image F' après traversé de la lentille  
 -Le rayon passant par B et le foyer objet F, il sort de la lentille parallèle à l'axe optique est vers l'infini
 
 ## Loupe
