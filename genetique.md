@@ -119,6 +119,53 @@ Allèle mutant noté : $$a^-$$ou - puis \($$a^1-a^2-a^3 \ etc)$$
 
 ![](.gitbook/assets/relation_genotype_phenotype.png)
 
+### Complémentation
+
+![](.gitbook/assets/complementation.png)
+
+#### Test de complémentation
+
+2 allèles mutants récessifs m1 et m2: phénotype identique   
+Les deux mutations touchent-elles:  
+- le même gène ?  
+- deux gènes différents ?
+
+Croiser souches mutantes pures entre elles
+
+{% hint style="info" %}
+**Définition 4 du gène : un gène ≈** un groupe de complémentation \(cistron, Seymour Benzer, années 50\)
+{% endhint %}
+
+### Indépendance
+
+{% hint style="info" %}
+**Dihybridisme :** Transmission de 2 gènes indépendants
+{% endhint %}
+
+Transmission de 2 gènes indépendants sans interactions, proportion attendu : 9:3:3:1
+
+![](.gitbook/assets/gene_independant_sans_interaction.png)
+
+![](.gitbook/assets/hybridisme.png)
+
+### Liaison
+
+{% hint style="info" %}
+**Distance génétique =** fréquence de recombinaison entre deux marqueurs 
+
+**Unité: centimorgan \(cM\) =** % de recombinaison = % gamètes recombinés
+{% endhint %}
+
+![](.gitbook/assets/gene_lie.png)
+
+![](.gitbook/assets/analyse_double_hetero_cis.png)
+
+![](.gitbook/assets/double_hetero_trans.png)
+
+![](.gitbook/assets/test_cross_double_recessif.png)
+
+![](.gitbook/assets/independance_genetique.png)
+
 ## Cytogénétique
 
 Histoire
