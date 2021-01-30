@@ -196,3 +196,50 @@ Pèse 181 Da, chaine latérale polaire non chargé à pH 7 et ionisable \(-OH / 
 
 Pèse 204 Da, chaine latérale non polaire, le plus rare des 21 acides aminés, acides aminé essentiel.
 
+## Technique d'analyse des acides aminés
+
+### Analyse par électrophorèse
+
+Méthode de séparation de molécules  
+Basé sur la différence d'affinité des molécules : Pour une phase stationnaire ou fixe \(solide ou liquide\) et une phase mobile \(liquide \(CPL\) ou gazeuse \(CPG\)\)
+
+4 Grands type de chromatographie, en fonction de la propriété physico-chimique sur laquelle repose la séparation : 
+
+* Poids moléculaire : Chromatographie d'exclusion / Gel-filtration / Tamisage moléculaire
+* Polartié : chromatographie hydrophobe
+* Charge : chromatographie échangeuse d'ions \(cations ou anions\)
+* Affinité : chromatographie d'affinité
+
+### Analyse par chromatographie
+
+Colonne, par gravité ou sous pression \(FPLC, fast performance liquid chromatography\)
+
+#### Chromatographie ionique ou échangeuse d'ions
+
+Phase stationnaire : billes de polymère chargées  
+Séparation de molécules de charges différentes  
+Séparation des AA en fonction de leur pHi et du pH de la colonne, ou de la force ionique  
+Sortie des molécules = élution
+
+{% hint style="info" %}
+Elution :  Séparation de deux substances adsorbées, entrainées par un solvant.
+{% endhint %}
+
+### Dosage par polarimétrie
+
+A part la glycine, tous les acides aminés sont des molécules chirale \(asymétrique\);   
+Chirale : Possèdent un Carbone asymétrique \(C\) avec 4 substituants différents. Molécules asymétrique il y a donc deux formes non superposables et donc deux formes images l'une de l'autre dans un miroir, appelée énantiomères; Les acides aminé peuvent donc être de série D ou L  
+L'ordre est toujours : NH3 -&gt; COO -&gt; R -&gt; H
+
+Les acides aminés protéinogènes sont de série L  
+Pour identifier les formes D et L d'un AA on peut utiliser les propriétés physiques, notamment les propriété optiques différentes avec la loi de BIOT, avec le pouvoir rotatoire spécifique
+
+Les molécules lévogyre \(-\) dévie la lumière vers la gauche alors que les molécules dextrogyre \(+\) dévie la lumière vers la droite \(Aucun rapport avec la série D et L\)
+
+### Dosage par spectrométrie
+
+La plupart des acide aminés n'absorbent pas la lumière visible -&gt; Leur solution sont incolores  
+Seuls les acides aminés avec un noyau aromatique \(Phénylalanine, Tyrosine, Tryptophane\) absorbent dans l'ultraviolet \(UV\)
+
+![](../.gitbook/assets/absorbtion.png)
+
