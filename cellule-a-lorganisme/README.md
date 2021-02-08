@@ -31,7 +31,7 @@ Jusqu’à 200nm visible au microscope optique
 Plus gros que 200nm -&gt; Visible à l’œil, loupe et microscope optique  
 200nm visible pour observer 2 points espacé de cette distance
 
-![](.gitbook/assets/notion_echelle_cao.png)
+![](../.gitbook/assets/notion_echelle_cao.png)
 
 ### Loupe
 
@@ -97,7 +97,7 @@ Un organisme pluricellulaire est une structure complexe qui exige des processus 
 * **Communication indirect :** Emettrice, Signal, Réceptrice. Emission de signal par la circulation sanguine en utilisant des hormones.
 {% endhint %}
 
-![](.gitbook/assets/mecanisme_coordination_cellule.png)
+![](../.gitbook/assets/mecanisme_coordination_cellule.png)
 
 #### Rétrocontrôle positif ou négatif
 
@@ -124,11 +124,11 @@ Les membranes biologique sont constitués  de 30 à 50% de lipides, et de 50 à 
 Les lipides membranaires peuvent se comporter en micelle, mono-couche, liposome unilamellaire ou et surtout en **bicouche plane simple \(plus présent ici\)**  
 Les lipides membranaires sont représentés a environ 5 000 000/μm2
 
-![](.gitbook/assets/organisation_lipidique_membrane_plasmique.png)
+![](../.gitbook/assets/organisation_lipidique_membrane_plasmique.png)
 
 Ce sont des molécule amphiphiles= Molécules amphipathiques
 
-![](.gitbook/assets/difference_lipidiques_membrane_plasmique.png)
+![](../.gitbook/assets/difference_lipidiques_membrane_plasmique.png)
 
 #### Propriétés des membranes
 
@@ -137,11 +137,11 @@ Ce sont des molécule amphiphiles= Molécules amphipathiques
   * Diffusion latérale \(rapide\) 
   * Changement de feuillet \(lent\)
 
-![](.gitbook/assets/echange_lipide_membrane_plasmique.jpg)
+![](../.gitbook/assets/echange_lipide_membrane_plasmique.jpg)
 
 #### Composition protéique
 
-![](.gitbook/assets/membrane_plasmique_schema.jpg)
+![](../.gitbook/assets/membrane_plasmique_schema.jpg)
 
 {% hint style="warning" %}
 Protéine intrinsèque, présente dans la membrane  
@@ -149,7 +149,7 @@ Protéine extrinsèque ou périphérique
 Manteau cellulaire \(Cell Coat\) : ajout du sucre, **glycocalix,** l'ajour des sucre peut augmenter jusqu'à 100 fois l'épaisseur de la membrane \(700nm de couche de sucre\)
 {% endhint %}
 
-![](.gitbook/assets/proteine_membrane_plasmique.jpg)
+![](../.gitbook/assets/proteine_membrane_plasmique.jpg)
 
 #### Rôle membrane plasmique
 
@@ -158,7 +158,7 @@ Manteau cellulaire \(Cell Coat\) : ajout du sucre, **glycocalix,** l'ajour des s
 * Transmission signal : entre l'extérieur et l'intérieur. Protéine 1,2,3
 * Reconnaître cellulaire voisine / s'attacher à la cellule voisine / s'attacher avec le milieux extracellulaire \(protéine 1,2,3,4b,6 et 8\)
 
-![](.gitbook/assets/role_membrane_plasmique.jpg)
+![](../.gitbook/assets/role_membrane_plasmique.jpg)
 
 #### Différence membrane cellulaire et organite
 
@@ -356,7 +356,7 @@ Sang
 Tissus adipeux  
 Graisse blanche / Graisse brune
 
-![](.gitbook/assets/tissus_conjonctif_cellules_sang.png)
+![](../.gitbook/assets/tissus_conjonctif_cellules_sang.png)
 
 Tissus adipeux  
 Graisse blanche et Graisse brune

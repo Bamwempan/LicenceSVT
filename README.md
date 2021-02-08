@@ -10,7 +10,7 @@ description: Portail licences SVT
 
 {% page-ref page="geoscience/" %}
 
-{% page-ref page="cellule-a-lorganisme.md" %}
+{% page-ref page="cellule-a-lorganisme/" %}
 
 {% page-ref page="genetique.md" %}
 
