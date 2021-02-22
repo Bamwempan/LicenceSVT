@@ -20,6 +20,8 @@ Acide aminé modifié : Hydroxyproline, Hydroxylysine, Phosphosérine
 
 R est une chaine latéral propre à chaque acide aminé de composition, structure et masse très variable
 
+![](../.gitbook/assets/acideamine.png)
+
 ### Unité de mesure des acides aminés
 
 Pour les acides aminés l'unité utilisé est le dalton DA
