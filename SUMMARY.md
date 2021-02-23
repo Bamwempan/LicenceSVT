@@ -6,7 +6,7 @@
   * [Oses](biomolecule/oses.md)
   * [Glucides](biomolecule/glucides.md)
   * [Lipides](biomolecule/lipides.md)
-  * [Protéine](biomolecule/proteine.md)
+  * [index](biomolecule/proteine.md)
   * [Acides aminés](biomolecule/acides-amines.md)
   * [Concentration et PH](biomolecule/biomolecule-b.md)
 * [Biodiversité](biodiversite/README.md)
