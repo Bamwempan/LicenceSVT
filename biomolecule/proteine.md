@@ -3,7 +3,7 @@ aliases:
   - protéines
 ---
 
-# index
+# Protéine
 
 La synthèse de protéine nécéssite la présence d'ARN de transfert.
 

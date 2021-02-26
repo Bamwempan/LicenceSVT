@@ -8,15 +8,9 @@ description: Portail licences SVT
 
 {% page-ref page="biodiversite/" %}
 
-{% page-ref page="geoscience/" %}
-
 {% page-ref page="cellule-a-lorganisme/" %}
 
-{% page-ref page="genetique.md" %}
-
-{% page-ref page="physique/" %}
-
-{% page-ref page="math.md" %}
+{% page-ref page="genetique/" %}
 
 | Paramètres | Nom de serveur | Port | Méthode de chiffrement |
 | :---: | :--- | :--- | :--- |
