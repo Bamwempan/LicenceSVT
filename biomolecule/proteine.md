@@ -119,9 +119,99 @@ Cette fois-ci, une seule extrémités de la chaine forme une liaison peptidoïde
 
 Ainsi l'acide aminé N-ter peut se lier à un résidu Asp ou Glu tandis qu'un résidu C-ter peut se lier à un résidu Arg ou Lys
 
+#### Technique d'analyse de la séquence primaire
+
+* Permet de connaître son identité
+* Permet d'indentifier le gène
+* Permet de comparer des séquence, indentification des résidus les plus conservés; étude de l'évolution; application clinique
+
+#### **Détermination de la structure d'un peptide**
+
+La détermination de la structure primaire d'un peptide est conduite en deux étapes : \(Ces deux étapes ont comme point commun l'hydrolyse de la liaison peptidique\)
+
+* Détermination de la composition en aminoacides
+* Détermination de l'ordre des enchainements des résidus
+
+#### **Hydrolyse de la liaison peptidique**
+
+La liasion peptidique est très stable, son hydrolyse spontanée est quasiment nul. C'est pour cela que l'on réalise des traitements
+
+* Traitement acide
+  * **Polypeptidique + HCM 6M, à 100-120°C pendant 24 heures**
+  * Certains résidus sont dégradés dans ces conditions sévère. Le tryptophane est dégradé
+  * L'hydrolyse acide convertit asparagine en acide aspartique et glutamine en acide glutamique \(du NH4+ est éliminé\)
+  * L'hydrolyse totale acide détruisant moins d'acide aminés, elle est en conséquence la méthode d'hydrolyse la plus utilisée
+* Traitement basique
+  * **Polypeptides + NaOH 6m, à 100°C pendant 4 à 8 heures**
+  * Dans ces conditions, Arginine, Cystidine, Sérine, Thréonine sont décomposées et d'autres résidus sont désaminées et racémisés
+* Enzymatiques par des endopeptidases \(endo à l'interieur\)
+  * Trypsine : coupe en C-terminal des résidus basiques Lysine et Arginine
+  * Chymotrypsine \(Kymo\) : coupe en C-terminal des résidus aromatiques Phenylalanine, Tyrosine, Tryptophane
+  * Endoprotéase V8
+  * Papaïne : coupure arès Arginine, Lysine, Acide Glutamique, Histidine, Glycine, Tyrosine
+* Chimique : Bromure de cyanogène : Coté C-terminal de Methionine, qui est ensuite convertie en homosérine lactone en milieu acide
+
+  **Coupure spécifique des liaisons peptidiques**
+
+  Si polypeptide de plus de 50 résidus, on ne peut détermeiner directement sa séquence : on va couper en peptides plus petits que l'on va purifier et séquencer puis on rassemble le puzzle
+
+#### **Analyse N-terminale**
+
+Détermination de la nature du résidu N-terminal : 
+
+* Aminopeptidase
+  * Enzyme de la famille des exopeptidases
+  * Son fonctionnement est **récurent** pour libérer seulement le premier AA, l'enzyme doit agir pendant un temps très court
+  * L'AA libéré est identifié par chromatographie
+* Réaction avec le fluoro-2,4-dinitrobenzène \(réactif de Sanger : DNFB\)
+* Réaction avec le chlorure de dansyle \(produit final plus stable et fluorescent + sensible\)
+
+  Séquençage N-terminal : Dégradation d'Edman
+
+#### **Analyse C-terminale**
+
+Il n'y pas de processus comparable à la dégradation d'Edman pour l'analyse séquentielle des résidus C-terminal -&gt; Réaction enzymatique \(exopeptidase\)
+
+Les carboxypeptidases détachent les acides aminés terminaux les auns après les autres
+
+**Les carboxypeptidases inactives lorsque le peptide est cyclique, ou lorsque la fonction COOG de l'extrémité C-terminale est bloqué par un groupement chimique \(amide, ester de methyle\)**
+
+4 Carboxypeptidases : A, B, C et Y
+
+* La carboxypeptidase A, hydrolyse la liaison peptidique du côté C-terminal de tous les acides aminés \(libération de l'AAn\)
+  * A l'exception de Proline, Arginine et Lysine \(si Pro\_n, Arg\_n, Lys\_n\)
+  * Ou si proline est l'avant dernier acide aminé \(Pro\_n-1\)
+* La carboxypeptidase B, hydrolyse uniquement la liaison peptidique du côté C-terminal de l'arginine et la lysine \(Uniquement si Arg\_n ou Lys\_n, libération de Arginine ou Lysine\)
+  * Pas de coupure pour tous les autres AA en C-terminale
+  * Pas de coupure si Proline est l'avant dernier acide aminé \(Pro\_n-1\)
+* Les carboxypeptidases C et Y, hydrolysent la liaison peptidique du côté C-terminal de tous les acides aminés
+
 ### **Structure secondaire**
 
-Repliement local des acides aminés en hélices, en feuillets, ou en d'autres formes similaires
+Repliement local des acides aminés en hélices, en feuillets, ou en d'autres formes similaires La structure secondaire décrit le repliement local de la hcaine principale d'une protéine. La structure secondaire est caractérisée par deux motif structuraux \(Hélice alpha, Feuillet Béta\) dont la propriété princiape est de stabiliser la structure de la protéine par des liaisons hydrogènes intramoléculaires
+
+#### Liaison hydrogène
+
+Cette liaison s'établit entre un donneur de liaison hydrogène et un accepteur. Le donneur est un composé à H acide, un hétéroatome \(azote, oxygène, souffre\) porteur d'un atome hydrogène \(comme dans les amines, alcools, thiols, acides et dérivés\) L'accepteur est composé d'un hétéroatome \(uniquement azote, oxygène ou fluor\) porteur de doublet libres
+
+#### Hélice Alpha
+
+L'hélice est une structure comapcte, de forme cylindrique caractérisée par un repliement hélicoïdale périodique de la chaine polypeptidique. -&gt; Structure en forme de bâtonnet Dans la littérature et dans les structures tridimensionelles des protéines, les hélices alpha sont représentées sous forme de ruban Conformation repliée impliquant des liaison hydrogènes répétitives entres atomes de la chaine principale \(NH et CO\) des résidus i et i+4
+
+Caractéristique : Hélice droite, 3,6 résidus par tour, 0,54mm de pas par tour, la liaison hydrogène est parallèle à l'axe, longueur de la liaison H 0,286 nm, la longueur maximale d'une halice est environ 20 acide aminés, les chaines latérales R sont projectées vers l'exterieur de l'helice
+
+La configuration L des acides aminés privilégie un enroulement à droite de l'hélice. L'hélice tourne dans le sens des aiguilles d'une montre de l'extrémité N-ter à l'extrémité C-term
+
+Si les AA tournés vers l'exterieur sont hydrophobes : l'hélice alpha est hydrophobe Si les AA tournés vers l'exterieur sont hydrophiles : l'hélice alpha est hydrophiles Si les résidus hydrophobes sont sur une face et les résidus hydrophiles sur l'autre face, l'hélice alpha sera amphipatique \(ou amphiphile\)
+
+Les hélices alpha qui traversent intégralement la membrane sont appelées hélices transmembranaires.
+
+* Ces hélices sont très majoritairement constituées de résidus hydrophobes et sont donc cpable d'interagir avec les phospholipides de la membrane
+* Ce sont des interactions de type hydrophobe
+
+#### **Feuillet béta**
+
+#### **Boucles et tours**
 
 ### **Structure tertiaire**
 
