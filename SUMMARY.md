@@ -19,6 +19,7 @@
   * [Transmission](genetique/transmission.md)
   * [Support](genetique/support.md)
   * [Expression](genetique/expression.md)
+  * [Manipulation](genetique/manipulation.md)
 * [Biodiversité](biodiversite/README.md)
   * [Biodiversité Végétale](biodiversite/biodiversite-vegetale.md)
   * [Biodiversité Animal](biodiversite/biodiversite-animal.md)
