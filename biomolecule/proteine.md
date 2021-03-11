@@ -163,7 +163,7 @@ Détermination de la nature du résidu N-terminal :
   * Enzyme de la famille des exopeptidases
   * Son fonctionnement est **récurent** pour libérer seulement le premier AA, l'enzyme doit agir pendant un temps très court
   * L'AA libéré est identifié par chromatographie
-* Réaction avec le fluoro-2,4-dinitrobenzène \(réactif de Sanger : DNFB\)
+* Réaction avec le fluoro-2,4-dinitrobenzène \(réactif de Sanger : DNFB\) Donne le premier acide aminé
 * Réaction avec le chlorure de dansyle \(produit final plus stable et fluorescent + sensible\)
 
   Séquençage N-terminal : Dégradation d'Edman

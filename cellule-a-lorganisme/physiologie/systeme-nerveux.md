@@ -34,3 +34,38 @@ Amygdale : Traitement des émotions, de la valence, du contexte, de l'alerte et 
 
 Hippocampe : Mise en mémoire
 
+Dans le cerveau il y a présence d'eau et de gras.
+
+* La mémoire est multimodale
+* La mise en mémoire et la récupération en mémoire sont deux choses différentes
+* La mémoire est liée aux émotions, au contexte, à la motivation
+
+## **Les différents niveaux d’analyse du système nerveux**
+
+### **Comprendre le fonctionnement de la cellule**
+
+Cellule de Purkinje : coincidence + mise en remation. \(Proprioception \(perception du corps dans l'espace\) modèle interne construit au fil du temps, apprentissage constament mis à jour\)
+
+Apprentissage associatifs intelligent \(supervisé, connecté, lier\) essaie et erreur. Erreur est comparé puis intégrés. Il existe 3 types d'apprentissage Les synapses non efficases, non utilisées ou redondantes sont supprimés. Il y a une plasticité synaptique et apprentissage \(environ 3 mois\)
+
+Les thermocepteurs avec une plage de temperature, nerfs spécialisé, séléctivité neuronales, plage neuronale. Action spécifique pour chaque neurone, ultra spécialisés
+
+Neurone qui code force cosntante \(muscle, gainage\)/ Statique et dynamique
+
+### Comprendre l’organisation et le fonctionnement de populations de cellules
+
+Ganglions : Regroupement de corp cellulaire \(neurone\) qui peut être regroupé en plexus Nerf : ensemble d'axone comme dentricité gainé puis gainé de nouveau
+
+### Comprendre l’organisation et le fonctionnement du système
+
+Organisation bien rangé, ajustement avec une fonction stats poisson ou gaussienne et peut avoir un pic de valeur
+
+### Comprendre la fonction psychobiologique
+
+La modélisation psychologique a pour but de tenter de reconstruire l’ensemble des processus représentationnels et computationnels qui concourent à une fonction résultant de l’activité du système nerveux central. Puisque ces processus ne sont pas, par essence, directement observables, il est nécessaire de mettre en œuvre une démarche expérimentale s’appuyant sur des lois existantes et se centrant sur des phénomènes directement observables \(situations et comportements\).
+
+Les neurosciences ont un double intérêt:
+
+* Identifier les supports neurobiologiques des fonctions
+* Tester la plausibilité physiologique des modèles
+
