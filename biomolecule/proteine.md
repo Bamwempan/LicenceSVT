@@ -213,11 +213,69 @@ Les hélices alpha qui traversent intégralement la membrane sont appelées hél
 
 #### **Boucles et tours**
 
-### **Structure tertiaire**
+### Structure tertiaire
 
-Agencement stable dans l'espace de ces hélices et feuillets
+Agencement stable dans l'espace de ces hélices et feuillets La structure tertiaire est la resultante des arrangements des structures secondaires entre elles aboutissant à la forme global spécifique de la protéine Nous ne pouvons accéder à la coanissance de la structure tertiaire d'une protéine uniquement à travers : Une étude cristallographique aux rayons X; Une étude par résonance magnétique nucléaire \(RMN\) La structure tertiaire d'une protéine dépend de sa structure primaire, ainsi que de son environnement.Les conditions locales de chaque compartiment cellulaire, le solvant, la force ionique, la viscosité et la concentration contribuent à moduler la conformation
+
+#### Maintien de la structure
+
+Les chaines latérales jouent un role dans la stabilité de la structure tertiarie, grace à différents types d'interactions non covalentes et un type d'interaction covalente
+
+![](../.gitbook/assets/structure_tertiaire_liaisons.png)
+
+**Liaisons hydrogènes**
+
+Les liaisons hydrogènes ne se font pas entre les liaisons peptidiques mais entre chaines latérales Elle interviennent parmi les résidus dont les chaines latérales présentent des groupements :
+
+* Alcools, hétérocycles : Ser,Thr,Tyr,Asn,Gln,Cys,Trp
+* Acides carboxyliques : Asp, Glu
+* Amines : Lys,Arg,His
+
+![](../.gitbook/assets/liaisons_hydrogene_tertiaire.png)
+
+**Liaisons Ioniques**
+
+Seulement entre les acides aminés ionisés à PH 7  
+A résidus anioniques : Asp, Glu  
+A résidus cationiques : Lys, Arg, His  
+C'est le résultat de la formation de ponts salins entre les chaines latérales de charges opposées
+
+![](../.gitbook/assets/structure_tertiaire_liaison_ionique.png)
+
+**L'effet hydrophobe**
+
+Cette interaction est le resultat de multiples facteurs permettant aux acides aminés hydrophobes de minimiser leur contact avec les molécules d'eau
+
+les acides aminés hydrophobe migrent vers le coeur de la protéine \(Groupement cyclique de la phénylalaline et de la tyrosine\)
+
+**Liaisons covalentes**
+
+Les cystéines peuvent créer des liaisons covalentes par l'intermédiaires de leurs atomes de souffre. La molécule résultante de la liaison de deux cystéines est la cystine.
+
+Formation des ponts disulfures par oxydation, rupture des ponts disulfures par différentes méthodes.
+
+![](../.gitbook/assets/structure_tertiaire_liaisons_covalentes.png)
+
+**Rupture du pont disulfure**
+
+Méthode douce et réversibles par réduction au B-mercapto-éthanol =&gt; Résidus thiols \(dans cette méthode, la réduction est réversible par retour dans un milieu oxydant\)  
+Le dithiothréitol \(DTT\) est un agent réducteur fort, dont l'efficacité résulte de sa capacité à former un cycle à six atomes avec un pont disulfure interne.
+
+![](../.gitbook/assets/methode_disulfure_structure_tertiaire.png)
 
 ### **Structure quaternaire**
 
-Agencement des sous-unités entre elles, quand la protéine est constituée de plusieurs sous-unités indépendantes
+Agencement des sous-unités entre elles, quand la protéine est constituée de plusieurs sous-unités indépendantes  
+Ce type de structure ne concerne que facultativement les protéines globulaire.  
+Il s'agit de l'association de sous-unités dans une même molécule protéique. Une sous unité à l'état libre est un monomère. La protéine est un oligomère. Si le nombre de sous unités associé est supérieur 8 on parle alors de protéine polymérique ou multimère  
+Ces sous-unités sont reliés entre elles par les mêmes liaisons que les structures tertiaire :
+
+* Electrostatique \(Lys / Asp =&gt; NH3+ / COO-\)
+* Hydrogènes \(Ser-OH\)
+* Hydrophobes entre plusieurs résidus apolaire
+* Ponts disulfures
+
+Exemple : Hémoglobine, 4 sous unité, 2 sous unité alpha \(141 acides aminés\) et 2 beta \(146 acides aminés\)  
+**Avantage**  
+Fonction de signalisation ou de controle \(l'enzyme protéine-kinase dépendante de l'AMP cyclique\)
 
