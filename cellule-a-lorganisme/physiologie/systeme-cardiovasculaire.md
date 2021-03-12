@@ -175,3 +175,43 @@ Les capillaires sont organisés en réseau \(lit capillaire\) dans lequel l’ar
 
 ## Pression sanguine dans les artères élastiques systémiques
 
+La pression artérielle moyenne \(PAM\) est de l’ordre de 10 cm Hg dans les artères élastiques de la circulation systémique chez l’adulte au repos. En réalité, la pression artérielle dans les artères élastiques systémiques oscille en permanence au rythme des contractions cardiaques entre 2 valeurs ; La pression artérielle systolique \(PS\) synchrone de la contraction ventriculaire et qui dépend de la contraction du ventricule gauche et de l’élasticité des grosses artères. PS = 12 cm Hg chez l’adulte au repos. La pression artérielle diastolique \(PD\) synchrone du relâchement ventriculaire et liée pour l’essentiel à la résistance à l’écoulement du sang dans les artères musculaires \(appelée résistances périphériques totales, RPT\). PD = 8 cm Hg chez l’adulte au repos.
+
+Les RPT sont données par la formule suivante ; RPT = 8Lv/ πr 4 \(loi de Poiseuille\) avec L = longueur des vaisseaux, v = viscosité du sang, r = rayon de la lumière des vaisseaux. La longueur des vaisseaux et la viscosité du sang ne variant que très peu pour un individu donné, RPT varie essentiellement avec le rayon r des vaisseaux \(RPT proportionnel à 1/r4 \).
+
+* si r augmente \(en cas de vasodilatation\), les RPT diminuent \(RPT réduites d’un facteur 16, quand r double\)
+* si r diminue \(en cas de vasoconstriction\), les RPT augmentent.
+
+Prises ensembles, les artérioles participent aussi à la régulation de la pression artérielle moyenne dans les artères élastiques systémiques en contrôlant la résistance à l’écoulement du sang \(RPT\) qui dépend essentiellement de leur rayon.
+
+Pour les artères élastiques, la relation entre PS et DD est : PAM = \(PS + PD\)/2 Celle entre PAM et RPT est : PAM = DC x RPT = FC x VES x RPT \(avec PAM en cm Hg, DC en ml/min et RPT en cm Hg/\(ml/min\)\).
+
+La PAM dans les artères élastiques de la circulation systémique est une constante physiologique ; c’est-à-dire un paramètre physiologique dont la valeur est fluctuante mais pour lequel l’organisme met en place des mécanismes de régulation visant à ramener ce paramètre à sa « valeur contrôle »
+
+Plusieurs mécanismes participent dans l’organisme au contrôle de la PAM. En cas de variation de la PAM, une boucle de régulation nerveuse appelée « baroréflexe » intervient. Responsable d’une réponse rapide de rétablissement de la PAM à sa valeur contrôle qui se met en place en moins d’une minute.
+
+Le baroréflexe a pour point de départ des barorécepteurs situés à la sortie du CG \(au niveau aortique\) et juste en amont du SNC \(au niveau des sinus carotidien\). Ces terminaisons nerveuses captent les variations de PAM et en informent les centres cardiovasculaires centraux situés dans le bulbe rachidien \(partie du tronc cérébral qui appartient au SNC\) par l’intermédiaire de nerfs sensitifs. Les nerfs moteurs du baroréflexe appartiennent aux deux composantes du système nerveux autonome et projettent en direction des 2 organes effecteurs du baroréflexe, le cœur et les artères musculaires. Le nerf vague \(SN parasympathique\) a pour effet principal dans le cadre du baroréflexe de réduire la fréquence des battements cardiaques. Le nerf sympathique \(SN sympathique\) conduit au contraire à l’augmentation du rythme cardiaque et du volume d’éjection systolique. En raison des effets antagonistes des nerfs moteurs du baroréflexe, les centres cardiovasculaires centraux activent une voie motrice pendant qu’ils inhibent l’autre \(et inversement\).
+
+## Les échanges au niveau des capillaires
+
+### Les échanges par diffusion
+
+Les échanges par diffusion intéressent la plupart des nutriments \(gaz respiratoires, glucose, …\) et les déchets métaboliques. Ils ne se font pas directement entre le capillaire et la cellule mais nécessitent un passage par le milieu interstitiel. Les échanges par diffusion se font dans le sens du gradient de concentration \(de la région la plus concentrée vers la moins concentrée\) comme illustré ci-dessous.
+
+### Les échanges par filtration-réabsorption
+
+Les échanges par filtration-réabsorption ne concernent que l’eau \(même si des solutés peuvent être entrainés par ces mouvements d’eau\). La direction et la quantité d’eau qui traverse la paroi des capillaires par filtration réabsorption sont déterminées par 2 composantes de pression
+
+* Pression de filtration \(Pf\) qui est équivalente à la pression sanguine. Pf fait sortir l’eau du capillaire \(= filtration\)
+* Pression osmotique du plasma \(Pop\) qui résulte de la teneur élevée du plasma en protéines \(alors qu’il y a très peu de protéines dans le milieu interstitiel\). Pop fait entrer l’eau dans le capillaire \(= réabsorption\).
+
+Ces 2 composantes de pression ayant des effets opposés sur le mouvement de l’eau à travers la paroi des capillaires, il est nécessaire de déterminer la pression résultante appelée pression nette de filtration \(Pnf\) et Pnf = Pf – Pop. Pression osmotique du plasma dans les conditions physiologiques normales chez l'homme est de 2,5cm Hg.
+
+On estime que sur la totalité des capillaires de l’organisme, environ 20 litres d’eau sont filtrés chez l’adulte sain en 24 heures pour seulement 18 litres qui sont réabsorbés. Les 2 litres d’eau résultant de cette différence ne s’accumulent pas dans le milieu interstitiel mais sont pris en charge à chaque instant par le système lymphatique.
+
+## Le système lymphatique
+
+En plus de sa fonction de drainage des tissus, ce système a également une fonction dans l’absorption de certains lipides et une fonction de défense de l’organisme. il n’y a pas de contact physique entre les capillaires sanguins et les capillaires lymphatiques.
+
+Les capillaires lymphatiques sont borgnes \(= extrémité fermée\) mais possèdent des ouvertures sur leur paroi qui permet à l’eau du milieu interstitiel d’entrer dans ceux-ci, on parle alors de lymphe. Les capillaires lymphatiques se poursuivent par les vaisseaux lymphatiques qui débouchent dans des ganglions lymphatiques aboutissant eux-mêmes dans la citerne de Pecquet \(sac de gros diamètre situé à l’intérieur du thorax\) d’où part le canal thoracique qui se déverse finalement dans le système veineux
+
