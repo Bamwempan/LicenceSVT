@@ -198,7 +198,7 @@ Cette liaison s'établit entre un donneur de liaison hydrogène et un accepteur.
 
 L'hélice est une structure comapcte, de forme cylindrique caractérisée par un repliement hélicoïdale périodique de la chaine polypeptidique. -&gt; Structure en forme de bâtonnet Dans la littérature et dans les structures tridimensionelles des protéines, les hélices alpha sont représentées sous forme de ruban Conformation repliée impliquant des liaison hydrogènes répétitives entres atomes de la chaine principale \(NH et CO\) des résidus i et i+4
 
-Caractéristique : Hélice droite, 3,6 résidus par tour, 0,54mm de pas par tour, la liaison hydrogène est parallèle à l'axe, longueur de la liaison H 0,286 nm, la longueur maximale d'une halice est environ 20 acide aminés, les chaines latérales R sont projectées vers l'exterieur de l'helice
+Caractéristique : Hélice droite, 3,6 résidus par tour, 0,54 nm \(5,4A\) de pas par tour, la liaison hydrogène est parallèle à l'axe, longueur de la liaison H 0,286 nm, la longueur maximale d'une halice est environ 20 acide aminés, les chaines latérales R sont projectées vers l'exterieur de l'helice
 
 La configuration L des acides aminés privilégie un enroulement à droite de l'hélice. L'hélice tourne dans le sens des aiguilles d'une montre de l'extrémité N-ter à l'extrémité C-term
 
