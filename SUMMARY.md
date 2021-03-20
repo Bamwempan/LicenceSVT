@@ -15,6 +15,7 @@
     * [Système digestif](cellule-a-lorganisme/physiologie/systeme-digestif.md)
     * [Système cardiovasculaire](cellule-a-lorganisme/physiologie/systeme-cardiovasculaire.md)
     * [Système Nerveux](cellule-a-lorganisme/physiologie/systeme-nerveux.md)
+    * [Système Urinaire](cellule-a-lorganisme/physiologie/systeme-urinaire.md)
 * [Génétique](genetique/README.md)
   * [Transmission](genetique/transmission.md)
   * [Support](genetique/support.md)
