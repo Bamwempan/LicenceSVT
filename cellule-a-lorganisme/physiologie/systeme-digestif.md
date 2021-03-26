@@ -133,3 +133,63 @@ Lorsque l'estomac se vidange il laisse couler un liquide appelée Chyme gastriqu
 
 Elimination des matière non digérable du tubes digestif, appelée Fécès ou matière fécales, par l'anus.
 
+## Liquide physiologique impliqué dans la digestion
+
+### Élément chimique des aliments
+
+#### Composé inorganique
+
+L'eau et les minéraux \(Calcium, Fer, Potassium\) et L'oxyde de carbonne, le gaz carbonique et les carbures \(malgrès la présence de carbonne\)
+
+#### Composé organique
+
+D'origine animal ou végétale : glucides \(oses et osides\), protides \(AA, polypeptide et protéines\) les lipides et les vitames. Les composés organiques contiennent généralement du carbone.
+
+**Glucides**
+
+Les oses : hexose -&gt; Glucose, Fructose, Galactose. Pentose -&gt; ribose et désoxyribose Diosides : deux oses unies par une liaison glicidique -&gt; Maltose, lactose et saccharose Polyosides : Plusieurs oses unies par liaisons glucidiques -&gt; Amidon, Glycogène et cellulose
+
+**Lipides**
+
+Reaction d'estérification : Acide \(Acide gras\) + Alcool \(glycérol\) -&gt; Ester \(lipides\) + eau Monoglycérides, diglycérides et triglycérides
+
+### Sucs digestifs
+
+Les sucs digestifs sont des liquides contenant des enzymes
+
+#### Salive
+
+La salive est sécrété par les glandes salivaires \(Sublinguales, Sous-maxillaires et parotides\). Les glandes salivaires sont des glandes acineuse \(Forme de grape de raisin. L'acinus \(le raisin\) est le lieu de production de la salive\) Production d'environ 1L par jour, avec un débit variable, de 1ml à 7ml par minutes. Composition : Eau \(95%\), électrolytes \(Na+,K+,Cl-,HCO3-\), mucus \(gel visqueux lubrifiant\) et des enzymes digestives \(Amylaze salivaire\) Agit notamment sur l'amidon, formant des dextrines \(oligosaccharides de 4 à 10 molécules de glucose\) + maltose \(deux glucose\) + Glucose
+
+#### Suc gastrique
+
+Le suc gastrique est sécrété par les cellules épithéliales de la muqueuse gastrique, au niveau des glandes gastriques \(invagination de l'épithélium dans le chorion\). Production d'environ 1,5 a 3L par jour, la sécrétion est rythmé par les repas. Composition : Eau + éléctrolytes \(HCL\) pour que le suc soit entre 1,5 et 2,5 de PH, mucus et enzyme digestive Libération de pepsinogène dans l'estomac, sous forme inactive, s'active à pH acide dans celui-ci pour formé la pepsine et commencer à hydrolyser les peptides \(endopeptidases\)
+
+#### Suc pancréatique
+
+Le suc pancréatique est sécrété au niveau des acini pancréatiquesn drainé par le canal de Wirsung, stocké dans les ampoules de Vater et déversé dans le duodénum. Production d'environ 1,5 à 3L d'eau par jour. Composition : Eau + électrolytes \(HCO3- sous forme de NaHCO3\) qui dans le duodénum neutralise l'acidité du chyme gastrique, mucus et enzyme digestives \(Les enzymes de la protéolyse, de la lipolyse et de la glycolyse\)
+
+* Les enzymes de la protéolyse
+  * Les endopeptidases : Trypsinogène -&gt; Trypsine et Chymotripinogène \(active par la trypsine\) -&gt; Chymotripsine
+  * Les exopeptidases : procarboxypeptidases A et B -&gt; Carboxypeptidase A et B
+* Les enzymes de la lipolyse : Triglycérides -&gt; \(lipase\) Diglyceride + Acide gras
+* Les enzymes de la glycolyse : amidon -&gt; \(amylase pancréatique\) -&gt; Dextrines + Maltose + Glucose
+
+**Suc intestinal**
+
+Suc intestinal est sécrété par les cellules épithéliales de la muqueuse de l'intestin grêle
+
+Production d'envrion 1 à 2L par jour
+
+Composition : eau + électrolytes, mucus et enzyme digestives \(accroché à l'épithélium intestinal\)
+
+* Dissaccharidases : Maltase, Lactase, Saccharase
+* Dextrinases
+* Peptidases
+
+Donc l’hydrolyse des protéines et des peptides se fait dans l’estomac \(pepsine\), le duodénum par le suc pancréatique \(enzymes de la protéolyse\) et le suc intestinal \(peptidases\)
+
+### La bile
+
+La bile n'est pas un suc digestif ! elle ne contient pas d'enzyme et donc ne digère pas les aliments Fabriqué par le foie \(hépatocytes\), sotckée dans la vesicule billiare puis drainée par le canal cholédoque et déversée dans l'ampoule de Vater puis le duodénum. Constitué de sels biliaires \(synthétisés à partir du cholestérol\) Les sels biliares sont des molécules amphiphile \(polaire et non polaires\), leur partie non polaire donc hydrophobe et lipophile forme des micelles avec les acides gras et permet donc l'emultion stable des graisses,leur partie polaire donc hydrophile et lipophobe permet à cette micelle de rester stable de pouvoir être hydrolysé ensuite par les lipases
+
