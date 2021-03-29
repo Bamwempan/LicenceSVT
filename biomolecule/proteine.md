@@ -209,9 +209,27 @@ Les hélices alpha qui traversent intégralement la membrane sont appelées hél
 * Ces hélices sont très majoritairement constituées de résidus hydrophobes et sont donc cpable d'interagir avec les phospholipides de la membrane
 * Ce sont des interactions de type hydrophobe
 
-#### **Feuillet béta**
+#### Feuillet béta
 
-#### **Boucles et tours**
+Un feuillet Béta est constitué de sous-unités appelées brins. Conformation stable, avec des liaison hydrogène entre atome NH et CO 6 résidus en moyenne par brin avec 3,5A entre 2 résidus adjacents appartenant à un même brin. Organisation du brin des chaines latérales, les feuillets sont aussi appelés plissés car la chaine principale forme des crêtes et des creux. Les chaines latérales s'orientent alternativement au dessus et en dessous du plan du feuillets \(encombrement minimal\)
+
+Les feuillets ont un sens \(N-C\), parrallèle et anti-parrallèle. Les feuillets antiparallèle est plus stable car les liaisons hydrogènes sont dans un alignement parfait.
+
+Protéine riche en feuillet béta : Fibroine de la soie.
+
+#### **Feuillet Béta anti-parallèle**
+
+Dans un enchainement anti-parallèle, les groupes NH et CO de chaque AA sont respectivement unis par des liaisons hydrogène aux groupes CO et NH d'un même AA de la chaine adjacente.
+
+#### Boucles et tours
+
+#### **Boucles**
+
+Il faut relier les différentes structures secondaire par des boucles de longueurs variables \(4-12 résidus\). Elles sont la plupart du temps en surface de la protéine et sont constituées d'acides aminés polaires. Les boucles peuvent avoir un rôle catalystique et de reconaissance moléculaire Les boucles sont des régions de mutation ; insertions, délétions entre séquences.
+
+**Tours**
+
+Les coudes lient généralement deux brins \(antiparallèles\) Ils comportent 2 à 4 aminoacides, ils sont donc court. Les acides aminés bon formateurs de coudes sont Glycine et Proline.
 
 ### Structure tertiaire
 
