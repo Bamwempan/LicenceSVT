@@ -193,3 +193,51 @@ Donc l’hydrolyse des protéines et des peptides se fait dans l’estomac \(pep
 
 La bile n'est pas un suc digestif ! elle ne contient pas d'enzyme et donc ne digère pas les aliments Fabriqué par le foie \(hépatocytes\), sotckée dans la vesicule billiare puis drainée par le canal cholédoque et déversée dans l'ampoule de Vater puis le duodénum. Constitué de sels biliaires \(synthétisés à partir du cholestérol\) Les sels biliares sont des molécules amphiphile \(polaire et non polaires\), leur partie non polaire donc hydrophobe et lipophile forme des micelles avec les acides gras et permet donc l'emultion stable des graisses,leur partie polaire donc hydrophile et lipophobe permet à cette micelle de rester stable de pouvoir être hydrolysé ensuite par les lipases
 
+#### Régulation hormonale des secrétions biliaires et pancréatiques
+
+* Le chyme qui arrive de l'estomac est constituté d'HCL et de lipides, glucide et protéine
+* La présence d'HCL dans le duodénum activent les cellules S exocrine de l'épithélium et s'écrète l'hormone de la sécrétine à son pôle basale \("derrière" de la cellule relié au tissu conjonctif \(sang\)\). Active dans le pancréas du bicarbonate de sodium \(NaHCO3\)
+* La cellule I est stimulé en présence de lipide et de protide, libère à son pôle basale de la cholécystokinine \(CCK\) qui a 3 rôles.
+  * Contracter la vésicule biliare qui libère la bile dans l'ampoule de Vater
+  * Stimuler la production des enzymes digestives \(le suc pancréatique\)
+  * Relachement du sphincter d'Oddi pour déverser le contenu de l'ampoule de vater
+* La bile déverser dans le duodénum va activer l'émuslion des graisses. Le suc pancréatique va neutraliser la solution dans le duodénum avec le bicarbonate de sodium \(NaHCO3\) a un PH neutre. Une fois la solution neutre les enzymes dans le suc gastrique s'active puis hydrolyse les nutriments \(Lipides, Glucides et protéine \(protide\)
+
+## Absorbtion intestinal
+
+### Mécanisme d'absorbtion
+
+La nature chimique des nutriments : Hydrosoluble \(di et tri-peptides, AA et oses\) et Liposolubles \(Acide gras, Monoglycéride, diglycéride\)  
+Les structures à traverser : Membrane de nature lipidique et cytoplasme, le milieux aqueux
+
+* Di et Tri-peptide, AA et oses à l'aide de transporteurs membranaire traverse le pôle apical, une fois dans l'antérocyte les Di et Tri-peptides sont hydrolysés en Acide aminé puis à l'aide de transporteur membranaire renvoyé dans les vaisseaux sanguin par le pôle basale
+* Les acides gras, monoglycéride et triglycéride passe par le pôle basale par diffusion une fois dans la cellule se synthéthise de nouveau en glycérides appellée chylomicrons puis sont diffusé par le pôle basale dans les vaisseaux lymphatique
+
+### Le repli de la paroi du tube digestif
+
+Repli de la surface interne de l'intestin grêle.
+
+* Valvule connivente : repli de la muqueuse et sous muqueuse allant de 1 à 2 cm de hauteur.
+* Villosité : repli de la muqueuse de 1 à 2 mm
+* Microvillosité : repli de la membrane apicale \(sur les enterocyte\) de 1 à 2 um La superposition des 3 replis du jéjunum augmente la surface interne, le jéjunum est le lieu d'absorbtion intestinale
+
+### La vascularisation
+
+La circulation du système digestif appartient à la circulation splanchnique: Ramifications aorte abdominale \(O2\) et Le système porte hépatique \(CO2\)
+
+Le sang part du coeur par le ventricule gauche par l'aorte qui se sépare en 3 : tronc coeliaque \(estomac, pancréas, foie\), artère mésentrique supérieure \(intestin grêle, partie proximale du gros intestin\), artère mésentrique inférieur \(partie distale du gros intestin\)
+
+Le sang repart par 3 veines : veine splénique \(estomac et pancréas\), veine mésentrique supérieur \(intestin grêle, partie proximal du gros intestin\) et veine mésentrique inférieur \(partie distale du gros intestin\) puis va dans le foie par la veine porte  
+Le foie reçoit donc du sang par une artère hépatique et la veine porte \(nutriment\)
+
+Le sang du foie part par la veine sus-hépatique puis la veine cave inférieur et passe dans oreillete droite
+
+### Deux voies de l'absorbtion intestinale
+
+Du jéjunum l'anse intestinale passe soit par les vaisseaux sanguins pour les nutriments hydrosolubles \(Acide aminé et oses\) et pas les vaisseaux lymphatique nutriment liposoluble avec les chylomicrons \(Triglycérides\). Cette voie lymphatique rejoint la voie sanguine
+
+## Assimilation
+
+Utilisation, par les cellules de l’organisme, des nutriments absorbés.  
+Nutriments utilisés pour la croissance, la division, le métabolisme des cellules de l'organisme
+

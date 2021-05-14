@@ -58,15 +58,13 @@ Le milieu intérieur est composé de solvant et de soluté avec un pH physiologi
 
 Homéostasie : capacité qu’ont les organismes pluricellulaires à garder un milieu intérieur stable, malgré les fluctuations de l’environnement Deux paramètre, 15L de volume, osmolarité : concentration en substance dissociés
 
-## Production et élimination de l'urine
-
-### Production de l'urine
+## Production de l'urine
 
 #### Les 3 mécanismes de l'élaboration d'urine
 
 Néphron : Lieu de production de l'urine. Micro usine d'épuration. Production d’urine basée sur des échanges permanents entre néphrons/canaux collecteurs et capillaires sanguins.
 
-#### Filtration
+### Filtration
 
 Écoulement le long du nefron, quand il quite le capillaire prend de l'unrine en formation. Ultrafiltrat : Produit résultant du sang filtré par le glomérule rénal. Il a été débarrassé d'environ 99,97 % de ses protéines \(donc seulement 0,03% des protéines du sang passe le glomérule\) . Il va ensuite passer dans le tubule rénal pour être complètement filtré.
 
@@ -84,7 +82,7 @@ paroi des capillaires \(endothélium\), Lame basale et paroi de la capsule sont 
 
 P nette de filtration = P sang + P osmotique + P capsule = 5,5 – 2,5 – 1,5 = 1,5 cm Hg
 
-**La réabsorption**
+### **La réabsorption**
 
 la nature des substances réabsorbées : Eau, Na+ et Cl- ainsi que des petites protéines, acides aminés et glucose
 
@@ -113,7 +111,7 @@ Osmose \(Pression osmotique\) : Mouvement de l'eau d'une région faible de conce
 
 Cation majoritaire donc doit être régulièrement avec attention, réabsorbtion partielle. Concentration Na extra toujours supérieur à intracellulaire. Apicale : cation donc pas de diffusion simple, mais par la pritéine avec transport passif facilité, canal spécifique. Basolatérale : besoin d'énergie car passe de gradient de concentration faible vers concentration faible, pompe sodium ATPase avec de l'énergie
 
-#### Sécrétion
+### Sécrétion
 
 Mouvement des solutés des capilaires pertitubulaire vers la lumière du tubule du néfron. Dernier mécanisme de l'urine en formation, ajout de substance pour produire l'urine définitive Les protons H+ sont beaucoup secrété donc pH de l'urine acide
 
@@ -135,7 +133,9 @@ Autorégulation myogénique, activation très rapide \(2sec\), garde un débit d
 
 **Régulation hormonale**
 
-**Réabsorbtio de l'eau**
+![](../../.gitbook/assets/regulation_homonale.png)
+
+**Réabsorption de l'eau**
 
 La régulation hormonale est une régulation systémique, qui implique tout le corp humain. Réabsorbtion de l'eau, hormone anti-diretique \(ADH\) 
 
@@ -156,17 +156,19 @@ Système reinine, angiotensine.
 * Réponse : Augmentation de la sécrétion de rénine & augmentation du taux d’angiotensine active & augmentation de la sécrétion d’aldostérone
 * Effecteur : Augmentation de la réabsorption de sodium au niveau des cellules des tubules des néphrons \(Action directe sur les canaux sodiques\)
 
-**Élimination de l'urine**
+## **Élimination de l'urine**
 
 L'urine est un déchet evacuer du corp humain
 
-**Composition de l'urine**
+### **Composition de l'urine**
 
 La composition de l'urine est variable avec environ 0,5 à 2L et une osmoralité de 1200 à 30 mosm/L
 
 Un pH d'environ 6 avec 95% d'eau et 5% de soluté \(uré,ions,acide urique, créatine\)
 
-**La miction**
+### **La miction**
 
 L’urine s’accumule dans la vessie d’où elle est évacuée pendant la miction, sous contrôle à la fois involontaire et volontaire
+
+![](../../.gitbook/assets/miction.png)
 
