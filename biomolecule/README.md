@@ -6,6 +6,12 @@ description: UE Biomolécule
 
 ## Plan cours
 
+{% page-ref page="acide-nucleique.md" %}
+
+{% page-ref page="proteine.md" %}
+
+{% page-ref page="acides-amines.md" %}
+
 {% page-ref page="chimie-organique.md" %}
 
 {% page-ref page="oses.md" %}
