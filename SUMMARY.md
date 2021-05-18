@@ -14,7 +14,7 @@
   * [Physiologie](cellule-a-lorganisme/physiologie/README.md)
     * [Système respiratoire](cellule-a-lorganisme/physiologie/systeme-respiratoire.md)
     * [Système digestif](cellule-a-lorganisme/physiologie/systeme-digestif.md)
-    * [Système cardiovasculaire](cellule-a-lorganisme/physiologie/systeme-cardiovasculaire.md)
+    * [Système Cardiovasculaire](cellule-a-lorganisme/physiologie/systeme-cardiovasculaire.md)
     * [Système Nerveux](cellule-a-lorganisme/physiologie/systeme-nerveux.md)
     * [Système Urinaire](cellule-a-lorganisme/physiologie/systeme-urinaire.md)
 * [Génétique](genetique/README.md)

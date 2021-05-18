@@ -1,4 +1,4 @@
-# Système cardiovasculaire
+# Système Cardiovasculaire
 
 ## Préambule
 
@@ -8,17 +8,17 @@ Première cause de mortalité chez les femmes en France \(crise cardiaque, AVC\)
 
 Le corps humain est un sytème ouvert avec un milieu interne
 
-```text
-Organisme : Se protège de l'environnement (= système ouvert); Dépendant des échanges de chaleur, O2, nutriment, déchet et information avec son environement
-```
+{% hint style="info" %}
+**Organisme :** Se protège de l'environnement \(= système ouvert\); Dépendant des échanges de chaleur, O2, nutriment, déchet et information avec son environnement
+{% endhint %}
 
-Le moteur de l'échange est la diffusion simple, car ne consomme pas d'énergie, mais est peu efficasse sur des grandes distance.
+Le moteur de l'échange est la diffusion simple, car ne consomme pas d'énergie, mais est peu efficace sur des grandes distance.
 
-```text
-Diffusion : Déplacement d'un soluté de la région la plus concentrée à la région la moins concentrée. Processus efficace sur des courtes distance. (le temps est inversement proportionelle à la distance)
-```
+{% hint style="info" %}
+**Diffusion :** Déplacement d'un soluté de la région la plus concentrée à la région la moins concentrée. Processus efficace sur des courtes distance. \(le temps est inversement proportionnelle à la distance\)
+{% endhint %}
 
-Pour les organisme ce système n'est pas adéquat. Chez l'homme la consomation normal d'O2 est de 0,3L/min. A une épaisseur de 0,3mm max par rapport à la surface cutané pour la pression sur les tissus
+Pour les organisme ce système n'est pas adéquat. Chez l'homme la consommation normal d'O2 est de 0,3L/min. A une épaisseur de 0,3mm max par rapport à la surface cutané pour la pression sur les tissus
 
 ### Transport
 
