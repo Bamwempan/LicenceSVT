@@ -1,41 +1,10 @@
 # Table of contents
 
 * [Accueil](README.md)
-* [Biomolécule](biomolecule/README.md)
-  * [Acide Nucléique](biomolecule/acide-nucleique.md)
-  * [Chimie organique](biomolecule/chimie-organique.md)
-  * [Oses](biomolecule/oses.md)
-  * [Glucides](biomolecule/glucides.md)
-  * [Lipides](biomolecule/lipides.md)
-  * [Protéine](biomolecule/proteine.md)
-  * [Acides aminés](biomolecule/acides-amines.md)
-  * [Concentration et PH](biomolecule/biomolecule-b.md)
-* [Cellule à l'organisme](cellule-a-lorganisme/README.md)
-  * [Physiologie](cellule-a-lorganisme/physiologie/README.md)
-    * [Système respiratoire](cellule-a-lorganisme/physiologie/systeme-respiratoire.md)
-    * [Système digestif](cellule-a-lorganisme/physiologie/systeme-digestif.md)
-    * [Système Cardiovasculaire](cellule-a-lorganisme/physiologie/systeme-cardiovasculaire.md)
-    * [Système Nerveux](cellule-a-lorganisme/physiologie/systeme-nerveux.md)
-    * [Système Urinaire](cellule-a-lorganisme/physiologie/systeme-urinaire.md)
-* [Génétique](genetique/README.md)
-  * [Transmission](genetique/transmission.md)
-  * [Support](genetique/support.md)
-  * [Expression](genetique/expression.md)
-  * [Manipulation](genetique/manipulation.md)
-* [Biodiversité](biodiversite/README.md)
-  * [Biodiversité Végétale](biodiversite/biodiversite-vegetale.md)
-  * [Biodiversité Animal](biodiversite/biodiversite-animal.md)
 
-## Notuse
+## Technique
 
-* [Physique](notuse/physique/README.md)
-  * [Optique](notuse/physique/optique.md)
-  * [Electricité](notuse/physique/electricite.md)
-  * [Radioactivité](notuse/physique/radioactivite.md)
-* [Math](notuse/math.md)
-* [Transversale](notuse/transversale.md)
-* [Géoscience](notuse/geoscience/README.md)
-  * [Cartographie](notuse/geoscience/evolution-et-cartographie.md)
-  * [Evolution](notuse/geoscience/evolution.md)
-  * [Géologie](notuse/geoscience/geologie.md)
+---
+
+* [Informations techniques](informations-techniques.md)
 
