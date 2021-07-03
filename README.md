@@ -1,16 +1,22 @@
----
-description: Portail licences SVT
----
-
 # Accueil
 
-| Paramètres | Nom de serveur | Port | Méthode de chiffrement |
-| :---: | :--- | :--- | :--- |
-| POP | accesbv.univ-lyon1.fr | 995 | SSL |
-| IMAP | accesbv.univ-lyon1.fr | 993 | SSL |
-| SMTP | smtpbv.univ-lyon1.fr | 587 | STARTSLL |
+## S3
 
-{% hint style="info" %}
-**Identifiant :** pXXXXXXX \(Serveur entrant et Serveur sortant\) 
-{% endhint %}
+{% page-ref page="genetique.md" %}
+
+{% page-ref page="microbiologie.md" %}
+
+{% page-ref page="enzymologie-et-metabolisme.md" %}
+
+{% page-ref page="biologie-et-diversite-des-organismes.md" %}
+
+## S4
+
+{% page-ref page="bio-statistique-et-bio-informatique.md" %}
+
+{% page-ref page="ecologie-generale.md" %}
+
+{% page-ref page="botanique.md" %}
+
+{% page-ref page="agriculture-et-agronomie.md" %}
 
