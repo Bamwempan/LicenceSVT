@@ -8,7 +8,7 @@
 
 {% page-ref page="enzymologie-et-metabolisme.md" %}
 
-{% page-ref page="biologie-et-diversite-des-organismes.md" %}
+{% page-ref page="biologie-et-diversite-des-organismes/" %}
 
 ## S4
 
